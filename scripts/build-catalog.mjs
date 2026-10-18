@@ -42,7 +42,7 @@ for (const t of fs.readdirSync('design-trends', { withFileTypes: true })) {
 // Generic scan: any file dropped into these dirs becomes a catalog item, typed by its dir.
 const GENERIC = [
   'assets', 'schemas', 'functions', 'utils', 'hooks', 'lib', 'scripts', 'snippets', 'templates',
-  'constants', 'types', 'providers', 'components/ui', 'components/common', 'components/layout', 'components/patterns',
+  'constants', 'types', 'providers', 'data', 'skills', 'examples', 'docs', 'vendor', 'components/ui', 'components/common', 'components/layout', 'components/patterns',
 ]
 const known = new Set(items.map((i) => i.path))
 const walk = (dir) => fs.readdirSync(dir, { withFileTypes: true }).flatMap((e) => {

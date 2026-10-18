@@ -27,6 +27,9 @@ Single home for every reusable piece: components, CSS, scripts, schemas, functio
 | `snippets/` | small copy-paste fragments |
 | `examples/` | usage demos |
 | `design-trends/` | 101 UI design styles: guide `.md`, standalone `.demo.html` + css, screenshot (from trends.daisyui.com) |
+| `data/` | datasets (CSV/JSON): UI styles, palettes, fonts, icons, UX rules, stack guides |
+| `skills/` | AI skills (design, brand, slides, ui-styling...) |
+| `vendor/` | upstream licences + tooling kept verbatim |
 | `docs/` | conventions, how-to |
 | `tests/` | tests |
 | `registry/catalog.json` | index of every item in library |
@@ -38,3 +41,7 @@ Single home for every reusable piece: components, CSS, scripts, schemas, functio
 
 ## Viewer
 `npm run viewer` then open http://localhost:4173. Watches the library: any file added to a catalogued dir rebuilds `registry/catalog.json` and the preview CSS, and open pages refresh themselves. `npm run catalog` rebuilds the catalog alone.
+
+## Sources
+- daisyUI 5.7.50 (MIT), trends.daisyui.com
+- nextlevelbuilder/ui-ux-pro-max-skill (MIT, upstream licence in `vendor/ui-ux-pro-max-skill/LICENSE`) + uupm.cc pet-grooming demo. Duplicate copies in upstream (`cli/assets`, `.claude/skills` data) were collapsed to one; upstream site fonts and partner logos not imported.

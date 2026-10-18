@@ -9,6 +9,7 @@ const state = { items: [], themes: [], theme: storeGet('theme') || 'brand', q: '
 const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c])
 const ext = (p) => p.slice(p.lastIndexOf('.') + 1).toLowerCase()
 const IMG = ['svg', 'png', 'jpg', 'jpeg', 'webp', 'avif', 'gif', 'ico']
+const BIN = ['ttf', 'otf', 'woff', 'woff2', 'pdf', 'zip', 'gz', 'ico']
 const ORDER = ['component', 'design-trend', 'theme', 'color', 'base', 'utility', 'token', 'config', 'entry']
 const LABEL = { component: 'Components', 'design-trend': 'Design trends', theme: 'Themes', color: 'Colors', base: 'Base', utility: 'Utilities', token: 'Tokens', config: 'Config', entry: 'Entry' }
 const label = (t) => LABEL[t] || t.replace(/-/g, ' ').replace(/^./, (c) => c.toUpperCase())
@@ -79,7 +80,7 @@ async function detail(type, name) {
   const crumbs = `<div class="mb-4 flex flex-wrap items-baseline gap-2"><a href="#/" class="link">Library</a><span>/</span><a href="#/${esc(type)}" class="link">${esc(type ? label(type) : '')}</a><span>/</span><h1 class="text-xl font-semibold">${esc(name)}</h1></div>`
   const pp = previewPath(i)
   const isImg = IMG.includes(ext(i.path))
-  const text = isImg ? null : await fetch(`/${i.path}`, { cache: 'no-store' }).then((r) => r.text())
+  const text = isImg || BIN.includes(ext(i.path)) ? null : await fetch(`/${i.path}`, { cache: 'no-store' }).then((r) => r.text())
   let main = ''
   if (type === 'design-trend') {
     main = `<div class="grid gap-6 xl:grid-cols-[2fr_1fr]"><iframe src="/${esc(i.demo)}" class="h-[75vh] w-full rounded-box border border-base-300 bg-base-100"></iframe><article class="max-h-[75vh] overflow-auto text-sm">${md(text)}</article></div>`
@@ -92,6 +93,7 @@ async function detail(type, name) {
   } else if (isImg) {
     main = `<div class="grid place-items-center rounded-box bg-base-100 p-8"><img src="/${esc(i.path)}" alt="${esc(name)}" class="max-h-[70vh] max-w-full"></div>`
   }
+  if (text === null && !isImg) main = `<a class="btn" href="/${esc(i.path)}" download>Download ${esc(i.path)}</a>`
   const code = text !== null && type !== 'design-trend'
     ? `<div class="collapse collapse-arrow mt-4 bg-base-100"><input type="checkbox"><div class="collapse-title font-medium">Source <span class="font-mono text-xs opacity-60">${esc(i.path)}</span></div><div class="collapse-content"><pre class="max-h-[60vh] overflow-auto text-xs">${esc(text)}</pre></div></div>`
     : ''

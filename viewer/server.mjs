@@ -91,6 +91,10 @@ http.createServer((req, res) => {
   if (url.pathname === '/preview') {
     const file = safe(url.searchParams.get('path') || '')
     if (!file || !fs.existsSync(file)) { res.writeHead(404).end('not found'); return }
+    if (/^\s*<(!doctype|html)/i.test(fs.readFileSync(file, 'utf8').slice(0, 200))) {
+      res.writeHead(302, { Location: `/${path.relative(ROOT, file).split(path.sep).join('/')}` }).end()
+      return
+    }
     res.writeHead(200, { 'Content-Type': MIME['.html'], 'Cache-Control': 'no-store' })
     res.end(previewPage(file, url.searchParams.get('theme') || 'brand'))
     return
