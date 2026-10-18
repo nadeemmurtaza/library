@@ -1761,6 +1761,30 @@
       "demoCss": "design-trends/y2k-techno-skeuomorphism/y2k-techno-skeuomorphism.demo.css",
       "screenshot": "design-trends/y2k-techno-skeuomorphism/y2k-techno-skeuomorphism.screenshot.avif",
       "source": "trends.daisyui.com"
+    },
+    {
+      "type": "config",
+      "name": "brand",
+      "path": "config/brand.ts",
+      "source": "local"
+    },
+    {
+      "type": "token",
+      "name": "tokens",
+      "path": "tokens/tokens.css",
+      "source": "local"
+    },
+    {
+      "type": "theme",
+      "name": "brand",
+      "path": "tokens/brand-theme.css",
+      "source": "local"
+    },
+    {
+      "type": "entry",
+      "name": "index",
+      "path": "styles/index.css",
+      "source": "local"
     }
   ]
 }

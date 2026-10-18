@@ -1,0 +1,7 @@
+/* Library entry. Consumers import this one file. */
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: all;
+}
+@import "../tokens/tokens.css";
+@import "../tokens/brand-theme.css";
