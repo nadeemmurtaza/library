@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Customer",
+  "type": "object",
+  "required": ["name", "phone"],
+  "properties": {
+    "name": { "type": "string", "minLength": 2, "maxLength": 80 },
+    "phone": { "type": "string", "minLength": 7, "maxLength": 20 },
+    "email": { "type": "string", "pattern": "^\\S+@\\S+\\.\\S+$" },
+    "city": { "type": "string" },
+    "notes": { "type": "string", "maxLength": 600 }
+  }
+}

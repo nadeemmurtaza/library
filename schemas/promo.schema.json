@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PromoCode",
+  "type": "object",
+  "required": ["code", "pct"],
+  "properties": {
+    "code": { "type": "string", "minLength": 3, "maxLength": 20, "pattern": "^[A-Za-z0-9_-]+$" },
+    "pct": { "type": "integer", "minimum": 1, "maximum": 90 },
+    "active": { "type": "boolean" },
+    "expires": { "type": "string" },
+    "limit": { "type": "integer", "minimum": 0 }
+  }
+}
