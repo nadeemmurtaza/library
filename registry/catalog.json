@@ -1,0 +1,1766 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "type": "component",
+      "name": "alert",
+      "path": "styles/components/alert/alert.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/alert/alert.example.html"
+    },
+    {
+      "type": "component",
+      "name": "aura",
+      "path": "styles/components/aura/aura.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/aura/aura.example.html"
+    },
+    {
+      "type": "component",
+      "name": "avatar",
+      "path": "styles/components/avatar/avatar.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/avatar/avatar.example.html"
+    },
+    {
+      "type": "component",
+      "name": "badge",
+      "path": "styles/components/badge/badge.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/badge/badge.example.html"
+    },
+    {
+      "type": "component",
+      "name": "breadcrumbs",
+      "path": "styles/components/breadcrumbs/breadcrumbs.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/breadcrumbs/breadcrumbs.example.html"
+    },
+    {
+      "type": "component",
+      "name": "button",
+      "path": "styles/components/button/button.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/button/button.example.html"
+    },
+    {
+      "type": "component",
+      "name": "calendar",
+      "path": "styles/components/calendar/calendar.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/calendar/calendar.example.html"
+    },
+    {
+      "type": "component",
+      "name": "card",
+      "path": "styles/components/card/card.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/card/card.example.html"
+    },
+    {
+      "type": "component",
+      "name": "carousel",
+      "path": "styles/components/carousel/carousel.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/carousel/carousel.example.html"
+    },
+    {
+      "type": "component",
+      "name": "chat",
+      "path": "styles/components/chat/chat.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/chat/chat.example.html"
+    },
+    {
+      "type": "component",
+      "name": "checkbox",
+      "path": "styles/components/checkbox/checkbox.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/checkbox/checkbox.example.html"
+    },
+    {
+      "type": "component",
+      "name": "collapse",
+      "path": "styles/components/collapse/collapse.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/collapse/collapse.example.html"
+    },
+    {
+      "type": "component",
+      "name": "countdown",
+      "path": "styles/components/countdown/countdown.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/countdown/countdown.example.html"
+    },
+    {
+      "type": "component",
+      "name": "diff",
+      "path": "styles/components/diff/diff.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/diff/diff.example.html"
+    },
+    {
+      "type": "component",
+      "name": "divider",
+      "path": "styles/components/divider/divider.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/divider/divider.example.html"
+    },
+    {
+      "type": "component",
+      "name": "dock",
+      "path": "styles/components/dock/dock.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/dock/dock.example.html"
+    },
+    {
+      "type": "component",
+      "name": "drawer",
+      "path": "styles/components/drawer/drawer.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/drawer/drawer.example.html"
+    },
+    {
+      "type": "component",
+      "name": "dropdown",
+      "path": "styles/components/dropdown/dropdown.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/dropdown/dropdown.example.html"
+    },
+    {
+      "type": "component",
+      "name": "fab",
+      "path": "styles/components/fab/fab.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/fab/fab.example.html"
+    },
+    {
+      "type": "component",
+      "name": "fieldset",
+      "path": "styles/components/fieldset/fieldset.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/fieldset/fieldset.example.html"
+    },
+    {
+      "type": "component",
+      "name": "fileinput",
+      "path": "styles/components/fileinput/fileinput.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/fileinput/fileinput.example.html"
+    },
+    {
+      "type": "component",
+      "name": "filter",
+      "path": "styles/components/filter/filter.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/filter/filter.example.html"
+    },
+    {
+      "type": "component",
+      "name": "footer",
+      "path": "styles/components/footer/footer.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/footer/footer.example.html"
+    },
+    {
+      "type": "component",
+      "name": "hero",
+      "path": "styles/components/hero/hero.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/hero/hero.example.html"
+    },
+    {
+      "type": "component",
+      "name": "hover3d",
+      "path": "styles/components/hover3d/hover3d.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/hover3d/hover3d.example.html"
+    },
+    {
+      "type": "component",
+      "name": "hovergallery",
+      "path": "styles/components/hovergallery/hovergallery.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/hovergallery/hovergallery.example.html"
+    },
+    {
+      "type": "component",
+      "name": "indicator",
+      "path": "styles/components/indicator/indicator.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/indicator/indicator.example.html"
+    },
+    {
+      "type": "component",
+      "name": "input",
+      "path": "styles/components/input/input.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/input/input.example.html"
+    },
+    {
+      "type": "component",
+      "name": "kbd",
+      "path": "styles/components/kbd/kbd.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/kbd/kbd.example.html"
+    },
+    {
+      "type": "component",
+      "name": "label",
+      "path": "styles/components/label/label.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/label/label.example.html"
+    },
+    {
+      "type": "component",
+      "name": "link",
+      "path": "styles/components/link/link.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/link/link.example.html"
+    },
+    {
+      "type": "component",
+      "name": "list",
+      "path": "styles/components/list/list.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/list/list.example.html"
+    },
+    {
+      "type": "component",
+      "name": "loading",
+      "path": "styles/components/loading/loading.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/loading/loading.example.html"
+    },
+    {
+      "type": "component",
+      "name": "mask",
+      "path": "styles/components/mask/mask.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/mask/mask.example.html"
+    },
+    {
+      "type": "component",
+      "name": "megamenu",
+      "path": "styles/components/megamenu/megamenu.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/megamenu/megamenu.example.html"
+    },
+    {
+      "type": "component",
+      "name": "menu",
+      "path": "styles/components/menu/menu.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/menu/menu.example.html"
+    },
+    {
+      "type": "component",
+      "name": "mockup",
+      "path": "styles/components/mockup/mockup.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/mockup/mockup.example.html"
+    },
+    {
+      "type": "component",
+      "name": "modal",
+      "path": "styles/components/modal/modal.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/modal/modal.example.html"
+    },
+    {
+      "type": "component",
+      "name": "navbar",
+      "path": "styles/components/navbar/navbar.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/navbar/navbar.example.html"
+    },
+    {
+      "type": "component",
+      "name": "otp",
+      "path": "styles/components/otp/otp.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/otp/otp.example.html"
+    },
+    {
+      "type": "component",
+      "name": "progress",
+      "path": "styles/components/progress/progress.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/progress/progress.example.html"
+    },
+    {
+      "type": "component",
+      "name": "radialprogress",
+      "path": "styles/components/radialprogress/radialprogress.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/radialprogress/radialprogress.example.html"
+    },
+    {
+      "type": "component",
+      "name": "radio",
+      "path": "styles/components/radio/radio.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/radio/radio.example.html"
+    },
+    {
+      "type": "component",
+      "name": "range",
+      "path": "styles/components/range/range.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/range/range.example.html"
+    },
+    {
+      "type": "component",
+      "name": "rating",
+      "path": "styles/components/rating/rating.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/rating/rating.example.html"
+    },
+    {
+      "type": "component",
+      "name": "select",
+      "path": "styles/components/select/select.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/select/select.example.html"
+    },
+    {
+      "type": "component",
+      "name": "skeleton",
+      "path": "styles/components/skeleton/skeleton.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/skeleton/skeleton.example.html"
+    },
+    {
+      "type": "component",
+      "name": "stack",
+      "path": "styles/components/stack/stack.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/stack/stack.example.html"
+    },
+    {
+      "type": "component",
+      "name": "stat",
+      "path": "styles/components/stat/stat.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/stat/stat.example.html"
+    },
+    {
+      "type": "component",
+      "name": "status",
+      "path": "styles/components/status/status.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/status/status.example.html"
+    },
+    {
+      "type": "component",
+      "name": "steps",
+      "path": "styles/components/steps/steps.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/steps/steps.example.html"
+    },
+    {
+      "type": "component",
+      "name": "swap",
+      "path": "styles/components/swap/swap.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/swap/swap.example.html"
+    },
+    {
+      "type": "component",
+      "name": "tab",
+      "path": "styles/components/tab/tab.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/tab/tab.example.html"
+    },
+    {
+      "type": "component",
+      "name": "table",
+      "path": "styles/components/table/table.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/table/table.example.html"
+    },
+    {
+      "type": "component",
+      "name": "textarea",
+      "path": "styles/components/textarea/textarea.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/textarea/textarea.example.html"
+    },
+    {
+      "type": "component",
+      "name": "textrotate",
+      "path": "styles/components/textrotate/textrotate.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/textrotate/textrotate.example.html"
+    },
+    {
+      "type": "component",
+      "name": "timeline",
+      "path": "styles/components/timeline/timeline.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/timeline/timeline.example.html"
+    },
+    {
+      "type": "component",
+      "name": "toast",
+      "path": "styles/components/toast/toast.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/toast/toast.example.html"
+    },
+    {
+      "type": "component",
+      "name": "toggle",
+      "path": "styles/components/toggle/toggle.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/toggle/toggle.example.html"
+    },
+    {
+      "type": "component",
+      "name": "tooltip",
+      "path": "styles/components/tooltip/tooltip.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/tooltip/tooltip.example.html"
+    },
+    {
+      "type": "component",
+      "name": "validator",
+      "path": "styles/components/validator/validator.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "example": "styles/components/validator/validator.example.html"
+    },
+    {
+      "type": "base",
+      "name": "properties",
+      "path": "styles/base/properties.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "base",
+      "name": "reset",
+      "path": "styles/base/reset.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "base",
+      "name": "rootcolor",
+      "path": "styles/base/rootcolor.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "base",
+      "name": "rootscrollgutter",
+      "path": "styles/base/rootscrollgutter.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "base",
+      "name": "rootscrolllock",
+      "path": "styles/base/rootscrolllock.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "base",
+      "name": "scrollbar",
+      "path": "styles/base/scrollbar.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "base",
+      "name": "svg",
+      "path": "styles/base/svg.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "utility",
+      "name": "glass",
+      "path": "styles/utilities/glass.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "utility",
+      "name": "join",
+      "path": "styles/utilities/join.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "utility",
+      "name": "radius",
+      "path": "styles/utilities/radius.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "utility",
+      "name": "typography",
+      "path": "styles/utilities/typography.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "theme",
+      "name": "abyss",
+      "path": "tokens/themes/abyss.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "theme",
+      "name": "acid",
+      "path": "tokens/themes/acid.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "theme",
+      "name": "aqua",
+      "path": "tokens/themes/aqua.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "theme",
+      "name": "autumn",
+      "path": "tokens/themes/autumn.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "theme",
+      "name": "black",
+      "path": "tokens/themes/black.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "theme",
+      "name": "bumblebee",
+      "path": "tokens/themes/bumblebee.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "theme",
+      "name": "business",
+      "path": "tokens/themes/business.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "theme",
+      "name": "caramellatte",
+      "path": "tokens/themes/caramellatte.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "theme",
+      "name": "cmyk",
+      "path": "tokens/themes/cmyk.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "theme",
+      "name": "coffee",
+      "path": "tokens/themes/coffee.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "theme",
+      "name": "corporate",
+      "path": "tokens/themes/corporate.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "theme",
+      "name": "cupcake",
+      "path": "tokens/themes/cupcake.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "theme",
+      "name": "cyberpunk",
+      "path": "tokens/themes/cyberpunk.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "theme",
+      "name": "dark",
+      "path": "tokens/themes/dark.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "theme",
+      "name": "dim",
+      "path": "tokens/themes/dim.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "theme",
+      "name": "dracula",
+      "path": "tokens/themes/dracula.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "theme",
+      "name": "emerald",
+      "path": "tokens/themes/emerald.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "theme",
+      "name": "fantasy",
+      "path": "tokens/themes/fantasy.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "theme",
+      "name": "forest",
+      "path": "tokens/themes/forest.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "theme",
+      "name": "garden",
+      "path": "tokens/themes/garden.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "theme",
+      "name": "halloween",
+      "path": "tokens/themes/halloween.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "theme",
+      "name": "lemonade",
+      "path": "tokens/themes/lemonade.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "theme",
+      "name": "light",
+      "path": "tokens/themes/light.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "theme",
+      "name": "lofi",
+      "path": "tokens/themes/lofi.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "theme",
+      "name": "luxury",
+      "path": "tokens/themes/luxury.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "theme",
+      "name": "night",
+      "path": "tokens/themes/night.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "theme",
+      "name": "nord",
+      "path": "tokens/themes/nord.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "theme",
+      "name": "pastel",
+      "path": "tokens/themes/pastel.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "theme",
+      "name": "retro",
+      "path": "tokens/themes/retro.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "theme",
+      "name": "silk",
+      "path": "tokens/themes/silk.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "theme",
+      "name": "sunset",
+      "path": "tokens/themes/sunset.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "theme",
+      "name": "synthwave",
+      "path": "tokens/themes/synthwave.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "theme",
+      "name": "valentine",
+      "path": "tokens/themes/valentine.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "theme",
+      "name": "winter",
+      "path": "tokens/themes/winter.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "theme",
+      "name": "wireframe",
+      "path": "tokens/themes/wireframe.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "color",
+      "name": "properties-extended",
+      "path": "tokens/colors/properties-extended.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "color",
+      "name": "properties",
+      "path": "tokens/colors/properties.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "color",
+      "name": "responsive-extended",
+      "path": "tokens/colors/responsive-extended.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "color",
+      "name": "responsive",
+      "path": "tokens/colors/responsive.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "color",
+      "name": "states-extended",
+      "path": "tokens/colors/states-extended.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "color",
+      "name": "states",
+      "path": "tokens/colors/states.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "design-trend",
+      "name": "2k1",
+      "path": "design-trends/2k1/2k1.md",
+      "demo": "design-trends/2k1/2k1.demo.html",
+      "demoCss": "design-trends/2k1/2k1.demo.css",
+      "screenshot": "design-trends/2k1/2k1.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "acid-graphics",
+      "path": "design-trends/acid-graphics/acid-graphics.md",
+      "demo": "design-trends/acid-graphics/acid-graphics.demo.html",
+      "demoCss": "design-trends/acid-graphics/acid-graphics.demo.css",
+      "screenshot": "design-trends/acid-graphics/acid-graphics.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "afrofuturism",
+      "path": "design-trends/afrofuturism/afrofuturism.md",
+      "demo": "design-trends/afrofuturism/afrofuturism.demo.html",
+      "demoCss": "design-trends/afrofuturism/afrofuturism.demo.css",
+      "screenshot": "design-trends/afrofuturism/afrofuturism.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "american-kitsch",
+      "path": "design-trends/american-kitsch/american-kitsch.md",
+      "demo": "design-trends/american-kitsch/american-kitsch.demo.html",
+      "demoCss": "design-trends/american-kitsch/american-kitsch.demo.css",
+      "screenshot": "design-trends/american-kitsch/american-kitsch.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "aqua-ui",
+      "path": "design-trends/aqua-ui/aqua-ui.md",
+      "demo": "design-trends/aqua-ui/aqua-ui.demo.html",
+      "demoCss": "design-trends/aqua-ui/aqua-ui.demo.css",
+      "screenshot": "design-trends/aqua-ui/aqua-ui.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "art-deco",
+      "path": "design-trends/art-deco/art-deco.md",
+      "demo": "design-trends/art-deco/art-deco.demo.html",
+      "demoCss": "design-trends/art-deco/art-deco.demo.css",
+      "screenshot": "design-trends/art-deco/art-deco.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "art-nouveau",
+      "path": "design-trends/art-nouveau/art-nouveau.md",
+      "demo": "design-trends/art-nouveau/art-nouveau.demo.html",
+      "demoCss": "design-trends/art-nouveau/art-nouveau.demo.css",
+      "screenshot": "design-trends/art-nouveau/art-nouveau.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "bauhaus",
+      "path": "design-trends/bauhaus/bauhaus.md",
+      "demo": "design-trends/bauhaus/bauhaus.demo.html",
+      "demoCss": "design-trends/bauhaus/bauhaus.demo.css",
+      "screenshot": "design-trends/bauhaus/bauhaus.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "biophilic-design",
+      "path": "design-trends/biophilic-design/biophilic-design.md",
+      "demo": "design-trends/biophilic-design/biophilic-design.demo.html",
+      "demoCss": "design-trends/biophilic-design/biophilic-design.demo.css",
+      "screenshot": "design-trends/biophilic-design/biophilic-design.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "brutalism",
+      "path": "design-trends/brutalism/brutalism.md",
+      "demo": "design-trends/brutalism/brutalism.demo.html",
+      "demoCss": "design-trends/brutalism/brutalism.demo.css",
+      "screenshot": "design-trends/brutalism/brutalism.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "cassette-futurism",
+      "path": "design-trends/cassette-futurism/cassette-futurism.md",
+      "demo": "design-trends/cassette-futurism/cassette-futurism.demo.html",
+      "demoCss": "design-trends/cassette-futurism/cassette-futurism.demo.css",
+      "screenshot": "design-trends/cassette-futurism/cassette-futurism.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "chrome-liquid-metal",
+      "path": "design-trends/chrome-liquid-metal/chrome-liquid-metal.md",
+      "demo": "design-trends/chrome-liquid-metal/chrome-liquid-metal.demo.html",
+      "demoCss": "design-trends/chrome-liquid-metal/chrome-liquid-metal.demo.css",
+      "screenshot": "design-trends/chrome-liquid-metal/chrome-liquid-metal.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "claymorphism",
+      "path": "design-trends/claymorphism/claymorphism.md",
+      "demo": "design-trends/claymorphism/claymorphism.demo.html",
+      "demoCss": "design-trends/claymorphism/claymorphism.demo.css",
+      "screenshot": "design-trends/claymorphism/claymorphism.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "clean-ui",
+      "path": "design-trends/clean-ui/clean-ui.md",
+      "demo": "design-trends/clean-ui/clean-ui.demo.html",
+      "demoCss": "design-trends/clean-ui/clean-ui.demo.css",
+      "screenshot": "design-trends/clean-ui/clean-ui.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "collage",
+      "path": "design-trends/collage/collage.md",
+      "demo": "design-trends/collage/collage.demo.html",
+      "demoCss": "design-trends/collage/collage.demo.css",
+      "screenshot": "design-trends/collage/collage.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "constructivism",
+      "path": "design-trends/constructivism/constructivism.md",
+      "demo": "design-trends/constructivism/constructivism.demo.html",
+      "demoCss": "design-trends/constructivism/constructivism.demo.css",
+      "screenshot": "design-trends/constructivism/constructivism.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "corporate-memphis",
+      "path": "design-trends/corporate-memphis/corporate-memphis.md",
+      "demo": "design-trends/corporate-memphis/corporate-memphis.demo.html",
+      "demoCss": "design-trends/corporate-memphis/corporate-memphis.demo.css",
+      "screenshot": "design-trends/corporate-memphis/corporate-memphis.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "cottagecore",
+      "path": "design-trends/cottagecore/cottagecore.md",
+      "demo": "design-trends/cottagecore/cottagecore.demo.html",
+      "demoCss": "design-trends/cottagecore/cottagecore.demo.css",
+      "screenshot": "design-trends/cottagecore/cottagecore.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "cybercore",
+      "path": "design-trends/cybercore/cybercore.md",
+      "demo": "design-trends/cybercore/cybercore.demo.html",
+      "demoCss": "design-trends/cybercore/cybercore.demo.css",
+      "screenshot": "design-trends/cybercore/cybercore.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "cyberdelia",
+      "path": "design-trends/cyberdelia/cyberdelia.md",
+      "demo": "design-trends/cyberdelia/cyberdelia.demo.html",
+      "demoCss": "design-trends/cyberdelia/cyberdelia.demo.css",
+      "screenshot": "design-trends/cyberdelia/cyberdelia.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "cyberminimalism",
+      "path": "design-trends/cyberminimalism/cyberminimalism.md",
+      "demo": "design-trends/cyberminimalism/cyberminimalism.demo.html",
+      "demoCss": "design-trends/cyberminimalism/cyberminimalism.demo.css",
+      "screenshot": "design-trends/cyberminimalism/cyberminimalism.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "cyberpunk",
+      "path": "design-trends/cyberpunk/cyberpunk.md",
+      "demo": "design-trends/cyberpunk/cyberpunk.demo.html",
+      "demoCss": "design-trends/cyberpunk/cyberpunk.demo.css",
+      "screenshot": "design-trends/cyberpunk/cyberpunk.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "dark-academia",
+      "path": "design-trends/dark-academia/dark-academia.md",
+      "demo": "design-trends/dark-academia/dark-academia.demo.html",
+      "demoCss": "design-trends/dark-academia/dark-academia.demo.css",
+      "screenshot": "design-trends/dark-academia/dark-academia.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "data-dense-utilitarian-ui",
+      "path": "design-trends/data-dense-utilitarian-ui/data-dense-utilitarian-ui.md",
+      "demo": "design-trends/data-dense-utilitarian-ui/data-dense-utilitarian-ui.demo.html",
+      "demoCss": "design-trends/data-dense-utilitarian-ui/data-dense-utilitarian-ui.demo.css",
+      "screenshot": "design-trends/data-dense-utilitarian-ui/data-dense-utilitarian-ui.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "dieselpunk",
+      "path": "design-trends/dieselpunk/dieselpunk.md",
+      "demo": "design-trends/dieselpunk/dieselpunk.demo.html",
+      "demoCss": "design-trends/dieselpunk/dieselpunk.demo.css",
+      "screenshot": "design-trends/dieselpunk/dieselpunk.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "dopamine-design",
+      "path": "design-trends/dopamine-design/dopamine-design.md",
+      "demo": "design-trends/dopamine-design/dopamine-design.demo.html",
+      "demoCss": "design-trends/dopamine-design/dopamine-design.demo.css",
+      "screenshot": "design-trends/dopamine-design/dopamine-design.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "dorfic",
+      "path": "design-trends/dorfic/dorfic.md",
+      "demo": "design-trends/dorfic/dorfic.demo.html",
+      "demoCss": "design-trends/dorfic/dorfic.demo.css",
+      "screenshot": "design-trends/dorfic/dorfic.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "editorial-design",
+      "path": "design-trends/editorial-design/editorial-design.md",
+      "demo": "design-trends/editorial-design/editorial-design.demo.html",
+      "demoCss": "design-trends/editorial-design/editorial-design.demo.css",
+      "screenshot": "design-trends/editorial-design/editorial-design.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "elvish-aesthetic",
+      "path": "design-trends/elvish-aesthetic/elvish-aesthetic.md",
+      "demo": "design-trends/elvish-aesthetic/elvish-aesthetic.demo.html",
+      "demoCss": "design-trends/elvish-aesthetic/elvish-aesthetic.demo.css",
+      "screenshot": "design-trends/elvish-aesthetic/elvish-aesthetic.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "flat-design",
+      "path": "design-trends/flat-design/flat-design.md",
+      "demo": "design-trends/flat-design/flat-design.demo.html",
+      "demoCss": "design-trends/flat-design/flat-design.demo.css",
+      "screenshot": "design-trends/flat-design/flat-design.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "fluent-design",
+      "path": "design-trends/fluent-design/fluent-design.md",
+      "demo": "design-trends/fluent-design/fluent-design.demo.html",
+      "demoCss": "design-trends/fluent-design/fluent-design.demo.css",
+      "screenshot": "design-trends/fluent-design/fluent-design.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "frutiger-aero",
+      "path": "design-trends/frutiger-aero/frutiger-aero.md",
+      "demo": "design-trends/frutiger-aero/frutiger-aero.demo.html",
+      "demoCss": "design-trends/frutiger-aero/frutiger-aero.demo.css",
+      "screenshot": "design-trends/frutiger-aero/frutiger-aero.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "fui-hud",
+      "path": "design-trends/fui-hud/fui-hud.md",
+      "demo": "design-trends/fui-hud/fui-hud.demo.html",
+      "demoCss": "design-trends/fui-hud/fui-hud.demo.css",
+      "screenshot": "design-trends/fui-hud/fui-hud.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "gen-x-soft-club",
+      "path": "design-trends/gen-x-soft-club/gen-x-soft-club.md",
+      "demo": "design-trends/gen-x-soft-club/gen-x-soft-club.demo.html",
+      "demoCss": "design-trends/gen-x-soft-club/gen-x-soft-club.demo.css",
+      "screenshot": "design-trends/gen-x-soft-club/gen-x-soft-club.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "geometric-abstract",
+      "path": "design-trends/geometric-abstract/geometric-abstract.md",
+      "demo": "design-trends/geometric-abstract/geometric-abstract.demo.html",
+      "demoCss": "design-trends/geometric-abstract/geometric-abstract.demo.css",
+      "screenshot": "design-trends/geometric-abstract/geometric-abstract.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "glassmorphism",
+      "path": "design-trends/glassmorphism/glassmorphism.md",
+      "demo": "design-trends/glassmorphism/glassmorphism.demo.html",
+      "demoCss": "design-trends/glassmorphism/glassmorphism.demo.css",
+      "screenshot": "design-trends/glassmorphism/glassmorphism.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "glitch-art",
+      "path": "design-trends/glitch-art/glitch-art.md",
+      "demo": "design-trends/glitch-art/glitch-art.demo.html",
+      "demoCss": "design-trends/glitch-art/glitch-art.demo.css",
+      "screenshot": "design-trends/glitch-art/glitch-art.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "global-village-coffeehouse",
+      "path": "design-trends/global-village-coffeehouse/global-village-coffeehouse.md",
+      "demo": "design-trends/global-village-coffeehouse/global-village-coffeehouse.demo.html",
+      "demoCss": "design-trends/global-village-coffeehouse/global-village-coffeehouse.demo.css",
+      "screenshot": "design-trends/global-village-coffeehouse/global-village-coffeehouse.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "gothic-neo-gothic",
+      "path": "design-trends/gothic-neo-gothic/gothic-neo-gothic.md",
+      "demo": "design-trends/gothic-neo-gothic/gothic-neo-gothic.demo.html",
+      "demoCss": "design-trends/gothic-neo-gothic/gothic-neo-gothic.demo.css",
+      "screenshot": "design-trends/gothic-neo-gothic/gothic-neo-gothic.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "grunge",
+      "path": "design-trends/grunge/grunge.md",
+      "demo": "design-trends/grunge/grunge.demo.html",
+      "demoCss": "design-trends/grunge/grunge.demo.css",
+      "screenshot": "design-trends/grunge/grunge.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "halftone-comic-book",
+      "path": "design-trends/halftone-comic-book/halftone-comic-book.md",
+      "demo": "design-trends/halftone-comic-book/halftone-comic-book.demo.html",
+      "demoCss": "design-trends/halftone-comic-book/halftone-comic-book.demo.css",
+      "screenshot": "design-trends/halftone-comic-book/halftone-comic-book.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "hand-drawn-ui",
+      "path": "design-trends/hand-drawn-ui/hand-drawn-ui.md",
+      "demo": "design-trends/hand-drawn-ui/hand-drawn-ui.demo.html",
+      "demoCss": "design-trends/hand-drawn-ui/hand-drawn-ui.demo.css",
+      "screenshot": "design-trends/hand-drawn-ui/hand-drawn-ui.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "heroic-realism",
+      "path": "design-trends/heroic-realism/heroic-realism.md",
+      "demo": "design-trends/heroic-realism/heroic-realism.demo.html",
+      "demoCss": "design-trends/heroic-realism/heroic-realism.demo.css",
+      "screenshot": "design-trends/heroic-realism/heroic-realism.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "historical-manuscript-skeuomorphism",
+      "path": "design-trends/historical-manuscript-skeuomorphism/historical-manuscript-skeuomorphism.md",
+      "demo": "design-trends/historical-manuscript-skeuomorphism/historical-manuscript-skeuomorphism.demo.html",
+      "demoCss": "design-trends/historical-manuscript-skeuomorphism/historical-manuscript-skeuomorphism.demo.css",
+      "screenshot": "design-trends/historical-manuscript-skeuomorphism/historical-manuscript-skeuomorphism.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "holographic-iridescent-ui",
+      "path": "design-trends/holographic-iridescent-ui/holographic-iridescent-ui.md",
+      "demo": "design-trends/holographic-iridescent-ui/holographic-iridescent-ui.demo.html",
+      "demoCss": "design-trends/holographic-iridescent-ui/holographic-iridescent-ui.demo.css",
+      "screenshot": "design-trends/holographic-iridescent-ui/holographic-iridescent-ui.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "indie-sleaze",
+      "path": "design-trends/indie-sleaze/indie-sleaze.md",
+      "demo": "design-trends/indie-sleaze/indie-sleaze.demo.html",
+      "demoCss": "design-trends/indie-sleaze/indie-sleaze.demo.css",
+      "screenshot": "design-trends/indie-sleaze/indie-sleaze.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "japanese-minimalism",
+      "path": "design-trends/japanese-minimalism/japanese-minimalism.md",
+      "demo": "design-trends/japanese-minimalism/japanese-minimalism.demo.html",
+      "demoCss": "design-trends/japanese-minimalism/japanese-minimalism.demo.css",
+      "screenshot": "design-trends/japanese-minimalism/japanese-minimalism.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "jet-age-optimism",
+      "path": "design-trends/jet-age-optimism/jet-age-optimism.md",
+      "demo": "design-trends/jet-age-optimism/jet-age-optimism.demo.html",
+      "demoCss": "design-trends/jet-age-optimism/jet-age-optimism.demo.css",
+      "screenshot": "design-trends/jet-age-optimism/jet-age-optimism.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "kawaii-ui",
+      "path": "design-trends/kawaii-ui/kawaii-ui.md",
+      "demo": "design-trends/kawaii-ui/kawaii-ui.demo.html",
+      "demoCss": "design-trends/kawaii-ui/kawaii-ui.demo.css",
+      "screenshot": "design-trends/kawaii-ui/kawaii-ui.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "kinetic-typography",
+      "path": "design-trends/kinetic-typography/kinetic-typography.md",
+      "demo": "design-trends/kinetic-typography/kinetic-typography.demo.html",
+      "demoCss": "design-trends/kinetic-typography/kinetic-typography.demo.css",
+      "screenshot": "design-trends/kinetic-typography/kinetic-typography.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "lo-fi-art",
+      "path": "design-trends/lo-fi-art/lo-fi-art.md",
+      "demo": "design-trends/lo-fi-art/lo-fi-art.demo.html",
+      "demoCss": "design-trends/lo-fi-art/lo-fi-art.demo.css",
+      "screenshot": "design-trends/lo-fi-art/lo-fi-art.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "low-poly-ui",
+      "path": "design-trends/low-poly-ui/low-poly-ui.md",
+      "demo": "design-trends/low-poly-ui/low-poly-ui.demo.html",
+      "demoCss": "design-trends/low-poly-ui/low-poly-ui.demo.css",
+      "screenshot": "design-trends/low-poly-ui/low-poly-ui.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "luminous-eco-skeuomorphism",
+      "path": "design-trends/luminous-eco-skeuomorphism/luminous-eco-skeuomorphism.md",
+      "demo": "design-trends/luminous-eco-skeuomorphism/luminous-eco-skeuomorphism.demo.html",
+      "demoCss": "design-trends/luminous-eco-skeuomorphism/luminous-eco-skeuomorphism.demo.css",
+      "screenshot": "design-trends/luminous-eco-skeuomorphism/luminous-eco-skeuomorphism.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "material-design",
+      "path": "design-trends/material-design/material-design.md",
+      "demo": "design-trends/material-design/material-design.demo.html",
+      "demoCss": "design-trends/material-design/material-design.demo.css",
+      "screenshot": "design-trends/material-design/material-design.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "maximalism",
+      "path": "design-trends/maximalism/maximalism.md",
+      "demo": "design-trends/maximalism/maximalism.demo.html",
+      "demoCss": "design-trends/maximalism/maximalism.demo.css",
+      "screenshot": "design-trends/maximalism/maximalism.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "mcbling",
+      "path": "design-trends/mcbling/mcbling.md",
+      "demo": "design-trends/mcbling/mcbling.demo.html",
+      "demoCss": "design-trends/mcbling/mcbling.demo.css",
+      "screenshot": "design-trends/mcbling/mcbling.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "memphis-design",
+      "path": "design-trends/memphis-design/memphis-design.md",
+      "demo": "design-trends/memphis-design/memphis-design.demo.html",
+      "demoCss": "design-trends/memphis-design/memphis-design.demo.css",
+      "screenshot": "design-trends/memphis-design/memphis-design.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "mesh-gradient-aurora-ui",
+      "path": "design-trends/mesh-gradient-aurora-ui/mesh-gradient-aurora-ui.md",
+      "demo": "design-trends/mesh-gradient-aurora-ui/mesh-gradient-aurora-ui.demo.html",
+      "demoCss": "design-trends/mesh-gradient-aurora-ui/mesh-gradient-aurora-ui.demo.css",
+      "screenshot": "design-trends/mesh-gradient-aurora-ui/mesh-gradient-aurora-ui.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "metro-modern-ui",
+      "path": "design-trends/metro-modern-ui/metro-modern-ui.md",
+      "demo": "design-trends/metro-modern-ui/metro-modern-ui.demo.html",
+      "demoCss": "design-trends/metro-modern-ui/metro-modern-ui.demo.css",
+      "screenshot": "design-trends/metro-modern-ui/metro-modern-ui.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "mid-century-modern",
+      "path": "design-trends/mid-century-modern/mid-century-modern.md",
+      "demo": "design-trends/mid-century-modern/mid-century-modern.demo.html",
+      "demoCss": "design-trends/mid-century-modern/mid-century-modern.demo.css",
+      "screenshot": "design-trends/mid-century-modern/mid-century-modern.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "millennial-beige",
+      "path": "design-trends/millennial-beige/millennial-beige.md",
+      "demo": "design-trends/millennial-beige/millennial-beige.demo.html",
+      "demoCss": "design-trends/millennial-beige/millennial-beige.demo.css",
+      "screenshot": "design-trends/millennial-beige/millennial-beige.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "minimalism",
+      "path": "design-trends/minimalism/minimalism.md",
+      "demo": "design-trends/minimalism/minimalism.demo.html",
+      "demoCss": "design-trends/minimalism/minimalism.demo.css",
+      "screenshot": "design-trends/minimalism/minimalism.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "monochrome-ui",
+      "path": "design-trends/monochrome-ui/monochrome-ui.md",
+      "demo": "design-trends/monochrome-ui/monochrome-ui.demo.html",
+      "demoCss": "design-trends/monochrome-ui/monochrome-ui.demo.css",
+      "screenshot": "design-trends/monochrome-ui/monochrome-ui.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "neubrutalism",
+      "path": "design-trends/neubrutalism/neubrutalism.md",
+      "demo": "design-trends/neubrutalism/neubrutalism.demo.html",
+      "demoCss": "design-trends/neubrutalism/neubrutalism.demo.css",
+      "screenshot": "design-trends/neubrutalism/neubrutalism.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "neumorphism",
+      "path": "design-trends/neumorphism/neumorphism.md",
+      "demo": "design-trends/neumorphism/neumorphism.demo.html",
+      "demoCss": "design-trends/neumorphism/neumorphism.demo.css",
+      "screenshot": "design-trends/neumorphism/neumorphism.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "organic-blob-design",
+      "path": "design-trends/organic-blob-design/organic-blob-design.md",
+      "demo": "design-trends/organic-blob-design/organic-blob-design.demo.html",
+      "demoCss": "design-trends/organic-blob-design/organic-blob-design.demo.css",
+      "screenshot": "design-trends/organic-blob-design/organic-blob-design.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "pc-98",
+      "path": "design-trends/pc-98/pc-98.md",
+      "demo": "design-trends/pc-98/pc-98.demo.html",
+      "demoCss": "design-trends/pc-98/pc-98.demo.css",
+      "screenshot": "design-trends/pc-98/pc-98.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "pixel-art",
+      "path": "design-trends/pixel-art/pixel-art.md",
+      "demo": "design-trends/pixel-art/pixel-art.demo.html",
+      "demoCss": "design-trends/pixel-art/pixel-art.demo.css",
+      "screenshot": "design-trends/pixel-art/pixel-art.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "pop-art",
+      "path": "design-trends/pop-art/pop-art.md",
+      "demo": "design-trends/pop-art/pop-art.demo.html",
+      "demoCss": "design-trends/pop-art/pop-art.demo.css",
+      "screenshot": "design-trends/pop-art/pop-art.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "postmodern-eclecticism",
+      "path": "design-trends/postmodern-eclecticism/postmodern-eclecticism.md",
+      "demo": "design-trends/postmodern-eclecticism/postmodern-eclecticism.demo.html",
+      "demoCss": "design-trends/postmodern-eclecticism/postmodern-eclecticism.demo.css",
+      "screenshot": "design-trends/postmodern-eclecticism/postmodern-eclecticism.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "psychedelic-design",
+      "path": "design-trends/psychedelic-design/psychedelic-design.md",
+      "demo": "design-trends/psychedelic-design/psychedelic-design.demo.html",
+      "demoCss": "design-trends/psychedelic-design/psychedelic-design.demo.css",
+      "screenshot": "design-trends/psychedelic-design/psychedelic-design.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "punk-zine",
+      "path": "design-trends/punk-zine/punk-zine.md",
+      "demo": "design-trends/punk-zine/punk-zine.demo.html",
+      "demoCss": "design-trends/punk-zine/punk-zine.demo.css",
+      "screenshot": "design-trends/punk-zine/punk-zine.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "quiet-luxury",
+      "path": "design-trends/quiet-luxury/quiet-luxury.md",
+      "demo": "design-trends/quiet-luxury/quiet-luxury.demo.html",
+      "demoCss": "design-trends/quiet-luxury/quiet-luxury.demo.css",
+      "screenshot": "design-trends/quiet-luxury/quiet-luxury.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "real-wood-skeuomorphism",
+      "path": "design-trends/real-wood-skeuomorphism/real-wood-skeuomorphism.md",
+      "demo": "design-trends/real-wood-skeuomorphism/real-wood-skeuomorphism.demo.html",
+      "demoCss": "design-trends/real-wood-skeuomorphism/real-wood-skeuomorphism.demo.css",
+      "screenshot": "design-trends/real-wood-skeuomorphism/real-wood-skeuomorphism.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "retro-computing",
+      "path": "design-trends/retro-computing/retro-computing.md",
+      "demo": "design-trends/retro-computing/retro-computing.demo.html",
+      "demoCss": "design-trends/retro-computing/retro-computing.demo.css",
+      "screenshot": "design-trends/retro-computing/retro-computing.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "retro-futurism",
+      "path": "design-trends/retro-futurism/retro-futurism.md",
+      "demo": "design-trends/retro-futurism/retro-futurism.demo.html",
+      "demoCss": "design-trends/retro-futurism/retro-futurism.demo.css",
+      "screenshot": "design-trends/retro-futurism/retro-futurism.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "rpg-pixel-art",
+      "path": "design-trends/rpg-pixel-art/rpg-pixel-art.md",
+      "demo": "design-trends/rpg-pixel-art/rpg-pixel-art.demo.html",
+      "demoCss": "design-trends/rpg-pixel-art/rpg-pixel-art.demo.css",
+      "screenshot": "design-trends/rpg-pixel-art/rpg-pixel-art.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "scandinavian-modern",
+      "path": "design-trends/scandinavian-modern/scandinavian-modern.md",
+      "demo": "design-trends/scandinavian-modern/scandinavian-modern.demo.html",
+      "demoCss": "design-trends/scandinavian-modern/scandinavian-modern.demo.css",
+      "screenshot": "design-trends/scandinavian-modern/scandinavian-modern.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "scrapbook-sticker-ui",
+      "path": "design-trends/scrapbook-sticker-ui/scrapbook-sticker-ui.md",
+      "demo": "design-trends/scrapbook-sticker-ui/scrapbook-sticker-ui.demo.html",
+      "demoCss": "design-trends/scrapbook-sticker-ui/scrapbook-sticker-ui.demo.css",
+      "screenshot": "design-trends/scrapbook-sticker-ui/scrapbook-sticker-ui.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "seapunk",
+      "path": "design-trends/seapunk/seapunk.md",
+      "demo": "design-trends/seapunk/seapunk.demo.html",
+      "demoCss": "design-trends/seapunk/seapunk.demo.css",
+      "screenshot": "design-trends/seapunk/seapunk.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "skeuomorphism",
+      "path": "design-trends/skeuomorphism/skeuomorphism.md",
+      "demo": "design-trends/skeuomorphism/skeuomorphism.demo.html",
+      "demoCss": "design-trends/skeuomorphism/skeuomorphism.demo.css",
+      "screenshot": "design-trends/skeuomorphism/skeuomorphism.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "solarpunk",
+      "path": "design-trends/solarpunk/solarpunk.md",
+      "demo": "design-trends/solarpunk/solarpunk.demo.html",
+      "demoCss": "design-trends/solarpunk/solarpunk.demo.css",
+      "screenshot": "design-trends/solarpunk/solarpunk.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "spatial-ui",
+      "path": "design-trends/spatial-ui/spatial-ui.md",
+      "demo": "design-trends/spatial-ui/spatial-ui.demo.html",
+      "demoCss": "design-trends/spatial-ui/spatial-ui.demo.css",
+      "screenshot": "design-trends/spatial-ui/spatial-ui.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "sports-brutalism",
+      "path": "design-trends/sports-brutalism/sports-brutalism.md",
+      "demo": "design-trends/sports-brutalism/sports-brutalism.demo.html",
+      "demoCss": "design-trends/sports-brutalism/sports-brutalism.demo.css",
+      "screenshot": "design-trends/sports-brutalism/sports-brutalism.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "steampunk",
+      "path": "design-trends/steampunk/steampunk.md",
+      "demo": "design-trends/steampunk/steampunk.demo.html",
+      "demoCss": "design-trends/steampunk/steampunk.demo.css",
+      "screenshot": "design-trends/steampunk/steampunk.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "streamline-moderne",
+      "path": "design-trends/streamline-moderne/streamline-moderne.md",
+      "demo": "design-trends/streamline-moderne/streamline-moderne.demo.html",
+      "demoCss": "design-trends/streamline-moderne/streamline-moderne.demo.css",
+      "screenshot": "design-trends/streamline-moderne/streamline-moderne.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "superflat-pop",
+      "path": "design-trends/superflat-pop/superflat-pop.md",
+      "demo": "design-trends/superflat-pop/superflat-pop.demo.html",
+      "demoCss": "design-trends/superflat-pop/superflat-pop.demo.css",
+      "screenshot": "design-trends/superflat-pop/superflat-pop.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "surf-crush",
+      "path": "design-trends/surf-crush/surf-crush.md",
+      "demo": "design-trends/surf-crush/surf-crush.demo.html",
+      "demoCss": "design-trends/surf-crush/surf-crush.demo.css",
+      "screenshot": "design-trends/surf-crush/surf-crush.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "swiss-style",
+      "path": "design-trends/swiss-style/swiss-style.md",
+      "demo": "design-trends/swiss-style/swiss-style.demo.html",
+      "demoCss": "design-trends/swiss-style/swiss-style.demo.css",
+      "screenshot": "design-trends/swiss-style/swiss-style.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "synthwave-outrun",
+      "path": "design-trends/synthwave-outrun/synthwave-outrun.md",
+      "demo": "design-trends/synthwave-outrun/synthwave-outrun.demo.html",
+      "demoCss": "design-trends/synthwave-outrun/synthwave-outrun.demo.css",
+      "screenshot": "design-trends/synthwave-outrun/synthwave-outrun.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "terminal-cli-ui",
+      "path": "design-trends/terminal-cli-ui/terminal-cli-ui.md",
+      "demo": "design-trends/terminal-cli-ui/terminal-cli-ui.demo.html",
+      "demoCss": "design-trends/terminal-cli-ui/terminal-cli-ui.demo.css",
+      "screenshot": "design-trends/terminal-cli-ui/terminal-cli-ui.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "type-first-design",
+      "path": "design-trends/type-first-design/type-first-design.md",
+      "demo": "design-trends/type-first-design/type-first-design.demo.html",
+      "demoCss": "design-trends/type-first-design/type-first-design.demo.css",
+      "screenshot": "design-trends/type-first-design/type-first-design.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "urbling",
+      "path": "design-trends/urbling/urbling.md",
+      "demo": "design-trends/urbling/urbling.demo.html",
+      "demoCss": "design-trends/urbling/urbling.demo.css",
+      "screenshot": "design-trends/urbling/urbling.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "utopian-scholastic",
+      "path": "design-trends/utopian-scholastic/utopian-scholastic.md",
+      "demo": "design-trends/utopian-scholastic/utopian-scholastic.demo.html",
+      "demoCss": "design-trends/utopian-scholastic/utopian-scholastic.demo.css",
+      "screenshot": "design-trends/utopian-scholastic/utopian-scholastic.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "vaporwave",
+      "path": "design-trends/vaporwave/vaporwave.md",
+      "demo": "design-trends/vaporwave/vaporwave.demo.html",
+      "demoCss": "design-trends/vaporwave/vaporwave.demo.css",
+      "screenshot": "design-trends/vaporwave/vaporwave.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "vectordelia-frutiger-metro",
+      "path": "design-trends/vectordelia-frutiger-metro/vectordelia-frutiger-metro.md",
+      "demo": "design-trends/vectordelia-frutiger-metro/vectordelia-frutiger-metro.demo.html",
+      "demoCss": "design-trends/vectordelia-frutiger-metro/vectordelia-frutiger-metro.demo.css",
+      "screenshot": "design-trends/vectordelia-frutiger-metro/vectordelia-frutiger-metro.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "wabi-sabi",
+      "path": "design-trends/wabi-sabi/wabi-sabi.md",
+      "demo": "design-trends/wabi-sabi/wabi-sabi.demo.html",
+      "demoCss": "design-trends/wabi-sabi/wabi-sabi.demo.css",
+      "screenshot": "design-trends/wabi-sabi/wabi-sabi.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "web-1-0-webcore",
+      "path": "design-trends/web-1-0-webcore/web-1-0-webcore.md",
+      "demo": "design-trends/web-1-0-webcore/web-1-0-webcore.demo.html",
+      "demoCss": "design-trends/web-1-0-webcore/web-1-0-webcore.demo.css",
+      "screenshot": "design-trends/web-1-0-webcore/web-1-0-webcore.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "whimsigothic",
+      "path": "design-trends/whimsigothic/whimsigothic.md",
+      "demo": "design-trends/whimsigothic/whimsigothic.demo.html",
+      "demoCss": "design-trends/whimsigothic/whimsigothic.demo.css",
+      "screenshot": "design-trends/whimsigothic/whimsigothic.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "y2k",
+      "path": "design-trends/y2k/y2k.md",
+      "demo": "design-trends/y2k/y2k.demo.html",
+      "demoCss": "design-trends/y2k/y2k.demo.css",
+      "screenshot": "design-trends/y2k/y2k.screenshot.avif",
+      "source": "trends.daisyui.com"
+    },
+    {
+      "type": "design-trend",
+      "name": "y2k-techno-skeuomorphism",
+      "path": "design-trends/y2k-techno-skeuomorphism/y2k-techno-skeuomorphism.md",
+      "demo": "design-trends/y2k-techno-skeuomorphism/y2k-techno-skeuomorphism.demo.html",
+      "demoCss": "design-trends/y2k-techno-skeuomorphism/y2k-techno-skeuomorphism.demo.css",
+      "screenshot": "design-trends/y2k-techno-skeuomorphism/y2k-techno-skeuomorphism.screenshot.avif",
+      "source": "trends.daisyui.com"
+    }
+  ]
+}

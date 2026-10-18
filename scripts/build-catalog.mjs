@@ -1,0 +1,45 @@
+import fs from 'node:fs'
+import path from 'node:path'
+
+const SOURCE = 'daisyui@5.7.50'
+const LICENSE = 'MIT'
+const items = []
+const push = (type, name, file) =>
+  items.push({ type, name, path: file.split(path.sep).join('/'), source: SOURCE, license: LICENSE })
+
+const flat = (type, dir) => {
+  for (const f of fs.readdirSync(dir)) {
+    if (f.endsWith('.css')) push(type, path.basename(f, '.css'), path.join(dir, f))
+  }
+}
+
+for (const c of fs.readdirSync('styles/components', { withFileTypes: true })) {
+  if (!c.isDirectory()) continue
+  push('component', c.name, path.join('styles/components', c.name, `${c.name}.css`))
+  const ex = path.join('styles/components', c.name, `${c.name}.example.html`)
+  if (fs.existsSync(ex)) items[items.length - 1].example = ex.split(path.sep).join('/')
+}
+flat('base', 'styles/base')
+flat('utility', 'styles/utilities')
+flat('theme', 'tokens/themes')
+flat('color', 'tokens/colors')
+
+for (const t of fs.readdirSync('design-trends', { withFileTypes: true })) {
+  if (!t.isDirectory()) continue
+  const dir = path.join('design-trends', t.name)
+  const f = (suffix) => path.join(dir, `${t.name}${suffix}`).split(path.sep).join('/')
+  items.push({
+    type: 'design-trend',
+    name: t.name,
+    path: f('.md'),
+    demo: f('.demo.html'),
+    demoCss: f('.demo.css'),
+    screenshot: fs.readdirSync(dir).map((n) => `${dir}/${n}`.split(path.sep).join('/')).find((n) => n.includes('.screenshot.')),
+    source: 'trends.daisyui.com',
+  })
+}
+
+fs.writeFileSync('registry/catalog.json', JSON.stringify({ version: 1, items }, null, 2))
+const counts = {}
+for (const i of items) counts[i.type] = (counts[i.type] || 0) + 1
+console.log(counts)

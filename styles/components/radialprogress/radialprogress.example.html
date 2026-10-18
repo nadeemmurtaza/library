@@ -1,0 +1,71 @@
+<!-- source: https://daisyui.com/components/radial-progress/ -->
+
+<!-- Radial progress -->
+<div class="radial-progress" style="--value:70;" aria-valuenow="70" role="progressbar">70%</div>
+
+<!-- Example 2 -->
+{/* For TSX uncomment the commented types below */}
+<div className="radial-progress" style={{ "--value": 70 } /* as React.CSSProperties */ } 
+  aria-valuenow={70} role="progressbar">70%</div>
+
+<!-- Different values -->
+<div class="radial-progress" style="--value:0;" aria-valuenow="0" role="progressbar">0%</div>
+<div class="radial-progress" style="--value:20;" aria-valuenow="20" role="progressbar">20%</div>
+<div class="radial-progress" style="--value:60;" aria-valuenow="60" role="progressbar">60%</div>
+<div class="radial-progress" style="--value:80;" aria-valuenow="80" role="progressbar">80%</div>
+<div class="radial-progress" style="--value:100;" aria-valuenow="100" role="progressbar">100%</div>
+
+<!-- Example 4 -->
+{/* For TSX uncomment the commented types below */}
+<div className="radial-progress" style={{"--value":0} /* as React.CSSProperties */ } 
+  aria-valuenow={0} role="progressbar">0%</div>
+
+<div className="radial-progress" style={{"--value":20} /* as React.CSSProperties */ } 
+aria-valuenow={20} role="progressbar">20%</div>
+
+<div className="radial-progress" style={{"--value":60} /* as React.CSSProperties */ } 
+  aria-valuenow={60} role="progressbar">60%</div>
+
+<div className="radial-progress" style={{"--value":80} /* as React.CSSProperties */ } 
+  aria-valuenow={80} role="progressbar">80%</div>
+
+<div className="radial-progress" style={{"--value":100} /* as React.CSSProperties */ } 
+  aria-valuenow={100} role="progressbar">100%</div>
+
+<!-- Custom color -->
+<div class="radial-progress text-primary" style="--value:70;" aria-valuenow="70" role="progressbar">70%</div>
+
+<!-- Example 6 -->
+{/* For TSX uncomment the commented types below */}
+<div className="radial-progress text-primary" style={{ "--value": 70 } /* as React.CSSProperties */ } aria-valuenow={70} role="progressbar">
+  70%
+</div>
+
+<!-- With background color and border -->
+<div
+  class="radial-progress bg-primary text-primary-content border-primary border-4"
+  style="--value:70;" aria-valuenow="70" role="progressbar">
+  70%
+</div>
+
+<!-- Example 8 -->
+{/* For TSX uncomment the commented types below */}
+<div
+  className="radial-progress bg-primary text-primary-content border-primary border-4"
+  style={{ "--value": 70 } /* as React.CSSProperties */ } aria-valuenow={70} role="progressbar">
+  70%
+</div>
+
+<!-- Custom size and custom thickness -->
+<div class="radial-progress" style="--value:70; --size:12rem; --thickness: 2px;" aria-valuenow="70" role="progressbar">70%</div>
+<div class="radial-progress" style="--value:70; --size:12rem; --thickness: 2rem;" aria-valuenow="70" role="progressbar">70%</div>
+
+<!-- Example 10 -->
+{/* For TSX uncomment the commented types below */}
+<div className="radial-progress"
+  style={{ "--value": "70", "--size": "12rem", "--thickness": "2px" } /* as React.CSSProperties */ } 
+  aria-valuenow={70} role="progressbar">70%</div>
+
+<div className="radial-progress"
+  style={{ "--value": "70", "--size": "12rem", "--thickness": "2rem" } /* as React.CSSProperties */ } 
+  aria-valuenow={70} role="progressbar">70%</div>
