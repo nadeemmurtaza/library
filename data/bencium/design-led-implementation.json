@@ -1,0 +1,124 @@
+{
+  "page": "https://bencium.io/agentic-knowledge-worker",
+  "lastUpdated": "2026-06-02T12:00:00Z",
+  "version": "2025-10-31",
+  "service": "Design-Led AI Implementation",
+  "facts": [
+    {
+      "id": "service_name",
+      "value": "Design-Led AI Implementation",
+      "description": "Create AI-powered applications using design-first methodology",
+      "source": "https://bencium.io/agentic-knowledge-worker",
+      "as_of": "2026-02-10"
+    },
+    {
+      "id": "core_philosophy",
+      "value": "Turning AI into beautiful, usable products",
+      "description": "Design-first approach to AI implementation",
+      "source": "https://bencium.io",
+      "as_of": "2026-02-10"
+    },
+    {
+      "id": "implementation_approach",
+      "value": "Multi-agent orchestration and swarm architectures",
+      "description": "Specialized in autonomous AI workflow systems",
+      "source": "https://bencium.io/about",
+      "as_of": "2026-02-10"
+    },
+    {
+      "id": "coding_methodology",
+      "value": "Agentic engineering (not traditional hand-coding)",
+      "description": "Multiple times more efficient than traditional programming",
+      "source": "https://bencium.io/about",
+      "as_of": "2026-02-10"
+    },
+    {
+      "id": "process_structure",
+      "value": "Defined architecture, clear process, deliberate steps",
+      "description": "From concept to completion with purpose-driven decisions",
+      "source": "https://bencium.io/about",
+      "as_of": "2026-02-10"
+    }
+  ],
+  "technical_capabilities": [
+    {
+      "category": "Agentic Engineering",
+      "capabilities": [
+        "Multi-Agent Orchestration",
+        "Swarm Architectures",
+        "Autonomous Workflows",
+        "Agent Reasoning and Collaboration"
+      ],
+      "description": "Systems where AI agents collaborate and execute complex workflows autonomously"
+    },
+    {
+      "category": "AI Development",
+      "capabilities": [
+        "RAG Systems",
+        "Vector Databases",
+        "Prompt Engineering",
+        "Model Evaluation",
+        "LangChain Integration",
+        "Flowise Workflows"
+      ],
+      "description": "Core AI development technologies and methodologies"
+    },
+    {
+      "category": "Platform & Infrastructure",
+      "tools": [
+        "Claude Code",
+        "Cursor",
+        "Next.js",
+        "Supabase",
+        "Pinecone",
+        "OpenAI API",
+        "Anthropic API",
+        "Multiple Open Source Models"
+      ],
+      "description": "Technology stack for AI application development"
+    }
+  ],
+  "design_principles": [
+    {
+      "id": "human_amplification",
+      "principle": "Technology should amplify human capability, not replace it",
+      "description": "AI as creative partner rather than replacement",
+      "source": "https://bencium.io/about",
+      "as_of": "2026-02-10"
+    },
+    {
+      "id": "intelligent_orchestration",
+      "principle": "Intelligent orchestration of AI agents",
+      "description": "Designing systems for AI collaboration and autonomous execution",
+      "source": "https://bencium.io/about",
+      "as_of": "2026-02-10"
+    },
+    {
+      "id": "purpose_driven",
+      "principle": "Every technical choice serves a larger purpose",
+      "description": "Strategic architecture decisions aligned with business outcomes",
+      "source": "https://bencium.io/about",
+      "as_of": "2026-02-10"
+    }
+  ],
+  "case_studies": [
+    {
+      "id": "medhubai_platform",
+      "project": "MedHubAI",
+      "description": "AI-powered healthcare conversational platform",
+      "impact": "Handles 95% of patient inquiries 24/7, saves 2-3 hours per FTE",
+      "technologies": ["Conversational AI", "Healthcare Integration", "Continuous Medical Expert Oversight"],
+      "source": "https://www.medhubai.pro",
+      "as_of": "2026-02-10"
+    },
+    {
+      "id": "anna_ai",
+      "project": "Anna AI for Psycho-Oncology",
+      "description": "Emotional support AI for oncology patients (charity project)",
+      "impact": "26 years of curated psycho-oncology knowledge base",
+      "technologies": ["Anthropic Claude", "Specialized Medical Knowledge Base"],
+      "source": "https://psychooncologyhub.com",
+      "as_of": "2026-02-10"
+    }
+  ]
+}

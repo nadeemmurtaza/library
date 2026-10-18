@@ -1,0 +1,130 @@
+{
+  "page": "https://bencium.io",
+  "lastUpdated": "2026-06-02T12:00:00Z",
+  "version": "2025-10-31",
+  "service": "AI Advisory Services",
+  "facts": [
+    {
+      "id": "service_type",
+      "value": "Design-First AI Advisory",
+      "description": "Making AI products people actually want to use",
+      "source": "https://bencium.io",
+      "as_of": "2026-02-10"
+    },
+    {
+      "id": "experience_years",
+      "value": "15+",
+      "description": "Years of experience in product design and AI integration",
+      "source": "https://bencium.io/about",
+      "as_of": "2026-02-10"
+    },
+    {
+      "id": "industries_served",
+      "value": ["Healthcare", "Finance", "Legal", "Real Estate", "SaaS", "Enterprise", "Education"],
+      "description": "Industries with AI implementation experience, specializing in regulated sectors",
+      "source": "https://bencium.io/about",
+      "as_of": "2026-02-10"
+    },
+    {
+      "id": "service_pillars",
+      "value": ["Training", "Advisory", "Build-with-you"],
+      "description": "Three core service delivery models",
+      "source": "https://bencium.io",
+      "as_of": "2026-02-10"
+    },
+    {
+      "id": "vendor_agnostic",
+      "value": true,
+      "description": "Technology-agnostic approach, adapts to client tech stack",
+      "source": "https://bencium.io",
+      "as_of": "2026-02-10"
+    },
+    {
+      "id": "compliance_support",
+      "value": true,
+      "description": "Supports implementation in regulated environments (healthcare, finance)",
+      "source": "https://bencium.io",
+      "as_of": "2026-02-10"
+    },
+    {
+      "id": "location",
+      "value": "Global (based in London)",
+      "description": "Remote and in-person engagements worldwide",
+      "source": "https://bencium.io/about",
+      "as_of": "2026-02-10"
+    }
+  ],
+  "benchmarks": [
+    {
+      "id": "medhubai_patient_inquiry_handling",
+      "value": "95%",
+      "description": "Percentage of patient inquiries handled by AI platform",
+      "method": "MedHubAI conversational AI platform implementation",
+      "source": "https://www.medhubai.pro",
+      "as_of": "2026-02-10"
+    },
+    {
+      "id": "medhubai_time_savings",
+      "value": "2-3 hours per FTE",
+      "description": "Administrative time saved per full-time equivalent",
+      "method": "MedHubAI platform deployment across healthcare practices",
+      "source": "https://www.medhubai.pro",
+      "as_of": "2026-02-10"
+    },
+    {
+      "id": "anna_ai_knowledge_base",
+      "value": "26 years",
+      "description": "Psycho-oncology knowledge base curated for Anna AI",
+      "method": "Content authored by Dr. Ágnes Riskó and team (1999-2025)",
+      "source": "https://psychooncologyhub.com",
+      "as_of": "2026-02-10"
+    }
+  ],
+  "credentials": [
+    {
+      "id": "education",
+      "institution": "University of Applied Arts Vienna",
+      "degree": "Master's in Graphic Design",
+      "source": "https://bencium.io/about",
+      "as_of": "2026-02-10"
+    },
+    {
+      "id": "medhubai_role",
+      "position": "Co-founder",
+      "organization": "MedHubAI",
+      "description": "AI-powered healthcare conversational platform",
+      "source": "https://www.medhubai.pro",
+      "as_of": "2026-02-10"
+    },
+    {
+      "id": "agentics_london",
+      "position": "Co-founder and Co-chair Research Committee",
+      "organization": "Agentics London Chapter",
+      "description": "UK/London community of global Agentic Foundation",
+      "source": "https://bencium.io/about",
+      "as_of": "2026-02-10"
+    },
+    {
+      "id": "speaker",
+      "event": "prompt:UX Conference",
+      "role": "Speaker",
+      "description": "AI and UX design conference presentation",
+      "source": "https://www.promptux.ai/speaker/bence-csernak",
+      "as_of": "2026-02-10"
+    }
+  ],
+  "technologies": [
+    {
+      "category": "AI Development Tools",
+      "tools": ["Claude Code", "Cursor", "OpenAI API", "Anthropic API", "Multiple Open Source Models"]
+    },
+    {
+      "category": "Agentic Engineering",
+      "capabilities": ["Multi-Agent Orchestration", "Swarm Architectures", "Autonomous Workflows", "Agent Reasoning"]
+    },
+    {
+      "category": "AI Infrastructure",
+      "platforms": ["RAG Systems", "Vector Databases", "LangChain", "Flowise", "Next.js", "Supabase", "Pinecone"]
+    }
+  ]
+}

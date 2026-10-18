@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Telegraf";
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("Telegraf-Variable.ttf") format("truetype");
+}
+@font-face { font-family: "Telegraf"; font-weight: 400; font-display: swap; src: url("Telegraf-Regular.woff2") format("woff2"), url("Telegraf-Regular.woff") format("woff"); }
+@font-face { font-family: "Telegraf"; font-weight: 500; font-display: swap; src: url("Telegraf-Medium.woff2") format("woff2"), url("Telegraf-Medium.woff") format("woff"); }
+@font-face { font-family: "Telegraf"; font-weight: 600; font-display: swap; src: url("Telegraf-SemiBold.woff2") format("woff2"), url("Telegraf-SemiBold.woff") format("woff"); }
+@font-face { font-family: "Telegraf"; font-weight: 700; font-display: swap; src: url("Telegraf-Bold.woff2") format("woff2"), url("Telegraf-Bold.woff") format("woff"); }
+@font-face { font-family: "Telegraf"; font-weight: 800; font-display: swap; src: url("Telegraf-Black.woff2") format("woff2"), url("Telegraf-Black.woff") format("woff"); }

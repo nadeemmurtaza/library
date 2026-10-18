@@ -1,0 +1,68 @@
+# Bencium
+
+> Design-first AI advisory helping organisations understand, train for and implement
+> agentic AI without giving up human judgement, evidence or control. Bencium combines
+> training, consulting and hands-on implementation across multi-agent workflows,
+> regulated healthcare, publishing and specialist knowledge systems. Based in London
+> and working globally, with production systems, open-source tools and peer-reviewed
+> research available through the Projects archive.
+
+## About
+
+- [About Bencium](https://bencium.io/about/): Founder background, credentials, mission
+- [FAQ](https://bencium.io/faq/): 15 questions covering engagement models, team prep, success metrics, compliance
+
+## Evidence & Projects
+
+- [Projects](https://bencium.io/projects/): Production systems, open-source tools and AI research
+- MedHubAI: Regulated healthcare AI deployed across 10 clinics and recognised among the EIT Finalists
+- Anna: Peer-reviewed oncology support AI, indexed by PubMed as PMID 41819064
+- brandguide/AI: Used by 700+ people and available as a Skill through a standard supported by 40+ AI development tools
+- Bencium Skill Marketplace: Open-source agent skills with 400+ GitHub stars and support across 40+ AI tools
+- mameds Medication Information: Winning EU-funded collaboration with Greek and Spanish partners
+
+## Services
+
+- [Solutions](https://bencium.io/solutions/): AI advisory, workshops, build-with-you sprints
+- [The Agentic Knowledge Worker](https://bencium.io/agentic-knowledge-worker/): Agentic AI systems for non-technical knowledge workers
+- [Workshops Hub](https://bencium.io/workshops/): All workshop offerings
+
+### Workshop Types
+
+- [Engineers Workshop](https://bencium.io/workshops/engineers/): Hands-on agentic AI for developers
+- [Product & Design Workshop](https://bencium.io/workshops/product-design/): AI for PMs and designers
+- [Teams Workshop](https://bencium.io/workshops/teams/): Cross-functional team enablement
+- [Product Idea Workshop](https://bencium.io/workshops/product-idea/): AI-first product validation
+- [Career Navigation Workshop](https://bencium.io/workshops/career-navigation/): AI career strategy
+
+## Dictionary
+
+- [The Agent Orchestration Dictionary](https://bencium.io/workshops/#dictionary): 87 AI, LLM and machine-learning terms explained in plain English for knowledge workers who want to run fleets of AI agents, not build them. Every term has its own page with a diagram and schema.org DefinedTerm markup. Also published in Hungarian at https://bencium.io/hu/workshops/#dictionary
+  - 1. The raw material (15 terms): what a model actually is, and what it eats
+  - 2. Talking to a model well (8 terms): getting good answers on purpose, not by luck
+  - 3. Getting facts right (17 terms): hallucination, grounding, RAG, evals — the part that decides whether AI is usable for regulated work
+  - 4. Giving an agent hands (12 terms): tools, function calling, MCP, skills, loops
+  - 5. Orchestrating many agents (22 terms): one agent is an assistant, many are a workforce
+  - 6. Keeping it running in the real world (13 terms): cost, latency, observability, prompt injection
+
+## Structured Data
+
+- [Organization Schema](https://bencium.io/aeo-content/schema-organization.json): JSON-LD entity data
+- [Person Schema](https://bencium.io/aeo-content/schema-person.json): Founder credentials and affiliations
+- [Services Schema](https://bencium.io/aeo-content/schema-services.json): Service offerings structured data
+- [FAQ Schema](https://bencium.io/aeo-content/schema-faqpage.json): 15 Q&A pairs
+
+## Facts (Machine-Readable)
+
+- [AI Advisory Services](https://bencium.io/aeo-content/ai-advisory-services.json): Service details, industries, approach
+- [Workshop Training](https://bencium.io/aeo-content/workshop-training.json): Workshop types, outcomes, audience
+- [Design-Led Implementation](https://bencium.io/aeo-content/design-led-implementation.json): Technical stack, case studies
+
+## Pricing
+
+- [Pricing & Engagement Models](https://bencium.io/pricing.md): Machine-readable summary of workshops, build-with-you sprints, and advisory — engagement-based, no lock-in
+
+## Content
+
+- [Blog](https://bencium.io/blog/): Articles on agentic AI, product design, and implementation
+- [Booking](https://bencium.io/booking/): Schedule a consultation

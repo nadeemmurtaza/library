@@ -2250,6 +2250,84 @@
     },
     {
       "type": "assets",
+      "name": "fonts/telegraf/NOTICE.md",
+      "path": "assets/fonts/telegraf/NOTICE.md",
+      "source": "local"
+    },
+    {
+      "type": "assets",
+      "name": "fonts/telegraf/Telegraf-Black.woff",
+      "path": "assets/fonts/telegraf/Telegraf-Black.woff",
+      "source": "local"
+    },
+    {
+      "type": "assets",
+      "name": "fonts/telegraf/Telegraf-Black.woff2",
+      "path": "assets/fonts/telegraf/Telegraf-Black.woff2",
+      "source": "local"
+    },
+    {
+      "type": "assets",
+      "name": "fonts/telegraf/Telegraf-Bold.woff",
+      "path": "assets/fonts/telegraf/Telegraf-Bold.woff",
+      "source": "local"
+    },
+    {
+      "type": "assets",
+      "name": "fonts/telegraf/Telegraf-Bold.woff2",
+      "path": "assets/fonts/telegraf/Telegraf-Bold.woff2",
+      "source": "local"
+    },
+    {
+      "type": "assets",
+      "name": "fonts/telegraf/Telegraf-Medium.woff",
+      "path": "assets/fonts/telegraf/Telegraf-Medium.woff",
+      "source": "local"
+    },
+    {
+      "type": "assets",
+      "name": "fonts/telegraf/Telegraf-Medium.woff2",
+      "path": "assets/fonts/telegraf/Telegraf-Medium.woff2",
+      "source": "local"
+    },
+    {
+      "type": "assets",
+      "name": "fonts/telegraf/Telegraf-Regular.woff",
+      "path": "assets/fonts/telegraf/Telegraf-Regular.woff",
+      "source": "local"
+    },
+    {
+      "type": "assets",
+      "name": "fonts/telegraf/Telegraf-Regular.woff2",
+      "path": "assets/fonts/telegraf/Telegraf-Regular.woff2",
+      "source": "local"
+    },
+    {
+      "type": "assets",
+      "name": "fonts/telegraf/Telegraf-SemiBold.woff",
+      "path": "assets/fonts/telegraf/Telegraf-SemiBold.woff",
+      "source": "local"
+    },
+    {
+      "type": "assets",
+      "name": "fonts/telegraf/Telegraf-SemiBold.woff2",
+      "path": "assets/fonts/telegraf/Telegraf-SemiBold.woff2",
+      "source": "local"
+    },
+    {
+      "type": "assets",
+      "name": "fonts/telegraf/Telegraf-Variable.ttf",
+      "path": "assets/fonts/telegraf/Telegraf-Variable.ttf",
+      "source": "local"
+    },
+    {
+      "type": "assets",
+      "name": "fonts/telegraf/telegraf.css",
+      "path": "assets/fonts/telegraf/telegraf.css",
+      "source": "local"
+    },
+    {
+      "type": "assets",
       "name": "images/ui-ux-pro-max/website.png",
       "path": "assets/images/ui-ux-pro-max/website.png",
       "source": "local"
@@ -2676,6 +2754,30 @@
     },
     {
       "type": "data",
+      "name": "bencium/ai-advisory-services.json",
+      "path": "data/bencium/ai-advisory-services.json",
+      "source": "local"
+    },
+    {
+      "type": "data",
+      "name": "bencium/design-led-implementation.json",
+      "path": "data/bencium/design-led-implementation.json",
+      "source": "local"
+    },
+    {
+      "type": "data",
+      "name": "bencium/llms.txt",
+      "path": "data/bencium/llms.txt",
+      "source": "local"
+    },
+    {
+      "type": "data",
+      "name": "bencium/workshop-training.json",
+      "path": "data/bencium/workshop-training.json",
+      "source": "local"
+    },
+    {
+      "type": "data",
       "name": "ui-ux-pro-max/app-interface.csv",
       "path": "data/ui-ux-pro-max/app-interface.csv",
       "source": "local"
@@ -2918,6 +3020,534 @@
       "type": "skills",
       "name": "banner-design/SKILL.md",
       "path": "skills/banner-design/SKILL.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/.claude-plugin/marketplace.json",
+      "path": "skills/bencium-marketplace/.claude-plugin/marketplace.json",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/.gitignore",
+      "path": "skills/bencium-marketplace/.gitignore",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/adaptive-communication/.claude-plugin/plugin.json",
+      "path": "skills/bencium-marketplace/adaptive-communication/.claude-plugin/plugin.json",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/adaptive-communication/skills/adaptive-communication/SKILL.md",
+      "path": "skills/bencium-marketplace/adaptive-communication/skills/adaptive-communication/SKILL.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/bencium-aeo/.claude-plugin/plugin.json",
+      "path": "skills/bencium-marketplace/bencium-aeo/.claude-plugin/plugin.json",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/bencium-aeo/skills/bencium-aeo/CLAUDE.md",
+      "path": "skills/bencium-marketplace/bencium-aeo/skills/bencium-aeo/CLAUDE.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/bencium-aeo/skills/bencium-aeo/prd.md",
+      "path": "skills/bencium-marketplace/bencium-aeo/skills/bencium-aeo/prd.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/bencium-aeo/skills/bencium-aeo/README.md",
+      "path": "skills/bencium-marketplace/bencium-aeo/skills/bencium-aeo/README.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/bencium-aeo/skills/bencium-aeo/SKILL.md",
+      "path": "skills/bencium-marketplace/bencium-aeo/skills/bencium-aeo/SKILL.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/bencium-aeo/skills/bencium-aeo/story-structured.md",
+      "path": "skills/bencium-marketplace/bencium-aeo/skills/bencium-aeo/story-structured.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/bencium-code-conventions/.claude-plugin/plugin.json",
+      "path": "skills/bencium-marketplace/bencium-code-conventions/.claude-plugin/plugin.json",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/bencium-code-conventions/skills/bencium-code-conventions/SKILL.md",
+      "path": "skills/bencium-marketplace/bencium-code-conventions/skills/bencium-code-conventions/SKILL.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/bencium-controlled-ux-designer/.claude-plugin/plugin.json",
+      "path": "skills/bencium-marketplace/bencium-controlled-ux-designer/.claude-plugin/plugin.json",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/bencium-controlled-ux-designer/README.md",
+      "path": "skills/bencium-marketplace/bencium-controlled-ux-designer/README.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/bencium-controlled-ux-designer/skills/bencium-controlled-ux-designer/ACCESSIBILITY.md",
+      "path": "skills/bencium-marketplace/bencium-controlled-ux-designer/skills/bencium-controlled-ux-designer/ACCESSIBILITY.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/bencium-controlled-ux-designer/skills/bencium-controlled-ux-designer/DESIGN-SYSTEM-TEMPLATE.md",
+      "path": "skills/bencium-marketplace/bencium-controlled-ux-designer/skills/bencium-controlled-ux-designer/DESIGN-SYSTEM-TEMPLATE.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/bencium-controlled-ux-designer/skills/bencium-controlled-ux-designer/MOTION-SPEC.md",
+      "path": "skills/bencium-marketplace/bencium-controlled-ux-designer/skills/bencium-controlled-ux-designer/MOTION-SPEC.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/bencium-controlled-ux-designer/skills/bencium-controlled-ux-designer/RESPONSIVE-DESIGN.md",
+      "path": "skills/bencium-marketplace/bencium-controlled-ux-designer/skills/bencium-controlled-ux-designer/RESPONSIVE-DESIGN.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/bencium-controlled-ux-designer/skills/bencium-controlled-ux-designer/SKILL.md",
+      "path": "skills/bencium-marketplace/bencium-controlled-ux-designer/skills/bencium-controlled-ux-designer/SKILL.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/bencium-impact-designer/.claude-plugin/plugin.json",
+      "path": "skills/bencium-marketplace/bencium-impact-designer/.claude-plugin/plugin.json",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/bencium-impact-designer/README.md",
+      "path": "skills/bencium-marketplace/bencium-impact-designer/README.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/bencium-impact-designer/skills/bencium-impact-designer/ACCESSIBILITY.md",
+      "path": "skills/bencium-marketplace/bencium-impact-designer/skills/bencium-impact-designer/ACCESSIBILITY.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/bencium-impact-designer/skills/bencium-impact-designer/MOTION-SPEC.md",
+      "path": "skills/bencium-marketplace/bencium-impact-designer/skills/bencium-impact-designer/MOTION-SPEC.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/bencium-impact-designer/skills/bencium-impact-designer/RESPONSIVE-DESIGN.md",
+      "path": "skills/bencium-marketplace/bencium-impact-designer/skills/bencium-impact-designer/RESPONSIVE-DESIGN.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/bencium-impact-designer/skills/bencium-impact-designer/SKILL.md",
+      "path": "skills/bencium-marketplace/bencium-impact-designer/skills/bencium-impact-designer/SKILL.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/bencium-innovative-ux-designer/.claude-plugin/plugin.json",
+      "path": "skills/bencium-marketplace/bencium-innovative-ux-designer/.claude-plugin/plugin.json",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/bencium-innovative-ux-designer/README.md",
+      "path": "skills/bencium-marketplace/bencium-innovative-ux-designer/README.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/bencium-innovative-ux-designer/skills/bencium-innovative-ux-designer/references/CONCEPT-ROUNDS.md",
+      "path": "skills/bencium-marketplace/bencium-innovative-ux-designer/skills/bencium-innovative-ux-designer/references/CONCEPT-ROUNDS.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/bencium-innovative-ux-designer/skills/bencium-innovative-ux-designer/references/ISOLATION-PROTOCOL.md",
+      "path": "skills/bencium-marketplace/bencium-innovative-ux-designer/skills/bencium-innovative-ux-designer/references/ISOLATION-PROTOCOL.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/bencium-innovative-ux-designer/skills/bencium-innovative-ux-designer/references/PRODUCTION-SYSTEM.md",
+      "path": "skills/bencium-marketplace/bencium-innovative-ux-designer/skills/bencium-innovative-ux-designer/references/PRODUCTION-SYSTEM.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/bencium-innovative-ux-designer/skills/bencium-innovative-ux-designer/references/VERIFICATION.md",
+      "path": "skills/bencium-marketplace/bencium-innovative-ux-designer/skills/bencium-innovative-ux-designer/references/VERIFICATION.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/bencium-innovative-ux-designer/skills/bencium-innovative-ux-designer/SKILL.md",
+      "path": "skills/bencium-marketplace/bencium-innovative-ux-designer/skills/bencium-innovative-ux-designer/SKILL.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/design-audit/.claude-plugin/plugin.json",
+      "path": "skills/bencium-marketplace/design-audit/.claude-plugin/plugin.json",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/design-audit/skills/design-audit/audit-template.md",
+      "path": "skills/bencium-marketplace/design-audit/skills/design-audit/audit-template.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/design-audit/skills/design-audit/design-principles.md",
+      "path": "skills/bencium-marketplace/design-audit/skills/design-audit/design-principles.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/design-audit/skills/design-audit/SKILL.md",
+      "path": "skills/bencium-marketplace/design-audit/skills/design-audit/SKILL.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/emotion-statusline/.claude-plugin/plugin.json",
+      "path": "skills/bencium-marketplace/emotion-statusline/.claude-plugin/plugin.json",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/emotion-statusline/hooks/hooks.json",
+      "path": "skills/bencium-marketplace/emotion-statusline/hooks/hooks.json",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/emotion-statusline/README.md",
+      "path": "skills/bencium-marketplace/emotion-statusline/README.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/emotion-statusline/scripts/classify-emotion.sh",
+      "path": "skills/bencium-marketplace/emotion-statusline/scripts/classify-emotion.sh",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/emotion-statusline/scripts/statusline-command.sh",
+      "path": "skills/bencium-marketplace/emotion-statusline/scripts/statusline-command.sh",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/eu-ai-act-reviewer/.claude-plugin/plugin.json",
+      "path": "skills/bencium-marketplace/eu-ai-act-reviewer/.claude-plugin/plugin.json",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/eu-ai-act-reviewer/skills/eu-ai-act-reviewer/LICENSE",
+      "path": "skills/bencium-marketplace/eu-ai-act-reviewer/skills/eu-ai-act-reviewer/LICENSE",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/eu-ai-act-reviewer/skills/eu-ai-act-reviewer/references/article-50-content-labelling.md",
+      "path": "skills/bencium-marketplace/eu-ai-act-reviewer/skills/eu-ai-act-reviewer/references/article-50-content-labelling.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/eu-ai-act-reviewer/skills/eu-ai-act-reviewer/references/coverage-dates-and-penalties.md",
+      "path": "skills/bencium-marketplace/eu-ai-act-reviewer/skills/eu-ai-act-reviewer/references/coverage-dates-and-penalties.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/eu-ai-act-reviewer/skills/eu-ai-act-reviewer/references/official-sources.md",
+      "path": "skills/bencium-marketplace/eu-ai-act-reviewer/skills/eu-ai-act-reviewer/references/official-sources.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/eu-ai-act-reviewer/skills/eu-ai-act-reviewer/references/output-contract.md",
+      "path": "skills/bencium-marketplace/eu-ai-act-reviewer/skills/eu-ai-act-reviewer/references/output-contract.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/eu-ai-act-reviewer/skills/eu-ai-act-reviewer/references/review-rules.md",
+      "path": "skills/bencium-marketplace/eu-ai-act-reviewer/skills/eu-ai-act-reviewer/references/review-rules.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/eu-ai-act-reviewer/skills/eu-ai-act-reviewer/SKILL.md",
+      "path": "skills/bencium-marketplace/eu-ai-act-reviewer/skills/eu-ai-act-reviewer/SKILL.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/human-architect-mindset/.claude-plugin/plugin.json",
+      "path": "skills/bencium-marketplace/human-architect-mindset/.claude-plugin/plugin.json",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/human-architect-mindset/README.md",
+      "path": "skills/bencium-marketplace/human-architect-mindset/README.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/human-architect-mindset/skills/human-architect-mindset/CHECKLIST.md",
+      "path": "skills/bencium-marketplace/human-architect-mindset/skills/human-architect-mindset/CHECKLIST.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/human-architect-mindset/skills/human-architect-mindset/EXAMPLES.md",
+      "path": "skills/bencium-marketplace/human-architect-mindset/skills/human-architect-mindset/EXAMPLES.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/human-architect-mindset/skills/human-architect-mindset/REFERENCE.md",
+      "path": "skills/bencium-marketplace/human-architect-mindset/skills/human-architect-mindset/REFERENCE.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/human-architect-mindset/skills/human-architect-mindset/SKILL.md",
+      "path": "skills/bencium-marketplace/human-architect-mindset/skills/human-architect-mindset/SKILL.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/hungarian-humanizer/.claude-plugin/plugin.json",
+      "path": "skills/bencium-marketplace/hungarian-humanizer/.claude-plugin/plugin.json",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/hungarian-humanizer/skills/hungarian-humanizer/references/patterns.md",
+      "path": "skills/bencium-marketplace/hungarian-humanizer/skills/hungarian-humanizer/references/patterns.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/hungarian-humanizer/skills/hungarian-humanizer/SKILL.md",
+      "path": "skills/bencium-marketplace/hungarian-humanizer/skills/hungarian-humanizer/SKILL.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/insurgent-campaign/.claude-plugin/plugin.json",
+      "path": "skills/bencium-marketplace/insurgent-campaign/.claude-plugin/plugin.json",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/insurgent-campaign/README.md",
+      "path": "skills/bencium-marketplace/insurgent-campaign/README.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/insurgent-campaign/skills/insurgent-campaign/references/asymmetry-audit-table.md",
+      "path": "skills/bencium-marketplace/insurgent-campaign/skills/insurgent-campaign/references/asymmetry-audit-table.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/insurgent-campaign/skills/insurgent-campaign/references/authenticity-playbook.md",
+      "path": "skills/bencium-marketplace/insurgent-campaign/skills/insurgent-campaign/references/authenticity-playbook.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/insurgent-campaign/skills/insurgent-campaign/references/campaign-archetypes.md",
+      "path": "skills/bencium-marketplace/insurgent-campaign/skills/insurgent-campaign/references/campaign-archetypes.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/insurgent-campaign/skills/insurgent-campaign/references/channel-tier-stack.md",
+      "path": "skills/bencium-marketplace/insurgent-campaign/skills/insurgent-campaign/references/channel-tier-stack.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/insurgent-campaign/skills/insurgent-campaign/references/hungarian-case-study.md",
+      "path": "skills/bencium-marketplace/insurgent-campaign/skills/insurgent-campaign/references/hungarian-case-study.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/insurgent-campaign/skills/insurgent-campaign/references/lift-test-templates.md",
+      "path": "skills/bencium-marketplace/insurgent-campaign/skills/insurgent-campaign/references/lift-test-templates.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/insurgent-campaign/skills/insurgent-campaign/references/sector-riders.md",
+      "path": "skills/bencium-marketplace/insurgent-campaign/skills/insurgent-campaign/references/sector-riders.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/insurgent-campaign/skills/insurgent-campaign/SKILL.md",
+      "path": "skills/bencium-marketplace/insurgent-campaign/skills/insurgent-campaign/SKILL.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/negentropy-lens/.claude-plugin/plugin.json",
+      "path": "skills/bencium-marketplace/negentropy-lens/.claude-plugin/plugin.json",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/negentropy-lens/skills/negentropy-lens/references/origin-essay.md",
+      "path": "skills/bencium-marketplace/negentropy-lens/skills/negentropy-lens/references/origin-essay.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/negentropy-lens/skills/negentropy-lens/SKILL.md",
+      "path": "skills/bencium-marketplace/negentropy-lens/skills/negentropy-lens/SKILL.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/README.md",
+      "path": "skills/bencium-marketplace/README.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/relationship-design/.claude-plugin/plugin.json",
+      "path": "skills/bencium-marketplace/relationship-design/.claude-plugin/plugin.json",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/relationship-design/skills/relationship-design/CHECKLIST.md",
+      "path": "skills/bencium-marketplace/relationship-design/skills/relationship-design/CHECKLIST.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/relationship-design/skills/relationship-design/EXAMPLES.md",
+      "path": "skills/bencium-marketplace/relationship-design/skills/relationship-design/EXAMPLES.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/relationship-design/skills/relationship-design/REFERENCE.md",
+      "path": "skills/bencium-marketplace/relationship-design/skills/relationship-design/REFERENCE.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/relationship-design/skills/relationship-design/SKILL.md",
+      "path": "skills/bencium-marketplace/relationship-design/skills/relationship-design/SKILL.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/renaissance-architecture/.claude-plugin/plugin.json",
+      "path": "skills/bencium-marketplace/renaissance-architecture/.claude-plugin/plugin.json",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/renaissance-architecture/skills/renaissance-architecture/SKILL.md",
+      "path": "skills/bencium-marketplace/renaissance-architecture/skills/renaissance-architecture/SKILL.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/spinner-verbs.json",
+      "path": "skills/bencium-marketplace/spinner-verbs.json",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/typography/.claude-plugin/plugin.json",
+      "path": "skills/bencium-marketplace/typography/.claude-plugin/plugin.json",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/typography/skills/typography/css-templates.md",
+      "path": "skills/bencium-marketplace/typography/skills/typography/css-templates.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/typography/skills/typography/html-entities.md",
+      "path": "skills/bencium-marketplace/typography/skills/typography/html-entities.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/typography/skills/typography/SKILL.md",
+      "path": "skills/bencium-marketplace/typography/skills/typography/SKILL.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/vanity-engineering-review/.claude-plugin/plugin.json",
+      "path": "skills/bencium-marketplace/vanity-engineering-review/.claude-plugin/plugin.json",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/vanity-engineering-review/skills/vanity-engineering-review/references/detection-patterns.md",
+      "path": "skills/bencium-marketplace/vanity-engineering-review/skills/vanity-engineering-review/references/detection-patterns.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/vanity-engineering-review/skills/vanity-engineering-review/references/kill-criteria-template.md",
+      "path": "skills/bencium-marketplace/vanity-engineering-review/skills/vanity-engineering-review/references/kill-criteria-template.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/vanity-engineering-review/skills/vanity-engineering-review/SKILL.md",
+      "path": "skills/bencium-marketplace/vanity-engineering-review/skills/vanity-engineering-review/SKILL.md",
       "source": "local"
     },
     {
@@ -4280,6 +4910,12 @@
       "type": "docs",
       "name": "ui-ux-pro-max/三个 data-scripts-templates 的区别.md",
       "path": "docs/ui-ux-pro-max/三个 data-scripts-templates 的区别.md",
+      "source": "local"
+    },
+    {
+      "type": "vendor",
+      "name": "bencium-marketplace/LICENSE",
+      "path": "vendor/bencium-marketplace/LICENSE",
       "source": "local"
     },
     {

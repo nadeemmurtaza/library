@@ -9,6 +9,7 @@ const state = { items: [], themes: [], theme: storeGet('theme') || 'brand', q: '
 const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c])
 const ext = (p) => p.slice(p.lastIndexOf('.') + 1).toLowerCase()
 const IMG = ['svg', 'png', 'jpg', 'jpeg', 'webp', 'avif', 'gif', 'ico']
+const FONT = ['ttf', 'otf', 'woff', 'woff2']
 const BIN = ['ttf', 'otf', 'woff', 'woff2', 'pdf', 'zip', 'gz', 'ico']
 const ORDER = ['component', 'design-trend', 'theme', 'color', 'base', 'utility', 'token', 'config', 'entry']
 const LABEL = { component: 'Components', 'design-trend': 'Design trends', theme: 'Themes', color: 'Colors', base: 'Base', utility: 'Utilities', token: 'Tokens', config: 'Config', entry: 'Entry' }
@@ -43,6 +44,14 @@ function overview() {
     </div>`
 }
 
+const fontFamily = (i) => `lib-${i.path.replace(/[^a-z0-9]/gi, '-')}`
+function fontFace() {
+  const css = state.items.filter((i) => FONT.includes(ext(i.path))).map((i) => `@font-face{font-family:'${fontFamily(i)}';src:url('/${i.path}')}`).join('')
+  let el = document.getElementById('lib-fonts')
+  if (!el) { el = document.createElement('style'); el.id = 'lib-fonts'; document.head.append(el) }
+  el.textContent = css
+}
+
 function thumb(i) {
   const pp = previewPath(i)
   if (i.type === 'theme') {
@@ -52,6 +61,7 @@ function thumb(i) {
   if (i.screenshot) return `<img loading="lazy" src="/${esc(i.screenshot)}" alt="" class="h-40 w-full object-cover object-top">`
   if (pp) return `<iframe loading="lazy" scrolling="no" tabindex="-1" src="${preview(pp)}" class="pointer-events-none h-40 w-full border-0"></iframe>`
   if (IMG.includes(ext(i.path))) return `<img loading="lazy" src="/${esc(i.path)}" alt="" class="h-40 w-full bg-base-200 object-contain p-4">`
+  if (FONT.includes(ext(i.path))) return `<div class="grid h-40 place-items-center bg-base-200 text-5xl" style="font-family:'${fontFamily(i)}'">Aa</div>`
   return `<div class="grid h-40 place-items-center bg-base-200 font-mono text-sm opacity-60">.${esc(ext(i.path))}</div>`
 }
 
@@ -93,7 +103,8 @@ async function detail(type, name) {
   } else if (isImg) {
     main = `<div class="grid place-items-center rounded-box bg-base-100 p-8"><img src="/${esc(i.path)}" alt="${esc(name)}" class="max-h-[70vh] max-w-full"></div>`
   }
-  if (text === null && !isImg) main = `<a class="btn" href="/${esc(i.path)}" download>Download ${esc(i.path)}</a>`
+  if (FONT.includes(ext(i.path))) main = `<div class="space-y-4 rounded-box bg-base-100 p-6" style="font-family:'${fontFamily(i)}'"><p class="text-6xl">Aa Bb Cc 123</p><p class="text-3xl">The quick brown fox jumps over the lazy dog</p><p class="text-base">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789 !?&amp;@</p><p class="text-sm">Small text sample for reading comfort at body sizes.</p></div><a class="btn mt-3" href="/${esc(i.path)}" download>Download</a>`
+  else if (text === null && !isImg) main = `<a class="btn" href="/${esc(i.path)}" download>Download ${esc(i.path)}</a>`
   const code = text !== null && type !== 'design-trend'
     ? `<div class="collapse collapse-arrow mt-4 bg-base-100"><input type="checkbox"><div class="collapse-title font-medium">Source <span class="font-mono text-xs opacity-60">${esc(i.path)}</span></div><div class="collapse-content"><pre class="max-h-[60vh] overflow-auto text-xs">${esc(text)}</pre></div></div>`
     : ''
@@ -115,11 +126,12 @@ addEventListener('hashchange', route)
 async function start() {
   await load()
   document.documentElement.dataset.theme = state.theme
+  fontFace()
   route()
 }
 start()
 
 const es = new EventSource('/events')
-es.onmessage = () => { start() }
+es.onmessage = () => { location.reload() }
 es.onerror = () => { $('#live').className = 'status status-error' }
 es.onopen = () => { $('#live').className = 'status status-success' }

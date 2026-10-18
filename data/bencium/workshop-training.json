@@ -1,0 +1,98 @@
+{
+  "page": "https://bencium.io/workshops",
+  "lastUpdated": "2026-06-02T12:00:00Z",
+  "version": "2025-10-31",
+  "service": "Workshop Training & Team Enablement",
+  "facts": [
+    {
+      "id": "service_name",
+      "value": "Navigate AI Uncertainty Workshops",
+      "description": "Training for teams ready to ship agentic workflows",
+      "source": "https://bencium.io/workshops",
+      "as_of": "2026-02-10"
+    },
+    {
+      "id": "target_audience",
+      "value": ["Engineers", "Product Managers", "Designers", "Technical Leaders"],
+      "description": "Primary workshop participants",
+      "source": "https://bencium.io/workshops",
+      "as_of": "2026-02-10"
+    },
+    {
+      "id": "ml_background_required",
+      "value": false,
+      "description": "ML knowledge helpful but not required; focus on practical skills",
+      "source": "https://bencium.io",
+      "as_of": "2026-02-10"
+    },
+    {
+      "id": "training_approach",
+      "value": "Hands-on building real solutions",
+      "description": "Practical implementation over theoretical concepts",
+      "source": "https://bencium.io",
+      "as_of": "2026-02-10"
+    },
+    {
+      "id": "core_skills_taught",
+      "value": ["Evaluation methodologies", "Effective prompting patterns", "Agent design principles", "Integration techniques"],
+      "description": "Key competencies developed in workshops",
+      "source": "https://bencium.io",
+      "as_of": "2026-02-10"
+    }
+  ],
+  "workshop_types": [
+    {
+      "id": "engineers_workshop",
+      "name": "Workshop for Engineers",
+      "url": "https://bencium.io/workshops/engineers",
+      "description": "Technical AI implementation skills for engineering teams"
+    },
+    {
+      "id": "product_design_workshop",
+      "name": "Workshop for Product & Design",
+      "url": "https://bencium.io/workshops/product-design",
+      "description": "AI product strategy and design thinking"
+    },
+    {
+      "id": "teams_workshop",
+      "name": "Workshop for Teams",
+      "url": "https://bencium.io/workshops/teams",
+      "description": "Cross-functional AI adoption and collaboration"
+    },
+    {
+      "id": "product_idea_workshop",
+      "name": "Product Idea Workshop",
+      "url": "https://bencium.io/workshops/product-idea",
+      "description": "Ideation and validation of AI-powered products"
+    },
+    {
+      "id": "career_navigation_workshop",
+      "name": "Career Navigation Workshop",
+      "url": "https://bencium.io/workshops/career-navigation",
+      "description": "Professional development in AI era"
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "measurable_workflow",
+      "value": "Ship a measurable AI workflow to real users",
+      "description": "Tangible business value delivered during engagement",
+      "source": "https://bencium.io",
+      "as_of": "2026-02-10"
+    },
+    {
+      "id": "team_independence",
+      "value": "Knowledge and tools to extend, maintain, and improve solutions independently",
+      "description": "Self-sufficient AI capability post-engagement",
+      "source": "https://bencium.io",
+      "as_of": "2026-02-10"
+    },
+    {
+      "id": "deliverables",
+      "value": ["Clear documentation", "Tested processes", "Confidence to iterate"],
+      "description": "What teams receive upon completion",
+      "source": "https://bencium.io",
+      "as_of": "2026-02-10"
+    }
+  ]
+}
