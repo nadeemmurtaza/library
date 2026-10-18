@@ -39,6 +39,25 @@ for (const t of fs.readdirSync('design-trends', { withFileTypes: true })) {
   })
 }
 
+// Generic scan: any file dropped into these dirs becomes a catalog item, typed by its dir.
+const GENERIC = [
+  'assets', 'schemas', 'functions', 'utils', 'hooks', 'lib', 'scripts', 'snippets', 'templates',
+  'constants', 'types', 'providers', 'components/ui', 'components/common', 'components/layout', 'components/patterns',
+]
+const known = new Set(items.map((i) => i.path))
+const walk = (dir) => fs.readdirSync(dir, { withFileTypes: true }).flatMap((e) => {
+  const p = path.join(dir, e.name)
+  return e.isDirectory() ? walk(p) : [p]
+})
+for (const dir of GENERIC) {
+  if (!fs.existsSync(dir)) continue
+  for (const file of walk(dir)) {
+    const rel = file.split(path.sep).join('/')
+    if (path.basename(file) === '.gitkeep' || known.has(rel)) continue
+    items.push({ type: dir.replace('/', '-'), name: rel.slice(dir.length + 1), path: rel, source: 'local' })
+  }
+}
+
 const themeNames = [...items.filter((i) => i.type === 'theme').map((i) => i.name), 'brand', 'brand-dark']
 fs.writeFileSync(
   'tokens/themes/index.ts',

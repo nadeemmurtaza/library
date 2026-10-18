@@ -1,0 +1,7 @@
+/* Viewer + preview stylesheet. Same system as the library: styles/index.css. */
+@import "../styles/index.css";
+@source "../viewer";
+@source "../styles/components";
+@source "../templates";
+@source "../snippets";
+@source "../components";

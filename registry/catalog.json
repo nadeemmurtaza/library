@@ -1763,6 +1763,24 @@
       "source": "trends.daisyui.com"
     },
     {
+      "type": "scripts",
+      "name": "build-catalog.mjs",
+      "path": "scripts/build-catalog.mjs",
+      "source": "local"
+    },
+    {
+      "type": "scripts",
+      "name": "scrape-daisyui-examples.py",
+      "path": "scripts/scrape-daisyui-examples.py",
+      "source": "local"
+    },
+    {
+      "type": "scripts",
+      "name": "scrape-daisyui-trends.py",
+      "path": "scripts/scrape-daisyui-trends.py",
+      "source": "local"
+    },
+    {
       "type": "config",
       "name": "brand",
       "path": "config/brand.ts",

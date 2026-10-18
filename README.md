@@ -35,3 +35,6 @@ Single home for every reusable piece: components, CSS, scripts, schemas, functio
 - No brand/locale/design literals in code. Import from `config/` and `tokens/`.
 - One system, no prefixed forks.
 - New item = add file + entry in `registry/catalog.json`.
+
+## Viewer
+`npm run viewer` then open http://localhost:4173. Watches the library: any file added to a catalogued dir rebuilds `registry/catalog.json` and the preview CSS, and open pages refresh themselves. `npm run catalog` rebuilds the catalog alone.

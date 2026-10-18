@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en" data-theme="brand">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Library Viewer</title>
+  <link rel="stylesheet" href="/.cache/preview.css">
+</head>
+<body class="min-h-screen bg-base-200 text-base-content">
+  <header class="sticky top-0 z-20 border-b border-base-300 bg-base-100">
+    <div class="flex flex-wrap items-center gap-3 px-4 py-3 lg:px-8">
+      <a href="#/" class="text-lg font-semibold">Library</a>
+      <span id="live" class="status status-success" title="live"></span>
+      <input id="search" type="search" placeholder="Search…" class="input input-sm ml-auto w-full max-w-xs">
+      <select id="theme" class="select select-sm w-40" aria-label="Preview theme"></select>
+    </div>
+  </header>
+  <main id="app" class="mx-auto w-full max-w-[120rem] px-4 py-6 lg:px-8"></main>
+  <script type="module" src="/viewer/app.js"></script>
+</body>
+</html>
