@@ -10,7 +10,7 @@ const PORT = Number(process.env.PORT) || 4173
 const TAILWIND = path.join(ROOT, 'node_modules/@tailwindcss/cli/dist/index.mjs')
 const CSS_OUT = path.join(ROOT, '.cache/preview.css')
 const BLOCKED = ['node_modules', '.git', '.claude']
-const IGNORED_CHANGES = ['node_modules', '.git', '.claude', '.cache', 'registry/catalog.json', 'tokens/themes/index.ts']
+const IGNORED_CHANGES = ['node_modules', '.git', '.claude', '.cache', 'registry', 'tokens/themes/index.ts', 'dist']
 
 const MIME = {
   '.html': 'text/html; charset=utf-8', '.css': 'text/css; charset=utf-8', '.js': 'text/javascript; charset=utf-8',

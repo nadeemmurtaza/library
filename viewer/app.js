@@ -13,8 +13,12 @@ const state = {
   groupBy: storeGet('groupBy') || 'category',
   filterLang: '',
   filterIndustry: '',
-  filterDs: ''
+  filterDs: '',
+  filterSub: '',
+  limit: 48
 }
+const PAGE = 48
+const isTheme = (i) => i.subcategory === 'daisyui-themes' && i.path.startsWith('tokens/themes/') && !i.path.endsWith('index.ts')
 
 const esc = (s) => String(s || '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c])
 const ext = (p) => p.slice(p.lastIndexOf('.') + 1).toLowerCase()
@@ -22,6 +26,7 @@ const IMG = ['svg', 'png', 'jpg', 'jpeg', 'webp', 'avif', 'gif', 'ico']
 const FONT = ['ttf', 'otf', 'woff', 'woff2']
 const BIN = ['ttf', 'otf', 'woff', 'woff2', 'pdf', 'zip', 'gz', 'ico']
 
+const plural = (w, n) => (n === 1 ? w : /y$/.test(w) ? `${w.slice(0, -1)}ies` : /s$/.test(w) ? w : `${w}s`)
 const label = (t) => {
   if (!t) return ''
   return t.replace(/[-_]/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase())
@@ -38,7 +43,20 @@ async function load() {
   state.items = cat.items || []
   const m = themeTs.match(/themeNames = (\[.*?\])/s)
   state.themes = m ? JSON.parse(m[1]) : []
+  fillFilters()
   $('#theme').innerHTML = state.themes.map((t) => `<option ${t === state.theme ? 'selected' : ''}>${esc(t)}</option>`).join('')
+}
+
+function fillFilters() {
+  const opts = (key, id, all) => {
+    const counts = {}
+    for (const i of state.items) counts[i[key]] = (counts[i[key]] || 0) + 1
+    const cur = state[id]
+    $(`#filter-${all.id}`).innerHTML = `<option value="">${all.label}</option>` + Object.entries(counts).sort((a, b) => b[1] - a[1]).map(([v, n]) => `<option value="${esc(v)}" ${v === cur ? 'selected' : ''}>${esc(label(v))} (${n})</option>`).join('')
+  }
+  opts('language', 'filterLang', { id: 'lang', label: 'All Languages' })
+  opts('industry', 'filterIndustry', { id: 'industry', label: 'All Industries' })
+  opts('designSystem', 'filterDs', { id: 'ds', label: 'All Systems' })
 }
 
 const getGroupVal = (i, groupKey) => {
@@ -49,6 +67,7 @@ const match = (i) => {
   if (state.filterLang && i.language !== state.filterLang) return false
   if (state.filterIndustry && i.industry !== state.filterIndustry) return false
   if (state.filterDs && i.designSystem !== state.filterDs) return false
+  if (state.filterSub && i.subcategory !== state.filterSub) return false
   if (!state.q) return true
   const haystack = `${i.name} ${i.type} ${i.category} ${i.subcategory} ${i.language} ${i.industry} ${i.designSystem} ${i.path}`.toLowerCase()
   return haystack.includes(state.q)
@@ -73,7 +92,7 @@ function overview() {
   app.innerHTML = `
     <div class="mb-6 flex flex-wrap items-baseline justify-between gap-4">
       <div>
-        <h1 class="text-2xl font-bold">${items.length} items in ${sortedGroups.length} ${label(groupKey)}s</h1>
+        <h1 class="text-2xl font-bold">${items.length} items in ${sortedGroups.length} ${plural(label(groupKey), sortedGroups.length)}</h1>
         <p class="text-sm opacity-70 mt-1">Grouped by <strong>${label(groupKey)}</strong>. Click any card to explore items.</p>
       </div>
       <div class="text-xs opacity-60">Total Library Items: ${state.items.length}</div>
@@ -83,7 +102,6 @@ function overview() {
         <a href="#/${esc(groupKey)}/${encodeURIComponent(grp)}" class="card bg-base-100 p-4 transition hover:shadow-md border border-base-200 hover:border-primary/40">
           <div class="text-3xl font-extrabold text-primary">${count}</div>
           <div class="font-medium mt-1 truncate" title="${esc(grp)}">${esc(label(grp))}</div>
-          <div class="text-xs opacity-50 mt-1 uppercase tracking-wider">${esc(groupKey)}</div>
         </a>
       `).join('')}
     </div>`
@@ -99,7 +117,7 @@ function fontFace() {
 
 function thumb(i) {
   const pp = previewPath(i)
-  if (i.type === 'theme') {
+  if (isTheme(i)) {
     const name = i.name
     return `<div data-theme="${esc(name)}" class="flex h-36 flex-col justify-between bg-base-100 p-3"><div class="flex gap-1"><span class="badge badge-primary"></span><span class="badge badge-secondary"></span><span class="badge badge-accent"></span><span class="badge badge-neutral"></span></div><span class="btn btn-primary btn-sm w-fit">${esc(name)}</span></div>`
   }
@@ -129,12 +147,40 @@ function badges(i) {
   return b.join(' ')
 }
 
+// A design system is a folder (design-systems/<source>/<name>/...), not a file: show one card per system.
+const unitKey = (i) => {
+  const p = i.path.split('/')
+  return i.category === 'design-systems' && p.length >= 4 ? p.slice(0, 3).join('/') : null
+}
+const REP = ['DESIGN.md', 'components.html', 'README.md']
+function collapse(items) {
+  const units = new Map()
+  const out = []
+  for (const i of items) {
+    const k = unitKey(i)
+    if (!k) { out.push(i); continue }
+    let u = units.get(k)
+    if (!u) { u = { rep: i, count: 0 }; units.set(k, u); out.push(u) }
+    u.count++
+    const rank = (x) => { const r = REP.indexOf(x.path.split('/').pop()); return r < 0 ? 99 : r }
+    if (rank(i) < rank(u.rep)) u.rep = i
+  }
+  return out.map((x) => (x.rep ? { ...x.rep, _count: x.count } : x))
+}
+
 function list(groupKey, groupVal) {
   let items = filteredItems()
   if (groupKey && groupVal) {
     items = items.filter((i) => getGroupVal(i, groupKey) === groupVal)
   }
 
+  items = collapse(items)
+  const subs = {}
+  for (const i of items) subs[i.subcategory] = (subs[i.subcategory] || 0) + 1
+  const chips = Object.keys(subs).length > 1 && Object.keys(subs).length <= 40
+    ? `<div class="mb-4 flex flex-wrap gap-1">${Object.entries(subs).sort((a, b) => b[1] - a[1]).map(([k, n]) => `<button data-sub="${esc(k)}" class="badge ${state.filterSub === k ? 'badge-primary' : 'badge-outline'} cursor-pointer">${esc(k)} ${n}</button>`).join('')}</div>`
+    : ''
+  const shown = items.slice(0, state.limit)
   const title = groupVal ? `${label(groupKey)}: ${label(groupVal)}` : 'Search Results'
 
   app.innerHTML = `
@@ -144,19 +190,24 @@ function list(groupKey, groupVal) {
       <h1 class="text-xl font-bold">${esc(title)}</h1>
       <span class="badge badge-sm badge-neutral ml-2">${items.length}</span>
     </div>
+    ${chips}
     ${items.length ? '' : '<div class="p-8 text-center opacity-60 bg-base-100 rounded-box border border-base-300">No items match the current filters.</div>'}
     <div class="grid grid-cols-1 gap-4 fold:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5">
-      ${items.map((i) => `
+      ${shown.map((i) => `
         <a href="#/item/${encodeURIComponent(i.path)}" class="card overflow-hidden bg-base-100 border border-base-200 transition hover:shadow-md hover:border-primary/40">
           <figure class="overflow-hidden bg-base-200/50">${thumb(i)}</figure>
           <div class="p-3">
             <div class="truncate font-semibold text-sm" title="${esc(i.name)}">${esc(i.name)}</div>
-            <div class="flex flex-wrap gap-1 mt-2">${badges(i)}</div>
+            <div class="flex flex-wrap gap-1 mt-2">${i._count > 1 ? `<span class="badge badge-xs badge-primary">${i._count} files</span>` : ''}${badges(i)}</div>
             <div class="text-[11px] opacity-50 mt-1 truncate font-mono">${esc(i.path)}</div>
           </div>
         </a>
       `).join('')}
-    </div>`
+    </div>
+    ${items.length > shown.length ? `<div class="mt-6 text-center"><button id="more" class="btn btn-sm">Show more (${items.length - shown.length} left)</button></div>` : ''}`
+  $$('[data-sub]').forEach((b) => b.addEventListener('click', () => { state.filterSub = state.filterSub === b.dataset.sub ? '' : b.dataset.sub; state.limit = PAGE; list(groupKey, groupVal) }))
+  const more = $('#more')
+  if (more) more.addEventListener('click', () => { state.limit += PAGE; const y = scrollY; list(groupKey, groupVal); scrollTo(0, y) })
 }
 
 const md = (s) => esc(s)
@@ -194,6 +245,11 @@ async function detail(itemPath) {
       ${i.license ? `<span class="badge badge-sm badge-ghost">License: ${esc(i.license)}</span>` : ''}
     </div>`
 
+  const unit = unitKey(i)
+  const siblings = unit ? state.items.filter((x) => x.path.startsWith(`${unit}/`)) : []
+  const files = siblings.length > 1
+    ? `<div class="mb-4 flex flex-wrap gap-1">${siblings.map((x) => `<a href="#/item/${encodeURIComponent(x.path)}" class="badge ${x.path === i.path ? 'badge-primary' : 'badge-outline'}">${esc(x.path.slice(unit.length + 1))}</a>`).join('')}</div>`
+    : ''
   const pp = previewPath(i)
   const isImg = IMG.includes(ext(i.path))
   const text = isImg || BIN.includes(ext(i.path)) ? null : await fetch(`/${i.path}`, { cache: 'no-store' }).then((r) => r.text())
@@ -201,10 +257,12 @@ async function detail(itemPath) {
 
   if (i.type === 'design-trend') {
     main = `<div class="grid gap-6 xl:grid-cols-[2fr_1fr]"><iframe src="/${esc(i.demo)}" class="h-[75vh] w-full rounded-box border border-base-300 bg-base-100"></iframe><article class="max-h-[75vh] overflow-auto text-sm bg-base-100 p-6 rounded-box">${md(text)}</article></div>`
-  } else if (i.type === 'theme') {
+  } else if (isTheme(i)) {
     const vars = [...(text || '').matchAll(/--(color-[a-z0-9-]+):\s*([^;]+);/g)]
     const partner = (k) => (k.endsWith('-content') ? k.replace('-content', '') : `${k}-content`)
     main = `<div data-theme="${esc(i.name)}" class="space-y-4 rounded-box bg-base-100 p-6 text-base-content"><div class="grid grid-cols-2 gap-2 fold:grid-cols-3 lg:grid-cols-5">${vars.map(([, k, v]) => `<div class="rounded-field border border-base-300 p-3 text-xs" style="background:var(--${k});color:var(--${partner(k)},inherit)"><div class="font-semibold">${esc(k)}</div><div class="opacity-80">${esc(v)}</div></div>`).join('')}</div><div class="flex flex-wrap gap-2"><button class="btn btn-primary">Primary</button><button class="btn btn-secondary">Secondary</button><button class="btn btn-accent">Accent</button></div></div>`
+  } else if (i.language === 'markdown' && text) {
+    main = `<article class="max-h-[75vh] overflow-auto rounded-box border border-base-300 bg-base-100 p-6 text-sm">${md(text)}</article>`
   } else if (pp) {
     main = `<iframe src="${preview(pp)}" class="h-[75vh] w-full rounded-box border border-base-300 bg-base-100"></iframe>`
   } else if (isImg) {
@@ -221,7 +279,7 @@ async function detail(itemPath) {
     ? `<div class="collapse collapse-arrow mt-4 bg-base-100 border border-base-300"><input type="checkbox" checked><div class="collapse-title font-medium text-sm">Source Code (${esc(ext(i.path))})</div><div class="collapse-content"><pre class="max-h-[60vh] overflow-auto text-xs font-mono p-4 bg-base-200/50 rounded">${esc(text)}</pre></div></div>`
     : ''
 
-  app.innerHTML = crumbs + metaPills + main + code
+  app.innerHTML = crumbs + metaPills + files + main + code
 }
 
 async function route() {
@@ -241,7 +299,7 @@ async function route() {
 
   if (parts.length === 1) {
     // legacy or direct type
-    return list('type', decodeURIComponent(parts[0]))
+    return list('category', decodeURIComponent(parts[0]))
   }
 
   return overview()
@@ -270,6 +328,7 @@ $('#filter-ds').addEventListener('change', (e) => { state.filterDs = e.target.va
 
 $('#search').addEventListener('input', (e) => {
   state.q = e.target.value.trim().toLowerCase()
+  state.limit = PAGE
   if (state.q) list(null, null)
   else route()
 })
@@ -281,7 +340,7 @@ $('#theme').addEventListener('change', (e) => {
   route()
 })
 
-addEventListener('hashchange', route)
+addEventListener('hashchange', () => { state.filterSub = ''; state.limit = PAGE; route() })
 
 async function start() {
   await load()

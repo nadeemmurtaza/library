@@ -1,5 +1,5 @@
 {
-  "count": 150,
+  "count": 147,
   "items": [
     {
       "type": "examples-open-design-mocks",
@@ -1733,54 +1733,6 @@
       "type": "examples-ui-ux-pro-max-gallery",
       "category": "examples",
       "subcategory": "ui-ux-pro-max-gallery",
-      "name": "ui-ux-pro-max-gallery/package-lock.json",
-      "path": "examples/ui-ux-pro-max-gallery/package-lock.json",
-      "language": "json",
-      "industry": "general",
-      "designSystem": "ui-ux-pro-max",
-      "source": "ui-ux-pro-max",
-      "license": "MIT",
-      "tags": [
-        "ui",
-        "ux",
-        "pro",
-        "max",
-        "gallery/package",
-        "lock.json",
-        "examples",
-        "gallery",
-        "package",
-        "lock"
-      ]
-    },
-    {
-      "type": "examples-ui-ux-pro-max-gallery",
-      "category": "examples",
-      "subcategory": "ui-ux-pro-max-gallery",
-      "name": "ui-ux-pro-max-gallery/package.json",
-      "path": "examples/ui-ux-pro-max-gallery/package.json",
-      "language": "json",
-      "industry": "general",
-      "designSystem": "ui-ux-pro-max",
-      "source": "ui-ux-pro-max",
-      "license": "MIT",
-      "tags": [
-        "ui",
-        "ux",
-        "pro",
-        "max",
-        "gallery/package.json",
-        "examples",
-        "gallery",
-        "package",
-        "json",
-        "ui-ux-pro-max-gallery"
-      ]
-    },
-    {
-      "type": "examples-ui-ux-pro-max-gallery",
-      "category": "examples",
-      "subcategory": "ui-ux-pro-max-gallery",
       "name": "ui-ux-pro-max-gallery/postcss.config.js",
       "path": "examples/ui-ux-pro-max-gallery/postcss.config.js",
       "language": "javascript",
@@ -2447,30 +2399,6 @@
         "examples",
         "stack",
         "juniper"
-      ]
-    },
-    {
-      "type": "examples-ui-ux-pro-max-stack",
-      "category": "examples",
-      "subcategory": "ui-ux-pro-max-stack",
-      "name": "ui-ux-pro-max-stack/package.json",
-      "path": "examples/ui-ux-pro-max-stack/package.json",
-      "language": "json",
-      "industry": "general",
-      "designSystem": "ui-ux-pro-max",
-      "source": "ui-ux-pro-max",
-      "license": "MIT",
-      "tags": [
-        "ui",
-        "ux",
-        "pro",
-        "max",
-        "stack/package.json",
-        "examples",
-        "stack",
-        "package",
-        "json",
-        "ui-ux-pro-max-stack"
       ]
     },
     {

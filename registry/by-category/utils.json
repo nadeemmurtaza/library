@@ -1,5 +1,5 @@
 {
-  "count": 14,
+  "count": 13,
   "items": [
     {
       "type": "utils-cn.js",
@@ -117,26 +117,6 @@
         "utils",
         "money",
         "js",
-        "general",
-        "local"
-      ]
-    },
-    {
-      "type": "utils-package.json",
-      "category": "utils",
-      "subcategory": "package.json",
-      "name": "package.json",
-      "path": "utils/package.json",
-      "language": "json",
-      "industry": "general",
-      "designSystem": "local",
-      "source": "local",
-      "license": "MIT",
-      "tags": [
-        "package.json",
-        "utils",
-        "package",
-        "json",
         "general",
         "local"
       ]

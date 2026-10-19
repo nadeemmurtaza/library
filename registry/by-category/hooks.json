@@ -1,26 +1,6 @@
 {
-  "count": 7,
+  "count": 6,
   "items": [
-    {
-      "type": "hooks-package.json",
-      "category": "hooks",
-      "subcategory": "package.json",
-      "name": "package.json",
-      "path": "hooks/package.json",
-      "language": "json",
-      "industry": "general",
-      "designSystem": "local",
-      "source": "local",
-      "license": "MIT",
-      "tags": [
-        "package.json",
-        "hooks",
-        "package",
-        "json",
-        "general",
-        "local"
-      ]
-    },
     {
       "type": "hooks-untitledui",
       "category": "hooks",

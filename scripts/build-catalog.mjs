@@ -320,7 +320,7 @@ const walk = (dir) => {
 for (const dir of SCAN_DIRS) {
   for (const file of walk(dir)) {
     const rel = file.split(path.sep).join('/')
-    if (path.basename(file) === '.gitkeep' || known.has(rel)) continue
+    if (['.gitkeep', 'package.json', 'package-lock.json', 'bun.lock', 'pnpm-lock.yaml'].includes(path.basename(file)) || known.has(rel)) continue
     const name = rel.slice(dir.length + 1)
     addItem(dir.replace('/', '-'), name, file)
     known.add(rel)

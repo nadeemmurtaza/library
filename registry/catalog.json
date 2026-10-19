@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "count": 8111,
+  "count": 8098,
   "items": [
     {
       "type": "component-daisyui",
@@ -19516,30 +19516,6 @@
         "design",
         "templates/last30days/scripts/lib/vendor/bird",
         "search/license",
-        "templates",
-        "last30days",
-        "scripts",
-        "vendor",
-        "bird",
-        "search"
-      ]
-    },
-    {
-      "type": "template-open-design-design-templates",
-      "category": "templates",
-      "subcategory": "open-design-design-templates",
-      "name": "open-design-design-templates/last30days/scripts/lib/vendor/bird-search/package.json",
-      "path": "templates/open-design-design-templates/last30days/scripts/lib/vendor/bird-search/package.json",
-      "language": "json",
-      "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
-      "license": "MIT",
-      "tags": [
-        "open",
-        "design",
-        "templates/last30days/scripts/lib/vendor/bird",
-        "search/package.json",
         "templates",
         "last30days",
         "scripts",
@@ -164067,26 +164043,6 @@
       ]
     },
     {
-      "type": "utils-package.json",
-      "category": "utils",
-      "subcategory": "package.json",
-      "name": "package.json",
-      "path": "utils/package.json",
-      "language": "json",
-      "industry": "general",
-      "designSystem": "local",
-      "source": "local",
-      "license": "MIT",
-      "tags": [
-        "package.json",
-        "utils",
-        "package",
-        "json",
-        "general",
-        "local"
-      ]
-    },
-    {
       "type": "utils-slug.js",
       "category": "utils",
       "subcategory": "slug.js",
@@ -164225,26 +164181,6 @@
         "utils",
         "validate",
         "js",
-        "general",
-        "local"
-      ]
-    },
-    {
-      "type": "hooks-package.json",
-      "category": "hooks",
-      "subcategory": "package.json",
-      "name": "package.json",
-      "path": "hooks/package.json",
-      "language": "json",
-      "industry": "general",
-      "designSystem": "local",
-      "source": "local",
-      "license": "MIT",
-      "tags": [
-        "package.json",
-        "hooks",
-        "package",
-        "json",
         "general",
         "local"
       ]
@@ -164426,26 +164362,6 @@
         "lib",
         "collection-store.js",
         "ecommerce",
-        "local"
-      ]
-    },
-    {
-      "type": "lib-package.json",
-      "category": "lib",
-      "subcategory": "package.json",
-      "name": "package.json",
-      "path": "lib/package.json",
-      "language": "json",
-      "industry": "general",
-      "designSystem": "local",
-      "source": "local",
-      "license": "MIT",
-      "tags": [
-        "package.json",
-        "package",
-        "json",
-        "lib",
-        "general",
         "local"
       ]
     },
@@ -165632,26 +165548,6 @@
       ]
     },
     {
-      "type": "constants-package.json",
-      "category": "constants",
-      "subcategory": "package.json",
-      "name": "package.json",
-      "path": "constants/package.json",
-      "language": "json",
-      "industry": "general",
-      "designSystem": "local",
-      "source": "local",
-      "license": "MIT",
-      "tags": [
-        "package.json",
-        "constants",
-        "package",
-        "json",
-        "general",
-        "local"
-      ]
-    },
-    {
       "type": "constants-roles.js",
       "category": "constants",
       "subcategory": "roles.js",
@@ -165753,26 +165649,6 @@
         "provider",
         "js",
         "confirm-provider.js",
-        "general",
-        "local"
-      ]
-    },
-    {
-      "type": "providers-package.json",
-      "category": "providers",
-      "subcategory": "package.json",
-      "name": "package.json",
-      "path": "providers/package.json",
-      "language": "json",
-      "industry": "general",
-      "designSystem": "local",
-      "source": "local",
-      "license": "MIT",
-      "tags": [
-        "package.json",
-        "providers",
-        "package",
-        "json",
         "general",
         "local"
       ]
@@ -172806,30 +172682,6 @@
         "design",
         "chat",
         "overlay"
-      ]
-    },
-    {
-      "type": "skills-open-design",
-      "category": "skills",
-      "subcategory": "open-design",
-      "name": "open-design/chat-motion-overlay/assets/remotion-template/package.json",
-      "path": "skills/open-design/chat-motion-overlay/assets/remotion-template/package.json",
-      "language": "json",
-      "industry": "general",
-      "designSystem": "local",
-      "source": "local",
-      "license": "MIT",
-      "tags": [
-        "open",
-        "design/chat",
-        "motion",
-        "overlay/assets/remotion",
-        "template/package.json",
-        "skills",
-        "design",
-        "chat",
-        "overlay",
-        "assets"
       ]
     },
     {
@@ -184876,54 +184728,6 @@
       "type": "examples-ui-ux-pro-max-gallery",
       "category": "examples",
       "subcategory": "ui-ux-pro-max-gallery",
-      "name": "ui-ux-pro-max-gallery/package-lock.json",
-      "path": "examples/ui-ux-pro-max-gallery/package-lock.json",
-      "language": "json",
-      "industry": "general",
-      "designSystem": "ui-ux-pro-max",
-      "source": "ui-ux-pro-max",
-      "license": "MIT",
-      "tags": [
-        "ui",
-        "ux",
-        "pro",
-        "max",
-        "gallery/package",
-        "lock.json",
-        "examples",
-        "gallery",
-        "package",
-        "lock"
-      ]
-    },
-    {
-      "type": "examples-ui-ux-pro-max-gallery",
-      "category": "examples",
-      "subcategory": "ui-ux-pro-max-gallery",
-      "name": "ui-ux-pro-max-gallery/package.json",
-      "path": "examples/ui-ux-pro-max-gallery/package.json",
-      "language": "json",
-      "industry": "general",
-      "designSystem": "ui-ux-pro-max",
-      "source": "ui-ux-pro-max",
-      "license": "MIT",
-      "tags": [
-        "ui",
-        "ux",
-        "pro",
-        "max",
-        "gallery/package.json",
-        "examples",
-        "gallery",
-        "package",
-        "json",
-        "ui-ux-pro-max-gallery"
-      ]
-    },
-    {
-      "type": "examples-ui-ux-pro-max-gallery",
-      "category": "examples",
-      "subcategory": "ui-ux-pro-max-gallery",
       "name": "ui-ux-pro-max-gallery/postcss.config.js",
       "path": "examples/ui-ux-pro-max-gallery/postcss.config.js",
       "language": "javascript",
@@ -185590,30 +185394,6 @@
         "examples",
         "stack",
         "juniper"
-      ]
-    },
-    {
-      "type": "examples-ui-ux-pro-max-stack",
-      "category": "examples",
-      "subcategory": "ui-ux-pro-max-stack",
-      "name": "ui-ux-pro-max-stack/package.json",
-      "path": "examples/ui-ux-pro-max-stack/package.json",
-      "language": "json",
-      "industry": "general",
-      "designSystem": "ui-ux-pro-max",
-      "source": "ui-ux-pro-max",
-      "license": "MIT",
-      "tags": [
-        "ui",
-        "ux",
-        "pro",
-        "max",
-        "stack/package.json",
-        "examples",
-        "stack",
-        "package",
-        "json",
-        "ui-ux-pro-max-stack"
       ]
     },
     {
@@ -193354,78 +193134,6 @@
         "cli",
         "npmignore",
         "ui-ux-pro-max-skill"
-      ]
-    },
-    {
-      "type": "vendor-ui-ux-pro-max-skill",
-      "category": "vendor",
-      "subcategory": "ui-ux-pro-max-skill",
-      "name": "ui-ux-pro-max-skill/cli/bun.lock",
-      "path": "vendor/ui-ux-pro-max-skill/cli/bun.lock",
-      "language": "other",
-      "industry": "general",
-      "designSystem": "ui-ux-pro-max",
-      "source": "ui-ux-pro-max",
-      "license": "MIT",
-      "tags": [
-        "ui",
-        "ux",
-        "pro",
-        "max",
-        "skill/cli/bun.lock",
-        "vendor",
-        "skill",
-        "cli",
-        "bun",
-        "lock"
-      ]
-    },
-    {
-      "type": "vendor-ui-ux-pro-max-skill",
-      "category": "vendor",
-      "subcategory": "ui-ux-pro-max-skill",
-      "name": "ui-ux-pro-max-skill/cli/package-lock.json",
-      "path": "vendor/ui-ux-pro-max-skill/cli/package-lock.json",
-      "language": "json",
-      "industry": "general",
-      "designSystem": "ui-ux-pro-max",
-      "source": "ui-ux-pro-max",
-      "license": "MIT",
-      "tags": [
-        "ui",
-        "ux",
-        "pro",
-        "max",
-        "skill/cli/package",
-        "lock.json",
-        "vendor",
-        "skill",
-        "cli",
-        "package"
-      ]
-    },
-    {
-      "type": "vendor-ui-ux-pro-max-skill",
-      "category": "vendor",
-      "subcategory": "ui-ux-pro-max-skill",
-      "name": "ui-ux-pro-max-skill/cli/package.json",
-      "path": "vendor/ui-ux-pro-max-skill/cli/package.json",
-      "language": "json",
-      "industry": "general",
-      "designSystem": "ui-ux-pro-max",
-      "source": "ui-ux-pro-max",
-      "license": "MIT",
-      "tags": [
-        "ui",
-        "ux",
-        "pro",
-        "max",
-        "skill/cli/package.json",
-        "vendor",
-        "skill",
-        "cli",
-        "package",
-        "json"
       ]
     },
     {

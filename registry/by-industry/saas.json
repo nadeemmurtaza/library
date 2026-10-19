@@ -1,5 +1,5 @@
 {
-  "count": 1222,
+  "count": 1221,
   "items": [
     {
       "type": "component-daisyui",
@@ -2366,30 +2366,6 @@
         "design",
         "templates/last30days/scripts/lib/vendor/bird",
         "search/license",
-        "templates",
-        "last30days",
-        "scripts",
-        "vendor",
-        "bird",
-        "search"
-      ]
-    },
-    {
-      "type": "template-open-design-design-templates",
-      "category": "templates",
-      "subcategory": "open-design-design-templates",
-      "name": "open-design-design-templates/last30days/scripts/lib/vendor/bird-search/package.json",
-      "path": "templates/open-design-design-templates/last30days/scripts/lib/vendor/bird-search/package.json",
-      "language": "json",
-      "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
-      "license": "MIT",
-      "tags": [
-        "open",
-        "design",
-        "templates/last30days/scripts/lib/vendor/bird",
-        "search/package.json",
         "templates",
         "last30days",
         "scripts",

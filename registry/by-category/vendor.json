@@ -1,5 +1,5 @@
 {
-  "count": 36,
+  "count": 33,
   "items": [
     {
       "type": "vendor-bencium-marketplace",
@@ -129,78 +129,6 @@
         "cli",
         "npmignore",
         "ui-ux-pro-max-skill"
-      ]
-    },
-    {
-      "type": "vendor-ui-ux-pro-max-skill",
-      "category": "vendor",
-      "subcategory": "ui-ux-pro-max-skill",
-      "name": "ui-ux-pro-max-skill/cli/bun.lock",
-      "path": "vendor/ui-ux-pro-max-skill/cli/bun.lock",
-      "language": "other",
-      "industry": "general",
-      "designSystem": "ui-ux-pro-max",
-      "source": "ui-ux-pro-max",
-      "license": "MIT",
-      "tags": [
-        "ui",
-        "ux",
-        "pro",
-        "max",
-        "skill/cli/bun.lock",
-        "vendor",
-        "skill",
-        "cli",
-        "bun",
-        "lock"
-      ]
-    },
-    {
-      "type": "vendor-ui-ux-pro-max-skill",
-      "category": "vendor",
-      "subcategory": "ui-ux-pro-max-skill",
-      "name": "ui-ux-pro-max-skill/cli/package-lock.json",
-      "path": "vendor/ui-ux-pro-max-skill/cli/package-lock.json",
-      "language": "json",
-      "industry": "general",
-      "designSystem": "ui-ux-pro-max",
-      "source": "ui-ux-pro-max",
-      "license": "MIT",
-      "tags": [
-        "ui",
-        "ux",
-        "pro",
-        "max",
-        "skill/cli/package",
-        "lock.json",
-        "vendor",
-        "skill",
-        "cli",
-        "package"
-      ]
-    },
-    {
-      "type": "vendor-ui-ux-pro-max-skill",
-      "category": "vendor",
-      "subcategory": "ui-ux-pro-max-skill",
-      "name": "ui-ux-pro-max-skill/cli/package.json",
-      "path": "vendor/ui-ux-pro-max-skill/cli/package.json",
-      "language": "json",
-      "industry": "general",
-      "designSystem": "ui-ux-pro-max",
-      "source": "ui-ux-pro-max",
-      "license": "MIT",
-      "tags": [
-        "ui",
-        "ux",
-        "pro",
-        "max",
-        "skill/cli/package.json",
-        "vendor",
-        "skill",
-        "cli",
-        "package",
-        "json"
       ]
     },
     {

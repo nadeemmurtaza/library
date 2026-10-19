@@ -1,5 +1,5 @@
 {
-  "count": 5,
+  "count": 4,
   "items": [
     {
       "type": "providers-auth-provider.js",
@@ -43,26 +43,6 @@
         "provider",
         "js",
         "confirm-provider.js",
-        "general",
-        "local"
-      ]
-    },
-    {
-      "type": "providers-package.json",
-      "category": "providers",
-      "subcategory": "package.json",
-      "name": "package.json",
-      "path": "providers/package.json",
-      "language": "json",
-      "industry": "general",
-      "designSystem": "local",
-      "source": "local",
-      "license": "MIT",
-      "tags": [
-        "package.json",
-        "providers",
-        "package",
-        "json",
         "general",
         "local"
       ]

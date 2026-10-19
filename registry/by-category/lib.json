@@ -1,5 +1,5 @@
 {
-  "count": 3,
+  "count": 2,
   "items": [
     {
       "type": "lib-activity-log.js",
@@ -42,26 +42,6 @@
         "lib",
         "collection-store.js",
         "ecommerce",
-        "local"
-      ]
-    },
-    {
-      "type": "lib-package.json",
-      "category": "lib",
-      "subcategory": "package.json",
-      "name": "package.json",
-      "path": "lib/package.json",
-      "language": "json",
-      "industry": "general",
-      "designSystem": "local",
-      "source": "local",
-      "license": "MIT",
-      "tags": [
-        "package.json",
-        "package",
-        "json",
-        "lib",
-        "general",
         "local"
       ]
     }

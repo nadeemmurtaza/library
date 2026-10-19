@@ -1,6 +1,6 @@
 # Library Catalog Map (AI Agent Guide)
 
-Total Items: **8111** | Fine-Grained Groups: **23**
+Total Items: **8098** | Fine-Grained Groups: **23**
 
 ## How to Find Any Item Fast
 Run the instant search CLI in your terminal:
@@ -19,7 +19,7 @@ When you only need a specific domain, read its lightweight partitioned index fil
 - `registry/by-category/dashboards.json` (8 items)
 - `registry/by-category/modules.json` (10 items)
 - `registry/by-category/components.json` (318 items)
-- `registry/by-category/templates.json` (908 items)
+- `registry/by-category/templates.json` (907 items)
 - `registry/by-category/tokens.json` (51 items)
 - `registry/by-category/schemas.json` (11 items)
 - `registry/by-category/design-systems.json` (4019 items)
@@ -28,7 +28,7 @@ When you only need a specific domain, read its lightweight partitioned index fil
 - `registry/by-category/assets-icons.json` (1174 items)
 
 ## Partitioned Indexes by Industry
-- `registry/by-industry/saas.json` (1222 items)
+- `registry/by-industry/saas.json` (1221 items)
 - `registry/by-industry/fintech.json` (194 items)
 - `registry/by-industry/ecommerce.json` (144 items)
 - `registry/by-industry/marketing.json` (293 items)
@@ -39,21 +39,21 @@ When you only need a specific domain, read its lightweight partitioned index fil
 - **design-trends**: 101 items (Subcategories: 2k1, acid-graphics, afrofuturism, american-kitsch, aqua-ui)
 - **dashboards**: 8 items (Subcategories: admin, ecommerce, fintech, saas)
 - **modules**: 10 items (Subcategories: analytics, auth, billing, notifications)
-- **templates**: 908 items (Subcategories: auth, emails, landing, marketing, open-design-design-templates)
+- **templates**: 907 items (Subcategories: auth, emails, landing, marketing, open-design-design-templates)
 - **design-systems**: 4019 items (Subcategories: bencium, daisyui, open-design, ui-ux-pro-max, untitledui)
 - **assets**: 1420 items (Subcategories: fonts, icons-untitledui, illustrations, images, logos-brand)
 - **schemas**: 11 items (Subcategories: bom.schema.json, customer.schema.json, enquiry.schema.json, material.schema.json, order.schema.json)
-- **utils**: 14 items (Subcategories: cn.js, costing.js, csv.js, dates.js, html.js)
-- **hooks**: 7 items (Subcategories: package.json, untitledui, use-selection.js, use-table.js)
-- **lib**: 3 items (Subcategories: activity-log.js, collection-store.js, package.json)
+- **utils**: 13 items (Subcategories: cn.js, costing.js, csv.js, dates.js, html.js)
+- **hooks**: 6 items (Subcategories: untitledui, use-selection.js, use-table.js)
+- **lib**: 2 items (Subcategories: activity-log.js, collection-store.js)
 - **scripts**: 46 items (Subcategories: build-catalog.mjs, find.mjs, scrape-daisyui-examples.py, scrape-daisyui-trends.py, ui-ux-pro-max)
 - **snippets**: 2 items (Subcategories: admin-confirm-delete.js, admin-validated-form.js)
-- **constants**: 5 items (Subcategories: admin-routes.js, materials.js, package.json, roles.js, statuses.js)
+- **constants**: 4 items (Subcategories: admin-routes.js, materials.js, roles.js, statuses.js)
 - **types**: 1 items (Subcategories: admin.d.ts)
-- **providers**: 5 items (Subcategories: auth-provider.js, confirm-provider.js, package.json, theme-provider.js, toast-provider.js)
+- **providers**: 4 items (Subcategories: auth-provider.js, confirm-provider.js, theme-provider.js, toast-provider.js)
 - **data**: 74 items (Subcategories: bencium, open-design, ui-ux-pro-max)
-- **skills**: 650 items (Subcategories: banner-design, bencium-marketplace, brand, design, design-system)
-- **examples**: 150 items (Subcategories: open-design-mocks, ui-ux-pro-max-gallery, ui-ux-pro-max-preview, ui-ux-pro-max-projects, ui-ux-pro-max-stack)
+- **skills**: 649 items (Subcategories: banner-design, bencium-marketplace, brand, design, design-system)
+- **examples**: 147 items (Subcategories: open-design-mocks, ui-ux-pro-max-gallery, ui-ux-pro-max-preview, ui-ux-pro-max-projects, ui-ux-pro-max-stack)
 - **docs**: 271 items (Subcategories: admin-panel.md, bom.md, open-design, ui-ux-pro-max, untitledui.md)
-- **vendor**: 36 items (Subcategories: bencium-marketplace, daisyui, open-design, ui-ux-pro-max-skill, untitledui)
+- **vendor**: 33 items (Subcategories: bencium-marketplace, daisyui, open-design, ui-ux-pro-max-skill, untitledui)
 - **config**: 1 items (Subcategories: brand.ts)

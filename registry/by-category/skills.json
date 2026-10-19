@@ -1,5 +1,5 @@
 {
-  "count": 650,
+  "count": 649,
   "items": [
     {
       "type": "skills-banner-design",
@@ -5220,30 +5220,6 @@
         "design",
         "chat",
         "overlay"
-      ]
-    },
-    {
-      "type": "skills-open-design",
-      "category": "skills",
-      "subcategory": "open-design",
-      "name": "open-design/chat-motion-overlay/assets/remotion-template/package.json",
-      "path": "skills/open-design/chat-motion-overlay/assets/remotion-template/package.json",
-      "language": "json",
-      "industry": "general",
-      "designSystem": "local",
-      "source": "local",
-      "license": "MIT",
-      "tags": [
-        "open",
-        "design/chat",
-        "motion",
-        "overlay/assets/remotion",
-        "template/package.json",
-        "skills",
-        "design",
-        "chat",
-        "overlay",
-        "assets"
       ]
     },
     {

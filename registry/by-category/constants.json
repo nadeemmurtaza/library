@@ -1,5 +1,5 @@
 {
-  "count": 5,
+  "count": 4,
   "items": [
     {
       "type": "constants-admin-routes.js",
@@ -39,26 +39,6 @@
         "constants",
         "materials",
         "js",
-        "general",
-        "local"
-      ]
-    },
-    {
-      "type": "constants-package.json",
-      "category": "constants",
-      "subcategory": "package.json",
-      "name": "package.json",
-      "path": "constants/package.json",
-      "language": "json",
-      "industry": "general",
-      "designSystem": "local",
-      "source": "local",
-      "license": "MIT",
-      "tags": [
-        "package.json",
-        "constants",
-        "package",
-        "json",
         "general",
         "local"
       ]
