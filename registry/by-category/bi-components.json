@@ -1,5 +1,5 @@
 {
-  "count": 21,
+  "count": 22,
   "items": [
     {
       "type": "component-bi",
@@ -189,6 +189,30 @@
         "bi-analytics",
         "saas",
         "local"
+      ]
+    },
+    {
+      "type": "component-chart",
+      "category": "components",
+      "subcategory": "charts",
+      "name": "charts.js",
+      "path": "components/common/charts.js",
+      "language": "javascript",
+      "industry": "saas",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "charts.js",
+        "components",
+        "common",
+        "charts",
+        "js",
+        "saas",
+        "local",
+        "data-viz",
+        "analytics",
+        "graph"
       ]
     },
     {

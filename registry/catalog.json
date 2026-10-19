@@ -1,7 +1,28 @@
 {
   "version": 2,
-  "count": 8057,
+  "count": 8111,
   "items": [
+    {
+      "type": "component-daisyui",
+      "category": "components",
+      "subcategory": "daisyui-components",
+      "name": "admin",
+      "path": "styles/components/admin/admin.css",
+      "language": "css",
+      "industry": "saas",
+      "designSystem": "daisyui",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "tags": [
+        "admin",
+        "styles",
+        "components",
+        "css",
+        "daisyui-components",
+        "saas",
+        "daisyui"
+      ]
+    },
     {
       "type": "component-daisyui",
       "category": "components",
@@ -26461,6 +26482,54 @@
         "live",
         "artifacts",
         "otd"
+      ]
+    },
+    {
+      "type": "template-pages",
+      "category": "templates",
+      "subcategory": "pages",
+      "name": "pages/admin/app.example.js",
+      "path": "templates/pages/admin/app.example.js",
+      "language": "javascript",
+      "industry": "saas",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "pages/admin/app.example.js",
+        "templates",
+        "pages",
+        "admin",
+        "app",
+        "example",
+        "js",
+        "saas",
+        "local",
+        "full-page"
+      ]
+    },
+    {
+      "type": "template-pages",
+      "category": "templates",
+      "subcategory": "pages",
+      "name": "pages/admin/index.html",
+      "path": "templates/pages/admin/index.html",
+      "language": "html",
+      "industry": "saas",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "pages/admin/index.html",
+        "templates",
+        "pages",
+        "admin",
+        "index",
+        "html",
+        "saas",
+        "local",
+        "full-page",
+        "screen"
       ]
     },
     {
@@ -124201,6 +124270,94 @@
       ]
     },
     {
+      "type": "component-feedback",
+      "category": "components",
+      "subcategory": "feedback",
+      "name": "badge.js",
+      "path": "components/ui/badge.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "badge.js",
+        "components",
+        "ui",
+        "badge",
+        "js",
+        "feedback",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "component-ui",
+      "category": "components",
+      "subcategory": "ui",
+      "name": "drawer.js",
+      "path": "components/ui/drawer.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "drawer.js",
+        "components",
+        "ui",
+        "drawer",
+        "js",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "component-ui",
+      "category": "components",
+      "subcategory": "ui",
+      "name": "field.js",
+      "path": "components/ui/field.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "field.js",
+        "components",
+        "ui",
+        "field",
+        "js",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "component-ui",
+      "category": "components",
+      "subcategory": "ui",
+      "name": "icons.js",
+      "path": "components/ui/icons.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "icons.js",
+        "components",
+        "ui",
+        "icons",
+        "js",
+        "general",
+        "local",
+        "glyph",
+        "symbol",
+        "vector"
+      ]
+    },
+    {
       "type": "component-input",
       "category": "components",
       "subcategory": "inputs",
@@ -126770,6 +126927,100 @@
       ]
     },
     {
+      "type": "component-chart",
+      "category": "components",
+      "subcategory": "charts",
+      "name": "charts.js",
+      "path": "components/common/charts.js",
+      "language": "javascript",
+      "industry": "saas",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "charts.js",
+        "components",
+        "common",
+        "charts",
+        "js",
+        "saas",
+        "local",
+        "data-viz",
+        "analytics",
+        "graph"
+      ]
+    },
+    {
+      "type": "component-common",
+      "category": "components",
+      "subcategory": "common",
+      "name": "image-upload.js",
+      "path": "components/common/image-upload.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "image",
+        "upload.js",
+        "components",
+        "common",
+        "upload",
+        "js",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "component-navigation",
+      "category": "components",
+      "subcategory": "navigation",
+      "name": "page-header.js",
+      "path": "components/common/page-header.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "page",
+        "header.js",
+        "components",
+        "common",
+        "header",
+        "js",
+        "navigation",
+        "general",
+        "local",
+        "full-page"
+      ]
+    },
+    {
+      "type": "component-card",
+      "category": "components",
+      "subcategory": "cards",
+      "name": "stat-card.js",
+      "path": "components/common/stat-card.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "stat",
+        "card.js",
+        "components",
+        "common",
+        "card",
+        "js",
+        "cards",
+        "general",
+        "local",
+        "container"
+      ]
+    },
+    {
       "type": "component-carousel",
       "category": "components",
       "subcategory": "carousel",
@@ -127026,6 +127277,28 @@
         "indicator",
         "tsx",
         "feedback"
+      ]
+    },
+    {
+      "type": "component-layout",
+      "category": "components",
+      "subcategory": "layout",
+      "name": "admin-shell.js",
+      "path": "components/layout/admin-shell.js",
+      "language": "javascript",
+      "industry": "saas",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "admin",
+        "shell.js",
+        "components",
+        "layout",
+        "shell",
+        "js",
+        "saas",
+        "local"
       ]
     },
     {
@@ -127479,6 +127752,95 @@
         "story",
         "tsx",
         "general"
+      ]
+    },
+    {
+      "type": "component-patterns",
+      "category": "components",
+      "subcategory": "patterns",
+      "name": "bom-editor.js",
+      "path": "components/patterns/bom-editor.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "bom",
+        "editor.js",
+        "components",
+        "patterns",
+        "editor",
+        "js",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "component-table",
+      "category": "components",
+      "subcategory": "tables",
+      "name": "data-table.js",
+      "path": "components/patterns/data-table.js",
+      "language": "javascript",
+      "industry": "saas",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "data",
+        "table.js",
+        "components",
+        "patterns",
+        "table",
+        "js",
+        "tables",
+        "saas",
+        "local",
+        "data-grid"
+      ]
+    },
+    {
+      "type": "component-patterns",
+      "category": "components",
+      "subcategory": "patterns",
+      "name": "invoice.js",
+      "path": "components/patterns/invoice.js",
+      "language": "javascript",
+      "industry": "fintech",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "invoice.js",
+        "components",
+        "patterns",
+        "invoice",
+        "js",
+        "fintech",
+        "local"
+      ]
+    },
+    {
+      "type": "component-patterns",
+      "category": "components",
+      "subcategory": "patterns",
+      "name": "order-timeline.js",
+      "path": "components/patterns/order-timeline.js",
+      "language": "javascript",
+      "industry": "ecommerce",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "order",
+        "timeline.js",
+        "components",
+        "patterns",
+        "timeline",
+        "js",
+        "ecommerce",
+        "local"
       ]
     },
     {
@@ -163348,6 +163710,153 @@
       ]
     },
     {
+      "type": "schema-bom.schema.json",
+      "category": "schemas",
+      "subcategory": "bom.schema.json",
+      "name": "bom.schema.json",
+      "path": "schemas/bom.schema.json",
+      "language": "json",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "bom.schema.json",
+        "schemas",
+        "bom",
+        "schema",
+        "json",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "schema-customer.schema.json",
+      "category": "schemas",
+      "subcategory": "customer.schema.json",
+      "name": "customer.schema.json",
+      "path": "schemas/customer.schema.json",
+      "language": "json",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "customer.schema.json",
+        "schemas",
+        "customer",
+        "schema",
+        "json",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "schema-enquiry.schema.json",
+      "category": "schemas",
+      "subcategory": "enquiry.schema.json",
+      "name": "enquiry.schema.json",
+      "path": "schemas/enquiry.schema.json",
+      "language": "json",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "enquiry.schema.json",
+        "schemas",
+        "enquiry",
+        "schema",
+        "json",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "schema-material.schema.json",
+      "category": "schemas",
+      "subcategory": "material.schema.json",
+      "name": "material.schema.json",
+      "path": "schemas/material.schema.json",
+      "language": "json",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "material.schema.json",
+        "schemas",
+        "material",
+        "schema",
+        "json",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "schema-order.schema.json",
+      "category": "schemas",
+      "subcategory": "order.schema.json",
+      "name": "order.schema.json",
+      "path": "schemas/order.schema.json",
+      "language": "json",
+      "industry": "ecommerce",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "order.schema.json",
+        "schemas",
+        "order",
+        "schema",
+        "json",
+        "ecommerce",
+        "local"
+      ]
+    },
+    {
+      "type": "schema-product.schema.json",
+      "category": "schemas",
+      "subcategory": "product.schema.json",
+      "name": "product.schema.json",
+      "path": "schemas/product.schema.json",
+      "language": "json",
+      "industry": "ecommerce",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "product.schema.json",
+        "schemas",
+        "product",
+        "schema",
+        "json",
+        "ecommerce",
+        "local"
+      ]
+    },
+    {
+      "type": "schema-promo.schema.json",
+      "category": "schemas",
+      "subcategory": "promo.schema.json",
+      "name": "promo.schema.json",
+      "path": "schemas/promo.schema.json",
+      "language": "json",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "promo.schema.json",
+        "schemas",
+        "promo",
+        "schema",
+        "json",
+        "general",
+        "local"
+      ]
+    },
+    {
       "type": "schema-untitledui",
       "category": "schemas",
       "subcategory": "untitledui",
@@ -163438,6 +163947,186 @@
       ]
     },
     {
+      "type": "utils-cn.js",
+      "category": "utils",
+      "subcategory": "cn.js",
+      "name": "cn.js",
+      "path": "utils/cn.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "cn.js",
+        "utils",
+        "cn",
+        "js",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "utils-costing.js",
+      "category": "utils",
+      "subcategory": "costing.js",
+      "name": "costing.js",
+      "path": "utils/costing.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "costing.js",
+        "utils",
+        "costing",
+        "js",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "utils-csv.js",
+      "category": "utils",
+      "subcategory": "csv.js",
+      "name": "csv.js",
+      "path": "utils/csv.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "csv.js",
+        "utils",
+        "csv",
+        "js",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "utils-dates.js",
+      "category": "utils",
+      "subcategory": "dates.js",
+      "name": "dates.js",
+      "path": "utils/dates.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "dates.js",
+        "utils",
+        "dates",
+        "js",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "utils-html.js",
+      "category": "utils",
+      "subcategory": "html.js",
+      "name": "html.js",
+      "path": "utils/html.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "html.js",
+        "utils",
+        "html",
+        "js",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "utils-money.js",
+      "category": "utils",
+      "subcategory": "money.js",
+      "name": "money.js",
+      "path": "utils/money.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "money.js",
+        "utils",
+        "money",
+        "js",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "utils-package.json",
+      "category": "utils",
+      "subcategory": "package.json",
+      "name": "package.json",
+      "path": "utils/package.json",
+      "language": "json",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "package.json",
+        "utils",
+        "package",
+        "json",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "utils-slug.js",
+      "category": "utils",
+      "subcategory": "slug.js",
+      "name": "slug.js",
+      "path": "utils/slug.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "slug.js",
+        "utils",
+        "slug",
+        "js",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "utils-storage.js",
+      "category": "utils",
+      "subcategory": "storage.js",
+      "name": "storage.js",
+      "path": "utils/storage.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "storage.js",
+        "utils",
+        "storage",
+        "js",
+        "general",
+        "local"
+      ]
+    },
+    {
       "type": "utils-untitledui",
       "category": "utils",
       "subcategory": "untitledui",
@@ -163518,6 +164207,46 @@
         "timezones",
         "tsx",
         "general"
+      ]
+    },
+    {
+      "type": "utils-validate.js",
+      "category": "utils",
+      "subcategory": "validate.js",
+      "name": "validate.js",
+      "path": "utils/validate.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "validate.js",
+        "utils",
+        "validate",
+        "js",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "hooks-package.json",
+      "category": "hooks",
+      "subcategory": "package.json",
+      "name": "package.json",
+      "path": "hooks/package.json",
+      "language": "json",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "package.json",
+        "hooks",
+        "package",
+        "json",
+        "general",
+        "local"
       ]
     },
     {
@@ -163608,6 +164337,116 @@
         "observer",
         "ts",
         "general"
+      ]
+    },
+    {
+      "type": "hooks-use-selection.js",
+      "category": "hooks",
+      "subcategory": "use-selection.js",
+      "name": "use-selection.js",
+      "path": "hooks/use-selection.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "use",
+        "selection.js",
+        "hooks",
+        "selection",
+        "js",
+        "use-selection.js",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "hooks-use-table.js",
+      "category": "hooks",
+      "subcategory": "use-table.js",
+      "name": "use-table.js",
+      "path": "hooks/use-table.js",
+      "language": "javascript",
+      "industry": "saas",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "use",
+        "table.js",
+        "hooks",
+        "table",
+        "js",
+        "use-table.js",
+        "saas",
+        "local",
+        "data-grid",
+        "rows"
+      ]
+    },
+    {
+      "type": "lib-activity-log.js",
+      "category": "lib",
+      "subcategory": "activity-log.js",
+      "name": "activity-log.js",
+      "path": "lib/activity-log.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "activity",
+        "log.js",
+        "log",
+        "js",
+        "lib",
+        "activity-log.js",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "lib-collection-store.js",
+      "category": "lib",
+      "subcategory": "collection-store.js",
+      "name": "collection-store.js",
+      "path": "lib/collection-store.js",
+      "language": "javascript",
+      "industry": "ecommerce",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "collection",
+        "store.js",
+        "store",
+        "js",
+        "lib",
+        "collection-store.js",
+        "ecommerce",
+        "local"
+      ]
+    },
+    {
+      "type": "lib-package.json",
+      "category": "lib",
+      "subcategory": "package.json",
+      "name": "package.json",
+      "path": "lib/package.json",
+      "language": "json",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "package.json",
+        "package",
+        "json",
+        "lib",
+        "general",
+        "local"
       ]
     },
     {
@@ -164702,6 +165541,284 @@
         "skill",
         "validate",
         "data"
+      ]
+    },
+    {
+      "type": "snippets-admin-confirm-delete.js",
+      "category": "snippets",
+      "subcategory": "admin-confirm-delete.js",
+      "name": "admin-confirm-delete.js",
+      "path": "snippets/admin-confirm-delete.js",
+      "language": "javascript",
+      "industry": "saas",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "admin",
+        "confirm",
+        "delete.js",
+        "snippets",
+        "delete",
+        "js",
+        "admin-confirm-delete.js",
+        "saas",
+        "local"
+      ]
+    },
+    {
+      "type": "snippets-admin-validated-form.js",
+      "category": "snippets",
+      "subcategory": "admin-validated-form.js",
+      "name": "admin-validated-form.js",
+      "path": "snippets/admin-validated-form.js",
+      "language": "javascript",
+      "industry": "saas",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "admin",
+        "validated",
+        "form.js",
+        "snippets",
+        "form",
+        "js",
+        "admin-validated-form.js",
+        "saas",
+        "local"
+      ]
+    },
+    {
+      "type": "constants-admin-routes.js",
+      "category": "constants",
+      "subcategory": "admin-routes.js",
+      "name": "admin-routes.js",
+      "path": "constants/admin-routes.js",
+      "language": "javascript",
+      "industry": "saas",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "admin",
+        "routes.js",
+        "constants",
+        "routes",
+        "js",
+        "admin-routes.js",
+        "saas",
+        "local"
+      ]
+    },
+    {
+      "type": "constants-materials.js",
+      "category": "constants",
+      "subcategory": "materials.js",
+      "name": "materials.js",
+      "path": "constants/materials.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "materials.js",
+        "constants",
+        "materials",
+        "js",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "constants-package.json",
+      "category": "constants",
+      "subcategory": "package.json",
+      "name": "package.json",
+      "path": "constants/package.json",
+      "language": "json",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "package.json",
+        "constants",
+        "package",
+        "json",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "constants-roles.js",
+      "category": "constants",
+      "subcategory": "roles.js",
+      "name": "roles.js",
+      "path": "constants/roles.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "roles.js",
+        "constants",
+        "roles",
+        "js",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "constants-statuses.js",
+      "category": "constants",
+      "subcategory": "statuses.js",
+      "name": "statuses.js",
+      "path": "constants/statuses.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "statuses.js",
+        "constants",
+        "statuses",
+        "js",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "types-admin.d.ts",
+      "category": "types",
+      "subcategory": "admin.d.ts",
+      "name": "admin.d.ts",
+      "path": "types/admin.d.ts",
+      "language": "typescript",
+      "industry": "saas",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "admin.d.ts",
+        "types",
+        "admin",
+        "ts",
+        "saas",
+        "local"
+      ]
+    },
+    {
+      "type": "providers-auth-provider.js",
+      "category": "providers",
+      "subcategory": "auth-provider.js",
+      "name": "auth-provider.js",
+      "path": "providers/auth-provider.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "auth",
+        "provider.js",
+        "providers",
+        "provider",
+        "js",
+        "auth-provider.js",
+        "general",
+        "local",
+        "session",
+        "security"
+      ]
+    },
+    {
+      "type": "providers-confirm-provider.js",
+      "category": "providers",
+      "subcategory": "confirm-provider.js",
+      "name": "confirm-provider.js",
+      "path": "providers/confirm-provider.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "confirm",
+        "provider.js",
+        "providers",
+        "provider",
+        "js",
+        "confirm-provider.js",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "providers-package.json",
+      "category": "providers",
+      "subcategory": "package.json",
+      "name": "package.json",
+      "path": "providers/package.json",
+      "language": "json",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "package.json",
+        "providers",
+        "package",
+        "json",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "providers-theme-provider.js",
+      "category": "providers",
+      "subcategory": "theme-provider.js",
+      "name": "theme-provider.js",
+      "path": "providers/theme-provider.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "theme",
+        "provider.js",
+        "providers",
+        "provider",
+        "js",
+        "theme-provider.js",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "providers-toast-provider.js",
+      "category": "providers",
+      "subcategory": "toast-provider.js",
+      "name": "toast-provider.js",
+      "path": "providers/toast-provider.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "toast",
+        "provider.js",
+        "providers",
+        "provider",
+        "js",
+        "toast-provider.js",
+        "general",
+        "local"
       ]
     },
     {
@@ -185625,6 +186742,48 @@
         "png",
         "uupm-site-pet-grooming",
         "ecommerce"
+      ]
+    },
+    {
+      "type": "docs-admin-panel.md",
+      "category": "docs",
+      "subcategory": "admin-panel.md",
+      "name": "admin-panel.md",
+      "path": "docs/admin-panel.md",
+      "language": "markdown",
+      "industry": "saas",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "admin",
+        "panel.md",
+        "docs",
+        "panel",
+        "md",
+        "admin-panel.md",
+        "saas",
+        "local"
+      ]
+    },
+    {
+      "type": "docs-bom.md",
+      "category": "docs",
+      "subcategory": "bom.md",
+      "name": "bom.md",
+      "path": "docs/bom.md",
+      "language": "markdown",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "bom.md",
+        "docs",
+        "bom",
+        "md",
+        "general",
+        "local"
       ]
     },
     {

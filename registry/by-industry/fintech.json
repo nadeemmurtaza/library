@@ -1,5 +1,5 @@
 {
-  "count": 193,
+  "count": 194,
   "items": [
     {
       "type": "dashboard-fintech",
@@ -1916,6 +1916,27 @@
         "icons",
         "tsx",
         "cards"
+      ]
+    },
+    {
+      "type": "component-patterns",
+      "category": "components",
+      "subcategory": "patterns",
+      "name": "invoice.js",
+      "path": "components/patterns/invoice.js",
+      "language": "javascript",
+      "industry": "fintech",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "invoice.js",
+        "components",
+        "patterns",
+        "invoice",
+        "js",
+        "fintech",
+        "local"
       ]
     },
     {

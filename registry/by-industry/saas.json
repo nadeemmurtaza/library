@@ -1,6 +1,27 @@
 {
-  "count": 1210,
+  "count": 1222,
   "items": [
+    {
+      "type": "component-daisyui",
+      "category": "components",
+      "subcategory": "daisyui-components",
+      "name": "admin",
+      "path": "styles/components/admin/admin.css",
+      "language": "css",
+      "industry": "saas",
+      "designSystem": "daisyui",
+      "source": "daisyui@5.7.50",
+      "license": "MIT",
+      "tags": [
+        "admin",
+        "styles",
+        "components",
+        "css",
+        "daisyui-components",
+        "saas",
+        "daisyui"
+      ]
+    },
     {
       "type": "component-daisyui",
       "category": "components",
@@ -3479,6 +3500,54 @@
         "templates",
         "prompts",
         "video"
+      ]
+    },
+    {
+      "type": "template-pages",
+      "category": "templates",
+      "subcategory": "pages",
+      "name": "pages/admin/app.example.js",
+      "path": "templates/pages/admin/app.example.js",
+      "language": "javascript",
+      "industry": "saas",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "pages/admin/app.example.js",
+        "templates",
+        "pages",
+        "admin",
+        "app",
+        "example",
+        "js",
+        "saas",
+        "local",
+        "full-page"
+      ]
+    },
+    {
+      "type": "template-pages",
+      "category": "templates",
+      "subcategory": "pages",
+      "name": "pages/admin/index.html",
+      "path": "templates/pages/admin/index.html",
+      "language": "html",
+      "industry": "saas",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "pages/admin/index.html",
+        "templates",
+        "pages",
+        "admin",
+        "index",
+        "html",
+        "saas",
+        "local",
+        "full-page",
+        "screen"
       ]
     },
     {
@@ -23136,6 +23205,52 @@
       ]
     },
     {
+      "type": "component-chart",
+      "category": "components",
+      "subcategory": "charts",
+      "name": "charts.js",
+      "path": "components/common/charts.js",
+      "language": "javascript",
+      "industry": "saas",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "charts.js",
+        "components",
+        "common",
+        "charts",
+        "js",
+        "saas",
+        "local",
+        "data-viz",
+        "analytics",
+        "graph"
+      ]
+    },
+    {
+      "type": "component-layout",
+      "category": "components",
+      "subcategory": "layout",
+      "name": "admin-shell.js",
+      "path": "components/layout/admin-shell.js",
+      "language": "javascript",
+      "industry": "saas",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "admin",
+        "shell.js",
+        "components",
+        "layout",
+        "shell",
+        "js",
+        "saas",
+        "local"
+      ]
+    },
+    {
       "type": "component-navigation",
       "category": "components",
       "subcategory": "navigation",
@@ -23157,6 +23272,30 @@
         "mobile",
         "header",
         "tsx"
+      ]
+    },
+    {
+      "type": "component-table",
+      "category": "components",
+      "subcategory": "tables",
+      "name": "data-table.js",
+      "path": "components/patterns/data-table.js",
+      "language": "javascript",
+      "industry": "saas",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "data",
+        "table.js",
+        "components",
+        "patterns",
+        "table",
+        "js",
+        "tables",
+        "saas",
+        "local",
+        "data-grid"
       ]
     },
     {
@@ -26210,6 +26349,30 @@
       ]
     },
     {
+      "type": "hooks-use-table.js",
+      "category": "hooks",
+      "subcategory": "use-table.js",
+      "name": "use-table.js",
+      "path": "hooks/use-table.js",
+      "language": "javascript",
+      "industry": "saas",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "use",
+        "table.js",
+        "hooks",
+        "table",
+        "js",
+        "use-table.js",
+        "saas",
+        "local",
+        "data-grid",
+        "rows"
+      ]
+    },
+    {
       "type": "scripts-ui-ux-pro-max",
       "category": "scripts",
       "subcategory": "ui-ux-pro-max",
@@ -26231,6 +26394,94 @@
         "repo",
         "relevance",
         "metrics"
+      ]
+    },
+    {
+      "type": "snippets-admin-confirm-delete.js",
+      "category": "snippets",
+      "subcategory": "admin-confirm-delete.js",
+      "name": "admin-confirm-delete.js",
+      "path": "snippets/admin-confirm-delete.js",
+      "language": "javascript",
+      "industry": "saas",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "admin",
+        "confirm",
+        "delete.js",
+        "snippets",
+        "delete",
+        "js",
+        "admin-confirm-delete.js",
+        "saas",
+        "local"
+      ]
+    },
+    {
+      "type": "snippets-admin-validated-form.js",
+      "category": "snippets",
+      "subcategory": "admin-validated-form.js",
+      "name": "admin-validated-form.js",
+      "path": "snippets/admin-validated-form.js",
+      "language": "javascript",
+      "industry": "saas",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "admin",
+        "validated",
+        "form.js",
+        "snippets",
+        "form",
+        "js",
+        "admin-validated-form.js",
+        "saas",
+        "local"
+      ]
+    },
+    {
+      "type": "constants-admin-routes.js",
+      "category": "constants",
+      "subcategory": "admin-routes.js",
+      "name": "admin-routes.js",
+      "path": "constants/admin-routes.js",
+      "language": "javascript",
+      "industry": "saas",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "admin",
+        "routes.js",
+        "constants",
+        "routes",
+        "js",
+        "admin-routes.js",
+        "saas",
+        "local"
+      ]
+    },
+    {
+      "type": "types-admin.d.ts",
+      "category": "types",
+      "subcategory": "admin.d.ts",
+      "name": "admin.d.ts",
+      "path": "types/admin.d.ts",
+      "language": "typescript",
+      "industry": "saas",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "admin.d.ts",
+        "types",
+        "admin",
+        "ts",
+        "saas",
+        "local"
       ]
     },
     {
@@ -28487,6 +28738,28 @@
         "stack",
         "scripts",
         "design"
+      ]
+    },
+    {
+      "type": "docs-admin-panel.md",
+      "category": "docs",
+      "subcategory": "admin-panel.md",
+      "name": "admin-panel.md",
+      "path": "docs/admin-panel.md",
+      "language": "markdown",
+      "industry": "saas",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "admin",
+        "panel.md",
+        "docs",
+        "panel",
+        "md",
+        "admin-panel.md",
+        "saas",
+        "local"
       ]
     },
     {

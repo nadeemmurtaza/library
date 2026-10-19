@@ -1,0 +1,25 @@
+{
+  "count": 1,
+  "items": [
+    {
+      "type": "types-admin.d.ts",
+      "category": "types",
+      "subcategory": "admin.d.ts",
+      "name": "admin.d.ts",
+      "path": "types/admin.d.ts",
+      "language": "typescript",
+      "industry": "saas",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "admin.d.ts",
+        "types",
+        "admin",
+        "ts",
+        "saas",
+        "local"
+      ]
+    }
+  ]
+}

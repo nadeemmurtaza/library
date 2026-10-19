@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Product",
+  "type": "object",
+  "required": ["name", "price"],
+  "properties": {
+    "id": { "type": "string" },
+    "name": { "type": "string", "minLength": 2, "maxLength": 80 },
+    "price": { "type": "integer", "minimum": 0 },
+    "was": { "type": "integer", "minimum": 0 },
+    "stock": { "type": "integer", "minimum": 0 },
+    "fee": { "type": "integer", "minimum": 0 },
+    "line": { "type": "string", "maxLength": 240 },
+    "inside": { "type": "array", "items": { "type": "string" } },
+    "tags": { "type": "array", "items": { "type": "string" } },
+    "active": { "type": "boolean" },
+    "img": { "type": "string" }
+  }
+}

@@ -1,6 +1,48 @@
 {
-  "count": 269,
+  "count": 271,
   "items": [
+    {
+      "type": "docs-admin-panel.md",
+      "category": "docs",
+      "subcategory": "admin-panel.md",
+      "name": "admin-panel.md",
+      "path": "docs/admin-panel.md",
+      "language": "markdown",
+      "industry": "saas",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "admin",
+        "panel.md",
+        "docs",
+        "panel",
+        "md",
+        "admin-panel.md",
+        "saas",
+        "local"
+      ]
+    },
+    {
+      "type": "docs-bom.md",
+      "category": "docs",
+      "subcategory": "bom.md",
+      "name": "bom.md",
+      "path": "docs/bom.md",
+      "language": "markdown",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "bom.md",
+        "docs",
+        "bom",
+        "md",
+        "general",
+        "local"
+      ]
+    },
     {
       "type": "docs-open-design",
       "category": "docs",

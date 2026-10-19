@@ -1,0 +1,115 @@
+{
+  "count": 5,
+  "items": [
+    {
+      "type": "providers-auth-provider.js",
+      "category": "providers",
+      "subcategory": "auth-provider.js",
+      "name": "auth-provider.js",
+      "path": "providers/auth-provider.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "auth",
+        "provider.js",
+        "providers",
+        "provider",
+        "js",
+        "auth-provider.js",
+        "general",
+        "local",
+        "session",
+        "security"
+      ]
+    },
+    {
+      "type": "providers-confirm-provider.js",
+      "category": "providers",
+      "subcategory": "confirm-provider.js",
+      "name": "confirm-provider.js",
+      "path": "providers/confirm-provider.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "confirm",
+        "provider.js",
+        "providers",
+        "provider",
+        "js",
+        "confirm-provider.js",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "providers-package.json",
+      "category": "providers",
+      "subcategory": "package.json",
+      "name": "package.json",
+      "path": "providers/package.json",
+      "language": "json",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "package.json",
+        "providers",
+        "package",
+        "json",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "providers-theme-provider.js",
+      "category": "providers",
+      "subcategory": "theme-provider.js",
+      "name": "theme-provider.js",
+      "path": "providers/theme-provider.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "theme",
+        "provider.js",
+        "providers",
+        "provider",
+        "js",
+        "theme-provider.js",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "providers-toast-provider.js",
+      "category": "providers",
+      "subcategory": "toast-provider.js",
+      "name": "toast-provider.js",
+      "path": "providers/toast-provider.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "toast",
+        "provider.js",
+        "providers",
+        "provider",
+        "js",
+        "toast-provider.js",
+        "general",
+        "local"
+      ]
+    }
+  ]
+}

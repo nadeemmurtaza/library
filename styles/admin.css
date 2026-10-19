@@ -1,0 +1,6 @@
+/* Admin entry: the library CSS plus the admin anatomy. Build: npm run admin:css  ->  dist/admin.css
+   A consumer replaces ../tokens/brand-theme.css with its own theme file and adds @source for the folders that hold its views. */
+@import "./index.css";
+@import "./components/admin/admin.css";
+@source "../components/**/*.js";
+@source "../templates/pages/admin/*.html";

@@ -1,6 +1,153 @@
 {
-  "count": 4,
+  "count": 11,
   "items": [
+    {
+      "type": "schema-bom.schema.json",
+      "category": "schemas",
+      "subcategory": "bom.schema.json",
+      "name": "bom.schema.json",
+      "path": "schemas/bom.schema.json",
+      "language": "json",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "bom.schema.json",
+        "schemas",
+        "bom",
+        "schema",
+        "json",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "schema-customer.schema.json",
+      "category": "schemas",
+      "subcategory": "customer.schema.json",
+      "name": "customer.schema.json",
+      "path": "schemas/customer.schema.json",
+      "language": "json",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "customer.schema.json",
+        "schemas",
+        "customer",
+        "schema",
+        "json",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "schema-enquiry.schema.json",
+      "category": "schemas",
+      "subcategory": "enquiry.schema.json",
+      "name": "enquiry.schema.json",
+      "path": "schemas/enquiry.schema.json",
+      "language": "json",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "enquiry.schema.json",
+        "schemas",
+        "enquiry",
+        "schema",
+        "json",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "schema-material.schema.json",
+      "category": "schemas",
+      "subcategory": "material.schema.json",
+      "name": "material.schema.json",
+      "path": "schemas/material.schema.json",
+      "language": "json",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "material.schema.json",
+        "schemas",
+        "material",
+        "schema",
+        "json",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "schema-order.schema.json",
+      "category": "schemas",
+      "subcategory": "order.schema.json",
+      "name": "order.schema.json",
+      "path": "schemas/order.schema.json",
+      "language": "json",
+      "industry": "ecommerce",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "order.schema.json",
+        "schemas",
+        "order",
+        "schema",
+        "json",
+        "ecommerce",
+        "local"
+      ]
+    },
+    {
+      "type": "schema-product.schema.json",
+      "category": "schemas",
+      "subcategory": "product.schema.json",
+      "name": "product.schema.json",
+      "path": "schemas/product.schema.json",
+      "language": "json",
+      "industry": "ecommerce",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "product.schema.json",
+        "schemas",
+        "product",
+        "schema",
+        "json",
+        "ecommerce",
+        "local"
+      ]
+    },
+    {
+      "type": "schema-promo.schema.json",
+      "category": "schemas",
+      "subcategory": "promo.schema.json",
+      "name": "promo.schema.json",
+      "path": "schemas/promo.schema.json",
+      "language": "json",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "promo.schema.json",
+        "schemas",
+        "promo",
+        "schema",
+        "json",
+        "general",
+        "local"
+      ]
+    },
     {
       "type": "schema-untitledui",
       "category": "schemas",

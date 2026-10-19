@@ -1,5 +1,5 @@
 {
-  "count": 14,
+  "count": 16,
   "items": [
     {
       "type": "dashboard-admin",
@@ -181,6 +181,54 @@
         "dashboard",
         "tsx",
         "local"
+      ]
+    },
+    {
+      "type": "template-pages",
+      "category": "templates",
+      "subcategory": "pages",
+      "name": "pages/admin/app.example.js",
+      "path": "templates/pages/admin/app.example.js",
+      "language": "javascript",
+      "industry": "saas",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "pages/admin/app.example.js",
+        "templates",
+        "pages",
+        "admin",
+        "app",
+        "example",
+        "js",
+        "saas",
+        "local",
+        "full-page"
+      ]
+    },
+    {
+      "type": "template-pages",
+      "category": "templates",
+      "subcategory": "pages",
+      "name": "pages/admin/index.html",
+      "path": "templates/pages/admin/index.html",
+      "language": "html",
+      "industry": "saas",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "pages/admin/index.html",
+        "templates",
+        "pages",
+        "admin",
+        "index",
+        "html",
+        "saas",
+        "local",
+        "full-page",
+        "screen"
       ]
     },
     {

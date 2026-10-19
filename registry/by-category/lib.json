@@ -1,0 +1,69 @@
+{
+  "count": 3,
+  "items": [
+    {
+      "type": "lib-activity-log.js",
+      "category": "lib",
+      "subcategory": "activity-log.js",
+      "name": "activity-log.js",
+      "path": "lib/activity-log.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "activity",
+        "log.js",
+        "log",
+        "js",
+        "lib",
+        "activity-log.js",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "lib-collection-store.js",
+      "category": "lib",
+      "subcategory": "collection-store.js",
+      "name": "collection-store.js",
+      "path": "lib/collection-store.js",
+      "language": "javascript",
+      "industry": "ecommerce",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "collection",
+        "store.js",
+        "store",
+        "js",
+        "lib",
+        "collection-store.js",
+        "ecommerce",
+        "local"
+      ]
+    },
+    {
+      "type": "lib-package.json",
+      "category": "lib",
+      "subcategory": "package.json",
+      "name": "package.json",
+      "path": "lib/package.json",
+      "language": "json",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "package.json",
+        "package",
+        "json",
+        "lib",
+        "general",
+        "local"
+      ]
+    }
+  ]
+}

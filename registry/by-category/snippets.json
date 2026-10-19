@@ -1,0 +1,51 @@
+{
+  "count": 2,
+  "items": [
+    {
+      "type": "snippets-admin-confirm-delete.js",
+      "category": "snippets",
+      "subcategory": "admin-confirm-delete.js",
+      "name": "admin-confirm-delete.js",
+      "path": "snippets/admin-confirm-delete.js",
+      "language": "javascript",
+      "industry": "saas",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "admin",
+        "confirm",
+        "delete.js",
+        "snippets",
+        "delete",
+        "js",
+        "admin-confirm-delete.js",
+        "saas",
+        "local"
+      ]
+    },
+    {
+      "type": "snippets-admin-validated-form.js",
+      "category": "snippets",
+      "subcategory": "admin-validated-form.js",
+      "name": "admin-validated-form.js",
+      "path": "snippets/admin-validated-form.js",
+      "language": "javascript",
+      "industry": "saas",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "admin",
+        "validated",
+        "form.js",
+        "snippets",
+        "form",
+        "js",
+        "admin-validated-form.js",
+        "saas",
+        "local"
+      ]
+    }
+  ]
+}

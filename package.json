@@ -10,10 +10,14 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "node --test tests/admin-kit.test.js",
     "viewer": "node viewer/server.mjs",
     "catalog": "node scripts/build-catalog.mjs",
+<<<<<<< HEAD
     "find": "node scripts/find.mjs"
+=======
+    "admin:css": "tailwindcss -i styles/admin.css -o dist/admin.css"
+>>>>>>> origin/main
   },
   "keywords": [],
   "author": "",

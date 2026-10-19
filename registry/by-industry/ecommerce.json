@@ -1,5 +1,5 @@
 {
-  "count": 140,
+  "count": 144,
   "items": [
     {
       "type": "dashboard-ecommerce",
@@ -1439,6 +1439,28 @@
       ]
     },
     {
+      "type": "component-patterns",
+      "category": "components",
+      "subcategory": "patterns",
+      "name": "order-timeline.js",
+      "path": "components/patterns/order-timeline.js",
+      "language": "javascript",
+      "industry": "ecommerce",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "order",
+        "timeline.js",
+        "components",
+        "patterns",
+        "timeline",
+        "js",
+        "ecommerce",
+        "local"
+      ]
+    },
+    {
       "type": "asset-icons",
       "category": "assets",
       "subcategory": "icons-untitledui",
@@ -1628,6 +1650,70 @@
         "svg",
         "icons-untitledui",
         "ecommerce"
+      ]
+    },
+    {
+      "type": "schema-order.schema.json",
+      "category": "schemas",
+      "subcategory": "order.schema.json",
+      "name": "order.schema.json",
+      "path": "schemas/order.schema.json",
+      "language": "json",
+      "industry": "ecommerce",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "order.schema.json",
+        "schemas",
+        "order",
+        "schema",
+        "json",
+        "ecommerce",
+        "local"
+      ]
+    },
+    {
+      "type": "schema-product.schema.json",
+      "category": "schemas",
+      "subcategory": "product.schema.json",
+      "name": "product.schema.json",
+      "path": "schemas/product.schema.json",
+      "language": "json",
+      "industry": "ecommerce",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "product.schema.json",
+        "schemas",
+        "product",
+        "schema",
+        "json",
+        "ecommerce",
+        "local"
+      ]
+    },
+    {
+      "type": "lib-collection-store.js",
+      "category": "lib",
+      "subcategory": "collection-store.js",
+      "name": "collection-store.js",
+      "path": "lib/collection-store.js",
+      "language": "javascript",
+      "industry": "ecommerce",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "collection",
+        "store.js",
+        "store",
+        "js",
+        "lib",
+        "collection-store.js",
+        "ecommerce",
+        "local"
       ]
     },
     {

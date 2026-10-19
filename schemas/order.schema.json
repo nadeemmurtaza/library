@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Order",
+  "type": "object",
+  "required": ["customer", "items", "total"],
+  "properties": {
+    "id": { "type": "string" },
+    "status": { "type": "string", "enum": ["new", "confirmed", "preparing", "dispatched", "delivered", "cancelled"] },
+    "payment": { "type": "string", "enum": ["unpaid", "paid", "refunded"] },
+    "total": { "type": "number", "minimum": 0 },
+    "items": { "type": "array" },
+    "customer": { "type": "object" }
+  }
+}

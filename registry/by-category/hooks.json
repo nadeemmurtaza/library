@@ -1,6 +1,26 @@
 {
-  "count": 4,
+  "count": 7,
   "items": [
+    {
+      "type": "hooks-package.json",
+      "category": "hooks",
+      "subcategory": "package.json",
+      "name": "package.json",
+      "path": "hooks/package.json",
+      "language": "json",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "package.json",
+        "hooks",
+        "package",
+        "json",
+        "general",
+        "local"
+      ]
+    },
     {
       "type": "hooks-untitledui",
       "category": "hooks",
@@ -89,6 +109,52 @@
         "observer",
         "ts",
         "general"
+      ]
+    },
+    {
+      "type": "hooks-use-selection.js",
+      "category": "hooks",
+      "subcategory": "use-selection.js",
+      "name": "use-selection.js",
+      "path": "hooks/use-selection.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "use",
+        "selection.js",
+        "hooks",
+        "selection",
+        "js",
+        "use-selection.js",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "hooks-use-table.js",
+      "category": "hooks",
+      "subcategory": "use-table.js",
+      "name": "use-table.js",
+      "path": "hooks/use-table.js",
+      "language": "javascript",
+      "industry": "saas",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "use",
+        "table.js",
+        "hooks",
+        "table",
+        "js",
+        "use-table.js",
+        "saas",
+        "local",
+        "data-grid",
+        "rows"
       ]
     }
   ]

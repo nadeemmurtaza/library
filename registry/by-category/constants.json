@@ -1,0 +1,107 @@
+{
+  "count": 5,
+  "items": [
+    {
+      "type": "constants-admin-routes.js",
+      "category": "constants",
+      "subcategory": "admin-routes.js",
+      "name": "admin-routes.js",
+      "path": "constants/admin-routes.js",
+      "language": "javascript",
+      "industry": "saas",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "admin",
+        "routes.js",
+        "constants",
+        "routes",
+        "js",
+        "admin-routes.js",
+        "saas",
+        "local"
+      ]
+    },
+    {
+      "type": "constants-materials.js",
+      "category": "constants",
+      "subcategory": "materials.js",
+      "name": "materials.js",
+      "path": "constants/materials.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "materials.js",
+        "constants",
+        "materials",
+        "js",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "constants-package.json",
+      "category": "constants",
+      "subcategory": "package.json",
+      "name": "package.json",
+      "path": "constants/package.json",
+      "language": "json",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "package.json",
+        "constants",
+        "package",
+        "json",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "constants-roles.js",
+      "category": "constants",
+      "subcategory": "roles.js",
+      "name": "roles.js",
+      "path": "constants/roles.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "roles.js",
+        "constants",
+        "roles",
+        "js",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "constants-statuses.js",
+      "category": "constants",
+      "subcategory": "statuses.js",
+      "name": "statuses.js",
+      "path": "constants/statuses.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "statuses.js",
+        "constants",
+        "statuses",
+        "js",
+        "general",
+        "local"
+      ]
+    }
+  ]
+}
