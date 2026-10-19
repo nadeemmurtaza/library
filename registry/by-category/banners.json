@@ -1,0 +1,170 @@
+{
+  "count": 7,
+  "items": [
+    {
+      "type": "component-banner",
+      "category": "components",
+      "subcategory": "banners",
+      "name": "alert-status-banner.tsx",
+      "path": "components/banners/alert-status-banner.tsx",
+      "language": "typescript",
+      "industry": "marketing",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "alert",
+        "status",
+        "banner.tsx",
+        "components",
+        "banners",
+        "banner",
+        "tsx",
+        "marketing",
+        "local",
+        "announcement"
+      ]
+    },
+    {
+      "type": "component-banner",
+      "category": "components",
+      "subcategory": "banners",
+      "name": "announcement-banner.tsx",
+      "path": "components/banners/announcement-banner.tsx",
+      "language": "typescript",
+      "industry": "marketing",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "announcement",
+        "banner.tsx",
+        "components",
+        "banners",
+        "banner",
+        "tsx",
+        "marketing",
+        "local",
+        "notification",
+        "promo"
+      ]
+    },
+    {
+      "type": "component-banner",
+      "category": "components",
+      "subcategory": "banners",
+      "name": "banners.demo.html",
+      "path": "components/banners/banners.demo.html",
+      "language": "html",
+      "industry": "marketing",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "banners.demo.html",
+        "components",
+        "banners",
+        "demo",
+        "html",
+        "marketing",
+        "local",
+        "announcement",
+        "notification",
+        "promo"
+      ]
+    },
+    {
+      "type": "component-banner",
+      "category": "components",
+      "subcategory": "banners",
+      "name": "cookie-consent-banner.tsx",
+      "path": "components/banners/cookie-consent-banner.tsx",
+      "language": "typescript",
+      "industry": "marketing",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "cookie",
+        "consent",
+        "banner.tsx",
+        "components",
+        "banners",
+        "banner",
+        "tsx",
+        "marketing",
+        "local",
+        "announcement"
+      ]
+    },
+    {
+      "type": "component-banner",
+      "category": "components",
+      "subcategory": "banners",
+      "name": "floating-bottom-banner.tsx",
+      "path": "components/banners/floating-bottom-banner.tsx",
+      "language": "typescript",
+      "industry": "marketing",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "floating",
+        "bottom",
+        "banner.tsx",
+        "components",
+        "banners",
+        "banner",
+        "tsx",
+        "marketing",
+        "local",
+        "announcement"
+      ]
+    },
+    {
+      "type": "component-banner",
+      "category": "components",
+      "subcategory": "banners",
+      "name": "index.ts",
+      "path": "components/banners/index.ts",
+      "language": "typescript",
+      "industry": "marketing",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "index.ts",
+        "components",
+        "banners",
+        "index",
+        "ts",
+        "marketing",
+        "local"
+      ]
+    },
+    {
+      "type": "component-banner",
+      "category": "components",
+      "subcategory": "banners",
+      "name": "promotional-sale-banner.tsx",
+      "path": "components/banners/promotional-sale-banner.tsx",
+      "language": "typescript",
+      "industry": "marketing",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "promotional",
+        "sale",
+        "banner.tsx",
+        "components",
+        "banners",
+        "banner",
+        "tsx",
+        "marketing",
+        "local",
+        "announcement"
+      ]
+    }
+  ]
+}

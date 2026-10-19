@@ -1,0 +1,25 @@
+{
+  "count": 1,
+  "items": [
+    {
+      "type": "config-brand.ts",
+      "category": "config",
+      "subcategory": "brand.ts",
+      "name": "brand",
+      "path": "config/brand.ts",
+      "language": "typescript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "brand",
+        "config",
+        "ts",
+        "brand.ts",
+        "general",
+        "local"
+      ]
+    }
+  ]
+}

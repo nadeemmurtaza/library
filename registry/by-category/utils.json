@@ -1,0 +1,88 @@
+{
+  "count": 4,
+  "items": [
+    {
+      "type": "utils-untitledui",
+      "category": "utils",
+      "subcategory": "untitledui",
+      "name": "untitledui/countries.tsx",
+      "path": "utils/untitledui/countries.tsx",
+      "language": "typescript",
+      "industry": "general",
+      "designSystem": "untitledui",
+      "source": "untitledui",
+      "license": "MIT",
+      "tags": [
+        "untitledui/countries.tsx",
+        "utils",
+        "untitledui",
+        "countries",
+        "tsx",
+        "general"
+      ]
+    },
+    {
+      "type": "utils-untitledui",
+      "category": "utils",
+      "subcategory": "untitledui",
+      "name": "untitledui/cx.ts",
+      "path": "utils/untitledui/cx.ts",
+      "language": "typescript",
+      "industry": "general",
+      "designSystem": "untitledui",
+      "source": "untitledui",
+      "license": "MIT",
+      "tags": [
+        "untitledui/cx.ts",
+        "utils",
+        "untitledui",
+        "cx",
+        "ts",
+        "general"
+      ]
+    },
+    {
+      "type": "utils-untitledui",
+      "category": "utils",
+      "subcategory": "untitledui",
+      "name": "untitledui/is-react-component.ts",
+      "path": "utils/untitledui/is-react-component.ts",
+      "language": "typescript",
+      "industry": "general",
+      "designSystem": "untitledui",
+      "source": "untitledui",
+      "license": "MIT",
+      "tags": [
+        "untitledui/is",
+        "react",
+        "component.ts",
+        "utils",
+        "untitledui",
+        "is",
+        "component",
+        "ts",
+        "general"
+      ]
+    },
+    {
+      "type": "utils-untitledui",
+      "category": "utils",
+      "subcategory": "untitledui",
+      "name": "untitledui/timezones.tsx",
+      "path": "utils/untitledui/timezones.tsx",
+      "language": "typescript",
+      "industry": "general",
+      "designSystem": "untitledui",
+      "source": "untitledui",
+      "license": "MIT",
+      "tags": [
+        "untitledui/timezones.tsx",
+        "utils",
+        "untitledui",
+        "timezones",
+        "tsx",
+        "general"
+      ]
+    }
+  ]
+}

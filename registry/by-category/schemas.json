@@ -1,0 +1,95 @@
+{
+  "count": 4,
+  "items": [
+    {
+      "type": "schema-untitledui",
+      "category": "schemas",
+      "subcategory": "untitledui",
+      "name": "untitledui/component-metadata.schema.ts",
+      "path": "schemas/untitledui/component-metadata.schema.ts",
+      "language": "typescript",
+      "industry": "general",
+      "designSystem": "untitledui",
+      "source": "untitledui",
+      "license": "MIT",
+      "tags": [
+        "untitledui/component",
+        "metadata.schema.ts",
+        "schemas",
+        "untitledui",
+        "component",
+        "metadata",
+        "schema",
+        "ts",
+        "general"
+      ]
+    },
+    {
+      "type": "schema-untitledui",
+      "category": "schemas",
+      "subcategory": "untitledui",
+      "name": "untitledui/design-tokens.schema.json",
+      "path": "schemas/untitledui/design-tokens.schema.json",
+      "language": "json",
+      "industry": "saas",
+      "designSystem": "untitledui",
+      "source": "untitledui",
+      "license": "MIT",
+      "tags": [
+        "untitledui/design",
+        "tokens.schema.json",
+        "schemas",
+        "untitledui",
+        "design",
+        "tokens",
+        "schema",
+        "json",
+        "saas"
+      ]
+    },
+    {
+      "type": "schema-untitledui",
+      "category": "schemas",
+      "subcategory": "untitledui",
+      "name": "untitledui/registry-item.schema.json",
+      "path": "schemas/untitledui/registry-item.schema.json",
+      "language": "json",
+      "industry": "general",
+      "designSystem": "untitledui",
+      "source": "untitledui",
+      "license": "MIT",
+      "tags": [
+        "untitledui/registry",
+        "item.schema.json",
+        "schemas",
+        "untitledui",
+        "registry",
+        "item",
+        "schema",
+        "json",
+        "general"
+      ]
+    },
+    {
+      "type": "schema-untitledui",
+      "category": "schemas",
+      "subcategory": "untitledui",
+      "name": "untitledui/theme.schema.ts",
+      "path": "schemas/untitledui/theme.schema.ts",
+      "language": "typescript",
+      "industry": "general",
+      "designSystem": "untitledui",
+      "source": "untitledui",
+      "license": "MIT",
+      "tags": [
+        "untitledui/theme.schema.ts",
+        "schemas",
+        "untitledui",
+        "theme",
+        "schema",
+        "ts",
+        "general"
+      ]
+    }
+  ]
+}

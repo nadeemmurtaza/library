@@ -1,0 +1,5867 @@
+[
+  {
+    "name": "activity-heart",
+    "file": "activity-heart.svg",
+    "path": "assets/icons/untitledui/activity-heart.svg"
+  },
+  {
+    "name": "activity",
+    "file": "activity.svg",
+    "path": "assets/icons/untitledui/activity.svg"
+  },
+  {
+    "name": "airplay",
+    "file": "airplay.svg",
+    "path": "assets/icons/untitledui/airplay.svg"
+  },
+  {
+    "name": "airpods",
+    "file": "airpods.svg",
+    "path": "assets/icons/untitledui/airpods.svg"
+  },
+  {
+    "name": "alarm-clock-check",
+    "file": "alarm-clock-check.svg",
+    "path": "assets/icons/untitledui/alarm-clock-check.svg"
+  },
+  {
+    "name": "alarm-clock-minus",
+    "file": "alarm-clock-minus.svg",
+    "path": "assets/icons/untitledui/alarm-clock-minus.svg"
+  },
+  {
+    "name": "alarm-clock-off",
+    "file": "alarm-clock-off.svg",
+    "path": "assets/icons/untitledui/alarm-clock-off.svg"
+  },
+  {
+    "name": "alarm-clock-plus",
+    "file": "alarm-clock-plus.svg",
+    "path": "assets/icons/untitledui/alarm-clock-plus.svg"
+  },
+  {
+    "name": "alarm-clock",
+    "file": "alarm-clock.svg",
+    "path": "assets/icons/untitledui/alarm-clock.svg"
+  },
+  {
+    "name": "alert-circle",
+    "file": "alert-circle.svg",
+    "path": "assets/icons/untitledui/alert-circle.svg"
+  },
+  {
+    "name": "alert-hexagon",
+    "file": "alert-hexagon.svg",
+    "path": "assets/icons/untitledui/alert-hexagon.svg"
+  },
+  {
+    "name": "alert-octagon",
+    "file": "alert-octagon.svg",
+    "path": "assets/icons/untitledui/alert-octagon.svg"
+  },
+  {
+    "name": "alert-square",
+    "file": "alert-square.svg",
+    "path": "assets/icons/untitledui/alert-square.svg"
+  },
+  {
+    "name": "alert-triangle",
+    "file": "alert-triangle.svg",
+    "path": "assets/icons/untitledui/alert-triangle.svg"
+  },
+  {
+    "name": "align-bottom-01",
+    "file": "align-bottom-01.svg",
+    "path": "assets/icons/untitledui/align-bottom-01.svg"
+  },
+  {
+    "name": "align-bottom-02",
+    "file": "align-bottom-02.svg",
+    "path": "assets/icons/untitledui/align-bottom-02.svg"
+  },
+  {
+    "name": "align-center",
+    "file": "align-center.svg",
+    "path": "assets/icons/untitledui/align-center.svg"
+  },
+  {
+    "name": "align-horizontal-center-01",
+    "file": "align-horizontal-center-01.svg",
+    "path": "assets/icons/untitledui/align-horizontal-center-01.svg"
+  },
+  {
+    "name": "align-horizontal-center-02",
+    "file": "align-horizontal-center-02.svg",
+    "path": "assets/icons/untitledui/align-horizontal-center-02.svg"
+  },
+  {
+    "name": "align-justify",
+    "file": "align-justify.svg",
+    "path": "assets/icons/untitledui/align-justify.svg"
+  },
+  {
+    "name": "align-left-01",
+    "file": "align-left-01.svg",
+    "path": "assets/icons/untitledui/align-left-01.svg"
+  },
+  {
+    "name": "align-left-02",
+    "file": "align-left-02.svg",
+    "path": "assets/icons/untitledui/align-left-02.svg"
+  },
+  {
+    "name": "align-left",
+    "file": "align-left.svg",
+    "path": "assets/icons/untitledui/align-left.svg"
+  },
+  {
+    "name": "align-right-01",
+    "file": "align-right-01.svg",
+    "path": "assets/icons/untitledui/align-right-01.svg"
+  },
+  {
+    "name": "align-right-02",
+    "file": "align-right-02.svg",
+    "path": "assets/icons/untitledui/align-right-02.svg"
+  },
+  {
+    "name": "align-right",
+    "file": "align-right.svg",
+    "path": "assets/icons/untitledui/align-right.svg"
+  },
+  {
+    "name": "align-top-arrow-01",
+    "file": "align-top-arrow-01.svg",
+    "path": "assets/icons/untitledui/align-top-arrow-01.svg"
+  },
+  {
+    "name": "align-top-arrow-02",
+    "file": "align-top-arrow-02.svg",
+    "path": "assets/icons/untitledui/align-top-arrow-02.svg"
+  },
+  {
+    "name": "align-vertical-center-01",
+    "file": "align-vertical-center-01.svg",
+    "path": "assets/icons/untitledui/align-vertical-center-01.svg"
+  },
+  {
+    "name": "align-vertical-center-02",
+    "file": "align-vertical-center-02.svg",
+    "path": "assets/icons/untitledui/align-vertical-center-02.svg"
+  },
+  {
+    "name": "anchor",
+    "file": "anchor.svg",
+    "path": "assets/icons/untitledui/anchor.svg"
+  },
+  {
+    "name": "annotation-alert",
+    "file": "annotation-alert.svg",
+    "path": "assets/icons/untitledui/annotation-alert.svg"
+  },
+  {
+    "name": "annotation-check",
+    "file": "annotation-check.svg",
+    "path": "assets/icons/untitledui/annotation-check.svg"
+  },
+  {
+    "name": "annotation-dots",
+    "file": "annotation-dots.svg",
+    "path": "assets/icons/untitledui/annotation-dots.svg"
+  },
+  {
+    "name": "annotation-heart",
+    "file": "annotation-heart.svg",
+    "path": "assets/icons/untitledui/annotation-heart.svg"
+  },
+  {
+    "name": "annotation-info",
+    "file": "annotation-info.svg",
+    "path": "assets/icons/untitledui/annotation-info.svg"
+  },
+  {
+    "name": "annotation-plus",
+    "file": "annotation-plus.svg",
+    "path": "assets/icons/untitledui/annotation-plus.svg"
+  },
+  {
+    "name": "annotation-question",
+    "file": "annotation-question.svg",
+    "path": "assets/icons/untitledui/annotation-question.svg"
+  },
+  {
+    "name": "annotation-x",
+    "file": "annotation-x.svg",
+    "path": "assets/icons/untitledui/annotation-x.svg"
+  },
+  {
+    "name": "annotation",
+    "file": "annotation.svg",
+    "path": "assets/icons/untitledui/annotation.svg"
+  },
+  {
+    "name": "announcement-01",
+    "file": "announcement-01.svg",
+    "path": "assets/icons/untitledui/announcement-01.svg"
+  },
+  {
+    "name": "announcement-02",
+    "file": "announcement-02.svg",
+    "path": "assets/icons/untitledui/announcement-02.svg"
+  },
+  {
+    "name": "announcement-03",
+    "file": "announcement-03.svg",
+    "path": "assets/icons/untitledui/announcement-03.svg"
+  },
+  {
+    "name": "archive",
+    "file": "archive.svg",
+    "path": "assets/icons/untitledui/archive.svg"
+  },
+  {
+    "name": "arrow-block-down",
+    "file": "arrow-block-down.svg",
+    "path": "assets/icons/untitledui/arrow-block-down.svg"
+  },
+  {
+    "name": "arrow-block-left",
+    "file": "arrow-block-left.svg",
+    "path": "assets/icons/untitledui/arrow-block-left.svg"
+  },
+  {
+    "name": "arrow-block-right",
+    "file": "arrow-block-right.svg",
+    "path": "assets/icons/untitledui/arrow-block-right.svg"
+  },
+  {
+    "name": "arrow-block-up",
+    "file": "arrow-block-up.svg",
+    "path": "assets/icons/untitledui/arrow-block-up.svg"
+  },
+  {
+    "name": "arrow-circle-broken-down-left",
+    "file": "arrow-circle-broken-down-left.svg",
+    "path": "assets/icons/untitledui/arrow-circle-broken-down-left.svg"
+  },
+  {
+    "name": "arrow-circle-broken-down-right",
+    "file": "arrow-circle-broken-down-right.svg",
+    "path": "assets/icons/untitledui/arrow-circle-broken-down-right.svg"
+  },
+  {
+    "name": "arrow-circle-broken-down",
+    "file": "arrow-circle-broken-down.svg",
+    "path": "assets/icons/untitledui/arrow-circle-broken-down.svg"
+  },
+  {
+    "name": "arrow-circle-broken-left",
+    "file": "arrow-circle-broken-left.svg",
+    "path": "assets/icons/untitledui/arrow-circle-broken-left.svg"
+  },
+  {
+    "name": "arrow-circle-broken-right",
+    "file": "arrow-circle-broken-right.svg",
+    "path": "assets/icons/untitledui/arrow-circle-broken-right.svg"
+  },
+  {
+    "name": "arrow-circle-broken-up-left",
+    "file": "arrow-circle-broken-up-left.svg",
+    "path": "assets/icons/untitledui/arrow-circle-broken-up-left.svg"
+  },
+  {
+    "name": "arrow-circle-broken-up-right",
+    "file": "arrow-circle-broken-up-right.svg",
+    "path": "assets/icons/untitledui/arrow-circle-broken-up-right.svg"
+  },
+  {
+    "name": "arrow-circle-broken-up",
+    "file": "arrow-circle-broken-up.svg",
+    "path": "assets/icons/untitledui/arrow-circle-broken-up.svg"
+  },
+  {
+    "name": "arrow-circle-down-left",
+    "file": "arrow-circle-down-left.svg",
+    "path": "assets/icons/untitledui/arrow-circle-down-left.svg"
+  },
+  {
+    "name": "arrow-circle-down-right",
+    "file": "arrow-circle-down-right.svg",
+    "path": "assets/icons/untitledui/arrow-circle-down-right.svg"
+  },
+  {
+    "name": "arrow-circle-down",
+    "file": "arrow-circle-down.svg",
+    "path": "assets/icons/untitledui/arrow-circle-down.svg"
+  },
+  {
+    "name": "arrow-circle-left",
+    "file": "arrow-circle-left.svg",
+    "path": "assets/icons/untitledui/arrow-circle-left.svg"
+  },
+  {
+    "name": "arrow-circle-right",
+    "file": "arrow-circle-right.svg",
+    "path": "assets/icons/untitledui/arrow-circle-right.svg"
+  },
+  {
+    "name": "arrow-circle-up-left",
+    "file": "arrow-circle-up-left.svg",
+    "path": "assets/icons/untitledui/arrow-circle-up-left.svg"
+  },
+  {
+    "name": "arrow-circle-up-right",
+    "file": "arrow-circle-up-right.svg",
+    "path": "assets/icons/untitledui/arrow-circle-up-right.svg"
+  },
+  {
+    "name": "arrow-circle-up",
+    "file": "arrow-circle-up.svg",
+    "path": "assets/icons/untitledui/arrow-circle-up.svg"
+  },
+  {
+    "name": "arrow-down-left",
+    "file": "arrow-down-left.svg",
+    "path": "assets/icons/untitledui/arrow-down-left.svg"
+  },
+  {
+    "name": "arrow-down-right",
+    "file": "arrow-down-right.svg",
+    "path": "assets/icons/untitledui/arrow-down-right.svg"
+  },
+  {
+    "name": "arrow-down",
+    "file": "arrow-down.svg",
+    "path": "assets/icons/untitledui/arrow-down.svg"
+  },
+  {
+    "name": "arrow-left",
+    "file": "arrow-left.svg",
+    "path": "assets/icons/untitledui/arrow-left.svg"
+  },
+  {
+    "name": "arrow-narrow-down-left",
+    "file": "arrow-narrow-down-left.svg",
+    "path": "assets/icons/untitledui/arrow-narrow-down-left.svg"
+  },
+  {
+    "name": "arrow-narrow-down-right",
+    "file": "arrow-narrow-down-right.svg",
+    "path": "assets/icons/untitledui/arrow-narrow-down-right.svg"
+  },
+  {
+    "name": "arrow-narrow-down",
+    "file": "arrow-narrow-down.svg",
+    "path": "assets/icons/untitledui/arrow-narrow-down.svg"
+  },
+  {
+    "name": "arrow-narrow-left",
+    "file": "arrow-narrow-left.svg",
+    "path": "assets/icons/untitledui/arrow-narrow-left.svg"
+  },
+  {
+    "name": "arrow-narrow-right",
+    "file": "arrow-narrow-right.svg",
+    "path": "assets/icons/untitledui/arrow-narrow-right.svg"
+  },
+  {
+    "name": "arrow-narrow-up-left",
+    "file": "arrow-narrow-up-left.svg",
+    "path": "assets/icons/untitledui/arrow-narrow-up-left.svg"
+  },
+  {
+    "name": "arrow-narrow-up-right",
+    "file": "arrow-narrow-up-right.svg",
+    "path": "assets/icons/untitledui/arrow-narrow-up-right.svg"
+  },
+  {
+    "name": "arrow-narrow-up",
+    "file": "arrow-narrow-up.svg",
+    "path": "assets/icons/untitledui/arrow-narrow-up.svg"
+  },
+  {
+    "name": "arrow-right",
+    "file": "arrow-right.svg",
+    "path": "assets/icons/untitledui/arrow-right.svg"
+  },
+  {
+    "name": "arrow-square-down-left",
+    "file": "arrow-square-down-left.svg",
+    "path": "assets/icons/untitledui/arrow-square-down-left.svg"
+  },
+  {
+    "name": "arrow-square-down-right",
+    "file": "arrow-square-down-right.svg",
+    "path": "assets/icons/untitledui/arrow-square-down-right.svg"
+  },
+  {
+    "name": "arrow-square-down",
+    "file": "arrow-square-down.svg",
+    "path": "assets/icons/untitledui/arrow-square-down.svg"
+  },
+  {
+    "name": "arrow-square-left",
+    "file": "arrow-square-left.svg",
+    "path": "assets/icons/untitledui/arrow-square-left.svg"
+  },
+  {
+    "name": "arrow-square-right",
+    "file": "arrow-square-right.svg",
+    "path": "assets/icons/untitledui/arrow-square-right.svg"
+  },
+  {
+    "name": "arrow-square-up-left",
+    "file": "arrow-square-up-left.svg",
+    "path": "assets/icons/untitledui/arrow-square-up-left.svg"
+  },
+  {
+    "name": "arrow-square-up-right",
+    "file": "arrow-square-up-right.svg",
+    "path": "assets/icons/untitledui/arrow-square-up-right.svg"
+  },
+  {
+    "name": "arrow-square-up",
+    "file": "arrow-square-up.svg",
+    "path": "assets/icons/untitledui/arrow-square-up.svg"
+  },
+  {
+    "name": "arrow-up-left",
+    "file": "arrow-up-left.svg",
+    "path": "assets/icons/untitledui/arrow-up-left.svg"
+  },
+  {
+    "name": "arrow-up-right",
+    "file": "arrow-up-right.svg",
+    "path": "assets/icons/untitledui/arrow-up-right.svg"
+  },
+  {
+    "name": "arrow-up",
+    "file": "arrow-up.svg",
+    "path": "assets/icons/untitledui/arrow-up.svg"
+  },
+  {
+    "name": "arrows-down",
+    "file": "arrows-down.svg",
+    "path": "assets/icons/untitledui/arrows-down.svg"
+  },
+  {
+    "name": "arrows-left",
+    "file": "arrows-left.svg",
+    "path": "assets/icons/untitledui/arrows-left.svg"
+  },
+  {
+    "name": "arrows-right",
+    "file": "arrows-right.svg",
+    "path": "assets/icons/untitledui/arrows-right.svg"
+  },
+  {
+    "name": "arrows-triangle",
+    "file": "arrows-triangle.svg",
+    "path": "assets/icons/untitledui/arrows-triangle.svg"
+  },
+  {
+    "name": "arrows-up",
+    "file": "arrows-up.svg",
+    "path": "assets/icons/untitledui/arrows-up.svg"
+  },
+  {
+    "name": "asterisk-01",
+    "file": "asterisk-01.svg",
+    "path": "assets/icons/untitledui/asterisk-01.svg"
+  },
+  {
+    "name": "asterisk-02",
+    "file": "asterisk-02.svg",
+    "path": "assets/icons/untitledui/asterisk-02.svg"
+  },
+  {
+    "name": "at-sign",
+    "file": "at-sign.svg",
+    "path": "assets/icons/untitledui/at-sign.svg"
+  },
+  {
+    "name": "atom-01",
+    "file": "atom-01.svg",
+    "path": "assets/icons/untitledui/atom-01.svg"
+  },
+  {
+    "name": "atom-02",
+    "file": "atom-02.svg",
+    "path": "assets/icons/untitledui/atom-02.svg"
+  },
+  {
+    "name": "attachment-01",
+    "file": "attachment-01.svg",
+    "path": "assets/icons/untitledui/attachment-01.svg"
+  },
+  {
+    "name": "attachment-02",
+    "file": "attachment-02.svg",
+    "path": "assets/icons/untitledui/attachment-02.svg"
+  },
+  {
+    "name": "award-01",
+    "file": "award-01.svg",
+    "path": "assets/icons/untitledui/award-01.svg"
+  },
+  {
+    "name": "award-02",
+    "file": "award-02.svg",
+    "path": "assets/icons/untitledui/award-02.svg"
+  },
+  {
+    "name": "award-03",
+    "file": "award-03.svg",
+    "path": "assets/icons/untitledui/award-03.svg"
+  },
+  {
+    "name": "award-04",
+    "file": "award-04.svg",
+    "path": "assets/icons/untitledui/award-04.svg"
+  },
+  {
+    "name": "award-05",
+    "file": "award-05.svg",
+    "path": "assets/icons/untitledui/award-05.svg"
+  },
+  {
+    "name": "backpack",
+    "file": "backpack.svg",
+    "path": "assets/icons/untitledui/backpack.svg"
+  },
+  {
+    "name": "bank-note-01",
+    "file": "bank-note-01.svg",
+    "path": "assets/icons/untitledui/bank-note-01.svg"
+  },
+  {
+    "name": "bank-note-02",
+    "file": "bank-note-02.svg",
+    "path": "assets/icons/untitledui/bank-note-02.svg"
+  },
+  {
+    "name": "bank-note-03",
+    "file": "bank-note-03.svg",
+    "path": "assets/icons/untitledui/bank-note-03.svg"
+  },
+  {
+    "name": "bank",
+    "file": "bank.svg",
+    "path": "assets/icons/untitledui/bank.svg"
+  },
+  {
+    "name": "bar-chart-01",
+    "file": "bar-chart-01.svg",
+    "path": "assets/icons/untitledui/bar-chart-01.svg"
+  },
+  {
+    "name": "bar-chart-02",
+    "file": "bar-chart-02.svg",
+    "path": "assets/icons/untitledui/bar-chart-02.svg"
+  },
+  {
+    "name": "bar-chart-03",
+    "file": "bar-chart-03.svg",
+    "path": "assets/icons/untitledui/bar-chart-03.svg"
+  },
+  {
+    "name": "bar-chart-04",
+    "file": "bar-chart-04.svg",
+    "path": "assets/icons/untitledui/bar-chart-04.svg"
+  },
+  {
+    "name": "bar-chart-05",
+    "file": "bar-chart-05.svg",
+    "path": "assets/icons/untitledui/bar-chart-05.svg"
+  },
+  {
+    "name": "bar-chart-06",
+    "file": "bar-chart-06.svg",
+    "path": "assets/icons/untitledui/bar-chart-06.svg"
+  },
+  {
+    "name": "bar-chart-07",
+    "file": "bar-chart-07.svg",
+    "path": "assets/icons/untitledui/bar-chart-07.svg"
+  },
+  {
+    "name": "bar-chart-08",
+    "file": "bar-chart-08.svg",
+    "path": "assets/icons/untitledui/bar-chart-08.svg"
+  },
+  {
+    "name": "bar-chart-09",
+    "file": "bar-chart-09.svg",
+    "path": "assets/icons/untitledui/bar-chart-09.svg"
+  },
+  {
+    "name": "bar-chart-10",
+    "file": "bar-chart-10.svg",
+    "path": "assets/icons/untitledui/bar-chart-10.svg"
+  },
+  {
+    "name": "bar-chart-11",
+    "file": "bar-chart-11.svg",
+    "path": "assets/icons/untitledui/bar-chart-11.svg"
+  },
+  {
+    "name": "bar-chart-12",
+    "file": "bar-chart-12.svg",
+    "path": "assets/icons/untitledui/bar-chart-12.svg"
+  },
+  {
+    "name": "bar-chart-circle-01",
+    "file": "bar-chart-circle-01.svg",
+    "path": "assets/icons/untitledui/bar-chart-circle-01.svg"
+  },
+  {
+    "name": "bar-chart-circle-02",
+    "file": "bar-chart-circle-02.svg",
+    "path": "assets/icons/untitledui/bar-chart-circle-02.svg"
+  },
+  {
+    "name": "bar-chart-circle-03",
+    "file": "bar-chart-circle-03.svg",
+    "path": "assets/icons/untitledui/bar-chart-circle-03.svg"
+  },
+  {
+    "name": "bar-chart-square-01",
+    "file": "bar-chart-square-01.svg",
+    "path": "assets/icons/untitledui/bar-chart-square-01.svg"
+  },
+  {
+    "name": "bar-chart-square-02",
+    "file": "bar-chart-square-02.svg",
+    "path": "assets/icons/untitledui/bar-chart-square-02.svg"
+  },
+  {
+    "name": "bar-chart-square-03",
+    "file": "bar-chart-square-03.svg",
+    "path": "assets/icons/untitledui/bar-chart-square-03.svg"
+  },
+  {
+    "name": "bar-chart-square-down",
+    "file": "bar-chart-square-down.svg",
+    "path": "assets/icons/untitledui/bar-chart-square-down.svg"
+  },
+  {
+    "name": "bar-chart-square-minus",
+    "file": "bar-chart-square-minus.svg",
+    "path": "assets/icons/untitledui/bar-chart-square-minus.svg"
+  },
+  {
+    "name": "bar-chart-square-plus",
+    "file": "bar-chart-square-plus.svg",
+    "path": "assets/icons/untitledui/bar-chart-square-plus.svg"
+  },
+  {
+    "name": "bar-chart-square-up",
+    "file": "bar-chart-square-up.svg",
+    "path": "assets/icons/untitledui/bar-chart-square-up.svg"
+  },
+  {
+    "name": "bar-line-chart",
+    "file": "bar-line-chart.svg",
+    "path": "assets/icons/untitledui/bar-line-chart.svg"
+  },
+  {
+    "name": "battery-charging-01",
+    "file": "battery-charging-01.svg",
+    "path": "assets/icons/untitledui/battery-charging-01.svg"
+  },
+  {
+    "name": "battery-charging-02",
+    "file": "battery-charging-02.svg",
+    "path": "assets/icons/untitledui/battery-charging-02.svg"
+  },
+  {
+    "name": "battery-empty",
+    "file": "battery-empty.svg",
+    "path": "assets/icons/untitledui/battery-empty.svg"
+  },
+  {
+    "name": "battery-full",
+    "file": "battery-full.svg",
+    "path": "assets/icons/untitledui/battery-full.svg"
+  },
+  {
+    "name": "battery-low",
+    "file": "battery-low.svg",
+    "path": "assets/icons/untitledui/battery-low.svg"
+  },
+  {
+    "name": "battery-mid",
+    "file": "battery-mid.svg",
+    "path": "assets/icons/untitledui/battery-mid.svg"
+  },
+  {
+    "name": "beaker-01",
+    "file": "beaker-01.svg",
+    "path": "assets/icons/untitledui/beaker-01.svg"
+  },
+  {
+    "name": "beaker-02",
+    "file": "beaker-02.svg",
+    "path": "assets/icons/untitledui/beaker-02.svg"
+  },
+  {
+    "name": "bell-01",
+    "file": "bell-01.svg",
+    "path": "assets/icons/untitledui/bell-01.svg"
+  },
+  {
+    "name": "bell-02",
+    "file": "bell-02.svg",
+    "path": "assets/icons/untitledui/bell-02.svg"
+  },
+  {
+    "name": "bell-03",
+    "file": "bell-03.svg",
+    "path": "assets/icons/untitledui/bell-03.svg"
+  },
+  {
+    "name": "bell-04",
+    "file": "bell-04.svg",
+    "path": "assets/icons/untitledui/bell-04.svg"
+  },
+  {
+    "name": "bell-minus",
+    "file": "bell-minus.svg",
+    "path": "assets/icons/untitledui/bell-minus.svg"
+  },
+  {
+    "name": "bell-off-01",
+    "file": "bell-off-01.svg",
+    "path": "assets/icons/untitledui/bell-off-01.svg"
+  },
+  {
+    "name": "bell-off-02",
+    "file": "bell-off-02.svg",
+    "path": "assets/icons/untitledui/bell-off-02.svg"
+  },
+  {
+    "name": "bell-off-03",
+    "file": "bell-off-03.svg",
+    "path": "assets/icons/untitledui/bell-off-03.svg"
+  },
+  {
+    "name": "bell-plus",
+    "file": "bell-plus.svg",
+    "path": "assets/icons/untitledui/bell-plus.svg"
+  },
+  {
+    "name": "bell-ringing-01",
+    "file": "bell-ringing-01.svg",
+    "path": "assets/icons/untitledui/bell-ringing-01.svg"
+  },
+  {
+    "name": "bell-ringing-02",
+    "file": "bell-ringing-02.svg",
+    "path": "assets/icons/untitledui/bell-ringing-02.svg"
+  },
+  {
+    "name": "bell-ringing-03",
+    "file": "bell-ringing-03.svg",
+    "path": "assets/icons/untitledui/bell-ringing-03.svg"
+  },
+  {
+    "name": "bell-ringing-04",
+    "file": "bell-ringing-04.svg",
+    "path": "assets/icons/untitledui/bell-ringing-04.svg"
+  },
+  {
+    "name": "bezier-curve-01",
+    "file": "bezier-curve-01.svg",
+    "path": "assets/icons/untitledui/bezier-curve-01.svg"
+  },
+  {
+    "name": "bezier-curve-02",
+    "file": "bezier-curve-02.svg",
+    "path": "assets/icons/untitledui/bezier-curve-02.svg"
+  },
+  {
+    "name": "bezier-curve-03",
+    "file": "bezier-curve-03.svg",
+    "path": "assets/icons/untitledui/bezier-curve-03.svg"
+  },
+  {
+    "name": "bluetooth-connect",
+    "file": "bluetooth-connect.svg",
+    "path": "assets/icons/untitledui/bluetooth-connect.svg"
+  },
+  {
+    "name": "bluetooth-off",
+    "file": "bluetooth-off.svg",
+    "path": "assets/icons/untitledui/bluetooth-off.svg"
+  },
+  {
+    "name": "bluetooth-on",
+    "file": "bluetooth-on.svg",
+    "path": "assets/icons/untitledui/bluetooth-on.svg"
+  },
+  {
+    "name": "bluetooth-signal",
+    "file": "bluetooth-signal.svg",
+    "path": "assets/icons/untitledui/bluetooth-signal.svg"
+  },
+  {
+    "name": "bold-01",
+    "file": "bold-01.svg",
+    "path": "assets/icons/untitledui/bold-01.svg"
+  },
+  {
+    "name": "bold-02",
+    "file": "bold-02.svg",
+    "path": "assets/icons/untitledui/bold-02.svg"
+  },
+  {
+    "name": "bold-square",
+    "file": "bold-square.svg",
+    "path": "assets/icons/untitledui/bold-square.svg"
+  },
+  {
+    "name": "book-closed",
+    "file": "book-closed.svg",
+    "path": "assets/icons/untitledui/book-closed.svg"
+  },
+  {
+    "name": "book-open-01",
+    "file": "book-open-01.svg",
+    "path": "assets/icons/untitledui/book-open-01.svg"
+  },
+  {
+    "name": "book-open-02",
+    "file": "book-open-02.svg",
+    "path": "assets/icons/untitledui/book-open-02.svg"
+  },
+  {
+    "name": "bookmark-add",
+    "file": "bookmark-add.svg",
+    "path": "assets/icons/untitledui/bookmark-add.svg"
+  },
+  {
+    "name": "bookmark-check",
+    "file": "bookmark-check.svg",
+    "path": "assets/icons/untitledui/bookmark-check.svg"
+  },
+  {
+    "name": "bookmark-minus",
+    "file": "bookmark-minus.svg",
+    "path": "assets/icons/untitledui/bookmark-minus.svg"
+  },
+  {
+    "name": "bookmark-x",
+    "file": "bookmark-x.svg",
+    "path": "assets/icons/untitledui/bookmark-x.svg"
+  },
+  {
+    "name": "bookmark",
+    "file": "bookmark.svg",
+    "path": "assets/icons/untitledui/bookmark.svg"
+  },
+  {
+    "name": "box",
+    "file": "box.svg",
+    "path": "assets/icons/untitledui/box.svg"
+  },
+  {
+    "name": "brackets-check",
+    "file": "brackets-check.svg",
+    "path": "assets/icons/untitledui/brackets-check.svg"
+  },
+  {
+    "name": "brackets-ellipses",
+    "file": "brackets-ellipses.svg",
+    "path": "assets/icons/untitledui/brackets-ellipses.svg"
+  },
+  {
+    "name": "brackets-minus",
+    "file": "brackets-minus.svg",
+    "path": "assets/icons/untitledui/brackets-minus.svg"
+  },
+  {
+    "name": "brackets-plus",
+    "file": "brackets-plus.svg",
+    "path": "assets/icons/untitledui/brackets-plus.svg"
+  },
+  {
+    "name": "brackets-slash",
+    "file": "brackets-slash.svg",
+    "path": "assets/icons/untitledui/brackets-slash.svg"
+  },
+  {
+    "name": "brackets-x",
+    "file": "brackets-x.svg",
+    "path": "assets/icons/untitledui/brackets-x.svg"
+  },
+  {
+    "name": "brackets",
+    "file": "brackets.svg",
+    "path": "assets/icons/untitledui/brackets.svg"
+  },
+  {
+    "name": "briefcase-01",
+    "file": "briefcase-01.svg",
+    "path": "assets/icons/untitledui/briefcase-01.svg"
+  },
+  {
+    "name": "briefcase-02",
+    "file": "briefcase-02.svg",
+    "path": "assets/icons/untitledui/briefcase-02.svg"
+  },
+  {
+    "name": "browser",
+    "file": "browser.svg",
+    "path": "assets/icons/untitledui/browser.svg"
+  },
+  {
+    "name": "brush-01",
+    "file": "brush-01.svg",
+    "path": "assets/icons/untitledui/brush-01.svg"
+  },
+  {
+    "name": "brush-02",
+    "file": "brush-02.svg",
+    "path": "assets/icons/untitledui/brush-02.svg"
+  },
+  {
+    "name": "brush-03",
+    "file": "brush-03.svg",
+    "path": "assets/icons/untitledui/brush-03.svg"
+  },
+  {
+    "name": "building-01",
+    "file": "building-01.svg",
+    "path": "assets/icons/untitledui/building-01.svg"
+  },
+  {
+    "name": "building-02",
+    "file": "building-02.svg",
+    "path": "assets/icons/untitledui/building-02.svg"
+  },
+  {
+    "name": "building-03",
+    "file": "building-03.svg",
+    "path": "assets/icons/untitledui/building-03.svg"
+  },
+  {
+    "name": "building-04",
+    "file": "building-04.svg",
+    "path": "assets/icons/untitledui/building-04.svg"
+  },
+  {
+    "name": "building-05",
+    "file": "building-05.svg",
+    "path": "assets/icons/untitledui/building-05.svg"
+  },
+  {
+    "name": "building-06",
+    "file": "building-06.svg",
+    "path": "assets/icons/untitledui/building-06.svg"
+  },
+  {
+    "name": "building-07",
+    "file": "building-07.svg",
+    "path": "assets/icons/untitledui/building-07.svg"
+  },
+  {
+    "name": "building-08",
+    "file": "building-08.svg",
+    "path": "assets/icons/untitledui/building-08.svg"
+  },
+  {
+    "name": "bus",
+    "file": "bus.svg",
+    "path": "assets/icons/untitledui/bus.svg"
+  },
+  {
+    "name": "calculator",
+    "file": "calculator.svg",
+    "path": "assets/icons/untitledui/calculator.svg"
+  },
+  {
+    "name": "calendar-check-01",
+    "file": "calendar-check-01.svg",
+    "path": "assets/icons/untitledui/calendar-check-01.svg"
+  },
+  {
+    "name": "calendar-check-02",
+    "file": "calendar-check-02.svg",
+    "path": "assets/icons/untitledui/calendar-check-02.svg"
+  },
+  {
+    "name": "calendar-date",
+    "file": "calendar-date.svg",
+    "path": "assets/icons/untitledui/calendar-date.svg"
+  },
+  {
+    "name": "calendar-heart-01",
+    "file": "calendar-heart-01.svg",
+    "path": "assets/icons/untitledui/calendar-heart-01.svg"
+  },
+  {
+    "name": "calendar-heart-02",
+    "file": "calendar-heart-02.svg",
+    "path": "assets/icons/untitledui/calendar-heart-02.svg"
+  },
+  {
+    "name": "calendar-minus-01",
+    "file": "calendar-minus-01.svg",
+    "path": "assets/icons/untitledui/calendar-minus-01.svg"
+  },
+  {
+    "name": "calendar-minus-02",
+    "file": "calendar-minus-02.svg",
+    "path": "assets/icons/untitledui/calendar-minus-02.svg"
+  },
+  {
+    "name": "calendar-plus-01",
+    "file": "calendar-plus-01.svg",
+    "path": "assets/icons/untitledui/calendar-plus-01.svg"
+  },
+  {
+    "name": "calendar-plus-02",
+    "file": "calendar-plus-02.svg",
+    "path": "assets/icons/untitledui/calendar-plus-02.svg"
+  },
+  {
+    "name": "calendar",
+    "file": "calendar.svg",
+    "path": "assets/icons/untitledui/calendar.svg"
+  },
+  {
+    "name": "camera-01",
+    "file": "camera-01.svg",
+    "path": "assets/icons/untitledui/camera-01.svg"
+  },
+  {
+    "name": "camera-02",
+    "file": "camera-02.svg",
+    "path": "assets/icons/untitledui/camera-02.svg"
+  },
+  {
+    "name": "camera-03",
+    "file": "camera-03.svg",
+    "path": "assets/icons/untitledui/camera-03.svg"
+  },
+  {
+    "name": "camera-lens",
+    "file": "camera-lens.svg",
+    "path": "assets/icons/untitledui/camera-lens.svg"
+  },
+  {
+    "name": "camera-off",
+    "file": "camera-off.svg",
+    "path": "assets/icons/untitledui/camera-off.svg"
+  },
+  {
+    "name": "camera-plus",
+    "file": "camera-plus.svg",
+    "path": "assets/icons/untitledui/camera-plus.svg"
+  },
+  {
+    "name": "car-01",
+    "file": "car-01.svg",
+    "path": "assets/icons/untitledui/car-01.svg"
+  },
+  {
+    "name": "car-02",
+    "file": "car-02.svg",
+    "path": "assets/icons/untitledui/car-02.svg"
+  },
+  {
+    "name": "certificate-01",
+    "file": "certificate-01.svg",
+    "path": "assets/icons/untitledui/certificate-01.svg"
+  },
+  {
+    "name": "certificate-02",
+    "file": "certificate-02.svg",
+    "path": "assets/icons/untitledui/certificate-02.svg"
+  },
+  {
+    "name": "chart-breakout-circle",
+    "file": "chart-breakout-circle.svg",
+    "path": "assets/icons/untitledui/chart-breakout-circle.svg"
+  },
+  {
+    "name": "chart-breakout-square",
+    "file": "chart-breakout-square.svg",
+    "path": "assets/icons/untitledui/chart-breakout-square.svg"
+  },
+  {
+    "name": "check-circle-broken",
+    "file": "check-circle-broken.svg",
+    "path": "assets/icons/untitledui/check-circle-broken.svg"
+  },
+  {
+    "name": "check-circle",
+    "file": "check-circle.svg",
+    "path": "assets/icons/untitledui/check-circle.svg"
+  },
+  {
+    "name": "check-done-01",
+    "file": "check-done-01.svg",
+    "path": "assets/icons/untitledui/check-done-01.svg"
+  },
+  {
+    "name": "check-done-02",
+    "file": "check-done-02.svg",
+    "path": "assets/icons/untitledui/check-done-02.svg"
+  },
+  {
+    "name": "check-heart",
+    "file": "check-heart.svg",
+    "path": "assets/icons/untitledui/check-heart.svg"
+  },
+  {
+    "name": "check-square-broken",
+    "file": "check-square-broken.svg",
+    "path": "assets/icons/untitledui/check-square-broken.svg"
+  },
+  {
+    "name": "check-square",
+    "file": "check-square.svg",
+    "path": "assets/icons/untitledui/check-square.svg"
+  },
+  {
+    "name": "check-verified-01",
+    "file": "check-verified-01.svg",
+    "path": "assets/icons/untitledui/check-verified-01.svg"
+  },
+  {
+    "name": "check-verified-02",
+    "file": "check-verified-02.svg",
+    "path": "assets/icons/untitledui/check-verified-02.svg"
+  },
+  {
+    "name": "check-verified-03",
+    "file": "check-verified-03.svg",
+    "path": "assets/icons/untitledui/check-verified-03.svg"
+  },
+  {
+    "name": "check",
+    "file": "check.svg",
+    "path": "assets/icons/untitledui/check.svg"
+  },
+  {
+    "name": "chevron-down-double",
+    "file": "chevron-down-double.svg",
+    "path": "assets/icons/untitledui/chevron-down-double.svg"
+  },
+  {
+    "name": "chevron-down",
+    "file": "chevron-down.svg",
+    "path": "assets/icons/untitledui/chevron-down.svg"
+  },
+  {
+    "name": "chevron-left-double",
+    "file": "chevron-left-double.svg",
+    "path": "assets/icons/untitledui/chevron-left-double.svg"
+  },
+  {
+    "name": "chevron-left",
+    "file": "chevron-left.svg",
+    "path": "assets/icons/untitledui/chevron-left.svg"
+  },
+  {
+    "name": "chevron-right-double",
+    "file": "chevron-right-double.svg",
+    "path": "assets/icons/untitledui/chevron-right-double.svg"
+  },
+  {
+    "name": "chevron-right",
+    "file": "chevron-right.svg",
+    "path": "assets/icons/untitledui/chevron-right.svg"
+  },
+  {
+    "name": "chevron-selector-horizontal",
+    "file": "chevron-selector-horizontal.svg",
+    "path": "assets/icons/untitledui/chevron-selector-horizontal.svg"
+  },
+  {
+    "name": "chevron-selector-vertical",
+    "file": "chevron-selector-vertical.svg",
+    "path": "assets/icons/untitledui/chevron-selector-vertical.svg"
+  },
+  {
+    "name": "chevron-up-double",
+    "file": "chevron-up-double.svg",
+    "path": "assets/icons/untitledui/chevron-up-double.svg"
+  },
+  {
+    "name": "chevron-up",
+    "file": "chevron-up.svg",
+    "path": "assets/icons/untitledui/chevron-up.svg"
+  },
+  {
+    "name": "chrome-cast",
+    "file": "chrome-cast.svg",
+    "path": "assets/icons/untitledui/chrome-cast.svg"
+  },
+  {
+    "name": "circle-cut",
+    "file": "circle-cut.svg",
+    "path": "assets/icons/untitledui/circle-cut.svg"
+  },
+  {
+    "name": "circle",
+    "file": "circle.svg",
+    "path": "assets/icons/untitledui/circle.svg"
+  },
+  {
+    "name": "clapperboard",
+    "file": "clapperboard.svg",
+    "path": "assets/icons/untitledui/clapperboard.svg"
+  },
+  {
+    "name": "clipboard-attachment",
+    "file": "clipboard-attachment.svg",
+    "path": "assets/icons/untitledui/clipboard-attachment.svg"
+  },
+  {
+    "name": "clipboard-check",
+    "file": "clipboard-check.svg",
+    "path": "assets/icons/untitledui/clipboard-check.svg"
+  },
+  {
+    "name": "clipboard-download",
+    "file": "clipboard-download.svg",
+    "path": "assets/icons/untitledui/clipboard-download.svg"
+  },
+  {
+    "name": "clipboard-minus",
+    "file": "clipboard-minus.svg",
+    "path": "assets/icons/untitledui/clipboard-minus.svg"
+  },
+  {
+    "name": "clipboard-plus",
+    "file": "clipboard-plus.svg",
+    "path": "assets/icons/untitledui/clipboard-plus.svg"
+  },
+  {
+    "name": "clipboard-x",
+    "file": "clipboard-x.svg",
+    "path": "assets/icons/untitledui/clipboard-x.svg"
+  },
+  {
+    "name": "clipboard",
+    "file": "clipboard.svg",
+    "path": "assets/icons/untitledui/clipboard.svg"
+  },
+  {
+    "name": "clock-check",
+    "file": "clock-check.svg",
+    "path": "assets/icons/untitledui/clock-check.svg"
+  },
+  {
+    "name": "clock-fast-forward",
+    "file": "clock-fast-forward.svg",
+    "path": "assets/icons/untitledui/clock-fast-forward.svg"
+  },
+  {
+    "name": "clock-plus",
+    "file": "clock-plus.svg",
+    "path": "assets/icons/untitledui/clock-plus.svg"
+  },
+  {
+    "name": "clock-refresh",
+    "file": "clock-refresh.svg",
+    "path": "assets/icons/untitledui/clock-refresh.svg"
+  },
+  {
+    "name": "clock-rewind",
+    "file": "clock-rewind.svg",
+    "path": "assets/icons/untitledui/clock-rewind.svg"
+  },
+  {
+    "name": "clock-snooze",
+    "file": "clock-snooze.svg",
+    "path": "assets/icons/untitledui/clock-snooze.svg"
+  },
+  {
+    "name": "clock-stopwatch",
+    "file": "clock-stopwatch.svg",
+    "path": "assets/icons/untitledui/clock-stopwatch.svg"
+  },
+  {
+    "name": "clock",
+    "file": "clock.svg",
+    "path": "assets/icons/untitledui/clock.svg"
+  },
+  {
+    "name": "cloud-01",
+    "file": "cloud-01.svg",
+    "path": "assets/icons/untitledui/cloud-01.svg"
+  },
+  {
+    "name": "cloud-02",
+    "file": "cloud-02.svg",
+    "path": "assets/icons/untitledui/cloud-02.svg"
+  },
+  {
+    "name": "cloud-03",
+    "file": "cloud-03.svg",
+    "path": "assets/icons/untitledui/cloud-03.svg"
+  },
+  {
+    "name": "cloud-blank-01",
+    "file": "cloud-blank-01.svg",
+    "path": "assets/icons/untitledui/cloud-blank-01.svg"
+  },
+  {
+    "name": "cloud-blank-02",
+    "file": "cloud-blank-02.svg",
+    "path": "assets/icons/untitledui/cloud-blank-02.svg"
+  },
+  {
+    "name": "cloud-lightning",
+    "file": "cloud-lightning.svg",
+    "path": "assets/icons/untitledui/cloud-lightning.svg"
+  },
+  {
+    "name": "cloud-moon",
+    "file": "cloud-moon.svg",
+    "path": "assets/icons/untitledui/cloud-moon.svg"
+  },
+  {
+    "name": "cloud-off",
+    "file": "cloud-off.svg",
+    "path": "assets/icons/untitledui/cloud-off.svg"
+  },
+  {
+    "name": "cloud-raining-01",
+    "file": "cloud-raining-01.svg",
+    "path": "assets/icons/untitledui/cloud-raining-01.svg"
+  },
+  {
+    "name": "cloud-raining-02",
+    "file": "cloud-raining-02.svg",
+    "path": "assets/icons/untitledui/cloud-raining-02.svg"
+  },
+  {
+    "name": "cloud-raining-03",
+    "file": "cloud-raining-03.svg",
+    "path": "assets/icons/untitledui/cloud-raining-03.svg"
+  },
+  {
+    "name": "cloud-raining-04",
+    "file": "cloud-raining-04.svg",
+    "path": "assets/icons/untitledui/cloud-raining-04.svg"
+  },
+  {
+    "name": "cloud-raining-05",
+    "file": "cloud-raining-05.svg",
+    "path": "assets/icons/untitledui/cloud-raining-05.svg"
+  },
+  {
+    "name": "cloud-raining-06",
+    "file": "cloud-raining-06.svg",
+    "path": "assets/icons/untitledui/cloud-raining-06.svg"
+  },
+  {
+    "name": "cloud-snowing-01",
+    "file": "cloud-snowing-01.svg",
+    "path": "assets/icons/untitledui/cloud-snowing-01.svg"
+  },
+  {
+    "name": "cloud-snowing-02",
+    "file": "cloud-snowing-02.svg",
+    "path": "assets/icons/untitledui/cloud-snowing-02.svg"
+  },
+  {
+    "name": "cloud-sun-01",
+    "file": "cloud-sun-01.svg",
+    "path": "assets/icons/untitledui/cloud-sun-01.svg"
+  },
+  {
+    "name": "cloud-sun-02",
+    "file": "cloud-sun-02.svg",
+    "path": "assets/icons/untitledui/cloud-sun-02.svg"
+  },
+  {
+    "name": "cloud-sun-03",
+    "file": "cloud-sun-03.svg",
+    "path": "assets/icons/untitledui/cloud-sun-03.svg"
+  },
+  {
+    "name": "code-01",
+    "file": "code-01.svg",
+    "path": "assets/icons/untitledui/code-01.svg"
+  },
+  {
+    "name": "code-02",
+    "file": "code-02.svg",
+    "path": "assets/icons/untitledui/code-02.svg"
+  },
+  {
+    "name": "code-browser",
+    "file": "code-browser.svg",
+    "path": "assets/icons/untitledui/code-browser.svg"
+  },
+  {
+    "name": "code-circle-01",
+    "file": "code-circle-01.svg",
+    "path": "assets/icons/untitledui/code-circle-01.svg"
+  },
+  {
+    "name": "code-circle-02",
+    "file": "code-circle-02.svg",
+    "path": "assets/icons/untitledui/code-circle-02.svg"
+  },
+  {
+    "name": "code-circle-03",
+    "file": "code-circle-03.svg",
+    "path": "assets/icons/untitledui/code-circle-03.svg"
+  },
+  {
+    "name": "code-snippet-01",
+    "file": "code-snippet-01.svg",
+    "path": "assets/icons/untitledui/code-snippet-01.svg"
+  },
+  {
+    "name": "code-snippet-02",
+    "file": "code-snippet-02.svg",
+    "path": "assets/icons/untitledui/code-snippet-02.svg"
+  },
+  {
+    "name": "code-square-01",
+    "file": "code-square-01.svg",
+    "path": "assets/icons/untitledui/code-square-01.svg"
+  },
+  {
+    "name": "code-square-02",
+    "file": "code-square-02.svg",
+    "path": "assets/icons/untitledui/code-square-02.svg"
+  },
+  {
+    "name": "codepen",
+    "file": "codepen.svg",
+    "path": "assets/icons/untitledui/codepen.svg"
+  },
+  {
+    "name": "coins-01",
+    "file": "coins-01.svg",
+    "path": "assets/icons/untitledui/coins-01.svg"
+  },
+  {
+    "name": "coins-02",
+    "file": "coins-02.svg",
+    "path": "assets/icons/untitledui/coins-02.svg"
+  },
+  {
+    "name": "coins-03",
+    "file": "coins-03.svg",
+    "path": "assets/icons/untitledui/coins-03.svg"
+  },
+  {
+    "name": "coins-04",
+    "file": "coins-04.svg",
+    "path": "assets/icons/untitledui/coins-04.svg"
+  },
+  {
+    "name": "coins-hand",
+    "file": "coins-hand.svg",
+    "path": "assets/icons/untitledui/coins-hand.svg"
+  },
+  {
+    "name": "coins-stacked-01",
+    "file": "coins-stacked-01.svg",
+    "path": "assets/icons/untitledui/coins-stacked-01.svg"
+  },
+  {
+    "name": "coins-stacked-02",
+    "file": "coins-stacked-02.svg",
+    "path": "assets/icons/untitledui/coins-stacked-02.svg"
+  },
+  {
+    "name": "coins-stacked-03",
+    "file": "coins-stacked-03.svg",
+    "path": "assets/icons/untitledui/coins-stacked-03.svg"
+  },
+  {
+    "name": "coins-stacked-04",
+    "file": "coins-stacked-04.svg",
+    "path": "assets/icons/untitledui/coins-stacked-04.svg"
+  },
+  {
+    "name": "coins-swap-01",
+    "file": "coins-swap-01.svg",
+    "path": "assets/icons/untitledui/coins-swap-01.svg"
+  },
+  {
+    "name": "coins-swap-02",
+    "file": "coins-swap-02.svg",
+    "path": "assets/icons/untitledui/coins-swap-02.svg"
+  },
+  {
+    "name": "colors-1",
+    "file": "colors-1.svg",
+    "path": "assets/icons/untitledui/colors-1.svg"
+  },
+  {
+    "name": "colors",
+    "file": "colors.svg",
+    "path": "assets/icons/untitledui/colors.svg"
+  },
+  {
+    "name": "columns-01",
+    "file": "columns-01.svg",
+    "path": "assets/icons/untitledui/columns-01.svg"
+  },
+  {
+    "name": "columns-02",
+    "file": "columns-02.svg",
+    "path": "assets/icons/untitledui/columns-02.svg"
+  },
+  {
+    "name": "columns-03",
+    "file": "columns-03.svg",
+    "path": "assets/icons/untitledui/columns-03.svg"
+  },
+  {
+    "name": "command",
+    "file": "command.svg",
+    "path": "assets/icons/untitledui/command.svg"
+  },
+  {
+    "name": "compass-01",
+    "file": "compass-01.svg",
+    "path": "assets/icons/untitledui/compass-01.svg"
+  },
+  {
+    "name": "compass-02",
+    "file": "compass-02.svg",
+    "path": "assets/icons/untitledui/compass-02.svg"
+  },
+  {
+    "name": "compass-03",
+    "file": "compass-03.svg",
+    "path": "assets/icons/untitledui/compass-03.svg"
+  },
+  {
+    "name": "compass",
+    "file": "compass.svg",
+    "path": "assets/icons/untitledui/compass.svg"
+  },
+  {
+    "name": "container",
+    "file": "container.svg",
+    "path": "assets/icons/untitledui/container.svg"
+  },
+  {
+    "name": "contrast-01",
+    "file": "contrast-01.svg",
+    "path": "assets/icons/untitledui/contrast-01.svg"
+  },
+  {
+    "name": "contrast-02",
+    "file": "contrast-02.svg",
+    "path": "assets/icons/untitledui/contrast-02.svg"
+  },
+  {
+    "name": "contrast-03",
+    "file": "contrast-03.svg",
+    "path": "assets/icons/untitledui/contrast-03.svg"
+  },
+  {
+    "name": "copy-01",
+    "file": "copy-01.svg",
+    "path": "assets/icons/untitledui/copy-01.svg"
+  },
+  {
+    "name": "copy-02",
+    "file": "copy-02.svg",
+    "path": "assets/icons/untitledui/copy-02.svg"
+  },
+  {
+    "name": "copy-03",
+    "file": "copy-03.svg",
+    "path": "assets/icons/untitledui/copy-03.svg"
+  },
+  {
+    "name": "copy-04",
+    "file": "copy-04.svg",
+    "path": "assets/icons/untitledui/copy-04.svg"
+  },
+  {
+    "name": "copy-05",
+    "file": "copy-05.svg",
+    "path": "assets/icons/untitledui/copy-05.svg"
+  },
+  {
+    "name": "copy-06",
+    "file": "copy-06.svg",
+    "path": "assets/icons/untitledui/copy-06.svg"
+  },
+  {
+    "name": "copy-07",
+    "file": "copy-07.svg",
+    "path": "assets/icons/untitledui/copy-07.svg"
+  },
+  {
+    "name": "corner-down-left",
+    "file": "corner-down-left.svg",
+    "path": "assets/icons/untitledui/corner-down-left.svg"
+  },
+  {
+    "name": "corner-down-right",
+    "file": "corner-down-right.svg",
+    "path": "assets/icons/untitledui/corner-down-right.svg"
+  },
+  {
+    "name": "corner-left-down",
+    "file": "corner-left-down.svg",
+    "path": "assets/icons/untitledui/corner-left-down.svg"
+  },
+  {
+    "name": "corner-left-up",
+    "file": "corner-left-up.svg",
+    "path": "assets/icons/untitledui/corner-left-up.svg"
+  },
+  {
+    "name": "corner-right-down",
+    "file": "corner-right-down.svg",
+    "path": "assets/icons/untitledui/corner-right-down.svg"
+  },
+  {
+    "name": "corner-right-up",
+    "file": "corner-right-up.svg",
+    "path": "assets/icons/untitledui/corner-right-up.svg"
+  },
+  {
+    "name": "corner-up-left",
+    "file": "corner-up-left.svg",
+    "path": "assets/icons/untitledui/corner-up-left.svg"
+  },
+  {
+    "name": "corner-up-right",
+    "file": "corner-up-right.svg",
+    "path": "assets/icons/untitledui/corner-up-right.svg"
+  },
+  {
+    "name": "cpu-chip-01",
+    "file": "cpu-chip-01.svg",
+    "path": "assets/icons/untitledui/cpu-chip-01.svg"
+  },
+  {
+    "name": "cpu-chip-02",
+    "file": "cpu-chip-02.svg",
+    "path": "assets/icons/untitledui/cpu-chip-02.svg"
+  },
+  {
+    "name": "credit-card-01",
+    "file": "credit-card-01.svg",
+    "path": "assets/icons/untitledui/credit-card-01.svg"
+  },
+  {
+    "name": "credit-card-02",
+    "file": "credit-card-02.svg",
+    "path": "assets/icons/untitledui/credit-card-02.svg"
+  },
+  {
+    "name": "credit-card-check",
+    "file": "credit-card-check.svg",
+    "path": "assets/icons/untitledui/credit-card-check.svg"
+  },
+  {
+    "name": "credit-card-down",
+    "file": "credit-card-down.svg",
+    "path": "assets/icons/untitledui/credit-card-down.svg"
+  },
+  {
+    "name": "credit-card-download",
+    "file": "credit-card-download.svg",
+    "path": "assets/icons/untitledui/credit-card-download.svg"
+  },
+  {
+    "name": "credit-card-edit",
+    "file": "credit-card-edit.svg",
+    "path": "assets/icons/untitledui/credit-card-edit.svg"
+  },
+  {
+    "name": "credit-card-lock",
+    "file": "credit-card-lock.svg",
+    "path": "assets/icons/untitledui/credit-card-lock.svg"
+  },
+  {
+    "name": "credit-card-minus",
+    "file": "credit-card-minus.svg",
+    "path": "assets/icons/untitledui/credit-card-minus.svg"
+  },
+  {
+    "name": "credit-card-plus",
+    "file": "credit-card-plus.svg",
+    "path": "assets/icons/untitledui/credit-card-plus.svg"
+  },
+  {
+    "name": "credit-card-refresh",
+    "file": "credit-card-refresh.svg",
+    "path": "assets/icons/untitledui/credit-card-refresh.svg"
+  },
+  {
+    "name": "credit-card-search",
+    "file": "credit-card-search.svg",
+    "path": "assets/icons/untitledui/credit-card-search.svg"
+  },
+  {
+    "name": "credit-card-shield",
+    "file": "credit-card-shield.svg",
+    "path": "assets/icons/untitledui/credit-card-shield.svg"
+  },
+  {
+    "name": "credit-card-up",
+    "file": "credit-card-up.svg",
+    "path": "assets/icons/untitledui/credit-card-up.svg"
+  },
+  {
+    "name": "credit-card-upload",
+    "file": "credit-card-upload.svg",
+    "path": "assets/icons/untitledui/credit-card-upload.svg"
+  },
+  {
+    "name": "credit-card-x",
+    "file": "credit-card-x.svg",
+    "path": "assets/icons/untitledui/credit-card-x.svg"
+  },
+  {
+    "name": "crop-01",
+    "file": "crop-01.svg",
+    "path": "assets/icons/untitledui/crop-01.svg"
+  },
+  {
+    "name": "crop-02",
+    "file": "crop-02.svg",
+    "path": "assets/icons/untitledui/crop-02.svg"
+  },
+  {
+    "name": "cryptocurrency-01",
+    "file": "cryptocurrency-01.svg",
+    "path": "assets/icons/untitledui/cryptocurrency-01.svg"
+  },
+  {
+    "name": "cryptocurrency-02",
+    "file": "cryptocurrency-02.svg",
+    "path": "assets/icons/untitledui/cryptocurrency-02.svg"
+  },
+  {
+    "name": "cryptocurrency-03",
+    "file": "cryptocurrency-03.svg",
+    "path": "assets/icons/untitledui/cryptocurrency-03.svg"
+  },
+  {
+    "name": "cryptocurrency-04",
+    "file": "cryptocurrency-04.svg",
+    "path": "assets/icons/untitledui/cryptocurrency-04.svg"
+  },
+  {
+    "name": "cube-01",
+    "file": "cube-01.svg",
+    "path": "assets/icons/untitledui/cube-01.svg"
+  },
+  {
+    "name": "cube-02",
+    "file": "cube-02.svg",
+    "path": "assets/icons/untitledui/cube-02.svg"
+  },
+  {
+    "name": "cube-03",
+    "file": "cube-03.svg",
+    "path": "assets/icons/untitledui/cube-03.svg"
+  },
+  {
+    "name": "cube-04",
+    "file": "cube-04.svg",
+    "path": "assets/icons/untitledui/cube-04.svg"
+  },
+  {
+    "name": "cube-outline",
+    "file": "cube-outline.svg",
+    "path": "assets/icons/untitledui/cube-outline.svg"
+  },
+  {
+    "name": "currency-bitcoin-circle",
+    "file": "currency-bitcoin-circle.svg",
+    "path": "assets/icons/untitledui/currency-bitcoin-circle.svg"
+  },
+  {
+    "name": "currency-bitcoin",
+    "file": "currency-bitcoin.svg",
+    "path": "assets/icons/untitledui/currency-bitcoin.svg"
+  },
+  {
+    "name": "currency-dollar-circle",
+    "file": "currency-dollar-circle.svg",
+    "path": "assets/icons/untitledui/currency-dollar-circle.svg"
+  },
+  {
+    "name": "currency-dollar",
+    "file": "currency-dollar.svg",
+    "path": "assets/icons/untitledui/currency-dollar.svg"
+  },
+  {
+    "name": "currency-ethereum-circle",
+    "file": "currency-ethereum-circle.svg",
+    "path": "assets/icons/untitledui/currency-ethereum-circle.svg"
+  },
+  {
+    "name": "currency-ethereum",
+    "file": "currency-ethereum.svg",
+    "path": "assets/icons/untitledui/currency-ethereum.svg"
+  },
+  {
+    "name": "currency-euro-circle",
+    "file": "currency-euro-circle.svg",
+    "path": "assets/icons/untitledui/currency-euro-circle.svg"
+  },
+  {
+    "name": "currency-euro",
+    "file": "currency-euro.svg",
+    "path": "assets/icons/untitledui/currency-euro.svg"
+  },
+  {
+    "name": "currency-pound-circle",
+    "file": "currency-pound-circle.svg",
+    "path": "assets/icons/untitledui/currency-pound-circle.svg"
+  },
+  {
+    "name": "currency-pound",
+    "file": "currency-pound.svg",
+    "path": "assets/icons/untitledui/currency-pound.svg"
+  },
+  {
+    "name": "currency-ruble-circle",
+    "file": "currency-ruble-circle.svg",
+    "path": "assets/icons/untitledui/currency-ruble-circle.svg"
+  },
+  {
+    "name": "currency-ruble",
+    "file": "currency-ruble.svg",
+    "path": "assets/icons/untitledui/currency-ruble.svg"
+  },
+  {
+    "name": "currency-rupee-circle",
+    "file": "currency-rupee-circle.svg",
+    "path": "assets/icons/untitledui/currency-rupee-circle.svg"
+  },
+  {
+    "name": "currency-rupee",
+    "file": "currency-rupee.svg",
+    "path": "assets/icons/untitledui/currency-rupee.svg"
+  },
+  {
+    "name": "currency-yen-circle",
+    "file": "currency-yen-circle.svg",
+    "path": "assets/icons/untitledui/currency-yen-circle.svg"
+  },
+  {
+    "name": "currency-yen",
+    "file": "currency-yen.svg",
+    "path": "assets/icons/untitledui/currency-yen.svg"
+  },
+  {
+    "name": "cursor-01",
+    "file": "cursor-01.svg",
+    "path": "assets/icons/untitledui/cursor-01.svg"
+  },
+  {
+    "name": "cursor-02",
+    "file": "cursor-02.svg",
+    "path": "assets/icons/untitledui/cursor-02.svg"
+  },
+  {
+    "name": "cursor-03",
+    "file": "cursor-03.svg",
+    "path": "assets/icons/untitledui/cursor-03.svg"
+  },
+  {
+    "name": "cursor-04",
+    "file": "cursor-04.svg",
+    "path": "assets/icons/untitledui/cursor-04.svg"
+  },
+  {
+    "name": "cursor-box",
+    "file": "cursor-box.svg",
+    "path": "assets/icons/untitledui/cursor-box.svg"
+  },
+  {
+    "name": "cursor-click-01",
+    "file": "cursor-click-01.svg",
+    "path": "assets/icons/untitledui/cursor-click-01.svg"
+  },
+  {
+    "name": "cursor-click-02",
+    "file": "cursor-click-02.svg",
+    "path": "assets/icons/untitledui/cursor-click-02.svg"
+  },
+  {
+    "name": "data",
+    "file": "data.svg",
+    "path": "assets/icons/untitledui/data.svg"
+  },
+  {
+    "name": "database-01",
+    "file": "database-01.svg",
+    "path": "assets/icons/untitledui/database-01.svg"
+  },
+  {
+    "name": "database-02",
+    "file": "database-02.svg",
+    "path": "assets/icons/untitledui/database-02.svg"
+  },
+  {
+    "name": "database-03",
+    "file": "database-03.svg",
+    "path": "assets/icons/untitledui/database-03.svg"
+  },
+  {
+    "name": "dataflow-01",
+    "file": "dataflow-01.svg",
+    "path": "assets/icons/untitledui/dataflow-01.svg"
+  },
+  {
+    "name": "dataflow-02",
+    "file": "dataflow-02.svg",
+    "path": "assets/icons/untitledui/dataflow-02.svg"
+  },
+  {
+    "name": "dataflow-03",
+    "file": "dataflow-03.svg",
+    "path": "assets/icons/untitledui/dataflow-03.svg"
+  },
+  {
+    "name": "dataflow-04",
+    "file": "dataflow-04.svg",
+    "path": "assets/icons/untitledui/dataflow-04.svg"
+  },
+  {
+    "name": "delete",
+    "file": "delete.svg",
+    "path": "assets/icons/untitledui/delete.svg"
+  },
+  {
+    "name": "diamond-01",
+    "file": "diamond-01.svg",
+    "path": "assets/icons/untitledui/diamond-01.svg"
+  },
+  {
+    "name": "diamond-02",
+    "file": "diamond-02.svg",
+    "path": "assets/icons/untitledui/diamond-02.svg"
+  },
+  {
+    "name": "dice-1",
+    "file": "dice-1.svg",
+    "path": "assets/icons/untitledui/dice-1.svg"
+  },
+  {
+    "name": "dice-2",
+    "file": "dice-2.svg",
+    "path": "assets/icons/untitledui/dice-2.svg"
+  },
+  {
+    "name": "dice-3",
+    "file": "dice-3.svg",
+    "path": "assets/icons/untitledui/dice-3.svg"
+  },
+  {
+    "name": "dice-4",
+    "file": "dice-4.svg",
+    "path": "assets/icons/untitledui/dice-4.svg"
+  },
+  {
+    "name": "dice-5",
+    "file": "dice-5.svg",
+    "path": "assets/icons/untitledui/dice-5.svg"
+  },
+  {
+    "name": "dice-6",
+    "file": "dice-6.svg",
+    "path": "assets/icons/untitledui/dice-6.svg"
+  },
+  {
+    "name": "disc-01",
+    "file": "disc-01.svg",
+    "path": "assets/icons/untitledui/disc-01.svg"
+  },
+  {
+    "name": "disc-02",
+    "file": "disc-02.svg",
+    "path": "assets/icons/untitledui/disc-02.svg"
+  },
+  {
+    "name": "distribute-spacing-horizontal",
+    "file": "distribute-spacing-horizontal.svg",
+    "path": "assets/icons/untitledui/distribute-spacing-horizontal.svg"
+  },
+  {
+    "name": "distribute-spacing-vertical",
+    "file": "distribute-spacing-vertical.svg",
+    "path": "assets/icons/untitledui/distribute-spacing-vertical.svg"
+  },
+  {
+    "name": "divide-01",
+    "file": "divide-01.svg",
+    "path": "assets/icons/untitledui/divide-01.svg"
+  },
+  {
+    "name": "divide-02",
+    "file": "divide-02.svg",
+    "path": "assets/icons/untitledui/divide-02.svg"
+  },
+  {
+    "name": "divide-03",
+    "file": "divide-03.svg",
+    "path": "assets/icons/untitledui/divide-03.svg"
+  },
+  {
+    "name": "divider",
+    "file": "divider.svg",
+    "path": "assets/icons/untitledui/divider.svg"
+  },
+  {
+    "name": "dotpoints-01",
+    "file": "dotpoints-01.svg",
+    "path": "assets/icons/untitledui/dotpoints-01.svg"
+  },
+  {
+    "name": "dotpoints-02",
+    "file": "dotpoints-02.svg",
+    "path": "assets/icons/untitledui/dotpoints-02.svg"
+  },
+  {
+    "name": "dots-grid",
+    "file": "dots-grid.svg",
+    "path": "assets/icons/untitledui/dots-grid.svg"
+  },
+  {
+    "name": "dots-horizontal",
+    "file": "dots-horizontal.svg",
+    "path": "assets/icons/untitledui/dots-horizontal.svg"
+  },
+  {
+    "name": "dots-vertical",
+    "file": "dots-vertical.svg",
+    "path": "assets/icons/untitledui/dots-vertical.svg"
+  },
+  {
+    "name": "download-01",
+    "file": "download-01.svg",
+    "path": "assets/icons/untitledui/download-01.svg"
+  },
+  {
+    "name": "download-02",
+    "file": "download-02.svg",
+    "path": "assets/icons/untitledui/download-02.svg"
+  },
+  {
+    "name": "download-03",
+    "file": "download-03.svg",
+    "path": "assets/icons/untitledui/download-03.svg"
+  },
+  {
+    "name": "download-04",
+    "file": "download-04.svg",
+    "path": "assets/icons/untitledui/download-04.svg"
+  },
+  {
+    "name": "download-cloud-01",
+    "file": "download-cloud-01.svg",
+    "path": "assets/icons/untitledui/download-cloud-01.svg"
+  },
+  {
+    "name": "download-cloud-02",
+    "file": "download-cloud-02.svg",
+    "path": "assets/icons/untitledui/download-cloud-02.svg"
+  },
+  {
+    "name": "drop",
+    "file": "drop.svg",
+    "path": "assets/icons/untitledui/drop.svg"
+  },
+  {
+    "name": "droplets-01",
+    "file": "droplets-01.svg",
+    "path": "assets/icons/untitledui/droplets-01.svg"
+  },
+  {
+    "name": "droplets-02",
+    "file": "droplets-02.svg",
+    "path": "assets/icons/untitledui/droplets-02.svg"
+  },
+  {
+    "name": "droplets-03",
+    "file": "droplets-03.svg",
+    "path": "assets/icons/untitledui/droplets-03.svg"
+  },
+  {
+    "name": "dropper",
+    "file": "dropper.svg",
+    "path": "assets/icons/untitledui/dropper.svg"
+  },
+  {
+    "name": "edit-01",
+    "file": "edit-01.svg",
+    "path": "assets/icons/untitledui/edit-01.svg"
+  },
+  {
+    "name": "edit-02",
+    "file": "edit-02.svg",
+    "path": "assets/icons/untitledui/edit-02.svg"
+  },
+  {
+    "name": "edit-03",
+    "file": "edit-03.svg",
+    "path": "assets/icons/untitledui/edit-03.svg"
+  },
+  {
+    "name": "edit-04",
+    "file": "edit-04.svg",
+    "path": "assets/icons/untitledui/edit-04.svg"
+  },
+  {
+    "name": "edit-05",
+    "file": "edit-05.svg",
+    "path": "assets/icons/untitledui/edit-05.svg"
+  },
+  {
+    "name": "equal-not",
+    "file": "equal-not.svg",
+    "path": "assets/icons/untitledui/equal-not.svg"
+  },
+  {
+    "name": "equal",
+    "file": "equal.svg",
+    "path": "assets/icons/untitledui/equal.svg"
+  },
+  {
+    "name": "eraser",
+    "file": "eraser.svg",
+    "path": "assets/icons/untitledui/eraser.svg"
+  },
+  {
+    "name": "expand-01",
+    "file": "expand-01.svg",
+    "path": "assets/icons/untitledui/expand-01.svg"
+  },
+  {
+    "name": "expand-02",
+    "file": "expand-02.svg",
+    "path": "assets/icons/untitledui/expand-02.svg"
+  },
+  {
+    "name": "expand-03",
+    "file": "expand-03.svg",
+    "path": "assets/icons/untitledui/expand-03.svg"
+  },
+  {
+    "name": "expand-04",
+    "file": "expand-04.svg",
+    "path": "assets/icons/untitledui/expand-04.svg"
+  },
+  {
+    "name": "expand-05",
+    "file": "expand-05.svg",
+    "path": "assets/icons/untitledui/expand-05.svg"
+  },
+  {
+    "name": "expand-06",
+    "file": "expand-06.svg",
+    "path": "assets/icons/untitledui/expand-06.svg"
+  },
+  {
+    "name": "eye-off",
+    "file": "eye-off.svg",
+    "path": "assets/icons/untitledui/eye-off.svg"
+  },
+  {
+    "name": "eye",
+    "file": "eye.svg",
+    "path": "assets/icons/untitledui/eye.svg"
+  },
+  {
+    "name": "face-content",
+    "file": "face-content.svg",
+    "path": "assets/icons/untitledui/face-content.svg"
+  },
+  {
+    "name": "face-frown",
+    "file": "face-frown.svg",
+    "path": "assets/icons/untitledui/face-frown.svg"
+  },
+  {
+    "name": "face-happy",
+    "file": "face-happy.svg",
+    "path": "assets/icons/untitledui/face-happy.svg"
+  },
+  {
+    "name": "face-id-square",
+    "file": "face-id-square.svg",
+    "path": "assets/icons/untitledui/face-id-square.svg"
+  },
+  {
+    "name": "face-id",
+    "file": "face-id.svg",
+    "path": "assets/icons/untitledui/face-id.svg"
+  },
+  {
+    "name": "face-neutral",
+    "file": "face-neutral.svg",
+    "path": "assets/icons/untitledui/face-neutral.svg"
+  },
+  {
+    "name": "face-sad",
+    "file": "face-sad.svg",
+    "path": "assets/icons/untitledui/face-sad.svg"
+  },
+  {
+    "name": "face-smile",
+    "file": "face-smile.svg",
+    "path": "assets/icons/untitledui/face-smile.svg"
+  },
+  {
+    "name": "face-wink",
+    "file": "face-wink.svg",
+    "path": "assets/icons/untitledui/face-wink.svg"
+  },
+  {
+    "name": "fast-backward",
+    "file": "fast-backward.svg",
+    "path": "assets/icons/untitledui/fast-backward.svg"
+  },
+  {
+    "name": "fast-forward",
+    "file": "fast-forward.svg",
+    "path": "assets/icons/untitledui/fast-forward.svg"
+  },
+  {
+    "name": "feather",
+    "file": "feather.svg",
+    "path": "assets/icons/untitledui/feather.svg"
+  },
+  {
+    "name": "figma",
+    "file": "figma.svg",
+    "path": "assets/icons/untitledui/figma.svg"
+  },
+  {
+    "name": "file-01",
+    "file": "file-01.svg",
+    "path": "assets/icons/untitledui/file-01.svg"
+  },
+  {
+    "name": "file-02",
+    "file": "file-02.svg",
+    "path": "assets/icons/untitledui/file-02.svg"
+  },
+  {
+    "name": "file-03",
+    "file": "file-03.svg",
+    "path": "assets/icons/untitledui/file-03.svg"
+  },
+  {
+    "name": "file-04",
+    "file": "file-04.svg",
+    "path": "assets/icons/untitledui/file-04.svg"
+  },
+  {
+    "name": "file-05",
+    "file": "file-05.svg",
+    "path": "assets/icons/untitledui/file-05.svg"
+  },
+  {
+    "name": "file-06",
+    "file": "file-06.svg",
+    "path": "assets/icons/untitledui/file-06.svg"
+  },
+  {
+    "name": "file-07",
+    "file": "file-07.svg",
+    "path": "assets/icons/untitledui/file-07.svg"
+  },
+  {
+    "name": "file-attachment-01",
+    "file": "file-attachment-01.svg",
+    "path": "assets/icons/untitledui/file-attachment-01.svg"
+  },
+  {
+    "name": "file-attachment-02",
+    "file": "file-attachment-02.svg",
+    "path": "assets/icons/untitledui/file-attachment-02.svg"
+  },
+  {
+    "name": "file-attachment-03",
+    "file": "file-attachment-03.svg",
+    "path": "assets/icons/untitledui/file-attachment-03.svg"
+  },
+  {
+    "name": "file-attachment-04",
+    "file": "file-attachment-04.svg",
+    "path": "assets/icons/untitledui/file-attachment-04.svg"
+  },
+  {
+    "name": "file-attachment-05",
+    "file": "file-attachment-05.svg",
+    "path": "assets/icons/untitledui/file-attachment-05.svg"
+  },
+  {
+    "name": "file-check-01",
+    "file": "file-check-01.svg",
+    "path": "assets/icons/untitledui/file-check-01.svg"
+  },
+  {
+    "name": "file-check-02",
+    "file": "file-check-02.svg",
+    "path": "assets/icons/untitledui/file-check-02.svg"
+  },
+  {
+    "name": "file-check-03",
+    "file": "file-check-03.svg",
+    "path": "assets/icons/untitledui/file-check-03.svg"
+  },
+  {
+    "name": "file-code-01",
+    "file": "file-code-01.svg",
+    "path": "assets/icons/untitledui/file-code-01.svg"
+  },
+  {
+    "name": "file-code-02",
+    "file": "file-code-02.svg",
+    "path": "assets/icons/untitledui/file-code-02.svg"
+  },
+  {
+    "name": "file-download-01",
+    "file": "file-download-01.svg",
+    "path": "assets/icons/untitledui/file-download-01.svg"
+  },
+  {
+    "name": "file-download-02",
+    "file": "file-download-02.svg",
+    "path": "assets/icons/untitledui/file-download-02.svg"
+  },
+  {
+    "name": "file-download-03",
+    "file": "file-download-03.svg",
+    "path": "assets/icons/untitledui/file-download-03.svg"
+  },
+  {
+    "name": "file-heart-01",
+    "file": "file-heart-01.svg",
+    "path": "assets/icons/untitledui/file-heart-01.svg"
+  },
+  {
+    "name": "file-heart-02",
+    "file": "file-heart-02.svg",
+    "path": "assets/icons/untitledui/file-heart-02.svg"
+  },
+  {
+    "name": "file-heart-03",
+    "file": "file-heart-03.svg",
+    "path": "assets/icons/untitledui/file-heart-03.svg"
+  },
+  {
+    "name": "file-lock-01",
+    "file": "file-lock-01.svg",
+    "path": "assets/icons/untitledui/file-lock-01.svg"
+  },
+  {
+    "name": "file-lock-02",
+    "file": "file-lock-02.svg",
+    "path": "assets/icons/untitledui/file-lock-02.svg"
+  },
+  {
+    "name": "file-lock-03",
+    "file": "file-lock-03.svg",
+    "path": "assets/icons/untitledui/file-lock-03.svg"
+  },
+  {
+    "name": "file-minus-01",
+    "file": "file-minus-01.svg",
+    "path": "assets/icons/untitledui/file-minus-01.svg"
+  },
+  {
+    "name": "file-minus-02",
+    "file": "file-minus-02.svg",
+    "path": "assets/icons/untitledui/file-minus-02.svg"
+  },
+  {
+    "name": "file-minus-03",
+    "file": "file-minus-03.svg",
+    "path": "assets/icons/untitledui/file-minus-03.svg"
+  },
+  {
+    "name": "file-plus-01",
+    "file": "file-plus-01.svg",
+    "path": "assets/icons/untitledui/file-plus-01.svg"
+  },
+  {
+    "name": "file-plus-02",
+    "file": "file-plus-02.svg",
+    "path": "assets/icons/untitledui/file-plus-02.svg"
+  },
+  {
+    "name": "file-plus-03",
+    "file": "file-plus-03.svg",
+    "path": "assets/icons/untitledui/file-plus-03.svg"
+  },
+  {
+    "name": "file-question-01",
+    "file": "file-question-01.svg",
+    "path": "assets/icons/untitledui/file-question-01.svg"
+  },
+  {
+    "name": "file-question-02",
+    "file": "file-question-02.svg",
+    "path": "assets/icons/untitledui/file-question-02.svg"
+  },
+  {
+    "name": "file-question-03",
+    "file": "file-question-03.svg",
+    "path": "assets/icons/untitledui/file-question-03.svg"
+  },
+  {
+    "name": "file-search-01",
+    "file": "file-search-01.svg",
+    "path": "assets/icons/untitledui/file-search-01.svg"
+  },
+  {
+    "name": "file-search-02",
+    "file": "file-search-02.svg",
+    "path": "assets/icons/untitledui/file-search-02.svg"
+  },
+  {
+    "name": "file-search-03",
+    "file": "file-search-03.svg",
+    "path": "assets/icons/untitledui/file-search-03.svg"
+  },
+  {
+    "name": "file-shield-01",
+    "file": "file-shield-01.svg",
+    "path": "assets/icons/untitledui/file-shield-01.svg"
+  },
+  {
+    "name": "file-shield-02",
+    "file": "file-shield-02.svg",
+    "path": "assets/icons/untitledui/file-shield-02.svg"
+  },
+  {
+    "name": "file-shield-03",
+    "file": "file-shield-03.svg",
+    "path": "assets/icons/untitledui/file-shield-03.svg"
+  },
+  {
+    "name": "file-x-01",
+    "file": "file-x-01.svg",
+    "path": "assets/icons/untitledui/file-x-01.svg"
+  },
+  {
+    "name": "file-x-02",
+    "file": "file-x-02.svg",
+    "path": "assets/icons/untitledui/file-x-02.svg"
+  },
+  {
+    "name": "file-x-03",
+    "file": "file-x-03.svg",
+    "path": "assets/icons/untitledui/file-x-03.svg"
+  },
+  {
+    "name": "film-01",
+    "file": "film-01.svg",
+    "path": "assets/icons/untitledui/film-01.svg"
+  },
+  {
+    "name": "film-02",
+    "file": "film-02.svg",
+    "path": "assets/icons/untitledui/film-02.svg"
+  },
+  {
+    "name": "film-03",
+    "file": "film-03.svg",
+    "path": "assets/icons/untitledui/film-03.svg"
+  },
+  {
+    "name": "filter-funnel-01",
+    "file": "filter-funnel-01.svg",
+    "path": "assets/icons/untitledui/filter-funnel-01.svg"
+  },
+  {
+    "name": "filter-funnel-02",
+    "file": "filter-funnel-02.svg",
+    "path": "assets/icons/untitledui/filter-funnel-02.svg"
+  },
+  {
+    "name": "filter-lines",
+    "file": "filter-lines.svg",
+    "path": "assets/icons/untitledui/filter-lines.svg"
+  },
+  {
+    "name": "fingerprint-01",
+    "file": "fingerprint-01.svg",
+    "path": "assets/icons/untitledui/fingerprint-01.svg"
+  },
+  {
+    "name": "fingerprint-02",
+    "file": "fingerprint-02.svg",
+    "path": "assets/icons/untitledui/fingerprint-02.svg"
+  },
+  {
+    "name": "fingerprint-03",
+    "file": "fingerprint-03.svg",
+    "path": "assets/icons/untitledui/fingerprint-03.svg"
+  },
+  {
+    "name": "fingerprint-04",
+    "file": "fingerprint-04.svg",
+    "path": "assets/icons/untitledui/fingerprint-04.svg"
+  },
+  {
+    "name": "flag-01",
+    "file": "flag-01.svg",
+    "path": "assets/icons/untitledui/flag-01.svg"
+  },
+  {
+    "name": "flag-02",
+    "file": "flag-02.svg",
+    "path": "assets/icons/untitledui/flag-02.svg"
+  },
+  {
+    "name": "flag-03",
+    "file": "flag-03.svg",
+    "path": "assets/icons/untitledui/flag-03.svg"
+  },
+  {
+    "name": "flag-04",
+    "file": "flag-04.svg",
+    "path": "assets/icons/untitledui/flag-04.svg"
+  },
+  {
+    "name": "flag-05",
+    "file": "flag-05.svg",
+    "path": "assets/icons/untitledui/flag-05.svg"
+  },
+  {
+    "name": "flag-06",
+    "file": "flag-06.svg",
+    "path": "assets/icons/untitledui/flag-06.svg"
+  },
+  {
+    "name": "flash-off",
+    "file": "flash-off.svg",
+    "path": "assets/icons/untitledui/flash-off.svg"
+  },
+  {
+    "name": "flash",
+    "file": "flash.svg",
+    "path": "assets/icons/untitledui/flash.svg"
+  },
+  {
+    "name": "flex-align-bottom",
+    "file": "flex-align-bottom.svg",
+    "path": "assets/icons/untitledui/flex-align-bottom.svg"
+  },
+  {
+    "name": "flex-align-left",
+    "file": "flex-align-left.svg",
+    "path": "assets/icons/untitledui/flex-align-left.svg"
+  },
+  {
+    "name": "flex-align-right",
+    "file": "flex-align-right.svg",
+    "path": "assets/icons/untitledui/flex-align-right.svg"
+  },
+  {
+    "name": "flex-align-top",
+    "file": "flex-align-top.svg",
+    "path": "assets/icons/untitledui/flex-align-top.svg"
+  },
+  {
+    "name": "flip-backward",
+    "file": "flip-backward.svg",
+    "path": "assets/icons/untitledui/flip-backward.svg"
+  },
+  {
+    "name": "flip-forward",
+    "file": "flip-forward.svg",
+    "path": "assets/icons/untitledui/flip-forward.svg"
+  },
+  {
+    "name": "folder-check",
+    "file": "folder-check.svg",
+    "path": "assets/icons/untitledui/folder-check.svg"
+  },
+  {
+    "name": "folder-closed",
+    "file": "folder-closed.svg",
+    "path": "assets/icons/untitledui/folder-closed.svg"
+  },
+  {
+    "name": "folder-code",
+    "file": "folder-code.svg",
+    "path": "assets/icons/untitledui/folder-code.svg"
+  },
+  {
+    "name": "folder-download",
+    "file": "folder-download.svg",
+    "path": "assets/icons/untitledui/folder-download.svg"
+  },
+  {
+    "name": "folder-lock",
+    "file": "folder-lock.svg",
+    "path": "assets/icons/untitledui/folder-lock.svg"
+  },
+  {
+    "name": "folder-minus",
+    "file": "folder-minus.svg",
+    "path": "assets/icons/untitledui/folder-minus.svg"
+  },
+  {
+    "name": "folder-plus",
+    "file": "folder-plus.svg",
+    "path": "assets/icons/untitledui/folder-plus.svg"
+  },
+  {
+    "name": "folder-question",
+    "file": "folder-question.svg",
+    "path": "assets/icons/untitledui/folder-question.svg"
+  },
+  {
+    "name": "folder-search",
+    "file": "folder-search.svg",
+    "path": "assets/icons/untitledui/folder-search.svg"
+  },
+  {
+    "name": "folder-shield",
+    "file": "folder-shield.svg",
+    "path": "assets/icons/untitledui/folder-shield.svg"
+  },
+  {
+    "name": "folder-x",
+    "file": "folder-x.svg",
+    "path": "assets/icons/untitledui/folder-x.svg"
+  },
+  {
+    "name": "folder",
+    "file": "folder.svg",
+    "path": "assets/icons/untitledui/folder.svg"
+  },
+  {
+    "name": "framer",
+    "file": "framer.svg",
+    "path": "assets/icons/untitledui/framer.svg"
+  },
+  {
+    "name": "gaming-pad-01",
+    "file": "gaming-pad-01.svg",
+    "path": "assets/icons/untitledui/gaming-pad-01.svg"
+  },
+  {
+    "name": "gaming-pad-02",
+    "file": "gaming-pad-02.svg",
+    "path": "assets/icons/untitledui/gaming-pad-02.svg"
+  },
+  {
+    "name": "gift-01",
+    "file": "gift-01.svg",
+    "path": "assets/icons/untitledui/gift-01.svg"
+  },
+  {
+    "name": "gift-02",
+    "file": "gift-02.svg",
+    "path": "assets/icons/untitledui/gift-02.svg"
+  },
+  {
+    "name": "git-branch-01",
+    "file": "git-branch-01.svg",
+    "path": "assets/icons/untitledui/git-branch-01.svg"
+  },
+  {
+    "name": "git-branch-02",
+    "file": "git-branch-02.svg",
+    "path": "assets/icons/untitledui/git-branch-02.svg"
+  },
+  {
+    "name": "git-commit",
+    "file": "git-commit.svg",
+    "path": "assets/icons/untitledui/git-commit.svg"
+  },
+  {
+    "name": "git-merge",
+    "file": "git-merge.svg",
+    "path": "assets/icons/untitledui/git-merge.svg"
+  },
+  {
+    "name": "git-pull-request",
+    "file": "git-pull-request.svg",
+    "path": "assets/icons/untitledui/git-pull-request.svg"
+  },
+  {
+    "name": "glasses-01",
+    "file": "glasses-01.svg",
+    "path": "assets/icons/untitledui/glasses-01.svg"
+  },
+  {
+    "name": "glasses-02",
+    "file": "glasses-02.svg",
+    "path": "assets/icons/untitledui/glasses-02.svg"
+  },
+  {
+    "name": "globe-01",
+    "file": "globe-01.svg",
+    "path": "assets/icons/untitledui/globe-01.svg"
+  },
+  {
+    "name": "globe-02",
+    "file": "globe-02.svg",
+    "path": "assets/icons/untitledui/globe-02.svg"
+  },
+  {
+    "name": "globe-03",
+    "file": "globe-03.svg",
+    "path": "assets/icons/untitledui/globe-03.svg"
+  },
+  {
+    "name": "globe-04",
+    "file": "globe-04.svg",
+    "path": "assets/icons/untitledui/globe-04.svg"
+  },
+  {
+    "name": "globe-05",
+    "file": "globe-05.svg",
+    "path": "assets/icons/untitledui/globe-05.svg"
+  },
+  {
+    "name": "globe-06",
+    "file": "globe-06.svg",
+    "path": "assets/icons/untitledui/globe-06.svg"
+  },
+  {
+    "name": "globe-slated-01",
+    "file": "globe-slated-01.svg",
+    "path": "assets/icons/untitledui/globe-slated-01.svg"
+  },
+  {
+    "name": "globe-slated-02",
+    "file": "globe-slated-02.svg",
+    "path": "assets/icons/untitledui/globe-slated-02.svg"
+  },
+  {
+    "name": "google-chrome",
+    "file": "google-chrome.svg",
+    "path": "assets/icons/untitledui/google-chrome.svg"
+  },
+  {
+    "name": "graduation-hat-01",
+    "file": "graduation-hat-01.svg",
+    "path": "assets/icons/untitledui/graduation-hat-01.svg"
+  },
+  {
+    "name": "graduation-hat-02",
+    "file": "graduation-hat-02.svg",
+    "path": "assets/icons/untitledui/graduation-hat-02.svg"
+  },
+  {
+    "name": "grid-01",
+    "file": "grid-01.svg",
+    "path": "assets/icons/untitledui/grid-01.svg"
+  },
+  {
+    "name": "grid-02",
+    "file": "grid-02.svg",
+    "path": "assets/icons/untitledui/grid-02.svg"
+  },
+  {
+    "name": "grid-03",
+    "file": "grid-03.svg",
+    "path": "assets/icons/untitledui/grid-03.svg"
+  },
+  {
+    "name": "grid-dots-blank",
+    "file": "grid-dots-blank.svg",
+    "path": "assets/icons/untitledui/grid-dots-blank.svg"
+  },
+  {
+    "name": "grid-dots-bottom",
+    "file": "grid-dots-bottom.svg",
+    "path": "assets/icons/untitledui/grid-dots-bottom.svg"
+  },
+  {
+    "name": "grid-dots-horizontal-center",
+    "file": "grid-dots-horizontal-center.svg",
+    "path": "assets/icons/untitledui/grid-dots-horizontal-center.svg"
+  },
+  {
+    "name": "grid-dots-left",
+    "file": "grid-dots-left.svg",
+    "path": "assets/icons/untitledui/grid-dots-left.svg"
+  },
+  {
+    "name": "grid-dots-outer",
+    "file": "grid-dots-outer.svg",
+    "path": "assets/icons/untitledui/grid-dots-outer.svg"
+  },
+  {
+    "name": "grid-dots-right",
+    "file": "grid-dots-right.svg",
+    "path": "assets/icons/untitledui/grid-dots-right.svg"
+  },
+  {
+    "name": "grid-dots-top",
+    "file": "grid-dots-top.svg",
+    "path": "assets/icons/untitledui/grid-dots-top.svg"
+  },
+  {
+    "name": "grid-dots-vertical-center",
+    "file": "grid-dots-vertical-center.svg",
+    "path": "assets/icons/untitledui/grid-dots-vertical-center.svg"
+  },
+  {
+    "name": "hand",
+    "file": "hand.svg",
+    "path": "assets/icons/untitledui/hand.svg"
+  },
+  {
+    "name": "hard-drive",
+    "file": "hard-drive.svg",
+    "path": "assets/icons/untitledui/hard-drive.svg"
+  },
+  {
+    "name": "hash-01",
+    "file": "hash-01.svg",
+    "path": "assets/icons/untitledui/hash-01.svg"
+  },
+  {
+    "name": "hash-02",
+    "file": "hash-02.svg",
+    "path": "assets/icons/untitledui/hash-02.svg"
+  },
+  {
+    "name": "heading-01",
+    "file": "heading-01.svg",
+    "path": "assets/icons/untitledui/heading-01.svg"
+  },
+  {
+    "name": "heading-02",
+    "file": "heading-02.svg",
+    "path": "assets/icons/untitledui/heading-02.svg"
+  },
+  {
+    "name": "heading-square",
+    "file": "heading-square.svg",
+    "path": "assets/icons/untitledui/heading-square.svg"
+  },
+  {
+    "name": "headphones-01",
+    "file": "headphones-01.svg",
+    "path": "assets/icons/untitledui/headphones-01.svg"
+  },
+  {
+    "name": "headphones-02",
+    "file": "headphones-02.svg",
+    "path": "assets/icons/untitledui/headphones-02.svg"
+  },
+  {
+    "name": "heart-circle",
+    "file": "heart-circle.svg",
+    "path": "assets/icons/untitledui/heart-circle.svg"
+  },
+  {
+    "name": "heart-hand",
+    "file": "heart-hand.svg",
+    "path": "assets/icons/untitledui/heart-hand.svg"
+  },
+  {
+    "name": "heart-hexagon",
+    "file": "heart-hexagon.svg",
+    "path": "assets/icons/untitledui/heart-hexagon.svg"
+  },
+  {
+    "name": "heart-octagon",
+    "file": "heart-octagon.svg",
+    "path": "assets/icons/untitledui/heart-octagon.svg"
+  },
+  {
+    "name": "heart-rounded",
+    "file": "heart-rounded.svg",
+    "path": "assets/icons/untitledui/heart-rounded.svg"
+  },
+  {
+    "name": "heart-square",
+    "file": "heart-square.svg",
+    "path": "assets/icons/untitledui/heart-square.svg"
+  },
+  {
+    "name": "heart",
+    "file": "heart.svg",
+    "path": "assets/icons/untitledui/heart.svg"
+  },
+  {
+    "name": "hearts",
+    "file": "hearts.svg",
+    "path": "assets/icons/untitledui/hearts.svg"
+  },
+  {
+    "name": "help-circle",
+    "file": "help-circle.svg",
+    "path": "assets/icons/untitledui/help-circle.svg"
+  },
+  {
+    "name": "help-octagon-1",
+    "file": "help-octagon-1.svg",
+    "path": "assets/icons/untitledui/help-octagon-1.svg"
+  },
+  {
+    "name": "help-octagon",
+    "file": "help-octagon.svg",
+    "path": "assets/icons/untitledui/help-octagon.svg"
+  },
+  {
+    "name": "help-square",
+    "file": "help-square.svg",
+    "path": "assets/icons/untitledui/help-square.svg"
+  },
+  {
+    "name": "hexagon-01",
+    "file": "hexagon-01.svg",
+    "path": "assets/icons/untitledui/hexagon-01.svg"
+  },
+  {
+    "name": "hexagon-02",
+    "file": "hexagon-02.svg",
+    "path": "assets/icons/untitledui/hexagon-02.svg"
+  },
+  {
+    "name": "home-01",
+    "file": "home-01.svg",
+    "path": "assets/icons/untitledui/home-01.svg"
+  },
+  {
+    "name": "home-02",
+    "file": "home-02.svg",
+    "path": "assets/icons/untitledui/home-02.svg"
+  },
+  {
+    "name": "home-03",
+    "file": "home-03.svg",
+    "path": "assets/icons/untitledui/home-03.svg"
+  },
+  {
+    "name": "home-04",
+    "file": "home-04.svg",
+    "path": "assets/icons/untitledui/home-04.svg"
+  },
+  {
+    "name": "home-05",
+    "file": "home-05.svg",
+    "path": "assets/icons/untitledui/home-05.svg"
+  },
+  {
+    "name": "home-line",
+    "file": "home-line.svg",
+    "path": "assets/icons/untitledui/home-line.svg"
+  },
+  {
+    "name": "home-smile",
+    "file": "home-smile.svg",
+    "path": "assets/icons/untitledui/home-smile.svg"
+  },
+  {
+    "name": "horizontal-bar-chart-01",
+    "file": "horizontal-bar-chart-01.svg",
+    "path": "assets/icons/untitledui/horizontal-bar-chart-01.svg"
+  },
+  {
+    "name": "horizontal-bar-chart-02",
+    "file": "horizontal-bar-chart-02.svg",
+    "path": "assets/icons/untitledui/horizontal-bar-chart-02.svg"
+  },
+  {
+    "name": "horizontal-bar-chart-03",
+    "file": "horizontal-bar-chart-03.svg",
+    "path": "assets/icons/untitledui/horizontal-bar-chart-03.svg"
+  },
+  {
+    "name": "hourglass-01",
+    "file": "hourglass-01.svg",
+    "path": "assets/icons/untitledui/hourglass-01.svg"
+  },
+  {
+    "name": "hourglass-02",
+    "file": "hourglass-02.svg",
+    "path": "assets/icons/untitledui/hourglass-02.svg"
+  },
+  {
+    "name": "hourglass-03",
+    "file": "hourglass-03.svg",
+    "path": "assets/icons/untitledui/hourglass-03.svg"
+  },
+  {
+    "name": "hurricane-01",
+    "file": "hurricane-01.svg",
+    "path": "assets/icons/untitledui/hurricane-01.svg"
+  },
+  {
+    "name": "hurricane-02",
+    "file": "hurricane-02.svg",
+    "path": "assets/icons/untitledui/hurricane-02.svg"
+  },
+  {
+    "name": "hurricane-03",
+    "file": "hurricane-03.svg",
+    "path": "assets/icons/untitledui/hurricane-03.svg"
+  },
+  {
+    "name": "image-01",
+    "file": "image-01.svg",
+    "path": "assets/icons/untitledui/image-01.svg"
+  },
+  {
+    "name": "image-02",
+    "file": "image-02.svg",
+    "path": "assets/icons/untitledui/image-02.svg"
+  },
+  {
+    "name": "image-03",
+    "file": "image-03.svg",
+    "path": "assets/icons/untitledui/image-03.svg"
+  },
+  {
+    "name": "image-04",
+    "file": "image-04.svg",
+    "path": "assets/icons/untitledui/image-04.svg"
+  },
+  {
+    "name": "image-05",
+    "file": "image-05.svg",
+    "path": "assets/icons/untitledui/image-05.svg"
+  },
+  {
+    "name": "image-check",
+    "file": "image-check.svg",
+    "path": "assets/icons/untitledui/image-check.svg"
+  },
+  {
+    "name": "image-down",
+    "file": "image-down.svg",
+    "path": "assets/icons/untitledui/image-down.svg"
+  },
+  {
+    "name": "image-indent-left",
+    "file": "image-indent-left.svg",
+    "path": "assets/icons/untitledui/image-indent-left.svg"
+  },
+  {
+    "name": "image-indent-right",
+    "file": "image-indent-right.svg",
+    "path": "assets/icons/untitledui/image-indent-right.svg"
+  },
+  {
+    "name": "image-left",
+    "file": "image-left.svg",
+    "path": "assets/icons/untitledui/image-left.svg"
+  },
+  {
+    "name": "image-plus",
+    "file": "image-plus.svg",
+    "path": "assets/icons/untitledui/image-plus.svg"
+  },
+  {
+    "name": "image-right",
+    "file": "image-right.svg",
+    "path": "assets/icons/untitledui/image-right.svg"
+  },
+  {
+    "name": "image-up",
+    "file": "image-up.svg",
+    "path": "assets/icons/untitledui/image-up.svg"
+  },
+  {
+    "name": "image-user-check",
+    "file": "image-user-check.svg",
+    "path": "assets/icons/untitledui/image-user-check.svg"
+  },
+  {
+    "name": "image-user-down",
+    "file": "image-user-down.svg",
+    "path": "assets/icons/untitledui/image-user-down.svg"
+  },
+  {
+    "name": "image-user-left",
+    "file": "image-user-left.svg",
+    "path": "assets/icons/untitledui/image-user-left.svg"
+  },
+  {
+    "name": "image-user-plus",
+    "file": "image-user-plus.svg",
+    "path": "assets/icons/untitledui/image-user-plus.svg"
+  },
+  {
+    "name": "image-user-right",
+    "file": "image-user-right.svg",
+    "path": "assets/icons/untitledui/image-user-right.svg"
+  },
+  {
+    "name": "image-user-up",
+    "file": "image-user-up.svg",
+    "path": "assets/icons/untitledui/image-user-up.svg"
+  },
+  {
+    "name": "image-user-x",
+    "file": "image-user-x.svg",
+    "path": "assets/icons/untitledui/image-user-x.svg"
+  },
+  {
+    "name": "image-user",
+    "file": "image-user.svg",
+    "path": "assets/icons/untitledui/image-user.svg"
+  },
+  {
+    "name": "image-x",
+    "file": "image-x.svg",
+    "path": "assets/icons/untitledui/image-x.svg"
+  },
+  {
+    "name": "inbox-01",
+    "file": "inbox-01.svg",
+    "path": "assets/icons/untitledui/inbox-01.svg"
+  },
+  {
+    "name": "inbox-02",
+    "file": "inbox-02.svg",
+    "path": "assets/icons/untitledui/inbox-02.svg"
+  },
+  {
+    "name": "infinity",
+    "file": "infinity.svg",
+    "path": "assets/icons/untitledui/infinity.svg"
+  },
+  {
+    "name": "info-circle",
+    "file": "info-circle.svg",
+    "path": "assets/icons/untitledui/info-circle.svg"
+  },
+  {
+    "name": "info-hexagon",
+    "file": "info-hexagon.svg",
+    "path": "assets/icons/untitledui/info-hexagon.svg"
+  },
+  {
+    "name": "info-octagon",
+    "file": "info-octagon.svg",
+    "path": "assets/icons/untitledui/info-octagon.svg"
+  },
+  {
+    "name": "info-square",
+    "file": "info-square.svg",
+    "path": "assets/icons/untitledui/info-square.svg"
+  },
+  {
+    "name": "intersect-circle",
+    "file": "intersect-circle.svg",
+    "path": "assets/icons/untitledui/intersect-circle.svg"
+  },
+  {
+    "name": "intersect-square",
+    "file": "intersect-square.svg",
+    "path": "assets/icons/untitledui/intersect-square.svg"
+  },
+  {
+    "name": "italic-01",
+    "file": "italic-01.svg",
+    "path": "assets/icons/untitledui/italic-01.svg"
+  },
+  {
+    "name": "italic-02",
+    "file": "italic-02.svg",
+    "path": "assets/icons/untitledui/italic-02.svg"
+  },
+  {
+    "name": "italic-square",
+    "file": "italic-square.svg",
+    "path": "assets/icons/untitledui/italic-square.svg"
+  },
+  {
+    "name": "key-01",
+    "file": "key-01.svg",
+    "path": "assets/icons/untitledui/key-01.svg"
+  },
+  {
+    "name": "key-02",
+    "file": "key-02.svg",
+    "path": "assets/icons/untitledui/key-02.svg"
+  },
+  {
+    "name": "keyboard-01",
+    "file": "keyboard-01.svg",
+    "path": "assets/icons/untitledui/keyboard-01.svg"
+  },
+  {
+    "name": "keyboard-02",
+    "file": "keyboard-02.svg",
+    "path": "assets/icons/untitledui/keyboard-02.svg"
+  },
+  {
+    "name": "laptop-01",
+    "file": "laptop-01.svg",
+    "path": "assets/icons/untitledui/laptop-01.svg"
+  },
+  {
+    "name": "laptop-02",
+    "file": "laptop-02.svg",
+    "path": "assets/icons/untitledui/laptop-02.svg"
+  },
+  {
+    "name": "layer-single",
+    "file": "layer-single.svg",
+    "path": "assets/icons/untitledui/layer-single.svg"
+  },
+  {
+    "name": "layers-three-01",
+    "file": "layers-three-01.svg",
+    "path": "assets/icons/untitledui/layers-three-01.svg"
+  },
+  {
+    "name": "layers-three-02",
+    "file": "layers-three-02.svg",
+    "path": "assets/icons/untitledui/layers-three-02.svg"
+  },
+  {
+    "name": "layers-two-01",
+    "file": "layers-two-01.svg",
+    "path": "assets/icons/untitledui/layers-two-01.svg"
+  },
+  {
+    "name": "layers-two-02",
+    "file": "layers-two-02.svg",
+    "path": "assets/icons/untitledui/layers-two-02.svg"
+  },
+  {
+    "name": "layout-alt-01",
+    "file": "layout-alt-01.svg",
+    "path": "assets/icons/untitledui/layout-alt-01.svg"
+  },
+  {
+    "name": "layout-alt-02",
+    "file": "layout-alt-02.svg",
+    "path": "assets/icons/untitledui/layout-alt-02.svg"
+  },
+  {
+    "name": "layout-alt-03",
+    "file": "layout-alt-03.svg",
+    "path": "assets/icons/untitledui/layout-alt-03.svg"
+  },
+  {
+    "name": "layout-alt-04",
+    "file": "layout-alt-04.svg",
+    "path": "assets/icons/untitledui/layout-alt-04.svg"
+  },
+  {
+    "name": "layout-bottom",
+    "file": "layout-bottom.svg",
+    "path": "assets/icons/untitledui/layout-bottom.svg"
+  },
+  {
+    "name": "layout-grid-01",
+    "file": "layout-grid-01.svg",
+    "path": "assets/icons/untitledui/layout-grid-01.svg"
+  },
+  {
+    "name": "layout-grid-02",
+    "file": "layout-grid-02.svg",
+    "path": "assets/icons/untitledui/layout-grid-02.svg"
+  },
+  {
+    "name": "layout-left",
+    "file": "layout-left.svg",
+    "path": "assets/icons/untitledui/layout-left.svg"
+  },
+  {
+    "name": "layout-right",
+    "file": "layout-right.svg",
+    "path": "assets/icons/untitledui/layout-right.svg"
+  },
+  {
+    "name": "layout-top",
+    "file": "layout-top.svg",
+    "path": "assets/icons/untitledui/layout-top.svg"
+  },
+  {
+    "name": "left-indent-01",
+    "file": "left-indent-01.svg",
+    "path": "assets/icons/untitledui/left-indent-01.svg"
+  },
+  {
+    "name": "left-indent-02",
+    "file": "left-indent-02.svg",
+    "path": "assets/icons/untitledui/left-indent-02.svg"
+  },
+  {
+    "name": "letter-spacing-01",
+    "file": "letter-spacing-01.svg",
+    "path": "assets/icons/untitledui/letter-spacing-01.svg"
+  },
+  {
+    "name": "letter-spacing-02",
+    "file": "letter-spacing-02.svg",
+    "path": "assets/icons/untitledui/letter-spacing-02.svg"
+  },
+  {
+    "name": "life-buoy-01",
+    "file": "life-buoy-01.svg",
+    "path": "assets/icons/untitledui/life-buoy-01.svg"
+  },
+  {
+    "name": "life-buoy-02",
+    "file": "life-buoy-02.svg",
+    "path": "assets/icons/untitledui/life-buoy-02.svg"
+  },
+  {
+    "name": "lightbulb-01",
+    "file": "lightbulb-01.svg",
+    "path": "assets/icons/untitledui/lightbulb-01.svg"
+  },
+  {
+    "name": "lightbulb-02",
+    "file": "lightbulb-02.svg",
+    "path": "assets/icons/untitledui/lightbulb-02.svg"
+  },
+  {
+    "name": "lightbulb-03",
+    "file": "lightbulb-03.svg",
+    "path": "assets/icons/untitledui/lightbulb-03.svg"
+  },
+  {
+    "name": "lightbulb-04",
+    "file": "lightbulb-04.svg",
+    "path": "assets/icons/untitledui/lightbulb-04.svg"
+  },
+  {
+    "name": "lightbulb-05",
+    "file": "lightbulb-05.svg",
+    "path": "assets/icons/untitledui/lightbulb-05.svg"
+  },
+  {
+    "name": "lightning-01",
+    "file": "lightning-01.svg",
+    "path": "assets/icons/untitledui/lightning-01.svg"
+  },
+  {
+    "name": "lightning-02",
+    "file": "lightning-02.svg",
+    "path": "assets/icons/untitledui/lightning-02.svg"
+  },
+  {
+    "name": "line-chart-down-01",
+    "file": "line-chart-down-01.svg",
+    "path": "assets/icons/untitledui/line-chart-down-01.svg"
+  },
+  {
+    "name": "line-chart-down-02",
+    "file": "line-chart-down-02.svg",
+    "path": "assets/icons/untitledui/line-chart-down-02.svg"
+  },
+  {
+    "name": "line-chart-down-03",
+    "file": "line-chart-down-03.svg",
+    "path": "assets/icons/untitledui/line-chart-down-03.svg"
+  },
+  {
+    "name": "line-chart-down-04",
+    "file": "line-chart-down-04.svg",
+    "path": "assets/icons/untitledui/line-chart-down-04.svg"
+  },
+  {
+    "name": "line-chart-down-05",
+    "file": "line-chart-down-05.svg",
+    "path": "assets/icons/untitledui/line-chart-down-05.svg"
+  },
+  {
+    "name": "line-chart-up-01",
+    "file": "line-chart-up-01.svg",
+    "path": "assets/icons/untitledui/line-chart-up-01.svg"
+  },
+  {
+    "name": "line-chart-up-02",
+    "file": "line-chart-up-02.svg",
+    "path": "assets/icons/untitledui/line-chart-up-02.svg"
+  },
+  {
+    "name": "line-chart-up-03",
+    "file": "line-chart-up-03.svg",
+    "path": "assets/icons/untitledui/line-chart-up-03.svg"
+  },
+  {
+    "name": "line-chart-up-04",
+    "file": "line-chart-up-04.svg",
+    "path": "assets/icons/untitledui/line-chart-up-04.svg"
+  },
+  {
+    "name": "line-chart-up-05",
+    "file": "line-chart-up-05.svg",
+    "path": "assets/icons/untitledui/line-chart-up-05.svg"
+  },
+  {
+    "name": "line-height",
+    "file": "line-height.svg",
+    "path": "assets/icons/untitledui/line-height.svg"
+  },
+  {
+    "name": "link-01",
+    "file": "link-01.svg",
+    "path": "assets/icons/untitledui/link-01.svg"
+  },
+  {
+    "name": "link-02",
+    "file": "link-02.svg",
+    "path": "assets/icons/untitledui/link-02.svg"
+  },
+  {
+    "name": "link-03",
+    "file": "link-03.svg",
+    "path": "assets/icons/untitledui/link-03.svg"
+  },
+  {
+    "name": "link-04",
+    "file": "link-04.svg",
+    "path": "assets/icons/untitledui/link-04.svg"
+  },
+  {
+    "name": "link-05",
+    "file": "link-05.svg",
+    "path": "assets/icons/untitledui/link-05.svg"
+  },
+  {
+    "name": "link-broken-01",
+    "file": "link-broken-01.svg",
+    "path": "assets/icons/untitledui/link-broken-01.svg"
+  },
+  {
+    "name": "link-broken-02",
+    "file": "link-broken-02.svg",
+    "path": "assets/icons/untitledui/link-broken-02.svg"
+  },
+  {
+    "name": "link-external-01",
+    "file": "link-external-01.svg",
+    "path": "assets/icons/untitledui/link-external-01.svg"
+  },
+  {
+    "name": "link-external-02",
+    "file": "link-external-02.svg",
+    "path": "assets/icons/untitledui/link-external-02.svg"
+  },
+  {
+    "name": "list",
+    "file": "list.svg",
+    "path": "assets/icons/untitledui/list.svg"
+  },
+  {
+    "name": "loading-01",
+    "file": "loading-01.svg",
+    "path": "assets/icons/untitledui/loading-01.svg"
+  },
+  {
+    "name": "loading-02",
+    "file": "loading-02.svg",
+    "path": "assets/icons/untitledui/loading-02.svg"
+  },
+  {
+    "name": "loading-03",
+    "file": "loading-03.svg",
+    "path": "assets/icons/untitledui/loading-03.svg"
+  },
+  {
+    "name": "lock-01",
+    "file": "lock-01.svg",
+    "path": "assets/icons/untitledui/lock-01.svg"
+  },
+  {
+    "name": "lock-02",
+    "file": "lock-02.svg",
+    "path": "assets/icons/untitledui/lock-02.svg"
+  },
+  {
+    "name": "lock-03",
+    "file": "lock-03.svg",
+    "path": "assets/icons/untitledui/lock-03.svg"
+  },
+  {
+    "name": "lock-04",
+    "file": "lock-04.svg",
+    "path": "assets/icons/untitledui/lock-04.svg"
+  },
+  {
+    "name": "lock-keyhole-circle",
+    "file": "lock-keyhole-circle.svg",
+    "path": "assets/icons/untitledui/lock-keyhole-circle.svg"
+  },
+  {
+    "name": "lock-keyhole-square",
+    "file": "lock-keyhole-square.svg",
+    "path": "assets/icons/untitledui/lock-keyhole-square.svg"
+  },
+  {
+    "name": "lock-unlocked-01",
+    "file": "lock-unlocked-01.svg",
+    "path": "assets/icons/untitledui/lock-unlocked-01.svg"
+  },
+  {
+    "name": "lock-unlocked-02",
+    "file": "lock-unlocked-02.svg",
+    "path": "assets/icons/untitledui/lock-unlocked-02.svg"
+  },
+  {
+    "name": "lock-unlocked-03",
+    "file": "lock-unlocked-03.svg",
+    "path": "assets/icons/untitledui/lock-unlocked-03.svg"
+  },
+  {
+    "name": "lock-unlocked-04",
+    "file": "lock-unlocked-04.svg",
+    "path": "assets/icons/untitledui/lock-unlocked-04.svg"
+  },
+  {
+    "name": "log-in-01",
+    "file": "log-in-01.svg",
+    "path": "assets/icons/untitledui/log-in-01.svg"
+  },
+  {
+    "name": "log-in-02",
+    "file": "log-in-02.svg",
+    "path": "assets/icons/untitledui/log-in-02.svg"
+  },
+  {
+    "name": "log-in-03",
+    "file": "log-in-03.svg",
+    "path": "assets/icons/untitledui/log-in-03.svg"
+  },
+  {
+    "name": "log-in-04",
+    "file": "log-in-04.svg",
+    "path": "assets/icons/untitledui/log-in-04.svg"
+  },
+  {
+    "name": "log-out-01",
+    "file": "log-out-01.svg",
+    "path": "assets/icons/untitledui/log-out-01.svg"
+  },
+  {
+    "name": "log-out-02",
+    "file": "log-out-02.svg",
+    "path": "assets/icons/untitledui/log-out-02.svg"
+  },
+  {
+    "name": "log-out-03",
+    "file": "log-out-03.svg",
+    "path": "assets/icons/untitledui/log-out-03.svg"
+  },
+  {
+    "name": "log-out-04",
+    "file": "log-out-04.svg",
+    "path": "assets/icons/untitledui/log-out-04.svg"
+  },
+  {
+    "name": "luggage-01",
+    "file": "luggage-01.svg",
+    "path": "assets/icons/untitledui/luggage-01.svg"
+  },
+  {
+    "name": "luggage-02",
+    "file": "luggage-02.svg",
+    "path": "assets/icons/untitledui/luggage-02.svg"
+  },
+  {
+    "name": "luggage-03",
+    "file": "luggage-03.svg",
+    "path": "assets/icons/untitledui/luggage-03.svg"
+  },
+  {
+    "name": "magic-wand-01",
+    "file": "magic-wand-01.svg",
+    "path": "assets/icons/untitledui/magic-wand-01.svg"
+  },
+  {
+    "name": "magic-wand-02",
+    "file": "magic-wand-02.svg",
+    "path": "assets/icons/untitledui/magic-wand-02.svg"
+  },
+  {
+    "name": "mail-01",
+    "file": "mail-01.svg",
+    "path": "assets/icons/untitledui/mail-01.svg"
+  },
+  {
+    "name": "mail-02",
+    "file": "mail-02.svg",
+    "path": "assets/icons/untitledui/mail-02.svg"
+  },
+  {
+    "name": "mail-03",
+    "file": "mail-03.svg",
+    "path": "assets/icons/untitledui/mail-03.svg"
+  },
+  {
+    "name": "mail-04",
+    "file": "mail-04.svg",
+    "path": "assets/icons/untitledui/mail-04.svg"
+  },
+  {
+    "name": "mail-05",
+    "file": "mail-05.svg",
+    "path": "assets/icons/untitledui/mail-05.svg"
+  },
+  {
+    "name": "map-01",
+    "file": "map-01.svg",
+    "path": "assets/icons/untitledui/map-01.svg"
+  },
+  {
+    "name": "map-02",
+    "file": "map-02.svg",
+    "path": "assets/icons/untitledui/map-02.svg"
+  },
+  {
+    "name": "mark",
+    "file": "mark.svg",
+    "path": "assets/icons/untitledui/mark.svg"
+  },
+  {
+    "name": "marker-pin-01",
+    "file": "marker-pin-01.svg",
+    "path": "assets/icons/untitledui/marker-pin-01.svg"
+  },
+  {
+    "name": "marker-pin-02",
+    "file": "marker-pin-02.svg",
+    "path": "assets/icons/untitledui/marker-pin-02.svg"
+  },
+  {
+    "name": "marker-pin-03",
+    "file": "marker-pin-03.svg",
+    "path": "assets/icons/untitledui/marker-pin-03.svg"
+  },
+  {
+    "name": "marker-pin-04",
+    "file": "marker-pin-04.svg",
+    "path": "assets/icons/untitledui/marker-pin-04.svg"
+  },
+  {
+    "name": "marker-pin-05",
+    "file": "marker-pin-05.svg",
+    "path": "assets/icons/untitledui/marker-pin-05.svg"
+  },
+  {
+    "name": "marker-pin-06",
+    "file": "marker-pin-06.svg",
+    "path": "assets/icons/untitledui/marker-pin-06.svg"
+  },
+  {
+    "name": "maximize-01",
+    "file": "maximize-01.svg",
+    "path": "assets/icons/untitledui/maximize-01.svg"
+  },
+  {
+    "name": "maximize-02",
+    "file": "maximize-02.svg",
+    "path": "assets/icons/untitledui/maximize-02.svg"
+  },
+  {
+    "name": "medical-circle",
+    "file": "medical-circle.svg",
+    "path": "assets/icons/untitledui/medical-circle.svg"
+  },
+  {
+    "name": "medical-cross",
+    "file": "medical-cross.svg",
+    "path": "assets/icons/untitledui/medical-cross.svg"
+  },
+  {
+    "name": "medical-square",
+    "file": "medical-square.svg",
+    "path": "assets/icons/untitledui/medical-square.svg"
+  },
+  {
+    "name": "menu-01",
+    "file": "menu-01.svg",
+    "path": "assets/icons/untitledui/menu-01.svg"
+  },
+  {
+    "name": "menu-02",
+    "file": "menu-02.svg",
+    "path": "assets/icons/untitledui/menu-02.svg"
+  },
+  {
+    "name": "menu-03",
+    "file": "menu-03.svg",
+    "path": "assets/icons/untitledui/menu-03.svg"
+  },
+  {
+    "name": "menu-04",
+    "file": "menu-04.svg",
+    "path": "assets/icons/untitledui/menu-04.svg"
+  },
+  {
+    "name": "menu-05",
+    "file": "menu-05.svg",
+    "path": "assets/icons/untitledui/menu-05.svg"
+  },
+  {
+    "name": "message-alert-circle",
+    "file": "message-alert-circle.svg",
+    "path": "assets/icons/untitledui/message-alert-circle.svg"
+  },
+  {
+    "name": "message-alert-square",
+    "file": "message-alert-square.svg",
+    "path": "assets/icons/untitledui/message-alert-square.svg"
+  },
+  {
+    "name": "message-chat-circle",
+    "file": "message-chat-circle.svg",
+    "path": "assets/icons/untitledui/message-chat-circle.svg"
+  },
+  {
+    "name": "message-chat-square",
+    "file": "message-chat-square.svg",
+    "path": "assets/icons/untitledui/message-chat-square.svg"
+  },
+  {
+    "name": "message-check-circle",
+    "file": "message-check-circle.svg",
+    "path": "assets/icons/untitledui/message-check-circle.svg"
+  },
+  {
+    "name": "message-check-square",
+    "file": "message-check-square.svg",
+    "path": "assets/icons/untitledui/message-check-square.svg"
+  },
+  {
+    "name": "message-circle-01",
+    "file": "message-circle-01.svg",
+    "path": "assets/icons/untitledui/message-circle-01.svg"
+  },
+  {
+    "name": "message-circle-02",
+    "file": "message-circle-02.svg",
+    "path": "assets/icons/untitledui/message-circle-02.svg"
+  },
+  {
+    "name": "message-dots-circle",
+    "file": "message-dots-circle.svg",
+    "path": "assets/icons/untitledui/message-dots-circle.svg"
+  },
+  {
+    "name": "message-dots-square",
+    "file": "message-dots-square.svg",
+    "path": "assets/icons/untitledui/message-dots-square.svg"
+  },
+  {
+    "name": "message-heart-circle",
+    "file": "message-heart-circle.svg",
+    "path": "assets/icons/untitledui/message-heart-circle.svg"
+  },
+  {
+    "name": "message-heart-square",
+    "file": "message-heart-square.svg",
+    "path": "assets/icons/untitledui/message-heart-square.svg"
+  },
+  {
+    "name": "message-notification-circle",
+    "file": "message-notification-circle.svg",
+    "path": "assets/icons/untitledui/message-notification-circle.svg"
+  },
+  {
+    "name": "message-notification-square",
+    "file": "message-notification-square.svg",
+    "path": "assets/icons/untitledui/message-notification-square.svg"
+  },
+  {
+    "name": "message-plus-circle",
+    "file": "message-plus-circle.svg",
+    "path": "assets/icons/untitledui/message-plus-circle.svg"
+  },
+  {
+    "name": "message-plus-square",
+    "file": "message-plus-square.svg",
+    "path": "assets/icons/untitledui/message-plus-square.svg"
+  },
+  {
+    "name": "message-question-circle",
+    "file": "message-question-circle.svg",
+    "path": "assets/icons/untitledui/message-question-circle.svg"
+  },
+  {
+    "name": "message-question-square",
+    "file": "message-question-square.svg",
+    "path": "assets/icons/untitledui/message-question-square.svg"
+  },
+  {
+    "name": "message-smile-circle",
+    "file": "message-smile-circle.svg",
+    "path": "assets/icons/untitledui/message-smile-circle.svg"
+  },
+  {
+    "name": "message-smile-square",
+    "file": "message-smile-square.svg",
+    "path": "assets/icons/untitledui/message-smile-square.svg"
+  },
+  {
+    "name": "message-square-01",
+    "file": "message-square-01.svg",
+    "path": "assets/icons/untitledui/message-square-01.svg"
+  },
+  {
+    "name": "message-square-02",
+    "file": "message-square-02.svg",
+    "path": "assets/icons/untitledui/message-square-02.svg"
+  },
+  {
+    "name": "message-text-circle-01",
+    "file": "message-text-circle-01.svg",
+    "path": "assets/icons/untitledui/message-text-circle-01.svg"
+  },
+  {
+    "name": "message-text-circle-02",
+    "file": "message-text-circle-02.svg",
+    "path": "assets/icons/untitledui/message-text-circle-02.svg"
+  },
+  {
+    "name": "message-text-square-01",
+    "file": "message-text-square-01.svg",
+    "path": "assets/icons/untitledui/message-text-square-01.svg"
+  },
+  {
+    "name": "message-text-square-02",
+    "file": "message-text-square-02.svg",
+    "path": "assets/icons/untitledui/message-text-square-02.svg"
+  },
+  {
+    "name": "message-x-circle",
+    "file": "message-x-circle.svg",
+    "path": "assets/icons/untitledui/message-x-circle.svg"
+  },
+  {
+    "name": "message-x-square",
+    "file": "message-x-square.svg",
+    "path": "assets/icons/untitledui/message-x-square.svg"
+  },
+  {
+    "name": "microphone-01",
+    "file": "microphone-01.svg",
+    "path": "assets/icons/untitledui/microphone-01.svg"
+  },
+  {
+    "name": "microphone-02",
+    "file": "microphone-02.svg",
+    "path": "assets/icons/untitledui/microphone-02.svg"
+  },
+  {
+    "name": "microphone-off-01",
+    "file": "microphone-off-01.svg",
+    "path": "assets/icons/untitledui/microphone-off-01.svg"
+  },
+  {
+    "name": "microphone-off-02",
+    "file": "microphone-off-02.svg",
+    "path": "assets/icons/untitledui/microphone-off-02.svg"
+  },
+  {
+    "name": "microscope",
+    "file": "microscope.svg",
+    "path": "assets/icons/untitledui/microscope.svg"
+  },
+  {
+    "name": "minimize-01",
+    "file": "minimize-01.svg",
+    "path": "assets/icons/untitledui/minimize-01.svg"
+  },
+  {
+    "name": "minimize-02",
+    "file": "minimize-02.svg",
+    "path": "assets/icons/untitledui/minimize-02.svg"
+  },
+  {
+    "name": "minus-circle",
+    "file": "minus-circle.svg",
+    "path": "assets/icons/untitledui/minus-circle.svg"
+  },
+  {
+    "name": "minus-square",
+    "file": "minus-square.svg",
+    "path": "assets/icons/untitledui/minus-square.svg"
+  },
+  {
+    "name": "minus",
+    "file": "minus.svg",
+    "path": "assets/icons/untitledui/minus.svg"
+  },
+  {
+    "name": "modem-01",
+    "file": "modem-01.svg",
+    "path": "assets/icons/untitledui/modem-01.svg"
+  },
+  {
+    "name": "modem-02",
+    "file": "modem-02.svg",
+    "path": "assets/icons/untitledui/modem-02.svg"
+  },
+  {
+    "name": "monitor-01",
+    "file": "monitor-01.svg",
+    "path": "assets/icons/untitledui/monitor-01.svg"
+  },
+  {
+    "name": "monitor-02",
+    "file": "monitor-02.svg",
+    "path": "assets/icons/untitledui/monitor-02.svg"
+  },
+  {
+    "name": "monitor-03",
+    "file": "monitor-03.svg",
+    "path": "assets/icons/untitledui/monitor-03.svg"
+  },
+  {
+    "name": "monitor-04",
+    "file": "monitor-04.svg",
+    "path": "assets/icons/untitledui/monitor-04.svg"
+  },
+  {
+    "name": "monitor-05",
+    "file": "monitor-05.svg",
+    "path": "assets/icons/untitledui/monitor-05.svg"
+  },
+  {
+    "name": "moon-01",
+    "file": "moon-01.svg",
+    "path": "assets/icons/untitledui/moon-01.svg"
+  },
+  {
+    "name": "moon-02",
+    "file": "moon-02.svg",
+    "path": "assets/icons/untitledui/moon-02.svg"
+  },
+  {
+    "name": "moon-eclipse",
+    "file": "moon-eclipse.svg",
+    "path": "assets/icons/untitledui/moon-eclipse.svg"
+  },
+  {
+    "name": "moon-star",
+    "file": "moon-star.svg",
+    "path": "assets/icons/untitledui/moon-star.svg"
+  },
+  {
+    "name": "mouse",
+    "file": "mouse.svg",
+    "path": "assets/icons/untitledui/mouse.svg"
+  },
+  {
+    "name": "move",
+    "file": "move.svg",
+    "path": "assets/icons/untitledui/move.svg"
+  },
+  {
+    "name": "music-note-01",
+    "file": "music-note-01.svg",
+    "path": "assets/icons/untitledui/music-note-01.svg"
+  },
+  {
+    "name": "music-note-02",
+    "file": "music-note-02.svg",
+    "path": "assets/icons/untitledui/music-note-02.svg"
+  },
+  {
+    "name": "music-note-plus",
+    "file": "music-note-plus.svg",
+    "path": "assets/icons/untitledui/music-note-plus.svg"
+  },
+  {
+    "name": "navigation-pointer-01",
+    "file": "navigation-pointer-01.svg",
+    "path": "assets/icons/untitledui/navigation-pointer-01.svg"
+  },
+  {
+    "name": "navigation-pointer-02",
+    "file": "navigation-pointer-02.svg",
+    "path": "assets/icons/untitledui/navigation-pointer-02.svg"
+  },
+  {
+    "name": "navigation-pointer-off-01",
+    "file": "navigation-pointer-off-01.svg",
+    "path": "assets/icons/untitledui/navigation-pointer-off-01.svg"
+  },
+  {
+    "name": "navigation-pointer-off-02",
+    "file": "navigation-pointer-off-02.svg",
+    "path": "assets/icons/untitledui/navigation-pointer-off-02.svg"
+  },
+  {
+    "name": "notification-box",
+    "file": "notification-box.svg",
+    "path": "assets/icons/untitledui/notification-box.svg"
+  },
+  {
+    "name": "notification-message",
+    "file": "notification-message.svg",
+    "path": "assets/icons/untitledui/notification-message.svg"
+  },
+  {
+    "name": "notification-text",
+    "file": "notification-text.svg",
+    "path": "assets/icons/untitledui/notification-text.svg"
+  },
+  {
+    "name": "octagon",
+    "file": "octagon.svg",
+    "path": "assets/icons/untitledui/octagon.svg"
+  },
+  {
+    "name": "package-check",
+    "file": "package-check.svg",
+    "path": "assets/icons/untitledui/package-check.svg"
+  },
+  {
+    "name": "package-minus",
+    "file": "package-minus.svg",
+    "path": "assets/icons/untitledui/package-minus.svg"
+  },
+  {
+    "name": "package-plus",
+    "file": "package-plus.svg",
+    "path": "assets/icons/untitledui/package-plus.svg"
+  },
+  {
+    "name": "package-search",
+    "file": "package-search.svg",
+    "path": "assets/icons/untitledui/package-search.svg"
+  },
+  {
+    "name": "package-x",
+    "file": "package-x.svg",
+    "path": "assets/icons/untitledui/package-x.svg"
+  },
+  {
+    "name": "package",
+    "file": "package.svg",
+    "path": "assets/icons/untitledui/package.svg"
+  },
+  {
+    "name": "paint-pour",
+    "file": "paint-pour.svg",
+    "path": "assets/icons/untitledui/paint-pour.svg"
+  },
+  {
+    "name": "paint",
+    "file": "paint.svg",
+    "path": "assets/icons/untitledui/paint.svg"
+  },
+  {
+    "name": "palette",
+    "file": "palette.svg",
+    "path": "assets/icons/untitledui/palette.svg"
+  },
+  {
+    "name": "paperclip",
+    "file": "paperclip.svg",
+    "path": "assets/icons/untitledui/paperclip.svg"
+  },
+  {
+    "name": "paragraph-spacing",
+    "file": "paragraph-spacing.svg",
+    "path": "assets/icons/untitledui/paragraph-spacing.svg"
+  },
+  {
+    "name": "paragraph-wrap",
+    "file": "paragraph-wrap.svg",
+    "path": "assets/icons/untitledui/paragraph-wrap.svg"
+  },
+  {
+    "name": "passcode-lock",
+    "file": "passcode-lock.svg",
+    "path": "assets/icons/untitledui/passcode-lock.svg"
+  },
+  {
+    "name": "passcode",
+    "file": "passcode.svg",
+    "path": "assets/icons/untitledui/passcode.svg"
+  },
+  {
+    "name": "passport",
+    "file": "passport.svg",
+    "path": "assets/icons/untitledui/passport.svg"
+  },
+  {
+    "name": "pause-circle",
+    "file": "pause-circle.svg",
+    "path": "assets/icons/untitledui/pause-circle.svg"
+  },
+  {
+    "name": "pause-square",
+    "file": "pause-square.svg",
+    "path": "assets/icons/untitledui/pause-square.svg"
+  },
+  {
+    "name": "pen-tool-01",
+    "file": "pen-tool-01.svg",
+    "path": "assets/icons/untitledui/pen-tool-01.svg"
+  },
+  {
+    "name": "pen-tool-02",
+    "file": "pen-tool-02.svg",
+    "path": "assets/icons/untitledui/pen-tool-02.svg"
+  },
+  {
+    "name": "pen-tool-minus",
+    "file": "pen-tool-minus.svg",
+    "path": "assets/icons/untitledui/pen-tool-minus.svg"
+  },
+  {
+    "name": "pen-tool-plus",
+    "file": "pen-tool-plus.svg",
+    "path": "assets/icons/untitledui/pen-tool-plus.svg"
+  },
+  {
+    "name": "pencil-01",
+    "file": "pencil-01.svg",
+    "path": "assets/icons/untitledui/pencil-01.svg"
+  },
+  {
+    "name": "pencil-02",
+    "file": "pencil-02.svg",
+    "path": "assets/icons/untitledui/pencil-02.svg"
+  },
+  {
+    "name": "pencil-line",
+    "file": "pencil-line.svg",
+    "path": "assets/icons/untitledui/pencil-line.svg"
+  },
+  {
+    "name": "pentagon",
+    "file": "pentagon.svg",
+    "path": "assets/icons/untitledui/pentagon.svg"
+  },
+  {
+    "name": "percent-01",
+    "file": "percent-01.svg",
+    "path": "assets/icons/untitledui/percent-01.svg"
+  },
+  {
+    "name": "percent-02",
+    "file": "percent-02.svg",
+    "path": "assets/icons/untitledui/percent-02.svg"
+  },
+  {
+    "name": "percent-03",
+    "file": "percent-03.svg",
+    "path": "assets/icons/untitledui/percent-03.svg"
+  },
+  {
+    "name": "perspective-01",
+    "file": "perspective-01.svg",
+    "path": "assets/icons/untitledui/perspective-01.svg"
+  },
+  {
+    "name": "perspective-02",
+    "file": "perspective-02.svg",
+    "path": "assets/icons/untitledui/perspective-02.svg"
+  },
+  {
+    "name": "phone-01",
+    "file": "phone-01.svg",
+    "path": "assets/icons/untitledui/phone-01.svg"
+  },
+  {
+    "name": "phone-02",
+    "file": "phone-02.svg",
+    "path": "assets/icons/untitledui/phone-02.svg"
+  },
+  {
+    "name": "phone-call-01",
+    "file": "phone-call-01.svg",
+    "path": "assets/icons/untitledui/phone-call-01.svg"
+  },
+  {
+    "name": "phone-call-02",
+    "file": "phone-call-02.svg",
+    "path": "assets/icons/untitledui/phone-call-02.svg"
+  },
+  {
+    "name": "phone-hang-up",
+    "file": "phone-hang-up.svg",
+    "path": "assets/icons/untitledui/phone-hang-up.svg"
+  },
+  {
+    "name": "phone-incoming-01",
+    "file": "phone-incoming-01.svg",
+    "path": "assets/icons/untitledui/phone-incoming-01.svg"
+  },
+  {
+    "name": "phone-incoming-02",
+    "file": "phone-incoming-02.svg",
+    "path": "assets/icons/untitledui/phone-incoming-02.svg"
+  },
+  {
+    "name": "phone-outgoing-01",
+    "file": "phone-outgoing-01.svg",
+    "path": "assets/icons/untitledui/phone-outgoing-01.svg"
+  },
+  {
+    "name": "phone-outgoing-02",
+    "file": "phone-outgoing-02.svg",
+    "path": "assets/icons/untitledui/phone-outgoing-02.svg"
+  },
+  {
+    "name": "phone-pause",
+    "file": "phone-pause.svg",
+    "path": "assets/icons/untitledui/phone-pause.svg"
+  },
+  {
+    "name": "phone-plus",
+    "file": "phone-plus.svg",
+    "path": "assets/icons/untitledui/phone-plus.svg"
+  },
+  {
+    "name": "phone-x",
+    "file": "phone-x.svg",
+    "path": "assets/icons/untitledui/phone-x.svg"
+  },
+  {
+    "name": "phone",
+    "file": "phone.svg",
+    "path": "assets/icons/untitledui/phone.svg"
+  },
+  {
+    "name": "pie-chart-01",
+    "file": "pie-chart-01.svg",
+    "path": "assets/icons/untitledui/pie-chart-01.svg"
+  },
+  {
+    "name": "pie-chart-02",
+    "file": "pie-chart-02.svg",
+    "path": "assets/icons/untitledui/pie-chart-02.svg"
+  },
+  {
+    "name": "pie-chart-03",
+    "file": "pie-chart-03.svg",
+    "path": "assets/icons/untitledui/pie-chart-03.svg"
+  },
+  {
+    "name": "pie-chart-04",
+    "file": "pie-chart-04.svg",
+    "path": "assets/icons/untitledui/pie-chart-04.svg"
+  },
+  {
+    "name": "piggy-bank-01",
+    "file": "piggy-bank-01.svg",
+    "path": "assets/icons/untitledui/piggy-bank-01.svg"
+  },
+  {
+    "name": "piggy-bank-02",
+    "file": "piggy-bank-02.svg",
+    "path": "assets/icons/untitledui/piggy-bank-02.svg"
+  },
+  {
+    "name": "pilcrow-01",
+    "file": "pilcrow-01.svg",
+    "path": "assets/icons/untitledui/pilcrow-01.svg"
+  },
+  {
+    "name": "pilcrow-02",
+    "file": "pilcrow-02.svg",
+    "path": "assets/icons/untitledui/pilcrow-02.svg"
+  },
+  {
+    "name": "pilcrow-square",
+    "file": "pilcrow-square.svg",
+    "path": "assets/icons/untitledui/pilcrow-square.svg"
+  },
+  {
+    "name": "pin-01",
+    "file": "pin-01.svg",
+    "path": "assets/icons/untitledui/pin-01.svg"
+  },
+  {
+    "name": "pin-02",
+    "file": "pin-02.svg",
+    "path": "assets/icons/untitledui/pin-02.svg"
+  },
+  {
+    "name": "placeholder",
+    "file": "placeholder.svg",
+    "path": "assets/icons/untitledui/placeholder.svg"
+  },
+  {
+    "name": "plane",
+    "file": "plane.svg",
+    "path": "assets/icons/untitledui/plane.svg"
+  },
+  {
+    "name": "play-circle",
+    "file": "play-circle.svg",
+    "path": "assets/icons/untitledui/play-circle.svg"
+  },
+  {
+    "name": "play-square",
+    "file": "play-square.svg",
+    "path": "assets/icons/untitledui/play-square.svg"
+  },
+  {
+    "name": "play",
+    "file": "play.svg",
+    "path": "assets/icons/untitledui/play.svg"
+  },
+  {
+    "name": "plus-circle",
+    "file": "plus-circle.svg",
+    "path": "assets/icons/untitledui/plus-circle.svg"
+  },
+  {
+    "name": "plus-square",
+    "file": "plus-square.svg",
+    "path": "assets/icons/untitledui/plus-square.svg"
+  },
+  {
+    "name": "plus",
+    "file": "plus.svg",
+    "path": "assets/icons/untitledui/plus.svg"
+  },
+  {
+    "name": "podcast",
+    "file": "podcast.svg",
+    "path": "assets/icons/untitledui/podcast.svg"
+  },
+  {
+    "name": "power-01",
+    "file": "power-01.svg",
+    "path": "assets/icons/untitledui/power-01.svg"
+  },
+  {
+    "name": "power-02",
+    "file": "power-02.svg",
+    "path": "assets/icons/untitledui/power-02.svg"
+  },
+  {
+    "name": "power-03",
+    "file": "power-03.svg",
+    "path": "assets/icons/untitledui/power-03.svg"
+  },
+  {
+    "name": "presentation-chart-01",
+    "file": "presentation-chart-01.svg",
+    "path": "assets/icons/untitledui/presentation-chart-01.svg"
+  },
+  {
+    "name": "presentation-chart-02",
+    "file": "presentation-chart-02.svg",
+    "path": "assets/icons/untitledui/presentation-chart-02.svg"
+  },
+  {
+    "name": "presentation-chart-03",
+    "file": "presentation-chart-03.svg",
+    "path": "assets/icons/untitledui/presentation-chart-03.svg"
+  },
+  {
+    "name": "printer",
+    "file": "printer.svg",
+    "path": "assets/icons/untitledui/printer.svg"
+  },
+  {
+    "name": "puzzle-piece-01",
+    "file": "puzzle-piece-01.svg",
+    "path": "assets/icons/untitledui/puzzle-piece-01.svg"
+  },
+  {
+    "name": "puzzle-piece-02",
+    "file": "puzzle-piece-02.svg",
+    "path": "assets/icons/untitledui/puzzle-piece-02.svg"
+  },
+  {
+    "name": "qr-code-01",
+    "file": "qr-code-01.svg",
+    "path": "assets/icons/untitledui/qr-code-01.svg"
+  },
+  {
+    "name": "qr-code-02",
+    "file": "qr-code-02.svg",
+    "path": "assets/icons/untitledui/qr-code-02.svg"
+  },
+  {
+    "name": "receipt-check",
+    "file": "receipt-check.svg",
+    "path": "assets/icons/untitledui/receipt-check.svg"
+  },
+  {
+    "name": "receipt",
+    "file": "receipt.svg",
+    "path": "assets/icons/untitledui/receipt.svg"
+  },
+  {
+    "name": "recording-01",
+    "file": "recording-01.svg",
+    "path": "assets/icons/untitledui/recording-01.svg"
+  },
+  {
+    "name": "recording-02",
+    "file": "recording-02.svg",
+    "path": "assets/icons/untitledui/recording-02.svg"
+  },
+  {
+    "name": "recording-03",
+    "file": "recording-03.svg",
+    "path": "assets/icons/untitledui/recording-03.svg"
+  },
+  {
+    "name": "reflect-01",
+    "file": "reflect-01.svg",
+    "path": "assets/icons/untitledui/reflect-01.svg"
+  },
+  {
+    "name": "reflect-02",
+    "file": "reflect-02.svg",
+    "path": "assets/icons/untitledui/reflect-02.svg"
+  },
+  {
+    "name": "refresh-ccw-01",
+    "file": "refresh-ccw-01.svg",
+    "path": "assets/icons/untitledui/refresh-ccw-01.svg"
+  },
+  {
+    "name": "refresh-ccw-02",
+    "file": "refresh-ccw-02.svg",
+    "path": "assets/icons/untitledui/refresh-ccw-02.svg"
+  },
+  {
+    "name": "refresh-ccw-03",
+    "file": "refresh-ccw-03.svg",
+    "path": "assets/icons/untitledui/refresh-ccw-03.svg"
+  },
+  {
+    "name": "refresh-ccw-04",
+    "file": "refresh-ccw-04.svg",
+    "path": "assets/icons/untitledui/refresh-ccw-04.svg"
+  },
+  {
+    "name": "refresh-ccw-05",
+    "file": "refresh-ccw-05.svg",
+    "path": "assets/icons/untitledui/refresh-ccw-05.svg"
+  },
+  {
+    "name": "refresh-cw-01",
+    "file": "refresh-cw-01.svg",
+    "path": "assets/icons/untitledui/refresh-cw-01.svg"
+  },
+  {
+    "name": "refresh-cw-02",
+    "file": "refresh-cw-02.svg",
+    "path": "assets/icons/untitledui/refresh-cw-02.svg"
+  },
+  {
+    "name": "refresh-cw-03",
+    "file": "refresh-cw-03.svg",
+    "path": "assets/icons/untitledui/refresh-cw-03.svg"
+  },
+  {
+    "name": "refresh-cw-04",
+    "file": "refresh-cw-04.svg",
+    "path": "assets/icons/untitledui/refresh-cw-04.svg"
+  },
+  {
+    "name": "refresh-cw-05",
+    "file": "refresh-cw-05.svg",
+    "path": "assets/icons/untitledui/refresh-cw-05.svg"
+  },
+  {
+    "name": "repeat-01",
+    "file": "repeat-01.svg",
+    "path": "assets/icons/untitledui/repeat-01.svg"
+  },
+  {
+    "name": "repeat-02",
+    "file": "repeat-02.svg",
+    "path": "assets/icons/untitledui/repeat-02.svg"
+  },
+  {
+    "name": "repeat-03",
+    "file": "repeat-03.svg",
+    "path": "assets/icons/untitledui/repeat-03.svg"
+  },
+  {
+    "name": "repeat-04",
+    "file": "repeat-04.svg",
+    "path": "assets/icons/untitledui/repeat-04.svg"
+  },
+  {
+    "name": "reverse-left",
+    "file": "reverse-left.svg",
+    "path": "assets/icons/untitledui/reverse-left.svg"
+  },
+  {
+    "name": "reverse-right",
+    "file": "reverse-right.svg",
+    "path": "assets/icons/untitledui/reverse-right.svg"
+  },
+  {
+    "name": "right-indent-01",
+    "file": "right-indent-01.svg",
+    "path": "assets/icons/untitledui/right-indent-01.svg"
+  },
+  {
+    "name": "right-indent-02",
+    "file": "right-indent-02.svg",
+    "path": "assets/icons/untitledui/right-indent-02.svg"
+  },
+  {
+    "name": "rocket-01",
+    "file": "rocket-01.svg",
+    "path": "assets/icons/untitledui/rocket-01.svg"
+  },
+  {
+    "name": "rocket-02",
+    "file": "rocket-02.svg",
+    "path": "assets/icons/untitledui/rocket-02.svg"
+  },
+  {
+    "name": "roller-brush",
+    "file": "roller-brush.svg",
+    "path": "assets/icons/untitledui/roller-brush.svg"
+  },
+  {
+    "name": "route",
+    "file": "route.svg",
+    "path": "assets/icons/untitledui/route.svg"
+  },
+  {
+    "name": "rows-01",
+    "file": "rows-01.svg",
+    "path": "assets/icons/untitledui/rows-01.svg"
+  },
+  {
+    "name": "rows-02",
+    "file": "rows-02.svg",
+    "path": "assets/icons/untitledui/rows-02.svg"
+  },
+  {
+    "name": "rows-03",
+    "file": "rows-03.svg",
+    "path": "assets/icons/untitledui/rows-03.svg"
+  },
+  {
+    "name": "rss-01",
+    "file": "rss-01.svg",
+    "path": "assets/icons/untitledui/rss-01.svg"
+  },
+  {
+    "name": "rss-02",
+    "file": "rss-02.svg",
+    "path": "assets/icons/untitledui/rss-02.svg"
+  },
+  {
+    "name": "ruler",
+    "file": "ruler.svg",
+    "path": "assets/icons/untitledui/ruler.svg"
+  },
+  {
+    "name": "safe",
+    "file": "safe.svg",
+    "path": "assets/icons/untitledui/safe.svg"
+  },
+  {
+    "name": "sale-01",
+    "file": "sale-01.svg",
+    "path": "assets/icons/untitledui/sale-01.svg"
+  },
+  {
+    "name": "sale-02",
+    "file": "sale-02.svg",
+    "path": "assets/icons/untitledui/sale-02.svg"
+  },
+  {
+    "name": "sale-03",
+    "file": "sale-03.svg",
+    "path": "assets/icons/untitledui/sale-03.svg"
+  },
+  {
+    "name": "sale-04",
+    "file": "sale-04.svg",
+    "path": "assets/icons/untitledui/sale-04.svg"
+  },
+  {
+    "name": "save-01",
+    "file": "save-01.svg",
+    "path": "assets/icons/untitledui/save-01.svg"
+  },
+  {
+    "name": "save-02",
+    "file": "save-02.svg",
+    "path": "assets/icons/untitledui/save-02.svg"
+  },
+  {
+    "name": "save-03",
+    "file": "save-03.svg",
+    "path": "assets/icons/untitledui/save-03.svg"
+  },
+  {
+    "name": "scale-01",
+    "file": "scale-01.svg",
+    "path": "assets/icons/untitledui/scale-01.svg"
+  },
+  {
+    "name": "scale-02",
+    "file": "scale-02.svg",
+    "path": "assets/icons/untitledui/scale-02.svg"
+  },
+  {
+    "name": "scale-03",
+    "file": "scale-03.svg",
+    "path": "assets/icons/untitledui/scale-03.svg"
+  },
+  {
+    "name": "scales-01",
+    "file": "scales-01.svg",
+    "path": "assets/icons/untitledui/scales-01.svg"
+  },
+  {
+    "name": "scales-02",
+    "file": "scales-02.svg",
+    "path": "assets/icons/untitledui/scales-02.svg"
+  },
+  {
+    "name": "scan",
+    "file": "scan.svg",
+    "path": "assets/icons/untitledui/scan.svg"
+  },
+  {
+    "name": "scissors-01",
+    "file": "scissors-01.svg",
+    "path": "assets/icons/untitledui/scissors-01.svg"
+  },
+  {
+    "name": "scissors-02",
+    "file": "scissors-02.svg",
+    "path": "assets/icons/untitledui/scissors-02.svg"
+  },
+  {
+    "name": "scissors-cut-01",
+    "file": "scissors-cut-01.svg",
+    "path": "assets/icons/untitledui/scissors-cut-01.svg"
+  },
+  {
+    "name": "scissors-cut-02",
+    "file": "scissors-cut-02.svg",
+    "path": "assets/icons/untitledui/scissors-cut-02.svg"
+  },
+  {
+    "name": "search-lg",
+    "file": "search-lg.svg",
+    "path": "assets/icons/untitledui/search-lg.svg"
+  },
+  {
+    "name": "search-md",
+    "file": "search-md.svg",
+    "path": "assets/icons/untitledui/search-md.svg"
+  },
+  {
+    "name": "search-refraction",
+    "file": "search-refraction.svg",
+    "path": "assets/icons/untitledui/search-refraction.svg"
+  },
+  {
+    "name": "search-sm",
+    "file": "search-sm.svg",
+    "path": "assets/icons/untitledui/search-sm.svg"
+  },
+  {
+    "name": "send-01",
+    "file": "send-01.svg",
+    "path": "assets/icons/untitledui/send-01.svg"
+  },
+  {
+    "name": "send-02",
+    "file": "send-02.svg",
+    "path": "assets/icons/untitledui/send-02.svg"
+  },
+  {
+    "name": "send-03",
+    "file": "send-03.svg",
+    "path": "assets/icons/untitledui/send-03.svg"
+  },
+  {
+    "name": "server-01",
+    "file": "server-01.svg",
+    "path": "assets/icons/untitledui/server-01.svg"
+  },
+  {
+    "name": "server-02",
+    "file": "server-02.svg",
+    "path": "assets/icons/untitledui/server-02.svg"
+  },
+  {
+    "name": "server-03",
+    "file": "server-03.svg",
+    "path": "assets/icons/untitledui/server-03.svg"
+  },
+  {
+    "name": "server-04",
+    "file": "server-04.svg",
+    "path": "assets/icons/untitledui/server-04.svg"
+  },
+  {
+    "name": "server-05",
+    "file": "server-05.svg",
+    "path": "assets/icons/untitledui/server-05.svg"
+  },
+  {
+    "name": "server-06",
+    "file": "server-06.svg",
+    "path": "assets/icons/untitledui/server-06.svg"
+  },
+  {
+    "name": "settings-01",
+    "file": "settings-01.svg",
+    "path": "assets/icons/untitledui/settings-01.svg"
+  },
+  {
+    "name": "settings-02",
+    "file": "settings-02.svg",
+    "path": "assets/icons/untitledui/settings-02.svg"
+  },
+  {
+    "name": "settings-03",
+    "file": "settings-03.svg",
+    "path": "assets/icons/untitledui/settings-03.svg"
+  },
+  {
+    "name": "settings-04",
+    "file": "settings-04.svg",
+    "path": "assets/icons/untitledui/settings-04.svg"
+  },
+  {
+    "name": "share-01",
+    "file": "share-01.svg",
+    "path": "assets/icons/untitledui/share-01.svg"
+  },
+  {
+    "name": "share-02",
+    "file": "share-02.svg",
+    "path": "assets/icons/untitledui/share-02.svg"
+  },
+  {
+    "name": "share-03",
+    "file": "share-03.svg",
+    "path": "assets/icons/untitledui/share-03.svg"
+  },
+  {
+    "name": "share-04",
+    "file": "share-04.svg",
+    "path": "assets/icons/untitledui/share-04.svg"
+  },
+  {
+    "name": "share-05",
+    "file": "share-05.svg",
+    "path": "assets/icons/untitledui/share-05.svg"
+  },
+  {
+    "name": "share-06",
+    "file": "share-06.svg",
+    "path": "assets/icons/untitledui/share-06.svg"
+  },
+  {
+    "name": "share-07",
+    "file": "share-07.svg",
+    "path": "assets/icons/untitledui/share-07.svg"
+  },
+  {
+    "name": "shield-01",
+    "file": "shield-01.svg",
+    "path": "assets/icons/untitledui/shield-01.svg"
+  },
+  {
+    "name": "shield-02",
+    "file": "shield-02.svg",
+    "path": "assets/icons/untitledui/shield-02.svg"
+  },
+  {
+    "name": "shield-03",
+    "file": "shield-03.svg",
+    "path": "assets/icons/untitledui/shield-03.svg"
+  },
+  {
+    "name": "shield-dollar",
+    "file": "shield-dollar.svg",
+    "path": "assets/icons/untitledui/shield-dollar.svg"
+  },
+  {
+    "name": "shield-off",
+    "file": "shield-off.svg",
+    "path": "assets/icons/untitledui/shield-off.svg"
+  },
+  {
+    "name": "shield-plus",
+    "file": "shield-plus.svg",
+    "path": "assets/icons/untitledui/shield-plus.svg"
+  },
+  {
+    "name": "shield-tick",
+    "file": "shield-tick.svg",
+    "path": "assets/icons/untitledui/shield-tick.svg"
+  },
+  {
+    "name": "shield-zap",
+    "file": "shield-zap.svg",
+    "path": "assets/icons/untitledui/shield-zap.svg"
+  },
+  {
+    "name": "shopping-bag-01",
+    "file": "shopping-bag-01.svg",
+    "path": "assets/icons/untitledui/shopping-bag-01.svg"
+  },
+  {
+    "name": "shopping-bag-02",
+    "file": "shopping-bag-02.svg",
+    "path": "assets/icons/untitledui/shopping-bag-02.svg"
+  },
+  {
+    "name": "shopping-bag-03",
+    "file": "shopping-bag-03.svg",
+    "path": "assets/icons/untitledui/shopping-bag-03.svg"
+  },
+  {
+    "name": "shopping-cart-01",
+    "file": "shopping-cart-01.svg",
+    "path": "assets/icons/untitledui/shopping-cart-01.svg"
+  },
+  {
+    "name": "shopping-cart-02",
+    "file": "shopping-cart-02.svg",
+    "path": "assets/icons/untitledui/shopping-cart-02.svg"
+  },
+  {
+    "name": "shopping-cart-03",
+    "file": "shopping-cart-03.svg",
+    "path": "assets/icons/untitledui/shopping-cart-03.svg"
+  },
+  {
+    "name": "shuffle-01",
+    "file": "shuffle-01.svg",
+    "path": "assets/icons/untitledui/shuffle-01.svg"
+  },
+  {
+    "name": "shuffle-02",
+    "file": "shuffle-02.svg",
+    "path": "assets/icons/untitledui/shuffle-02.svg"
+  },
+  {
+    "name": "signal-01",
+    "file": "signal-01.svg",
+    "path": "assets/icons/untitledui/signal-01.svg"
+  },
+  {
+    "name": "signal-02",
+    "file": "signal-02.svg",
+    "path": "assets/icons/untitledui/signal-02.svg"
+  },
+  {
+    "name": "signal-03",
+    "file": "signal-03.svg",
+    "path": "assets/icons/untitledui/signal-03.svg"
+  },
+  {
+    "name": "simcard",
+    "file": "simcard.svg",
+    "path": "assets/icons/untitledui/simcard.svg"
+  },
+  {
+    "name": "skew",
+    "file": "skew.svg",
+    "path": "assets/icons/untitledui/skew.svg"
+  },
+  {
+    "name": "skip-back",
+    "file": "skip-back.svg",
+    "path": "assets/icons/untitledui/skip-back.svg"
+  },
+  {
+    "name": "skip-forward",
+    "file": "skip-forward.svg",
+    "path": "assets/icons/untitledui/skip-forward.svg"
+  },
+  {
+    "name": "slash-circle-01",
+    "file": "slash-circle-01.svg",
+    "path": "assets/icons/untitledui/slash-circle-01.svg"
+  },
+  {
+    "name": "slash-circle-02",
+    "file": "slash-circle-02.svg",
+    "path": "assets/icons/untitledui/slash-circle-02.svg"
+  },
+  {
+    "name": "slash-divider",
+    "file": "slash-divider.svg",
+    "path": "assets/icons/untitledui/slash-divider.svg"
+  },
+  {
+    "name": "slash-octagon",
+    "file": "slash-octagon.svg",
+    "path": "assets/icons/untitledui/slash-octagon.svg"
+  },
+  {
+    "name": "sliders-01",
+    "file": "sliders-01.svg",
+    "path": "assets/icons/untitledui/sliders-01.svg"
+  },
+  {
+    "name": "sliders-02",
+    "file": "sliders-02.svg",
+    "path": "assets/icons/untitledui/sliders-02.svg"
+  },
+  {
+    "name": "sliders-03",
+    "file": "sliders-03.svg",
+    "path": "assets/icons/untitledui/sliders-03.svg"
+  },
+  {
+    "name": "sliders-04",
+    "file": "sliders-04.svg",
+    "path": "assets/icons/untitledui/sliders-04.svg"
+  },
+  {
+    "name": "snowflake-01",
+    "file": "snowflake-01.svg",
+    "path": "assets/icons/untitledui/snowflake-01.svg"
+  },
+  {
+    "name": "snowflake-02",
+    "file": "snowflake-02.svg",
+    "path": "assets/icons/untitledui/snowflake-02.svg"
+  },
+  {
+    "name": "spacing-height-01",
+    "file": "spacing-height-01.svg",
+    "path": "assets/icons/untitledui/spacing-height-01.svg"
+  },
+  {
+    "name": "spacing-height-02",
+    "file": "spacing-height-02.svg",
+    "path": "assets/icons/untitledui/spacing-height-02.svg"
+  },
+  {
+    "name": "spacing-width-01",
+    "file": "spacing-width-01.svg",
+    "path": "assets/icons/untitledui/spacing-width-01.svg"
+  },
+  {
+    "name": "spacing-width-02",
+    "file": "spacing-width-02.svg",
+    "path": "assets/icons/untitledui/spacing-width-02.svg"
+  },
+  {
+    "name": "speaker-01",
+    "file": "speaker-01.svg",
+    "path": "assets/icons/untitledui/speaker-01.svg"
+  },
+  {
+    "name": "speaker-02",
+    "file": "speaker-02.svg",
+    "path": "assets/icons/untitledui/speaker-02.svg"
+  },
+  {
+    "name": "speaker-03",
+    "file": "speaker-03.svg",
+    "path": "assets/icons/untitledui/speaker-03.svg"
+  },
+  {
+    "name": "speedometer-01",
+    "file": "speedometer-01.svg",
+    "path": "assets/icons/untitledui/speedometer-01.svg"
+  },
+  {
+    "name": "speedometer-02",
+    "file": "speedometer-02.svg",
+    "path": "assets/icons/untitledui/speedometer-02.svg"
+  },
+  {
+    "name": "speedometer-03",
+    "file": "speedometer-03.svg",
+    "path": "assets/icons/untitledui/speedometer-03.svg"
+  },
+  {
+    "name": "speedometer-04",
+    "file": "speedometer-04.svg",
+    "path": "assets/icons/untitledui/speedometer-04.svg"
+  },
+  {
+    "name": "square",
+    "file": "square.svg",
+    "path": "assets/icons/untitledui/square.svg"
+  },
+  {
+    "name": "stand",
+    "file": "stand.svg",
+    "path": "assets/icons/untitledui/stand.svg"
+  },
+  {
+    "name": "star-01",
+    "file": "star-01.svg",
+    "path": "assets/icons/untitledui/star-01.svg"
+  },
+  {
+    "name": "star-02",
+    "file": "star-02.svg",
+    "path": "assets/icons/untitledui/star-02.svg"
+  },
+  {
+    "name": "star-03",
+    "file": "star-03.svg",
+    "path": "assets/icons/untitledui/star-03.svg"
+  },
+  {
+    "name": "star-04",
+    "file": "star-04.svg",
+    "path": "assets/icons/untitledui/star-04.svg"
+  },
+  {
+    "name": "star-05",
+    "file": "star-05.svg",
+    "path": "assets/icons/untitledui/star-05.svg"
+  },
+  {
+    "name": "star-06",
+    "file": "star-06.svg",
+    "path": "assets/icons/untitledui/star-06.svg"
+  },
+  {
+    "name": "star-07",
+    "file": "star-07.svg",
+    "path": "assets/icons/untitledui/star-07.svg"
+  },
+  {
+    "name": "stars-01",
+    "file": "stars-01.svg",
+    "path": "assets/icons/untitledui/stars-01.svg"
+  },
+  {
+    "name": "stars-02",
+    "file": "stars-02.svg",
+    "path": "assets/icons/untitledui/stars-02.svg"
+  },
+  {
+    "name": "stars-03",
+    "file": "stars-03.svg",
+    "path": "assets/icons/untitledui/stars-03.svg"
+  },
+  {
+    "name": "sticker-circle",
+    "file": "sticker-circle.svg",
+    "path": "assets/icons/untitledui/sticker-circle.svg"
+  },
+  {
+    "name": "sticker-square",
+    "file": "sticker-square.svg",
+    "path": "assets/icons/untitledui/sticker-square.svg"
+  },
+  {
+    "name": "stop-circle",
+    "file": "stop-circle.svg",
+    "path": "assets/icons/untitledui/stop-circle.svg"
+  },
+  {
+    "name": "stop-square",
+    "file": "stop-square.svg",
+    "path": "assets/icons/untitledui/stop-square.svg"
+  },
+  {
+    "name": "stop",
+    "file": "stop.svg",
+    "path": "assets/icons/untitledui/stop.svg"
+  },
+  {
+    "name": "strikethrough-01",
+    "file": "strikethrough-01.svg",
+    "path": "assets/icons/untitledui/strikethrough-01.svg"
+  },
+  {
+    "name": "strikethrough-02",
+    "file": "strikethrough-02.svg",
+    "path": "assets/icons/untitledui/strikethrough-02.svg"
+  },
+  {
+    "name": "strikethrough-square",
+    "file": "strikethrough-square.svg",
+    "path": "assets/icons/untitledui/strikethrough-square.svg"
+  },
+  {
+    "name": "subscript",
+    "file": "subscript.svg",
+    "path": "assets/icons/untitledui/subscript.svg"
+  },
+  {
+    "name": "sun-setting-01",
+    "file": "sun-setting-01.svg",
+    "path": "assets/icons/untitledui/sun-setting-01.svg"
+  },
+  {
+    "name": "sun-setting-02",
+    "file": "sun-setting-02.svg",
+    "path": "assets/icons/untitledui/sun-setting-02.svg"
+  },
+  {
+    "name": "sun-setting-03",
+    "file": "sun-setting-03.svg",
+    "path": "assets/icons/untitledui/sun-setting-03.svg"
+  },
+  {
+    "name": "sun",
+    "file": "sun.svg",
+    "path": "assets/icons/untitledui/sun.svg"
+  },
+  {
+    "name": "sunrise",
+    "file": "sunrise.svg",
+    "path": "assets/icons/untitledui/sunrise.svg"
+  },
+  {
+    "name": "sunset",
+    "file": "sunset.svg",
+    "path": "assets/icons/untitledui/sunset.svg"
+  },
+  {
+    "name": "switch-horizontal-01",
+    "file": "switch-horizontal-01.svg",
+    "path": "assets/icons/untitledui/switch-horizontal-01.svg"
+  },
+  {
+    "name": "switch-horizontal-02",
+    "file": "switch-horizontal-02.svg",
+    "path": "assets/icons/untitledui/switch-horizontal-02.svg"
+  },
+  {
+    "name": "switch-vertical-01",
+    "file": "switch-vertical-01.svg",
+    "path": "assets/icons/untitledui/switch-vertical-01.svg"
+  },
+  {
+    "name": "switch-vertical-02",
+    "file": "switch-vertical-02.svg",
+    "path": "assets/icons/untitledui/switch-vertical-02.svg"
+  },
+  {
+    "name": "table",
+    "file": "table.svg",
+    "path": "assets/icons/untitledui/table.svg"
+  },
+  {
+    "name": "tablet-01",
+    "file": "tablet-01.svg",
+    "path": "assets/icons/untitledui/tablet-01.svg"
+  },
+  {
+    "name": "tablet-02",
+    "file": "tablet-02.svg",
+    "path": "assets/icons/untitledui/tablet-02.svg"
+  },
+  {
+    "name": "tag-01",
+    "file": "tag-01.svg",
+    "path": "assets/icons/untitledui/tag-01.svg"
+  },
+  {
+    "name": "tag-02",
+    "file": "tag-02.svg",
+    "path": "assets/icons/untitledui/tag-02.svg"
+  },
+  {
+    "name": "tag-03",
+    "file": "tag-03.svg",
+    "path": "assets/icons/untitledui/tag-03.svg"
+  },
+  {
+    "name": "target-01",
+    "file": "target-01.svg",
+    "path": "assets/icons/untitledui/target-01.svg"
+  },
+  {
+    "name": "target-02",
+    "file": "target-02.svg",
+    "path": "assets/icons/untitledui/target-02.svg"
+  },
+  {
+    "name": "target-03",
+    "file": "target-03.svg",
+    "path": "assets/icons/untitledui/target-03.svg"
+  },
+  {
+    "name": "target-04",
+    "file": "target-04.svg",
+    "path": "assets/icons/untitledui/target-04.svg"
+  },
+  {
+    "name": "target-05",
+    "file": "target-05.svg",
+    "path": "assets/icons/untitledui/target-05.svg"
+  },
+  {
+    "name": "telescope",
+    "file": "telescope.svg",
+    "path": "assets/icons/untitledui/telescope.svg"
+  },
+  {
+    "name": "terminal-browser",
+    "file": "terminal-browser.svg",
+    "path": "assets/icons/untitledui/terminal-browser.svg"
+  },
+  {
+    "name": "terminal-circle",
+    "file": "terminal-circle.svg",
+    "path": "assets/icons/untitledui/terminal-circle.svg"
+  },
+  {
+    "name": "terminal-square",
+    "file": "terminal-square.svg",
+    "path": "assets/icons/untitledui/terminal-square.svg"
+  },
+  {
+    "name": "terminal",
+    "file": "terminal.svg",
+    "path": "assets/icons/untitledui/terminal.svg"
+  },
+  {
+    "name": "text-input",
+    "file": "text-input.svg",
+    "path": "assets/icons/untitledui/text-input.svg"
+  },
+  {
+    "name": "thermometer-01",
+    "file": "thermometer-01.svg",
+    "path": "assets/icons/untitledui/thermometer-01.svg"
+  },
+  {
+    "name": "thermometer-02",
+    "file": "thermometer-02.svg",
+    "path": "assets/icons/untitledui/thermometer-02.svg"
+  },
+  {
+    "name": "thermometer-03",
+    "file": "thermometer-03.svg",
+    "path": "assets/icons/untitledui/thermometer-03.svg"
+  },
+  {
+    "name": "thermometer-cold",
+    "file": "thermometer-cold.svg",
+    "path": "assets/icons/untitledui/thermometer-cold.svg"
+  },
+  {
+    "name": "thermometer-warm",
+    "file": "thermometer-warm.svg",
+    "path": "assets/icons/untitledui/thermometer-warm.svg"
+  },
+  {
+    "name": "thumbs-down",
+    "file": "thumbs-down.svg",
+    "path": "assets/icons/untitledui/thumbs-down.svg"
+  },
+  {
+    "name": "thumbs-up",
+    "file": "thumbs-up.svg",
+    "path": "assets/icons/untitledui/thumbs-up.svg"
+  },
+  {
+    "name": "ticket-01",
+    "file": "ticket-01.svg",
+    "path": "assets/icons/untitledui/ticket-01.svg"
+  },
+  {
+    "name": "ticket-02",
+    "file": "ticket-02.svg",
+    "path": "assets/icons/untitledui/ticket-02.svg"
+  },
+  {
+    "name": "toggle-01-left",
+    "file": "toggle-01-left.svg",
+    "path": "assets/icons/untitledui/toggle-01-left.svg"
+  },
+  {
+    "name": "toggle-01-right",
+    "file": "toggle-01-right.svg",
+    "path": "assets/icons/untitledui/toggle-01-right.svg"
+  },
+  {
+    "name": "toggle-02-left",
+    "file": "toggle-02-left.svg",
+    "path": "assets/icons/untitledui/toggle-02-left.svg"
+  },
+  {
+    "name": "toggle-02-right",
+    "file": "toggle-02-right.svg",
+    "path": "assets/icons/untitledui/toggle-02-right.svg"
+  },
+  {
+    "name": "toggle-03-left",
+    "file": "toggle-03-left.svg",
+    "path": "assets/icons/untitledui/toggle-03-left.svg"
+  },
+  {
+    "name": "toggle-03-right",
+    "file": "toggle-03-right.svg",
+    "path": "assets/icons/untitledui/toggle-03-right.svg"
+  },
+  {
+    "name": "tool-01",
+    "file": "tool-01.svg",
+    "path": "assets/icons/untitledui/tool-01.svg"
+  },
+  {
+    "name": "tool-02",
+    "file": "tool-02.svg",
+    "path": "assets/icons/untitledui/tool-02.svg"
+  },
+  {
+    "name": "train",
+    "file": "train.svg",
+    "path": "assets/icons/untitledui/train.svg"
+  },
+  {
+    "name": "tram",
+    "file": "tram.svg",
+    "path": "assets/icons/untitledui/tram.svg"
+  },
+  {
+    "name": "transform",
+    "file": "transform.svg",
+    "path": "assets/icons/untitledui/transform.svg"
+  },
+  {
+    "name": "translate-01",
+    "file": "translate-01.svg",
+    "path": "assets/icons/untitledui/translate-01.svg"
+  },
+  {
+    "name": "translate-02",
+    "file": "translate-02.svg",
+    "path": "assets/icons/untitledui/translate-02.svg"
+  },
+  {
+    "name": "trash-01",
+    "file": "trash-01.svg",
+    "path": "assets/icons/untitledui/trash-01.svg"
+  },
+  {
+    "name": "trash-02",
+    "file": "trash-02.svg",
+    "path": "assets/icons/untitledui/trash-02.svg"
+  },
+  {
+    "name": "trash-03",
+    "file": "trash-03.svg",
+    "path": "assets/icons/untitledui/trash-03.svg"
+  },
+  {
+    "name": "trash-04",
+    "file": "trash-04.svg",
+    "path": "assets/icons/untitledui/trash-04.svg"
+  },
+  {
+    "name": "trend-down-01",
+    "file": "trend-down-01.svg",
+    "path": "assets/icons/untitledui/trend-down-01.svg"
+  },
+  {
+    "name": "trend-down-02",
+    "file": "trend-down-02.svg",
+    "path": "assets/icons/untitledui/trend-down-02.svg"
+  },
+  {
+    "name": "trend-up-01",
+    "file": "trend-up-01.svg",
+    "path": "assets/icons/untitledui/trend-up-01.svg"
+  },
+  {
+    "name": "trend-up-02",
+    "file": "trend-up-02.svg",
+    "path": "assets/icons/untitledui/trend-up-02.svg"
+  },
+  {
+    "name": "triangle",
+    "file": "triangle.svg",
+    "path": "assets/icons/untitledui/triangle.svg"
+  },
+  {
+    "name": "trophy-01",
+    "file": "trophy-01.svg",
+    "path": "assets/icons/untitledui/trophy-01.svg"
+  },
+  {
+    "name": "trophy-02",
+    "file": "trophy-02.svg",
+    "path": "assets/icons/untitledui/trophy-02.svg"
+  },
+  {
+    "name": "truck-01",
+    "file": "truck-01.svg",
+    "path": "assets/icons/untitledui/truck-01.svg"
+  },
+  {
+    "name": "truck-02",
+    "file": "truck-02.svg",
+    "path": "assets/icons/untitledui/truck-02.svg"
+  },
+  {
+    "name": "tv-01",
+    "file": "tv-01.svg",
+    "path": "assets/icons/untitledui/tv-01.svg"
+  },
+  {
+    "name": "tv-02",
+    "file": "tv-02.svg",
+    "path": "assets/icons/untitledui/tv-02.svg"
+  },
+  {
+    "name": "tv-03",
+    "file": "tv-03.svg",
+    "path": "assets/icons/untitledui/tv-03.svg"
+  },
+  {
+    "name": "type-01",
+    "file": "type-01.svg",
+    "path": "assets/icons/untitledui/type-01.svg"
+  },
+  {
+    "name": "type-02",
+    "file": "type-02.svg",
+    "path": "assets/icons/untitledui/type-02.svg"
+  },
+  {
+    "name": "type-square",
+    "file": "type-square.svg",
+    "path": "assets/icons/untitledui/type-square.svg"
+  },
+  {
+    "name": "type-strikethrough-01",
+    "file": "type-strikethrough-01.svg",
+    "path": "assets/icons/untitledui/type-strikethrough-01.svg"
+  },
+  {
+    "name": "type-strikethrough-02",
+    "file": "type-strikethrough-02.svg",
+    "path": "assets/icons/untitledui/type-strikethrough-02.svg"
+  },
+  {
+    "name": "umbrella-01",
+    "file": "umbrella-01.svg",
+    "path": "assets/icons/untitledui/umbrella-01.svg"
+  },
+  {
+    "name": "umbrella-02",
+    "file": "umbrella-02.svg",
+    "path": "assets/icons/untitledui/umbrella-02.svg"
+  },
+  {
+    "name": "umbrella-03",
+    "file": "umbrella-03.svg",
+    "path": "assets/icons/untitledui/umbrella-03.svg"
+  },
+  {
+    "name": "underline-01",
+    "file": "underline-01.svg",
+    "path": "assets/icons/untitledui/underline-01.svg"
+  },
+  {
+    "name": "underline-02",
+    "file": "underline-02.svg",
+    "path": "assets/icons/untitledui/underline-02.svg"
+  },
+  {
+    "name": "underline-square",
+    "file": "underline-square.svg",
+    "path": "assets/icons/untitledui/underline-square.svg"
+  },
+  {
+    "name": "upload-01",
+    "file": "upload-01.svg",
+    "path": "assets/icons/untitledui/upload-01.svg"
+  },
+  {
+    "name": "upload-02",
+    "file": "upload-02.svg",
+    "path": "assets/icons/untitledui/upload-02.svg"
+  },
+  {
+    "name": "upload-03",
+    "file": "upload-03.svg",
+    "path": "assets/icons/untitledui/upload-03.svg"
+  },
+  {
+    "name": "upload-04",
+    "file": "upload-04.svg",
+    "path": "assets/icons/untitledui/upload-04.svg"
+  },
+  {
+    "name": "upload-cloud-01",
+    "file": "upload-cloud-01.svg",
+    "path": "assets/icons/untitledui/upload-cloud-01.svg"
+  },
+  {
+    "name": "upload-cloud-02",
+    "file": "upload-cloud-02.svg",
+    "path": "assets/icons/untitledui/upload-cloud-02.svg"
+  },
+  {
+    "name": "usb-flash-drive",
+    "file": "usb-flash-drive.svg",
+    "path": "assets/icons/untitledui/usb-flash-drive.svg"
+  },
+  {
+    "name": "user-01",
+    "file": "user-01.svg",
+    "path": "assets/icons/untitledui/user-01.svg"
+  },
+  {
+    "name": "user-02",
+    "file": "user-02.svg",
+    "path": "assets/icons/untitledui/user-02.svg"
+  },
+  {
+    "name": "user-03",
+    "file": "user-03.svg",
+    "path": "assets/icons/untitledui/user-03.svg"
+  },
+  {
+    "name": "user-check-01",
+    "file": "user-check-01.svg",
+    "path": "assets/icons/untitledui/user-check-01.svg"
+  },
+  {
+    "name": "user-check-02",
+    "file": "user-check-02.svg",
+    "path": "assets/icons/untitledui/user-check-02.svg"
+  },
+  {
+    "name": "user-circle",
+    "file": "user-circle.svg",
+    "path": "assets/icons/untitledui/user-circle.svg"
+  },
+  {
+    "name": "user-down-01",
+    "file": "user-down-01.svg",
+    "path": "assets/icons/untitledui/user-down-01.svg"
+  },
+  {
+    "name": "user-down-02",
+    "file": "user-down-02.svg",
+    "path": "assets/icons/untitledui/user-down-02.svg"
+  },
+  {
+    "name": "user-edit",
+    "file": "user-edit.svg",
+    "path": "assets/icons/untitledui/user-edit.svg"
+  },
+  {
+    "name": "user-left-01",
+    "file": "user-left-01.svg",
+    "path": "assets/icons/untitledui/user-left-01.svg"
+  },
+  {
+    "name": "user-left-02",
+    "file": "user-left-02.svg",
+    "path": "assets/icons/untitledui/user-left-02.svg"
+  },
+  {
+    "name": "user-minus-01",
+    "file": "user-minus-01.svg",
+    "path": "assets/icons/untitledui/user-minus-01.svg"
+  },
+  {
+    "name": "user-minus-02",
+    "file": "user-minus-02.svg",
+    "path": "assets/icons/untitledui/user-minus-02.svg"
+  },
+  {
+    "name": "user-plus-01",
+    "file": "user-plus-01.svg",
+    "path": "assets/icons/untitledui/user-plus-01.svg"
+  },
+  {
+    "name": "user-plus-02",
+    "file": "user-plus-02.svg",
+    "path": "assets/icons/untitledui/user-plus-02.svg"
+  },
+  {
+    "name": "user-right-01",
+    "file": "user-right-01.svg",
+    "path": "assets/icons/untitledui/user-right-01.svg"
+  },
+  {
+    "name": "user-right-02",
+    "file": "user-right-02.svg",
+    "path": "assets/icons/untitledui/user-right-02.svg"
+  },
+  {
+    "name": "user-square",
+    "file": "user-square.svg",
+    "path": "assets/icons/untitledui/user-square.svg"
+  },
+  {
+    "name": "user-up-01",
+    "file": "user-up-01.svg",
+    "path": "assets/icons/untitledui/user-up-01.svg"
+  },
+  {
+    "name": "user-up-02",
+    "file": "user-up-02.svg",
+    "path": "assets/icons/untitledui/user-up-02.svg"
+  },
+  {
+    "name": "user-x-01",
+    "file": "user-x-01.svg",
+    "path": "assets/icons/untitledui/user-x-01.svg"
+  },
+  {
+    "name": "user-x-02",
+    "file": "user-x-02.svg",
+    "path": "assets/icons/untitledui/user-x-02.svg"
+  },
+  {
+    "name": "users-01",
+    "file": "users-01.svg",
+    "path": "assets/icons/untitledui/users-01.svg"
+  },
+  {
+    "name": "users-02",
+    "file": "users-02.svg",
+    "path": "assets/icons/untitledui/users-02.svg"
+  },
+  {
+    "name": "users-03",
+    "file": "users-03.svg",
+    "path": "assets/icons/untitledui/users-03.svg"
+  },
+  {
+    "name": "users-check",
+    "file": "users-check.svg",
+    "path": "assets/icons/untitledui/users-check.svg"
+  },
+  {
+    "name": "users-down",
+    "file": "users-down.svg",
+    "path": "assets/icons/untitledui/users-down.svg"
+  },
+  {
+    "name": "users-edit",
+    "file": "users-edit.svg",
+    "path": "assets/icons/untitledui/users-edit.svg"
+  },
+  {
+    "name": "users-left",
+    "file": "users-left.svg",
+    "path": "assets/icons/untitledui/users-left.svg"
+  },
+  {
+    "name": "users-minus",
+    "file": "users-minus.svg",
+    "path": "assets/icons/untitledui/users-minus.svg"
+  },
+  {
+    "name": "users-plus",
+    "file": "users-plus.svg",
+    "path": "assets/icons/untitledui/users-plus.svg"
+  },
+  {
+    "name": "users-right",
+    "file": "users-right.svg",
+    "path": "assets/icons/untitledui/users-right.svg"
+  },
+  {
+    "name": "users-up",
+    "file": "users-up.svg",
+    "path": "assets/icons/untitledui/users-up.svg"
+  },
+  {
+    "name": "users-x",
+    "file": "users-x.svg",
+    "path": "assets/icons/untitledui/users-x.svg"
+  },
+  {
+    "name": "variable",
+    "file": "variable.svg",
+    "path": "assets/icons/untitledui/variable.svg"
+  },
+  {
+    "name": "video-recorder-off",
+    "file": "video-recorder-off.svg",
+    "path": "assets/icons/untitledui/video-recorder-off.svg"
+  },
+  {
+    "name": "video-recorder",
+    "file": "video-recorder.svg",
+    "path": "assets/icons/untitledui/video-recorder.svg"
+  },
+  {
+    "name": "virus",
+    "file": "virus.svg",
+    "path": "assets/icons/untitledui/virus.svg"
+  },
+  {
+    "name": "voicemail",
+    "file": "voicemail.svg",
+    "path": "assets/icons/untitledui/voicemail.svg"
+  },
+  {
+    "name": "volume-max",
+    "file": "volume-max.svg",
+    "path": "assets/icons/untitledui/volume-max.svg"
+  },
+  {
+    "name": "volume-min",
+    "file": "volume-min.svg",
+    "path": "assets/icons/untitledui/volume-min.svg"
+  },
+  {
+    "name": "volume-minus",
+    "file": "volume-minus.svg",
+    "path": "assets/icons/untitledui/volume-minus.svg"
+  },
+  {
+    "name": "volume-plus",
+    "file": "volume-plus.svg",
+    "path": "assets/icons/untitledui/volume-plus.svg"
+  },
+  {
+    "name": "volume-x",
+    "file": "volume-x.svg",
+    "path": "assets/icons/untitledui/volume-x.svg"
+  },
+  {
+    "name": "wallet-01",
+    "file": "wallet-01.svg",
+    "path": "assets/icons/untitledui/wallet-01.svg"
+  },
+  {
+    "name": "wallet-02",
+    "file": "wallet-02.svg",
+    "path": "assets/icons/untitledui/wallet-02.svg"
+  },
+  {
+    "name": "wallet-03",
+    "file": "wallet-03.svg",
+    "path": "assets/icons/untitledui/wallet-03.svg"
+  },
+  {
+    "name": "wallet-04",
+    "file": "wallet-04.svg",
+    "path": "assets/icons/untitledui/wallet-04.svg"
+  },
+  {
+    "name": "wallet-05",
+    "file": "wallet-05.svg",
+    "path": "assets/icons/untitledui/wallet-05.svg"
+  },
+  {
+    "name": "watch-circle",
+    "file": "watch-circle.svg",
+    "path": "assets/icons/untitledui/watch-circle.svg"
+  },
+  {
+    "name": "watch-square",
+    "file": "watch-square.svg",
+    "path": "assets/icons/untitledui/watch-square.svg"
+  },
+  {
+    "name": "waves",
+    "file": "waves.svg",
+    "path": "assets/icons/untitledui/waves.svg"
+  },
+  {
+    "name": "webcam-01",
+    "file": "webcam-01.svg",
+    "path": "assets/icons/untitledui/webcam-01.svg"
+  },
+  {
+    "name": "webcam-02",
+    "file": "webcam-02.svg",
+    "path": "assets/icons/untitledui/webcam-02.svg"
+  },
+  {
+    "name": "wifi-off",
+    "file": "wifi-off.svg",
+    "path": "assets/icons/untitledui/wifi-off.svg"
+  },
+  {
+    "name": "wifi",
+    "file": "wifi.svg",
+    "path": "assets/icons/untitledui/wifi.svg"
+  },
+  {
+    "name": "wind-01",
+    "file": "wind-01.svg",
+    "path": "assets/icons/untitledui/wind-01.svg"
+  },
+  {
+    "name": "wind-02",
+    "file": "wind-02.svg",
+    "path": "assets/icons/untitledui/wind-02.svg"
+  },
+  {
+    "name": "wind-03",
+    "file": "wind-03.svg",
+    "path": "assets/icons/untitledui/wind-03.svg"
+  },
+  {
+    "name": "x-circle",
+    "file": "x-circle.svg",
+    "path": "assets/icons/untitledui/x-circle.svg"
+  },
+  {
+    "name": "x-close",
+    "file": "x-close.svg",
+    "path": "assets/icons/untitledui/x-close.svg"
+  },
+  {
+    "name": "x-square",
+    "file": "x-square.svg",
+    "path": "assets/icons/untitledui/x-square.svg"
+  },
+  {
+    "name": "x",
+    "file": "x.svg",
+    "path": "assets/icons/untitledui/x.svg"
+  },
+  {
+    "name": "youtube",
+    "file": "youtube.svg",
+    "path": "assets/icons/untitledui/youtube.svg"
+  },
+  {
+    "name": "zap-circle",
+    "file": "zap-circle.svg",
+    "path": "assets/icons/untitledui/zap-circle.svg"
+  },
+  {
+    "name": "zap-fast",
+    "file": "zap-fast.svg",
+    "path": "assets/icons/untitledui/zap-fast.svg"
+  },
+  {
+    "name": "zap-off",
+    "file": "zap-off.svg",
+    "path": "assets/icons/untitledui/zap-off.svg"
+  },
+  {
+    "name": "zap-square",
+    "file": "zap-square.svg",
+    "path": "assets/icons/untitledui/zap-square.svg"
+  },
+  {
+    "name": "zap",
+    "file": "zap.svg",
+    "path": "assets/icons/untitledui/zap.svg"
+  },
+  {
+    "name": "zoom-in",
+    "file": "zoom-in.svg",
+    "path": "assets/icons/untitledui/zoom-in.svg"
+  },
+  {
+    "name": "zoom-out",
+    "file": "zoom-out.svg",
+    "path": "assets/icons/untitledui/zoom-out.svg"
+  }
+]

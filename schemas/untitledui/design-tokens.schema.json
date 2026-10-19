@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "W3C Design Tokens Community Group Specification",
+  "type": "object",
+  "properties": {
+    "$name": {
+      "type": "string"
+    },
+    "$version": {
+      "type": "string"
+    },
+    "color": {
+      "type": "object"
+    },
+    "typography": {
+      "type": "object"
+    },
+    "radius": {
+      "type": "object"
+    },
+    "shadow": {
+      "type": "object"
+    },
+    "spacing": {
+      "type": "object"
+    }
+  }
+}

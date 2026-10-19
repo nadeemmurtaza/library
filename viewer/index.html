@@ -9,10 +9,54 @@
 <body class="min-h-screen bg-base-200 text-base-content">
   <header class="sticky top-0 z-20 border-b border-base-300 bg-base-100">
     <div class="flex flex-wrap items-center gap-3 px-4 py-3 lg:px-8">
-      <a href="#/" class="text-lg font-semibold">Library</a>
-      <span id="live" class="status status-success" title="live"></span>
-      <input id="search" type="search" placeholder="Search…" class="input input-sm ml-auto w-full max-w-xs">
-      <select id="theme" class="select select-sm w-40" aria-label="Preview theme"></select>
+      <a href="#/" class="text-lg font-semibold flex items-center gap-2">
+        <span>Library</span>
+        <span id="live" class="status status-success" title="live"></span>
+      </a>
+
+      <!-- Group By Tabs / Selector -->
+      <div class="flex items-center gap-1 bg-base-200 p-1 rounded-lg text-xs font-medium" id="group-tabs">
+        <button data-group="category" class="px-2.5 py-1 rounded bg-base-100 shadow-sm font-semibold">Category</button>
+        <button data-group="language" class="px-2.5 py-1 rounded hover:bg-base-100/50">Language</button>
+        <button data-group="industry" class="px-2.5 py-1 rounded hover:bg-base-100/50">Industry</button>
+        <button data-group="designSystem" class="px-2.5 py-1 rounded hover:bg-base-100/50">Design System</button>
+        <button data-group="type" class="px-2.5 py-1 rounded hover:bg-base-100/50">Subcategories</button>
+      </div>
+
+      <!-- Quick Filters -->
+      <div class="flex flex-wrap items-center gap-2 ml-auto">
+        <select id="filter-lang" class="select select-xs w-28" aria-label="Filter language">
+          <option value="">All Languages</option>
+          <option value="typescript">TypeScript</option>
+          <option value="svg">SVG</option>
+          <option value="css">CSS</option>
+          <option value="html">HTML</option>
+          <option value="json">JSON</option>
+          <option value="markdown">Markdown</option>
+          <option value="python">Python</option>
+        </select>
+
+        <select id="filter-industry" class="select select-xs w-28" aria-label="Filter industry">
+          <option value="">All Industries</option>
+          <option value="saas">SaaS</option>
+          <option value="fintech">Fintech</option>
+          <option value="ecommerce">E-Commerce</option>
+          <option value="marketing">Marketing</option>
+          <option value="healthcare">Healthcare</option>
+          <option value="general">General</option>
+        </select>
+
+        <select id="filter-ds" class="select select-xs w-32" aria-label="Filter design system">
+          <option value="">All Systems</option>
+          <option value="untitledui">Untitled UI</option>
+          <option value="daisyui">DaisyUI</option>
+          <option value="ui-ux-pro-max">UI/UX Pro Max</option>
+          <option value="bencium">Bencium</option>
+        </select>
+
+        <input id="search" type="search" placeholder="Search (name, tag, ext)…" class="input input-sm w-44 lg:w-56">
+        <select id="theme" class="select select-sm w-36" aria-label="Preview theme"></select>
+      </div>
     </div>
   </header>
   <main id="app" class="mx-auto w-full max-w-[120rem] px-4 py-6 lg:px-8"></main>

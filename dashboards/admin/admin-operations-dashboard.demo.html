@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en" data-theme="brand">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Admin Operations Dashboard</title>
+  <link rel="stylesheet" href="/.cache/preview.css">
+  <link rel="stylesheet" href="/tokens/untitledui/tokens.css">
+</head>
+<body class="min-h-screen bg-base-200 text-base-content p-6">
+  <div class="max-w-7xl mx-auto space-y-6">
+    <div class="flex flex-wrap items-center justify-between gap-4 border-b border-base-300 pb-4">
+      <div>
+        <h1 class="text-2xl font-bold">System Administration</h1>
+        <p class="text-sm opacity-70">Role-based access control, security events, and audit logging.</p>
+      </div>
+      <button class="btn btn-sm btn-outline">Audit Logs</button>
+    </div>
+    <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
+      <div class="card bg-base-100 p-4 border border-base-300 shadow-sm">
+        <div class="text-xs uppercase tracking-wide opacity-60 font-semibold">System Status</div>
+        <div class="text-xl font-bold mt-1 text-success">All Systems Operational</div>
+      </div>
+      <div class="card bg-base-100 p-4 border border-base-300 shadow-sm">
+        <div class="text-xs uppercase tracking-wide opacity-60 font-semibold">Active Workers</div>
+        <div class="text-xl font-bold mt-1">16 Instances</div>
+      </div>
+      <div class="card bg-base-100 p-4 border border-base-300 shadow-sm">
+        <div class="text-xs uppercase tracking-wide opacity-60 font-semibold">Failed Jobs (24h)</div>
+        <div class="text-xl font-bold mt-1 text-success">0 Errors</div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

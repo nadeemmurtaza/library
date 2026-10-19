@@ -1,0 +1,95 @@
+{
+  "count": 4,
+  "items": [
+    {
+      "type": "hooks-untitledui",
+      "category": "hooks",
+      "subcategory": "untitledui",
+      "name": "untitledui/use-active-item.ts",
+      "path": "hooks/untitledui/use-active-item.ts",
+      "language": "typescript",
+      "industry": "general",
+      "designSystem": "untitledui",
+      "source": "untitledui",
+      "license": "MIT",
+      "tags": [
+        "untitledui/use",
+        "active",
+        "item.ts",
+        "hooks",
+        "untitledui",
+        "use",
+        "item",
+        "ts",
+        "general"
+      ]
+    },
+    {
+      "type": "hooks-untitledui",
+      "category": "hooks",
+      "subcategory": "untitledui",
+      "name": "untitledui/use-breakpoint.ts",
+      "path": "hooks/untitledui/use-breakpoint.ts",
+      "language": "typescript",
+      "industry": "general",
+      "designSystem": "untitledui",
+      "source": "untitledui",
+      "license": "MIT",
+      "tags": [
+        "untitledui/use",
+        "breakpoint.ts",
+        "hooks",
+        "untitledui",
+        "use",
+        "breakpoint",
+        "ts",
+        "general"
+      ]
+    },
+    {
+      "type": "hooks-untitledui",
+      "category": "hooks",
+      "subcategory": "untitledui",
+      "name": "untitledui/use-clipboard.ts",
+      "path": "hooks/untitledui/use-clipboard.ts",
+      "language": "typescript",
+      "industry": "general",
+      "designSystem": "untitledui",
+      "source": "untitledui",
+      "license": "MIT",
+      "tags": [
+        "untitledui/use",
+        "clipboard.ts",
+        "hooks",
+        "untitledui",
+        "use",
+        "clipboard",
+        "ts",
+        "general"
+      ]
+    },
+    {
+      "type": "hooks-untitledui",
+      "category": "hooks",
+      "subcategory": "untitledui",
+      "name": "untitledui/use-resize-observer.ts",
+      "path": "hooks/untitledui/use-resize-observer.ts",
+      "language": "typescript",
+      "industry": "general",
+      "designSystem": "untitledui",
+      "source": "untitledui",
+      "license": "MIT",
+      "tags": [
+        "untitledui/use",
+        "resize",
+        "observer.ts",
+        "hooks",
+        "untitledui",
+        "use",
+        "observer",
+        "ts",
+        "general"
+      ]
+    }
+  ]
+}

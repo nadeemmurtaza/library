@@ -1,19 +1,32 @@
 const $ = (s, el = document) => el.querySelector(s)
+const $$ = (s, el = document) => [...el.querySelectorAll(s)]
 const app = $('#app')
 
 function storeGet(k) { try { return localStorage.getItem(k) } catch { return null } }
 function storeSet(k, v) { try { localStorage.setItem(k, v) } catch {} }
 
-const state = { items: [], themes: [], theme: storeGet('theme') || 'brand', q: '' }
+const state = {
+  items: [],
+  themes: [],
+  theme: storeGet('theme') || 'brand',
+  q: '',
+  groupBy: storeGet('groupBy') || 'category',
+  filterLang: '',
+  filterIndustry: '',
+  filterDs: ''
+}
 
-const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c])
+const esc = (s) => String(s || '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c])
 const ext = (p) => p.slice(p.lastIndexOf('.') + 1).toLowerCase()
 const IMG = ['svg', 'png', 'jpg', 'jpeg', 'webp', 'avif', 'gif', 'ico']
 const FONT = ['ttf', 'otf', 'woff', 'woff2']
 const BIN = ['ttf', 'otf', 'woff', 'woff2', 'pdf', 'zip', 'gz', 'ico']
-const ORDER = ['component', 'design-trend', 'theme', 'color', 'base', 'utility', 'token', 'config', 'entry']
-const LABEL = { component: 'Components', 'design-trend': 'Design trends', theme: 'Themes', color: 'Colors', base: 'Base', utility: 'Utilities', token: 'Tokens', config: 'Config', entry: 'Entry' }
-const label = (t) => LABEL[t] || t.replace(/-/g, ' ').replace(/^./, (c) => c.toUpperCase())
+
+const label = (t) => {
+  if (!t) return ''
+  return t.replace(/[-_]/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase())
+}
+
 const preview = (path) => `/preview?path=${encodeURIComponent(path)}&theme=${encodeURIComponent(state.theme)}`
 const previewPath = (i) => i.example || (i.type !== 'component' && ext(i.path) === 'html' ? i.path : null)
 
@@ -22,25 +35,57 @@ async function load() {
     fetch('/registry/catalog.json', { cache: 'no-store' }).then((r) => r.json()),
     fetch('/tokens/themes/index.ts', { cache: 'no-store' }).then((r) => r.text()),
   ])
-  state.items = cat.items
+  state.items = cat.items || []
   const m = themeTs.match(/themeNames = (\[.*?\])/s)
   state.themes = m ? JSON.parse(m[1]) : []
   $('#theme').innerHTML = state.themes.map((t) => `<option ${t === state.theme ? 'selected' : ''}>${esc(t)}</option>`).join('')
 }
 
-const types = () => {
-  const t = [...new Set(state.items.map((i) => i.type))]
-  return t.sort((a, b) => (ORDER.indexOf(a) + 1 || 99) - (ORDER.indexOf(b) + 1 || 99) || a.localeCompare(b))
+const getGroupVal = (i, groupKey) => {
+  return i[groupKey] || 'other'
 }
-const match = (i) => !state.q || `${i.type} ${i.name}`.toLowerCase().includes(state.q)
+
+const match = (i) => {
+  if (state.filterLang && i.language !== state.filterLang) return false
+  if (state.filterIndustry && i.industry !== state.filterIndustry) return false
+  if (state.filterDs && i.designSystem !== state.filterDs) return false
+  if (!state.q) return true
+  const haystack = `${i.name} ${i.type} ${i.category} ${i.subcategory} ${i.language} ${i.industry} ${i.designSystem} ${i.path}`.toLowerCase()
+  return haystack.includes(state.q)
+}
+
+function filteredItems() {
+  return state.items.filter(match)
+}
 
 function overview() {
-  if (state.q) return list(null)
+  if (state.q) return list(null, null)
+  const items = filteredItems()
+  const groupKey = state.groupBy
+  const groups = {}
+  for (const i of items) {
+    const val = getGroupVal(i, groupKey)
+    groups[val] = (groups[val] || 0) + 1
+  }
+
+  const sortedGroups = Object.entries(groups).sort((a, b) => b[1] - a[1])
+
   app.innerHTML = `
-    <h1 class="text-2xl font-semibold">${state.items.length} items in ${types().length} groups</h1>
-    <p class="mb-6 opacity-70">Pick a group. New files appear here on their own.</p>
+    <div class="mb-6 flex flex-wrap items-baseline justify-between gap-4">
+      <div>
+        <h1 class="text-2xl font-bold">${items.length} items in ${sortedGroups.length} ${label(groupKey)}s</h1>
+        <p class="text-sm opacity-70 mt-1">Grouped by <strong>${label(groupKey)}</strong>. Click any card to explore items.</p>
+      </div>
+      <div class="text-xs opacity-60">Total Library Items: ${state.items.length}</div>
+    </div>
     <div class="grid grid-cols-2 gap-3 fold:grid-cols-3 md:grid-cols-4 xl:grid-cols-5 2xl:grid-cols-6">
-      ${types().map((t) => `<a href="#/${esc(t)}" class="card bg-base-100 p-4 transition hover:shadow-md"><div class="text-3xl font-semibold">${state.items.filter((i) => i.type === t).length}</div><div class="opacity-70">${esc(label(t))}</div></a>`).join('')}
+      ${sortedGroups.map(([grp, count]) => `
+        <a href="#/${esc(groupKey)}/${encodeURIComponent(grp)}" class="card bg-base-100 p-4 transition hover:shadow-md border border-base-200 hover:border-primary/40">
+          <div class="text-3xl font-extrabold text-primary">${count}</div>
+          <div class="font-medium mt-1 truncate" title="${esc(grp)}">${esc(label(grp))}</div>
+          <div class="text-xs opacity-50 mt-1 uppercase tracking-wider">${esc(groupKey)}</div>
+        </a>
+      `).join('')}
     </div>`
 }
 
@@ -56,22 +101,61 @@ function thumb(i) {
   const pp = previewPath(i)
   if (i.type === 'theme') {
     const name = i.name
-    return `<div data-theme="${esc(name)}" class="flex h-40 flex-col justify-between bg-base-100 p-3"><div class="flex gap-1"><span class="badge badge-primary"></span><span class="badge badge-secondary"></span><span class="badge badge-accent"></span><span class="badge badge-neutral"></span></div><span class="btn btn-primary btn-sm w-fit">${esc(name)}</span></div>`
+    return `<div data-theme="${esc(name)}" class="flex h-36 flex-col justify-between bg-base-100 p-3"><div class="flex gap-1"><span class="badge badge-primary"></span><span class="badge badge-secondary"></span><span class="badge badge-accent"></span><span class="badge badge-neutral"></span></div><span class="btn btn-primary btn-sm w-fit">${esc(name)}</span></div>`
   }
-  if (i.screenshot) return `<img loading="lazy" src="/${esc(i.screenshot)}" alt="" class="h-40 w-full object-cover object-top">`
-  if (pp) return `<iframe loading="lazy" scrolling="no" tabindex="-1" src="${preview(pp)}" class="pointer-events-none h-40 w-full border-0"></iframe>`
-  if (IMG.includes(ext(i.path))) return `<img loading="lazy" src="/${esc(i.path)}" alt="" class="h-40 w-full bg-base-200 object-contain p-4">`
-  if (FONT.includes(ext(i.path))) return `<div class="grid h-40 place-items-center bg-base-200 text-5xl" style="font-family:'${fontFamily(i)}'">Aa</div>`
-  return `<div class="grid h-40 place-items-center bg-base-200 font-mono text-sm opacity-60">.${esc(ext(i.path))}</div>`
+  if (i.screenshot) return `<img loading="lazy" src="/${esc(i.screenshot)}" alt="" class="h-36 w-full object-cover object-top">`
+  if (pp) return `<iframe loading="lazy" scrolling="no" tabindex="-1" src="${preview(pp)}" class="pointer-events-none h-36 w-full border-0"></iframe>`
+  if (IMG.includes(ext(i.path))) return `<img loading="lazy" src="/${esc(i.path)}" alt="" class="h-36 w-full bg-base-200 object-contain p-3">`
+  if (FONT.includes(ext(i.path))) return `<div class="grid h-36 place-items-center bg-base-200 text-4xl" style="font-family:'${fontFamily(i)}'">Aa</div>`
+  return `<div class="grid h-36 place-items-center bg-base-200 font-mono text-xs opacity-60">.${esc(ext(i.path))}</div>`
 }
 
-function list(type) {
-  const items = state.items.filter((i) => (!type || i.type === type) && match(i))
+const langBadgeColor = {
+  typescript: 'badge-primary',
+  javascript: 'badge-warning',
+  css: 'badge-secondary',
+  html: 'badge-accent',
+  svg: 'badge-info',
+  json: 'badge-success',
+  markdown: 'badge-neutral',
+  python: 'badge-primary'
+}
+
+function badges(i) {
+  const b = []
+  if (i.language) b.push(`<span class="badge badge-xs ${langBadgeColor[i.language] || 'badge-ghost'}">${esc(i.language)}</span>`)
+  if (i.industry && i.industry !== 'general') b.push(`<span class="badge badge-xs badge-outline">${esc(i.industry)}</span>`)
+  if (i.designSystem && i.designSystem !== 'local') b.push(`<span class="badge badge-xs badge-ghost opacity-70">${esc(i.designSystem)}</span>`)
+  return b.join(' ')
+}
+
+function list(groupKey, groupVal) {
+  let items = filteredItems()
+  if (groupKey && groupVal) {
+    items = items.filter((i) => getGroupVal(i, groupKey) === groupVal)
+  }
+
+  const title = groupVal ? `${label(groupKey)}: ${label(groupVal)}` : 'Search Results'
+
   app.innerHTML = `
-    <div class="mb-4 flex items-baseline gap-3"><a href="#/" class="link">Library</a><span>/</span><h1 class="text-xl font-semibold">${esc(type ? label(type) : 'Search')}</h1><span class="opacity-60">${items.length}</span></div>
-    ${items.length ? '' : '<p class="opacity-60">Nothing here yet.</p>'}
+    <div class="mb-4 flex flex-wrap items-baseline gap-2">
+      <a href="#/" class="link font-semibold">Library</a>
+      <span class="opacity-40">/</span>
+      <h1 class="text-xl font-bold">${esc(title)}</h1>
+      <span class="badge badge-sm badge-neutral ml-2">${items.length}</span>
+    </div>
+    ${items.length ? '' : '<div class="p-8 text-center opacity-60 bg-base-100 rounded-box border border-base-300">No items match the current filters.</div>'}
     <div class="grid grid-cols-1 gap-4 fold:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5">
-      ${items.map((i) => `<a href="#/${esc(i.type)}/${encodeURIComponent(i.name)}" class="card overflow-hidden bg-base-100 transition hover:shadow-md"><figure class="overflow-hidden">${thumb(i)}</figure><div class="p-3"><div class="truncate font-medium">${esc(i.name)}</div>${type ? '' : `<div class="text-xs opacity-60">${esc(label(i.type))}</div>`}</div></a>`).join('')}
+      ${items.map((i) => `
+        <a href="#/item/${encodeURIComponent(i.path)}" class="card overflow-hidden bg-base-100 border border-base-200 transition hover:shadow-md hover:border-primary/40">
+          <figure class="overflow-hidden bg-base-200/50">${thumb(i)}</figure>
+          <div class="p-3">
+            <div class="truncate font-semibold text-sm" title="${esc(i.name)}">${esc(i.name)}</div>
+            <div class="flex flex-wrap gap-1 mt-2">${badges(i)}</div>
+            <div class="text-[11px] opacity-50 mt-1 truncate font-mono">${esc(i.path)}</div>
+          </div>
+        </a>
+      `).join('')}
     </div>`
 }
 
@@ -84,49 +168,135 @@ const md = (s) => esc(s)
   .replace(/^- (.*)$/gm, '<li class="ml-5 list-disc">$1</li>')
   .replace(/\n\n/g, '<br>')
 
-async function detail(type, name) {
-  const i = state.items.find((x) => x.type === type && x.name === name)
-  if (!i) { app.innerHTML = '<p>Not found.</p>'; return }
-  const crumbs = `<div class="mb-4 flex flex-wrap items-baseline gap-2"><a href="#/" class="link">Library</a><span>/</span><a href="#/${esc(type)}" class="link">${esc(type ? label(type) : '')}</a><span>/</span><h1 class="text-xl font-semibold">${esc(name)}</h1></div>`
+async function detail(itemPath) {
+  const i = state.items.find((x) => x.path === itemPath)
+  if (!i) { app.innerHTML = '<p class="p-8">Item not found.</p>'; return }
+
+  const crumbs = `
+    <div class="mb-4 flex flex-wrap items-baseline gap-2 text-sm">
+      <a href="#/" class="link font-semibold">Library</a>
+      <span class="opacity-40">/</span>
+      <a href="#/category/${encodeURIComponent(i.category)}" class="link">${esc(label(i.category))}</a>
+      <span class="opacity-40">/</span>
+      <span class="opacity-70">${esc(i.subcategory)}</span>
+      <span class="opacity-40">/</span>
+      <h1 class="text-lg font-bold truncate max-w-md">${esc(i.name)}</h1>
+    </div>`
+
+  const metaPills = `
+    <div class="flex flex-wrap gap-2 mb-6">
+      <span class="badge badge-sm badge-primary">${esc(i.language)}</span>
+      <span class="badge badge-sm badge-secondary">${esc(i.category)}</span>
+      <span class="badge badge-sm badge-accent">${esc(i.subcategory)}</span>
+      <span class="badge badge-sm badge-outline">Industry: ${esc(i.industry)}</span>
+      <span class="badge badge-sm badge-ghost">System: ${esc(i.designSystem)}</span>
+      <span class="badge badge-sm badge-neutral">Source: ${esc(i.source)}</span>
+      ${i.license ? `<span class="badge badge-sm badge-ghost">License: ${esc(i.license)}</span>` : ''}
+    </div>`
+
   const pp = previewPath(i)
   const isImg = IMG.includes(ext(i.path))
   const text = isImg || BIN.includes(ext(i.path)) ? null : await fetch(`/${i.path}`, { cache: 'no-store' }).then((r) => r.text())
   let main = ''
-  if (type === 'design-trend') {
-    main = `<div class="grid gap-6 xl:grid-cols-[2fr_1fr]"><iframe src="/${esc(i.demo)}" class="h-[75vh] w-full rounded-box border border-base-300 bg-base-100"></iframe><article class="max-h-[75vh] overflow-auto text-sm">${md(text)}</article></div>`
-  } else if (type === 'theme') {
-    const vars = [...text.matchAll(/--(color-[a-z0-9-]+):\s*([^;]+);/g)]
+
+  if (i.type === 'design-trend') {
+    main = `<div class="grid gap-6 xl:grid-cols-[2fr_1fr]"><iframe src="/${esc(i.demo)}" class="h-[75vh] w-full rounded-box border border-base-300 bg-base-100"></iframe><article class="max-h-[75vh] overflow-auto text-sm bg-base-100 p-6 rounded-box">${md(text)}</article></div>`
+  } else if (i.type === 'theme') {
+    const vars = [...(text || '').matchAll(/--(color-[a-z0-9-]+):\s*([^;]+);/g)]
     const partner = (k) => (k.endsWith('-content') ? k.replace('-content', '') : `${k}-content`)
-    main = `<div data-theme="${esc(name)}" class="space-y-4 rounded-box bg-base-100 p-6 text-base-content"><div class="grid grid-cols-2 gap-2 fold:grid-cols-3 lg:grid-cols-5">${vars.map(([, k, v]) => `<div class="rounded-field border border-base-300 p-3 text-xs" style="background:var(--${k});color:var(--${partner(k)},inherit)"><div class="font-semibold">${esc(k)}</div><div class="opacity-80">${esc(v)}</div></div>`).join('')}</div><div class="flex flex-wrap gap-2"><button class="btn btn-primary">Primary</button><button class="btn btn-secondary">Secondary</button><button class="btn btn-accent">Accent</button><span class="badge badge-info">info</span><span class="badge badge-success">success</span><span class="badge badge-warning">warning</span><span class="badge badge-error">error</span></div><input class="input" placeholder="Input"><div role="alert" class="alert alert-info"><span>Alert sample</span></div></div>`
+    main = `<div data-theme="${esc(i.name)}" class="space-y-4 rounded-box bg-base-100 p-6 text-base-content"><div class="grid grid-cols-2 gap-2 fold:grid-cols-3 lg:grid-cols-5">${vars.map(([, k, v]) => `<div class="rounded-field border border-base-300 p-3 text-xs" style="background:var(--${k});color:var(--${partner(k)},inherit)"><div class="font-semibold">${esc(k)}</div><div class="opacity-80">${esc(v)}</div></div>`).join('')}</div><div class="flex flex-wrap gap-2"><button class="btn btn-primary">Primary</button><button class="btn btn-secondary">Secondary</button><button class="btn btn-accent">Accent</button></div></div>`
   } else if (pp) {
     main = `<iframe src="${preview(pp)}" class="h-[75vh] w-full rounded-box border border-base-300 bg-base-100"></iframe>`
   } else if (isImg) {
-    main = `<div class="grid place-items-center rounded-box bg-base-100 p-8"><img src="/${esc(i.path)}" alt="${esc(name)}" class="max-h-[70vh] max-w-full"></div>`
+    main = `<div class="grid place-items-center rounded-box bg-base-100 p-8 border border-base-300"><img src="/${esc(i.path)}" alt="${esc(i.name)}" class="max-h-[60vh] max-w-full"></div>`
   }
-  if (FONT.includes(ext(i.path))) main = `<div class="space-y-4 rounded-box bg-base-100 p-6" style="font-family:'${fontFamily(i)}'"><p class="text-6xl">Aa Bb Cc 123</p><p class="text-3xl">The quick brown fox jumps over the lazy dog</p><p class="text-base">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789 !?&amp;@</p><p class="text-sm">Small text sample for reading comfort at body sizes.</p></div><a class="btn mt-3" href="/${esc(i.path)}" download>Download</a>`
-  else if (text === null && !isImg) main = `<a class="btn" href="/${esc(i.path)}" download>Download ${esc(i.path)}</a>`
-  const code = text !== null && type !== 'design-trend'
-    ? `<div class="collapse collapse-arrow mt-4 bg-base-100"><input type="checkbox"><div class="collapse-title font-medium">Source <span class="font-mono text-xs opacity-60">${esc(i.path)}</span></div><div class="collapse-content"><pre class="max-h-[60vh] overflow-auto text-xs">${esc(text)}</pre></div></div>`
+
+  if (FONT.includes(ext(i.path))) {
+    main = `<div class="space-y-4 rounded-box bg-base-100 p-6 border border-base-300" style="font-family:'${fontFamily(i)}'"><p class="text-6xl">Aa Bb Cc 123</p><p class="text-3xl">The quick brown fox jumps over the lazy dog</p><p class="text-base">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789</p></div><a class="btn mt-3 btn-sm" href="/${esc(i.path)}" download>Download font</a>`
+  } else if (text === null && !isImg) {
+    main = `<a class="btn btn-primary btn-sm" href="/${esc(i.path)}" download>Download ${esc(i.name)}</a>`
+  }
+
+  const code = text !== null && i.type !== 'design-trend'
+    ? `<div class="collapse collapse-arrow mt-4 bg-base-100 border border-base-300"><input type="checkbox" checked><div class="collapse-title font-medium text-sm">Source Code (${esc(ext(i.path))})</div><div class="collapse-content"><pre class="max-h-[60vh] overflow-auto text-xs font-mono p-4 bg-base-200/50 rounded">${esc(text)}</pre></div></div>`
     : ''
-  const meta = `<p class="mt-3 text-xs opacity-60">${esc(i.path)}${i.source ? ` · ${esc(i.source)}` : ''}${i.license ? ` · ${esc(i.license)}` : ''}</p>`
-  app.innerHTML = crumbs + main + code + meta
+
+  app.innerHTML = crumbs + metaPills + main + code
 }
 
 async function route() {
-  const [type, ...rest] = location.hash.replace(/^#\/?/, '').split('/').filter(Boolean)
-  if (!type) return overview()
-  if (!rest.length) return list(type)
-  return detail(type, decodeURIComponent(rest.join('/')))
+  const hash = location.hash.replace(/^#\/?/, '')
+  const parts = hash.split('/').filter(Boolean)
+  if (!parts.length) return overview()
+
+  if (parts[0] === 'item' && parts[1]) {
+    return detail(decodeURIComponent(parts.slice(1).join('/')))
+  }
+
+  if (parts.length >= 2) {
+    const groupKey = parts[0]
+    const groupVal = decodeURIComponent(parts.slice(1).join('/'))
+    return list(groupKey, groupVal)
+  }
+
+  if (parts.length === 1) {
+    // legacy or direct type
+    return list('type', decodeURIComponent(parts[0]))
+  }
+
+  return overview()
 }
 
-$('#search').addEventListener('input', (e) => { state.q = e.target.value.trim().toLowerCase(); if (state.q) list(null); else route() })
-$('#theme').addEventListener('change', (e) => { state.theme = e.target.value; storeSet('theme', state.theme); document.documentElement.dataset.theme = state.theme; route() })
+// Group Tabs
+$$('#group-tabs button').forEach((btn) => {
+  btn.addEventListener('click', () => {
+    $$('#group-tabs button').forEach((b) => {
+      b.classList.remove('bg-base-100', 'shadow-sm', 'font-semibold')
+      b.classList.add('hover:bg-base-100/50')
+    })
+    btn.classList.add('bg-base-100', 'shadow-sm', 'font-semibold')
+    btn.classList.remove('hover:bg-base-100/50')
+    state.groupBy = btn.dataset.group
+    storeSet('groupBy', state.groupBy)
+    location.hash = '#/'
+    overview()
+  })
+})
+
+// Quick Filters
+$('#filter-lang').addEventListener('change', (e) => { state.filterLang = e.target.value; route() })
+$('#filter-industry').addEventListener('change', (e) => { state.filterIndustry = e.target.value; route() })
+$('#filter-ds').addEventListener('change', (e) => { state.filterDs = e.target.value; route() })
+
+$('#search').addEventListener('input', (e) => {
+  state.q = e.target.value.trim().toLowerCase()
+  if (state.q) list(null, null)
+  else route()
+})
+
+$('#theme').addEventListener('change', (e) => {
+  state.theme = e.target.value
+  storeSet('theme', state.theme)
+  document.documentElement.dataset.theme = state.theme
+  route()
+})
+
 addEventListener('hashchange', route)
 
 async function start() {
   await load()
   document.documentElement.dataset.theme = state.theme
   fontFace()
+  // sync group tab active state
+  $$('#group-tabs button').forEach((b) => {
+    if (b.dataset.group === state.groupBy) {
+      b.classList.add('bg-base-100', 'shadow-sm', 'font-semibold')
+      b.classList.remove('hover:bg-base-100/50')
+    } else {
+      b.classList.remove('bg-base-100', 'shadow-sm', 'font-semibold')
+      b.classList.add('hover:bg-base-100/50')
+    }
+  })
   route()
 }
 start()

@@ -1,0 +1,233 @@
+{
+  "count": 10,
+  "items": [
+    {
+      "type": "asset-illustrations",
+      "category": "assets",
+      "subcategory": "illustrations",
+      "name": "illustrations/untitledui/background-patterns/circle.tsx",
+      "path": "assets/illustrations/untitledui/background-patterns/circle.tsx",
+      "language": "typescript",
+      "industry": "general",
+      "designSystem": "untitledui",
+      "source": "untitledui",
+      "license": "MIT",
+      "tags": [
+        "illustrations/untitledui/background",
+        "patterns/circle.tsx",
+        "assets",
+        "illustrations",
+        "untitledui",
+        "background",
+        "patterns",
+        "circle",
+        "tsx",
+        "general"
+      ]
+    },
+    {
+      "type": "asset-illustrations",
+      "category": "assets",
+      "subcategory": "illustrations",
+      "name": "illustrations/untitledui/background-patterns/grid-check.tsx",
+      "path": "assets/illustrations/untitledui/background-patterns/grid-check.tsx",
+      "language": "typescript",
+      "industry": "general",
+      "designSystem": "untitledui",
+      "source": "untitledui",
+      "license": "MIT",
+      "tags": [
+        "illustrations/untitledui/background",
+        "patterns/grid",
+        "check.tsx",
+        "assets",
+        "illustrations",
+        "untitledui",
+        "background",
+        "patterns",
+        "grid",
+        "check"
+      ]
+    },
+    {
+      "type": "asset-illustrations",
+      "category": "assets",
+      "subcategory": "illustrations",
+      "name": "illustrations/untitledui/background-patterns/grid.tsx",
+      "path": "assets/illustrations/untitledui/background-patterns/grid.tsx",
+      "language": "typescript",
+      "industry": "general",
+      "designSystem": "untitledui",
+      "source": "untitledui",
+      "license": "MIT",
+      "tags": [
+        "illustrations/untitledui/background",
+        "patterns/grid.tsx",
+        "assets",
+        "illustrations",
+        "untitledui",
+        "background",
+        "patterns",
+        "grid",
+        "tsx",
+        "general"
+      ]
+    },
+    {
+      "type": "asset-illustrations",
+      "category": "assets",
+      "subcategory": "illustrations",
+      "name": "illustrations/untitledui/background-patterns/index.tsx",
+      "path": "assets/illustrations/untitledui/background-patterns/index.tsx",
+      "language": "typescript",
+      "industry": "general",
+      "designSystem": "untitledui",
+      "source": "untitledui",
+      "license": "MIT",
+      "tags": [
+        "illustrations/untitledui/background",
+        "patterns/index.tsx",
+        "assets",
+        "illustrations",
+        "untitledui",
+        "background",
+        "patterns",
+        "index",
+        "tsx",
+        "general"
+      ]
+    },
+    {
+      "type": "asset-illustrations",
+      "category": "assets",
+      "subcategory": "illustrations",
+      "name": "illustrations/untitledui/background-patterns/square.tsx",
+      "path": "assets/illustrations/untitledui/background-patterns/square.tsx",
+      "language": "typescript",
+      "industry": "general",
+      "designSystem": "untitledui",
+      "source": "untitledui",
+      "license": "MIT",
+      "tags": [
+        "illustrations/untitledui/background",
+        "patterns/square.tsx",
+        "assets",
+        "illustrations",
+        "untitledui",
+        "background",
+        "patterns",
+        "square",
+        "tsx",
+        "general"
+      ]
+    },
+    {
+      "type": "asset-illustrations",
+      "category": "assets",
+      "subcategory": "illustrations",
+      "name": "illustrations/untitledui/illustrations/box.tsx",
+      "path": "assets/illustrations/untitledui/illustrations/box.tsx",
+      "language": "typescript",
+      "industry": "general",
+      "designSystem": "untitledui",
+      "source": "untitledui",
+      "license": "MIT",
+      "tags": [
+        "illustrations/untitledui/illustrations/box.tsx",
+        "assets",
+        "illustrations",
+        "untitledui",
+        "box",
+        "tsx",
+        "general"
+      ]
+    },
+    {
+      "type": "asset-illustrations",
+      "category": "assets",
+      "subcategory": "illustrations",
+      "name": "illustrations/untitledui/illustrations/cloud.tsx",
+      "path": "assets/illustrations/untitledui/illustrations/cloud.tsx",
+      "language": "typescript",
+      "industry": "general",
+      "designSystem": "untitledui",
+      "source": "untitledui",
+      "license": "MIT",
+      "tags": [
+        "illustrations/untitledui/illustrations/cloud.tsx",
+        "assets",
+        "illustrations",
+        "untitledui",
+        "cloud",
+        "tsx",
+        "general"
+      ]
+    },
+    {
+      "type": "asset-illustrations",
+      "category": "assets",
+      "subcategory": "illustrations",
+      "name": "illustrations/untitledui/illustrations/credit-card.tsx",
+      "path": "assets/illustrations/untitledui/illustrations/credit-card.tsx",
+      "language": "typescript",
+      "industry": "fintech",
+      "designSystem": "untitledui",
+      "source": "untitledui",
+      "license": "MIT",
+      "tags": [
+        "illustrations/untitledui/illustrations/credit",
+        "card.tsx",
+        "assets",
+        "illustrations",
+        "untitledui",
+        "credit",
+        "card",
+        "tsx",
+        "fintech",
+        "container"
+      ]
+    },
+    {
+      "type": "asset-illustrations",
+      "category": "assets",
+      "subcategory": "illustrations",
+      "name": "illustrations/untitledui/illustrations/documents.tsx",
+      "path": "assets/illustrations/untitledui/illustrations/documents.tsx",
+      "language": "typescript",
+      "industry": "general",
+      "designSystem": "untitledui",
+      "source": "untitledui",
+      "license": "MIT",
+      "tags": [
+        "illustrations/untitledui/illustrations/documents.tsx",
+        "assets",
+        "illustrations",
+        "untitledui",
+        "documents",
+        "tsx",
+        "general"
+      ]
+    },
+    {
+      "type": "asset-illustrations",
+      "category": "assets",
+      "subcategory": "illustrations",
+      "name": "illustrations/untitledui/illustrations/index.tsx",
+      "path": "assets/illustrations/untitledui/illustrations/index.tsx",
+      "language": "typescript",
+      "industry": "general",
+      "designSystem": "untitledui",
+      "source": "untitledui",
+      "license": "MIT",
+      "tags": [
+        "illustrations/untitledui/illustrations/index.tsx",
+        "assets",
+        "illustrations",
+        "untitledui",
+        "index",
+        "tsx",
+        "general"
+      ]
+    }
+  ]
+}

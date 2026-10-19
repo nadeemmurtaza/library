@@ -1,0 +1,193 @@
+{
+  "count": 8,
+  "items": [
+    {
+      "type": "component-section",
+      "category": "components",
+      "subcategory": "sections",
+      "name": "faq-accordion.tsx",
+      "path": "components/sections/faq-accordion.tsx",
+      "language": "typescript",
+      "industry": "marketing",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "faq",
+        "accordion.tsx",
+        "components",
+        "sections",
+        "accordion",
+        "tsx",
+        "marketing",
+        "local",
+        "section",
+        "landing"
+      ]
+    },
+    {
+      "type": "component-section",
+      "category": "components",
+      "subcategory": "sections",
+      "name": "features-grid-3x2.tsx",
+      "path": "components/sections/features-grid-3x2.tsx",
+      "language": "typescript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "features",
+        "grid",
+        "3x2.tsx",
+        "components",
+        "sections",
+        "3x2",
+        "tsx",
+        "general",
+        "local",
+        "section"
+      ]
+    },
+    {
+      "type": "component-section",
+      "category": "components",
+      "subcategory": "sections",
+      "name": "footer-multi-column.tsx",
+      "path": "components/sections/footer-multi-column.tsx",
+      "language": "typescript",
+      "industry": "marketing",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "footer",
+        "multi",
+        "column.tsx",
+        "components",
+        "sections",
+        "column",
+        "tsx",
+        "marketing",
+        "local"
+      ]
+    },
+    {
+      "type": "component-section",
+      "category": "components",
+      "subcategory": "sections",
+      "name": "hero-centered.tsx",
+      "path": "components/sections/hero-centered.tsx",
+      "language": "typescript",
+      "industry": "marketing",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "hero",
+        "centered.tsx",
+        "components",
+        "sections",
+        "centered",
+        "tsx",
+        "marketing",
+        "local",
+        "section",
+        "landing"
+      ]
+    },
+    {
+      "type": "component-section",
+      "category": "components",
+      "subcategory": "sections",
+      "name": "hero-split.tsx",
+      "path": "components/sections/hero-split.tsx",
+      "language": "typescript",
+      "industry": "marketing",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "hero",
+        "split.tsx",
+        "components",
+        "sections",
+        "split",
+        "tsx",
+        "marketing",
+        "local",
+        "section",
+        "landing"
+      ]
+    },
+    {
+      "type": "component-section",
+      "category": "components",
+      "subcategory": "sections",
+      "name": "index.ts",
+      "path": "components/sections/index.ts",
+      "language": "typescript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "index.ts",
+        "components",
+        "sections",
+        "index",
+        "ts",
+        "general",
+        "local"
+      ]
+    },
+    {
+      "type": "component-section",
+      "category": "components",
+      "subcategory": "sections",
+      "name": "navbar-primary.tsx",
+      "path": "components/sections/navbar-primary.tsx",
+      "language": "typescript",
+      "industry": "general",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "navbar",
+        "primary.tsx",
+        "components",
+        "sections",
+        "primary",
+        "tsx",
+        "general",
+        "local",
+        "menu",
+        "layout"
+      ]
+    },
+    {
+      "type": "component-section",
+      "category": "components",
+      "subcategory": "sections",
+      "name": "pricing-3-tier.tsx",
+      "path": "components/sections/pricing-3-tier.tsx",
+      "language": "typescript",
+      "industry": "marketing",
+      "designSystem": "local",
+      "source": "local",
+      "license": "MIT",
+      "tags": [
+        "pricing",
+        "3",
+        "tier.tsx",
+        "components",
+        "sections",
+        "tier",
+        "tsx",
+        "marketing",
+        "local",
+        "section"
+      ]
+    }
+  ]
+}
