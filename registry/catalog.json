@@ -3,6 +3,13 @@
   "items": [
     {
       "type": "component",
+      "name": "admin",
+      "path": "styles/components/admin/admin.css",
+      "source": "daisyui@5.7.50",
+      "license": "MIT"
+    },
+    {
+      "type": "component",
       "name": "alert",
       "path": "styles/components/alert/alert.css",
       "source": "daisyui@5.7.50",
@@ -2333,6 +2340,144 @@
       "source": "local"
     },
     {
+      "type": "schemas",
+      "name": "bom.schema.json",
+      "path": "schemas/bom.schema.json",
+      "source": "local"
+    },
+    {
+      "type": "schemas",
+      "name": "customer.schema.json",
+      "path": "schemas/customer.schema.json",
+      "source": "local"
+    },
+    {
+      "type": "schemas",
+      "name": "enquiry.schema.json",
+      "path": "schemas/enquiry.schema.json",
+      "source": "local"
+    },
+    {
+      "type": "schemas",
+      "name": "material.schema.json",
+      "path": "schemas/material.schema.json",
+      "source": "local"
+    },
+    {
+      "type": "schemas",
+      "name": "order.schema.json",
+      "path": "schemas/order.schema.json",
+      "source": "local"
+    },
+    {
+      "type": "schemas",
+      "name": "product.schema.json",
+      "path": "schemas/product.schema.json",
+      "source": "local"
+    },
+    {
+      "type": "schemas",
+      "name": "promo.schema.json",
+      "path": "schemas/promo.schema.json",
+      "source": "local"
+    },
+    {
+      "type": "utils",
+      "name": "cn.js",
+      "path": "utils/cn.js",
+      "source": "local"
+    },
+    {
+      "type": "utils",
+      "name": "costing.js",
+      "path": "utils/costing.js",
+      "source": "local"
+    },
+    {
+      "type": "utils",
+      "name": "csv.js",
+      "path": "utils/csv.js",
+      "source": "local"
+    },
+    {
+      "type": "utils",
+      "name": "dates.js",
+      "path": "utils/dates.js",
+      "source": "local"
+    },
+    {
+      "type": "utils",
+      "name": "html.js",
+      "path": "utils/html.js",
+      "source": "local"
+    },
+    {
+      "type": "utils",
+      "name": "money.js",
+      "path": "utils/money.js",
+      "source": "local"
+    },
+    {
+      "type": "utils",
+      "name": "package.json",
+      "path": "utils/package.json",
+      "source": "local"
+    },
+    {
+      "type": "utils",
+      "name": "slug.js",
+      "path": "utils/slug.js",
+      "source": "local"
+    },
+    {
+      "type": "utils",
+      "name": "storage.js",
+      "path": "utils/storage.js",
+      "source": "local"
+    },
+    {
+      "type": "utils",
+      "name": "validate.js",
+      "path": "utils/validate.js",
+      "source": "local"
+    },
+    {
+      "type": "hooks",
+      "name": "package.json",
+      "path": "hooks/package.json",
+      "source": "local"
+    },
+    {
+      "type": "hooks",
+      "name": "use-selection.js",
+      "path": "hooks/use-selection.js",
+      "source": "local"
+    },
+    {
+      "type": "hooks",
+      "name": "use-table.js",
+      "path": "hooks/use-table.js",
+      "source": "local"
+    },
+    {
+      "type": "lib",
+      "name": "activity-log.js",
+      "path": "lib/activity-log.js",
+      "source": "local"
+    },
+    {
+      "type": "lib",
+      "name": "collection-store.js",
+      "path": "lib/collection-store.js",
+      "source": "local"
+    },
+    {
+      "type": "lib",
+      "name": "package.json",
+      "path": "lib/package.json",
+      "source": "local"
+    },
+    {
       "type": "scripts",
       "name": "build-catalog.mjs",
       "path": "scripts/build-catalog.mjs",
@@ -2603,6 +2748,30 @@
       "source": "local"
     },
     {
+      "type": "snippets",
+      "name": "admin-confirm-delete.js",
+      "path": "snippets/admin-confirm-delete.js",
+      "source": "local"
+    },
+    {
+      "type": "snippets",
+      "name": "admin-validated-form.js",
+      "path": "snippets/admin-validated-form.js",
+      "source": "local"
+    },
+    {
+      "type": "templates",
+      "name": "pages/admin/app.example.js",
+      "path": "templates/pages/admin/app.example.js",
+      "source": "local"
+    },
+    {
+      "type": "templates",
+      "name": "pages/admin/index.html",
+      "path": "templates/pages/admin/index.html",
+      "source": "local"
+    },
+    {
       "type": "templates",
       "name": "ui-ux-pro-max/base/quick-reference.md",
       "path": "templates/ui-ux-pro-max/base/quick-reference.md",
@@ -2750,6 +2919,72 @@
       "type": "templates",
       "name": "ui-ux-pro-max/platforms/zcode.json",
       "path": "templates/ui-ux-pro-max/platforms/zcode.json",
+      "source": "local"
+    },
+    {
+      "type": "constants",
+      "name": "admin-routes.js",
+      "path": "constants/admin-routes.js",
+      "source": "local"
+    },
+    {
+      "type": "constants",
+      "name": "materials.js",
+      "path": "constants/materials.js",
+      "source": "local"
+    },
+    {
+      "type": "constants",
+      "name": "package.json",
+      "path": "constants/package.json",
+      "source": "local"
+    },
+    {
+      "type": "constants",
+      "name": "roles.js",
+      "path": "constants/roles.js",
+      "source": "local"
+    },
+    {
+      "type": "constants",
+      "name": "statuses.js",
+      "path": "constants/statuses.js",
+      "source": "local"
+    },
+    {
+      "type": "types",
+      "name": "admin.d.ts",
+      "path": "types/admin.d.ts",
+      "source": "local"
+    },
+    {
+      "type": "providers",
+      "name": "auth-provider.js",
+      "path": "providers/auth-provider.js",
+      "source": "local"
+    },
+    {
+      "type": "providers",
+      "name": "confirm-provider.js",
+      "path": "providers/confirm-provider.js",
+      "source": "local"
+    },
+    {
+      "type": "providers",
+      "name": "package.json",
+      "path": "providers/package.json",
+      "source": "local"
+    },
+    {
+      "type": "providers",
+      "name": "theme-provider.js",
+      "path": "providers/theme-provider.js",
+      "source": "local"
+    },
+    {
+      "type": "providers",
+      "name": "toast-provider.js",
+      "path": "providers/toast-provider.js",
       "source": "local"
     },
     {
@@ -3012,14 +3247,14 @@
     },
     {
       "type": "skills",
-      "name": "banner-design/references/banner-sizes-and-styles.md",
-      "path": "skills/banner-design/references/banner-sizes-and-styles.md",
+      "name": "banner-design/SKILL.md",
+      "path": "skills/banner-design/SKILL.md",
       "source": "local"
     },
     {
       "type": "skills",
-      "name": "banner-design/SKILL.md",
-      "path": "skills/banner-design/SKILL.md",
+      "name": "banner-design/references/banner-sizes-and-styles.md",
+      "path": "skills/banner-design/references/banner-sizes-and-styles.md",
       "source": "local"
     },
     {
@@ -3032,6 +3267,12 @@
       "type": "skills",
       "name": "bencium-marketplace/.gitignore",
       "path": "skills/bencium-marketplace/.gitignore",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/README.md",
+      "path": "skills/bencium-marketplace/README.md",
       "source": "local"
     },
     {
@@ -3060,12 +3301,6 @@
     },
     {
       "type": "skills",
-      "name": "bencium-marketplace/bencium-aeo/skills/bencium-aeo/prd.md",
-      "path": "skills/bencium-marketplace/bencium-aeo/skills/bencium-aeo/prd.md",
-      "source": "local"
-    },
-    {
-      "type": "skills",
       "name": "bencium-marketplace/bencium-aeo/skills/bencium-aeo/README.md",
       "path": "skills/bencium-marketplace/bencium-aeo/skills/bencium-aeo/README.md",
       "source": "local"
@@ -3074,6 +3309,12 @@
       "type": "skills",
       "name": "bencium-marketplace/bencium-aeo/skills/bencium-aeo/SKILL.md",
       "path": "skills/bencium-marketplace/bencium-aeo/skills/bencium-aeo/SKILL.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/bencium-aeo/skills/bencium-aeo/prd.md",
+      "path": "skills/bencium-marketplace/bencium-aeo/skills/bencium-aeo/prd.md",
       "source": "local"
     },
     {
@@ -3186,6 +3427,12 @@
     },
     {
       "type": "skills",
+      "name": "bencium-marketplace/bencium-innovative-ux-designer/skills/bencium-innovative-ux-designer/SKILL.md",
+      "path": "skills/bencium-marketplace/bencium-innovative-ux-designer/skills/bencium-innovative-ux-designer/SKILL.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
       "name": "bencium-marketplace/bencium-innovative-ux-designer/skills/bencium-innovative-ux-designer/references/CONCEPT-ROUNDS.md",
       "path": "skills/bencium-marketplace/bencium-innovative-ux-designer/skills/bencium-innovative-ux-designer/references/CONCEPT-ROUNDS.md",
       "source": "local"
@@ -3210,14 +3457,14 @@
     },
     {
       "type": "skills",
-      "name": "bencium-marketplace/bencium-innovative-ux-designer/skills/bencium-innovative-ux-designer/SKILL.md",
-      "path": "skills/bencium-marketplace/bencium-innovative-ux-designer/skills/bencium-innovative-ux-designer/SKILL.md",
+      "name": "bencium-marketplace/design-audit/.claude-plugin/plugin.json",
+      "path": "skills/bencium-marketplace/design-audit/.claude-plugin/plugin.json",
       "source": "local"
     },
     {
       "type": "skills",
-      "name": "bencium-marketplace/design-audit/.claude-plugin/plugin.json",
-      "path": "skills/bencium-marketplace/design-audit/.claude-plugin/plugin.json",
+      "name": "bencium-marketplace/design-audit/skills/design-audit/SKILL.md",
+      "path": "skills/bencium-marketplace/design-audit/skills/design-audit/SKILL.md",
       "source": "local"
     },
     {
@@ -3234,26 +3481,20 @@
     },
     {
       "type": "skills",
-      "name": "bencium-marketplace/design-audit/skills/design-audit/SKILL.md",
-      "path": "skills/bencium-marketplace/design-audit/skills/design-audit/SKILL.md",
-      "source": "local"
-    },
-    {
-      "type": "skills",
       "name": "bencium-marketplace/emotion-statusline/.claude-plugin/plugin.json",
       "path": "skills/bencium-marketplace/emotion-statusline/.claude-plugin/plugin.json",
       "source": "local"
     },
     {
       "type": "skills",
-      "name": "bencium-marketplace/emotion-statusline/hooks/hooks.json",
-      "path": "skills/bencium-marketplace/emotion-statusline/hooks/hooks.json",
+      "name": "bencium-marketplace/emotion-statusline/README.md",
+      "path": "skills/bencium-marketplace/emotion-statusline/README.md",
       "source": "local"
     },
     {
       "type": "skills",
-      "name": "bencium-marketplace/emotion-statusline/README.md",
-      "path": "skills/bencium-marketplace/emotion-statusline/README.md",
+      "name": "bencium-marketplace/emotion-statusline/hooks/hooks.json",
+      "path": "skills/bencium-marketplace/emotion-statusline/hooks/hooks.json",
       "source": "local"
     },
     {
@@ -3278,6 +3519,12 @@
       "type": "skills",
       "name": "bencium-marketplace/eu-ai-act-reviewer/skills/eu-ai-act-reviewer/LICENSE",
       "path": "skills/bencium-marketplace/eu-ai-act-reviewer/skills/eu-ai-act-reviewer/LICENSE",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/eu-ai-act-reviewer/skills/eu-ai-act-reviewer/SKILL.md",
+      "path": "skills/bencium-marketplace/eu-ai-act-reviewer/skills/eu-ai-act-reviewer/SKILL.md",
       "source": "local"
     },
     {
@@ -3308,12 +3555,6 @@
       "type": "skills",
       "name": "bencium-marketplace/eu-ai-act-reviewer/skills/eu-ai-act-reviewer/references/review-rules.md",
       "path": "skills/bencium-marketplace/eu-ai-act-reviewer/skills/eu-ai-act-reviewer/references/review-rules.md",
-      "source": "local"
-    },
-    {
-      "type": "skills",
-      "name": "bencium-marketplace/eu-ai-act-reviewer/skills/eu-ai-act-reviewer/SKILL.md",
-      "path": "skills/bencium-marketplace/eu-ai-act-reviewer/skills/eu-ai-act-reviewer/SKILL.md",
       "source": "local"
     },
     {
@@ -3360,14 +3601,14 @@
     },
     {
       "type": "skills",
-      "name": "bencium-marketplace/hungarian-humanizer/skills/hungarian-humanizer/references/patterns.md",
-      "path": "skills/bencium-marketplace/hungarian-humanizer/skills/hungarian-humanizer/references/patterns.md",
+      "name": "bencium-marketplace/hungarian-humanizer/skills/hungarian-humanizer/SKILL.md",
+      "path": "skills/bencium-marketplace/hungarian-humanizer/skills/hungarian-humanizer/SKILL.md",
       "source": "local"
     },
     {
       "type": "skills",
-      "name": "bencium-marketplace/hungarian-humanizer/skills/hungarian-humanizer/SKILL.md",
-      "path": "skills/bencium-marketplace/hungarian-humanizer/skills/hungarian-humanizer/SKILL.md",
+      "name": "bencium-marketplace/hungarian-humanizer/skills/hungarian-humanizer/references/patterns.md",
+      "path": "skills/bencium-marketplace/hungarian-humanizer/skills/hungarian-humanizer/references/patterns.md",
       "source": "local"
     },
     {
@@ -3380,6 +3621,12 @@
       "type": "skills",
       "name": "bencium-marketplace/insurgent-campaign/README.md",
       "path": "skills/bencium-marketplace/insurgent-campaign/README.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
+      "name": "bencium-marketplace/insurgent-campaign/skills/insurgent-campaign/SKILL.md",
+      "path": "skills/bencium-marketplace/insurgent-campaign/skills/insurgent-campaign/SKILL.md",
       "source": "local"
     },
     {
@@ -3426,20 +3673,8 @@
     },
     {
       "type": "skills",
-      "name": "bencium-marketplace/insurgent-campaign/skills/insurgent-campaign/SKILL.md",
-      "path": "skills/bencium-marketplace/insurgent-campaign/skills/insurgent-campaign/SKILL.md",
-      "source": "local"
-    },
-    {
-      "type": "skills",
       "name": "bencium-marketplace/negentropy-lens/.claude-plugin/plugin.json",
       "path": "skills/bencium-marketplace/negentropy-lens/.claude-plugin/plugin.json",
-      "source": "local"
-    },
-    {
-      "type": "skills",
-      "name": "bencium-marketplace/negentropy-lens/skills/negentropy-lens/references/origin-essay.md",
-      "path": "skills/bencium-marketplace/negentropy-lens/skills/negentropy-lens/references/origin-essay.md",
       "source": "local"
     },
     {
@@ -3450,8 +3685,8 @@
     },
     {
       "type": "skills",
-      "name": "bencium-marketplace/README.md",
-      "path": "skills/bencium-marketplace/README.md",
+      "name": "bencium-marketplace/negentropy-lens/skills/negentropy-lens/references/origin-essay.md",
+      "path": "skills/bencium-marketplace/negentropy-lens/skills/negentropy-lens/references/origin-essay.md",
       "source": "local"
     },
     {
@@ -3510,6 +3745,12 @@
     },
     {
       "type": "skills",
+      "name": "bencium-marketplace/typography/skills/typography/SKILL.md",
+      "path": "skills/bencium-marketplace/typography/skills/typography/SKILL.md",
+      "source": "local"
+    },
+    {
+      "type": "skills",
       "name": "bencium-marketplace/typography/skills/typography/css-templates.md",
       "path": "skills/bencium-marketplace/typography/skills/typography/css-templates.md",
       "source": "local"
@@ -3522,14 +3763,14 @@
     },
     {
       "type": "skills",
-      "name": "bencium-marketplace/typography/skills/typography/SKILL.md",
-      "path": "skills/bencium-marketplace/typography/skills/typography/SKILL.md",
+      "name": "bencium-marketplace/vanity-engineering-review/.claude-plugin/plugin.json",
+      "path": "skills/bencium-marketplace/vanity-engineering-review/.claude-plugin/plugin.json",
       "source": "local"
     },
     {
       "type": "skills",
-      "name": "bencium-marketplace/vanity-engineering-review/.claude-plugin/plugin.json",
-      "path": "skills/bencium-marketplace/vanity-engineering-review/.claude-plugin/plugin.json",
+      "name": "bencium-marketplace/vanity-engineering-review/skills/vanity-engineering-review/SKILL.md",
+      "path": "skills/bencium-marketplace/vanity-engineering-review/skills/vanity-engineering-review/SKILL.md",
       "source": "local"
     },
     {
@@ -3546,8 +3787,8 @@
     },
     {
       "type": "skills",
-      "name": "bencium-marketplace/vanity-engineering-review/skills/vanity-engineering-review/SKILL.md",
-      "path": "skills/bencium-marketplace/vanity-engineering-review/skills/vanity-engineering-review/SKILL.md",
+      "name": "brand/SKILL.md",
+      "path": "skills/brand/SKILL.md",
       "source": "local"
     },
     {
@@ -3648,14 +3889,14 @@
     },
     {
       "type": "skills",
-      "name": "brand/SKILL.md",
-      "path": "skills/brand/SKILL.md",
+      "name": "brand/templates/brand-guidelines-starter.md",
+      "path": "skills/brand/templates/brand-guidelines-starter.md",
       "source": "local"
     },
     {
       "type": "skills",
-      "name": "brand/templates/brand-guidelines-starter.md",
-      "path": "skills/brand/templates/brand-guidelines-starter.md",
+      "name": "design/SKILL.md",
+      "path": "skills/design/SKILL.md",
       "source": "local"
     },
     {
@@ -3882,8 +4123,8 @@
     },
     {
       "type": "skills",
-      "name": "design/SKILL.md",
-      "path": "skills/design/SKILL.md",
+      "name": "design-system/SKILL.md",
+      "path": "skills/design-system/SKILL.md",
       "source": "local"
     },
     {
@@ -4038,14 +4279,14 @@
     },
     {
       "type": "skills",
-      "name": "design-system/SKILL.md",
-      "path": "skills/design-system/SKILL.md",
+      "name": "design-system/templates/design-tokens-starter.json",
+      "path": "skills/design-system/templates/design-tokens-starter.json",
       "source": "local"
     },
     {
       "type": "skills",
-      "name": "design-system/templates/design-tokens-starter.json",
-      "path": "skills/design-system/templates/design-tokens-starter.json",
+      "name": "slides/SKILL.md",
+      "path": "skills/slides/SKILL.md",
       "source": "local"
     },
     {
@@ -4080,14 +4321,14 @@
     },
     {
       "type": "skills",
-      "name": "slides/SKILL.md",
-      "path": "skills/slides/SKILL.md",
+      "name": "ui-styling/LICENSE.txt",
+      "path": "skills/ui-styling/LICENSE.txt",
       "source": "local"
     },
     {
       "type": "skills",
-      "name": "ui-styling/LICENSE.txt",
-      "path": "skills/ui-styling/LICENSE.txt",
+      "name": "ui-styling/SKILL.md",
+      "path": "skills/ui-styling/SKILL.md",
       "source": "local"
     },
     {
@@ -4175,12 +4416,6 @@
       "source": "local"
     },
     {
-      "type": "skills",
-      "name": "ui-styling/SKILL.md",
-      "path": "skills/ui-styling/SKILL.md",
-      "source": "local"
-    },
-    {
       "type": "examples",
       "name": "ui-ux-pro-max-gallery/.gitignore",
       "path": "examples/ui-ux-pro-max-gallery/.gitignore",
@@ -4254,12 +4489,6 @@
     },
     {
       "type": "examples",
-      "name": "ui-ux-pro-max-gallery/components/metadata-badges.test.tsx",
-      "path": "examples/ui-ux-pro-max-gallery/components/metadata-badges.test.tsx",
-      "source": "local"
-    },
-    {
-      "type": "examples",
       "name": "ui-ux-pro-max-gallery/components/MetadataBadges.tsx",
       "path": "examples/ui-ux-pro-max-gallery/components/MetadataBadges.tsx",
       "source": "local"
@@ -4298,6 +4527,12 @@
       "type": "examples",
       "name": "ui-ux-pro-max-gallery/components/UIControlsShowcase.tsx",
       "path": "examples/ui-ux-pro-max-gallery/components/UIControlsShowcase.tsx",
+      "source": "local"
+    },
+    {
+      "type": "examples",
+      "name": "ui-ux-pro-max-gallery/components/metadata-badges.test.tsx",
+      "path": "examples/ui-ux-pro-max-gallery/components/metadata-badges.test.tsx",
       "source": "local"
     },
     {
@@ -4416,30 +4651,6 @@
     },
     {
       "type": "examples",
-      "name": "ui-ux-pro-max-stack/.claude/agents/design-review.md",
-      "path": "examples/ui-ux-pro-max-stack/.claude/agents/design-review.md",
-      "source": "local"
-    },
-    {
-      "type": "examples",
-      "name": "ui-ux-pro-max-stack/.claude/commands/design-plan.md",
-      "path": "examples/ui-ux-pro-max-stack/.claude/commands/design-plan.md",
-      "source": "local"
-    },
-    {
-      "type": "examples",
-      "name": "ui-ux-pro-max-stack/.claude/commands/design-review.md",
-      "path": "examples/ui-ux-pro-max-stack/.claude/commands/design-review.md",
-      "source": "local"
-    },
-    {
-      "type": "examples",
-      "name": "ui-ux-pro-max-stack/.claude/settings.json",
-      "path": "examples/ui-ux-pro-max-stack/.claude/settings.json",
-      "source": "local"
-    },
-    {
-      "type": "examples",
       "name": "ui-ux-pro-max-stack/.github/workflows/design-review.yml",
       "path": "examples/ui-ux-pro-max-stack/.github/workflows/design-review.yml",
       "source": "local"
@@ -4460,6 +4671,12 @@
       "type": "examples",
       "name": "ui-ux-pro-max-stack/CLAUDE.md",
       "path": "examples/ui-ux-pro-max-stack/CLAUDE.md",
+      "source": "local"
+    },
+    {
+      "type": "examples",
+      "name": "ui-ux-pro-max-stack/README.md",
+      "path": "examples/ui-ux-pro-max-stack/README.md",
       "source": "local"
     },
     {
@@ -4538,12 +4755,6 @@
       "type": "examples",
       "name": "ui-ux-pro-max-stack/package.json",
       "path": "examples/ui-ux-pro-max-stack/package.json",
-      "source": "local"
-    },
-    {
-      "type": "examples",
-      "name": "ui-ux-pro-max-stack/README.md",
-      "path": "examples/ui-ux-pro-max-stack/README.md",
       "source": "local"
     },
     {
@@ -4824,6 +5035,18 @@
     },
     {
       "type": "docs",
+      "name": "admin-panel.md",
+      "path": "docs/admin-panel.md",
+      "source": "local"
+    },
+    {
+      "type": "docs",
+      "name": "bom.md",
+      "path": "docs/bom.md",
+      "source": "local"
+    },
+    {
+      "type": "docs",
       "name": "ui-ux-pro-max/CLAUDE.md",
       "path": "docs/ui-ux-pro-max/CLAUDE.md",
       "source": "local"
@@ -4838,30 +5061,6 @@
       "type": "docs",
       "name": "ui-ux-pro-max/CONTRIBUTING.md",
       "path": "docs/ui-ux-pro-max/CONTRIBUTING.md",
-      "source": "local"
-    },
-    {
-      "type": "docs",
-      "name": "ui-ux-pro-max/journals/260812-1844-search-data-quality-planning.md",
-      "path": "docs/ui-ux-pro-max/journals/260812-1844-search-data-quality-planning.md",
-      "source": "local"
-    },
-    {
-      "type": "docs",
-      "name": "ui-ux-pro-max/journals/260813-0816-phase-6-accessibility-refresh.md",
-      "path": "docs/ui-ux-pro-max/journals/260813-0816-phase-6-accessibility-refresh.md",
-      "source": "local"
-    },
-    {
-      "type": "docs",
-      "name": "ui-ux-pro-max/journals/260813-1622-phase-7-web-stack-freshness.md",
-      "path": "docs/ui-ux-pro-max/journals/260813-1622-phase-7-web-stack-freshness.md",
-      "source": "local"
-    },
-    {
-      "type": "docs",
-      "name": "ui-ux-pro-max/journals/260813-1800-search-data-overhaul-completion.md",
-      "path": "docs/ui-ux-pro-max/journals/260813-1800-search-data-overhaul-completion.md",
       "source": "local"
     },
     {
@@ -4902,6 +5101,30 @@
     },
     {
       "type": "docs",
+      "name": "ui-ux-pro-max/journals/260812-1844-search-data-quality-planning.md",
+      "path": "docs/ui-ux-pro-max/journals/260812-1844-search-data-quality-planning.md",
+      "source": "local"
+    },
+    {
+      "type": "docs",
+      "name": "ui-ux-pro-max/journals/260813-0816-phase-6-accessibility-refresh.md",
+      "path": "docs/ui-ux-pro-max/journals/260813-0816-phase-6-accessibility-refresh.md",
+      "source": "local"
+    },
+    {
+      "type": "docs",
+      "name": "ui-ux-pro-max/journals/260813-1622-phase-7-web-stack-freshness.md",
+      "path": "docs/ui-ux-pro-max/journals/260813-1622-phase-7-web-stack-freshness.md",
+      "source": "local"
+    },
+    {
+      "type": "docs",
+      "name": "ui-ux-pro-max/journals/260813-1800-search-data-overhaul-completion.md",
+      "path": "docs/ui-ux-pro-max/journals/260813-1800-search-data-overhaul-completion.md",
+      "source": "local"
+    },
+    {
+      "type": "docs",
       "name": "ui-ux-pro-max/skill.json",
       "path": "docs/ui-ux-pro-max/skill.json",
       "source": "local"
@@ -4932,6 +5155,12 @@
     },
     {
       "type": "vendor",
+      "name": "ui-ux-pro-max-skill/LICENSE",
+      "path": "vendor/ui-ux-pro-max-skill/LICENSE",
+      "source": "local"
+    },
+    {
+      "type": "vendor",
       "name": "ui-ux-pro-max-skill/cli/.gitignore",
       "path": "vendor/ui-ux-pro-max-skill/cli/.gitignore",
       "source": "local"
@@ -4940,6 +5169,12 @@
       "type": "vendor",
       "name": "ui-ux-pro-max-skill/cli/.npmignore",
       "path": "vendor/ui-ux-pro-max-skill/cli/.npmignore",
+      "source": "local"
+    },
+    {
+      "type": "vendor",
+      "name": "ui-ux-pro-max-skill/cli/README.md",
+      "path": "vendor/ui-ux-pro-max-skill/cli/README.md",
       "source": "local"
     },
     {
@@ -4964,12 +5199,6 @@
       "type": "vendor",
       "name": "ui-ux-pro-max-skill/cli/playwright.config.ts",
       "path": "vendor/ui-ux-pro-max-skill/cli/playwright.config.ts",
-      "source": "local"
-    },
-    {
-      "type": "vendor",
-      "name": "ui-ux-pro-max-skill/cli/README.md",
-      "path": "vendor/ui-ux-pro-max-skill/cli/README.md",
       "source": "local"
     },
     {
@@ -5105,9 +5334,81 @@
       "source": "local"
     },
     {
-      "type": "vendor",
-      "name": "ui-ux-pro-max-skill/LICENSE",
-      "path": "vendor/ui-ux-pro-max-skill/LICENSE",
+      "type": "components-ui",
+      "name": "badge.js",
+      "path": "components/ui/badge.js",
+      "source": "local"
+    },
+    {
+      "type": "components-ui",
+      "name": "drawer.js",
+      "path": "components/ui/drawer.js",
+      "source": "local"
+    },
+    {
+      "type": "components-ui",
+      "name": "field.js",
+      "path": "components/ui/field.js",
+      "source": "local"
+    },
+    {
+      "type": "components-ui",
+      "name": "icons.js",
+      "path": "components/ui/icons.js",
+      "source": "local"
+    },
+    {
+      "type": "components-common",
+      "name": "charts.js",
+      "path": "components/common/charts.js",
+      "source": "local"
+    },
+    {
+      "type": "components-common",
+      "name": "image-upload.js",
+      "path": "components/common/image-upload.js",
+      "source": "local"
+    },
+    {
+      "type": "components-common",
+      "name": "page-header.js",
+      "path": "components/common/page-header.js",
+      "source": "local"
+    },
+    {
+      "type": "components-common",
+      "name": "stat-card.js",
+      "path": "components/common/stat-card.js",
+      "source": "local"
+    },
+    {
+      "type": "components-layout",
+      "name": "admin-shell.js",
+      "path": "components/layout/admin-shell.js",
+      "source": "local"
+    },
+    {
+      "type": "components-patterns",
+      "name": "bom-editor.js",
+      "path": "components/patterns/bom-editor.js",
+      "source": "local"
+    },
+    {
+      "type": "components-patterns",
+      "name": "data-table.js",
+      "path": "components/patterns/data-table.js",
+      "source": "local"
+    },
+    {
+      "type": "components-patterns",
+      "name": "invoice.js",
+      "path": "components/patterns/invoice.js",
+      "source": "local"
+    },
+    {
+      "type": "components-patterns",
+      "name": "order-timeline.js",
+      "path": "components/patterns/order-timeline.js",
       "source": "local"
     },
     {

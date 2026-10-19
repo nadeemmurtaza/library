@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Material",
+  "type": "object",
+  "required": ["name", "unit", "cost"],
+  "properties": {
+    "name": { "type": "string", "minLength": 2, "maxLength": 80 },
+    "kind": { "type": "string", "enum": ["yarn", "wire", "wrap", "ribbon", "filler", "packaging", "hardware", "other"] },
+    "unit": { "type": "string", "enum": ["g", "m", "pc", "sheet", "ml"] },
+    "cost": { "type": "number", "minimum": 0 },
+    "stock": { "type": "number", "minimum": 0 },
+    "reorder": { "type": "number", "minimum": 0 },
+    "pack": { "type": "number", "minimum": 0 },
+    "supplier": { "type": "string", "maxLength": 120 }
+  }
+}

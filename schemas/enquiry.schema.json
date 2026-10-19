@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Enquiry",
+  "type": "object",
+  "required": ["name", "brief"],
+  "properties": {
+    "name": { "type": "string", "minLength": 2 },
+    "brief": { "type": "string", "minLength": 3, "maxLength": 1200 },
+    "status": { "type": "string", "enum": ["new", "quoted", "won", "closed"] },
+    "quote": { "type": "number", "minimum": 0 }
+  }
+}
