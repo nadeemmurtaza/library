@@ -21,7 +21,8 @@
         "build-catalog.mjs",
         "general",
         "local"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "scripts-find.mjs",
@@ -41,7 +42,8 @@
         "mjs",
         "general",
         "local"
-      ]
+      ],
+      "description": "!/usr/bin/env node"
     },
     {
       "type": "scripts-scrape-daisyui-examples.py",
@@ -63,7 +65,8 @@
         "py",
         "scrape-daisyui-examples.py",
         "general"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "scripts-scrape-daisyui-trends.py",
@@ -85,7 +88,8 @@
         "py",
         "scrape-daisyui-trends.py",
         "general"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -109,7 +113,8 @@
         "repo",
         "evaluate",
         "relevance"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -133,7 +138,8 @@
         "max",
         "repo",
         "generate"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -157,7 +163,8 @@
         "max",
         "repo",
         "refresh"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -181,7 +188,8 @@
         "max",
         "repo",
         "refresh"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -205,7 +213,8 @@
         "repo",
         "relevance",
         "metrics"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -229,7 +238,8 @@
         "repo",
         "smoke",
         "domains"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -253,7 +263,8 @@
         "repo",
         "smoke",
         "stacks"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -277,7 +288,8 @@
         "max",
         "repo",
         "sync"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -301,7 +313,8 @@
         "max",
         "repo",
         "validate"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -325,7 +338,8 @@
         "repo",
         "validate",
         "csv"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -349,7 +363,8 @@
         "max",
         "scrape",
         "demo"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -373,7 +388,8 @@
         "core",
         "py",
         "ui-ux-pro-max"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -397,7 +413,8 @@
         "skill",
         "design",
         "system"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -421,7 +438,8 @@
         "skill",
         "reasoning",
         "contract"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -445,7 +463,8 @@
         "search",
         "py",
         "ui-ux-pro-max"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -469,7 +488,8 @@
         "skill",
         "tests",
         "fixtures"
-      ]
+      ],
+      "description": "keys: kind, items"
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -493,7 +513,8 @@
         "skill",
         "tests",
         "fixtures"
-      ]
+      ],
+      "description": "keys: axisRegistry, familyMetadataList, promotedScript"
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -517,7 +538,8 @@
         "skill",
         "tests",
         "fixtures"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -541,7 +563,8 @@
         "skill",
         "tests",
         "fixtures"
-      ]
+      ],
+      "description": "keys: families, excludedFamilies"
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -565,7 +588,8 @@
         "skill",
         "tests",
         "fixtures"
-      ]
+      ],
+      "description": "keys: families"
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -589,7 +613,8 @@
         "skill",
         "tests",
         "fixtures"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -613,7 +638,8 @@
         "skill",
         "tests",
         "fixtures"
-      ]
+      ],
+      "description": "array of 2"
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -637,7 +663,8 @@
         "skill",
         "tests",
         "fixtures"
-      ]
+      ],
+      "description": "@phosphor-icons/core"
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -661,7 +688,8 @@
         "max",
         "skill",
         "tests"
-      ]
+      ],
+      "description": "keys: client, ssr"
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -685,7 +713,8 @@
         "max",
         "skill",
         "tests"
-      ]
+      ],
+      "description": "@phosphor-icons/react"
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -709,7 +738,8 @@
         "skill",
         "tests",
         "fixtures"
-      ]
+      ],
+      "description": "keys: cases, metrics, oracleFingerprint, runtimeFingerprint, samples, schemaVersion, splits"
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -733,7 +763,8 @@
         "skill",
         "tests",
         "fixtures"
-      ]
+      ],
+      "description": "keys: schemaVersion, fixtureRevision, gradeSemantics, globalNegativeApplicability, cases"
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -757,7 +788,8 @@
         "skill",
         "tests",
         "fixtures"
-      ]
+      ],
+      "description": "keys: schemaVersion, status, baselineRevision, runtimeFingerprint, oracleFingerprint, approvingMaintainer, units, splitPolicy"
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -781,7 +813,8 @@
         "max",
         "skill",
         "tests"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -805,7 +838,8 @@
         "endings.py",
         "scripts",
         "max"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -829,7 +863,8 @@
         "skill",
         "tests",
         "test"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -853,7 +888,8 @@
         "scripts",
         "max",
         "skill"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -877,7 +913,8 @@
         "max",
         "skill",
         "tests"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -901,7 +938,8 @@
         "scripts",
         "max",
         "skill"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -925,7 +963,8 @@
         "scripts",
         "max",
         "skill"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -949,7 +988,8 @@
         "freshness.py",
         "scripts",
         "max"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -973,7 +1013,8 @@
         "max",
         "skill",
         "tests"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -997,7 +1038,8 @@
         "scripts",
         "max",
         "tests"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -1021,7 +1063,8 @@
         "max",
         "skill",
         "tests"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -1045,7 +1088,8 @@
         "scripts",
         "max",
         "skill"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -1069,7 +1113,8 @@
         "scripts",
         "max",
         "skill"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "scripts-ui-ux-pro-max",
@@ -1093,7 +1138,8 @@
         "skill",
         "validate",
         "data"
-      ]
+      ],
+      "description": ""
     }
   ]
 }

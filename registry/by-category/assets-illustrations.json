@@ -23,7 +23,8 @@
         "circle",
         "tsx",
         "general"
-      ]
+      ],
+      "description": "exports Circle"
     },
     {
       "type": "asset-illustrations",
@@ -47,7 +48,8 @@
         "patterns",
         "grid",
         "check"
-      ]
+      ],
+      "description": "exports GridCheck"
     },
     {
       "type": "asset-illustrations",
@@ -71,7 +73,8 @@
         "grid",
         "tsx",
         "general"
-      ]
+      ],
+      "description": "exports Grid"
     },
     {
       "type": "asset-illustrations",
@@ -95,7 +98,8 @@
         "index",
         "tsx",
         "general"
-      ]
+      ],
+      "description": "exports BackgroundPattern"
     },
     {
       "type": "asset-illustrations",
@@ -119,7 +123,8 @@
         "square",
         "tsx",
         "general"
-      ]
+      ],
+      "description": "exports Square"
     },
     {
       "type": "asset-illustrations",
@@ -140,7 +145,8 @@
         "box",
         "tsx",
         "general"
-      ]
+      ],
+      "description": "exports BoxIllustration"
     },
     {
       "type": "asset-illustrations",
@@ -161,7 +167,8 @@
         "cloud",
         "tsx",
         "general"
-      ]
+      ],
+      "description": "exports CloudIllustration"
     },
     {
       "type": "asset-illustrations",
@@ -185,7 +192,8 @@
         "tsx",
         "fintech",
         "container"
-      ]
+      ],
+      "description": "exports CreditCardIllustration"
     },
     {
       "type": "asset-illustrations",
@@ -206,7 +214,8 @@
         "documents",
         "tsx",
         "general"
-      ]
+      ],
+      "description": "exports DocumentsIllustration"
     },
     {
       "type": "asset-illustrations",
@@ -227,7 +236,8 @@
         "index",
         "tsx",
         "general"
-      ]
+      ],
+      "description": "The overall scale of the illustration, which also selects the background pattern drawn behind it."
     }
   ]
 }

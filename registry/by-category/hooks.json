@@ -22,7 +22,8 @@
         "item",
         "ts",
         "general"
-      ]
+      ],
+      "description": "exports useActiveItem"
     },
     {
       "type": "hooks-untitledui",
@@ -44,7 +45,8 @@
         "breakpoint",
         "ts",
         "general"
-      ]
+      ],
+      "description": "Checks whether a particular Tailwind CSS viewport size applies. @param size The size to check, which must either be included in Tailwind CSS's list of default …"
     },
     {
       "type": "hooks-untitledui",
@@ -66,7 +68,8 @@
         "clipboard",
         "ts",
         "general"
-      ]
+      ],
+      "description": "The state indicating whether the text has been copied. If a string is provided, it will be used as the identifier for the copied state."
     },
     {
       "type": "hooks-untitledui",
@@ -89,7 +92,8 @@
         "observer",
         "ts",
         "general"
-      ]
+      ],
+      "description": "Checks if the ResizeObserver API is supported. @returns True if the ResizeObserver API is supported, false otherwise."
     },
     {
       "type": "hooks-use-selection.js",
@@ -111,7 +115,8 @@
         "use-selection.js",
         "general",
         "local"
-      ]
+      ],
+      "description": "Row selection for bulk actions. createSelection() - { toggle, toggleAll(ids), has, ids, clear, count, subscribe }"
     },
     {
       "type": "hooks-use-table.js",
@@ -135,7 +140,8 @@
         "local",
         "data-grid",
         "rows"
-      ]
+      ],
+      "description": "Table state without a framework: search, filters, sort and pagination over an array of rows. const t = createTable({ rows, searchKeys: ['name'], pageSize: 10, …"
     }
   ]
 }

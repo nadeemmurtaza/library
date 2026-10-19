@@ -1,5 +1,7 @@
 # Library
 
+AI agents: start at [AGENTS.md](AGENTS.md) and `registry/llms.txt`.
+
 Single home for every reusable piece: components, CSS, scripts, schemas, functions, assets.
 
 ## Layout

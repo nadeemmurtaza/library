@@ -22,7 +22,8 @@
         "admin-confirm-delete.js",
         "saas",
         "local"
-      ]
+      ],
+      "description": "Delete with a confirmation, a toast and an audit-log entry."
     },
     {
       "type": "snippets-admin-validated-form.js",
@@ -45,7 +46,8 @@
         "admin-validated-form.js",
         "saas",
         "local"
-      ]
+      ],
+      "description": "Validate a drawer form against a JSON schema and show errors beside each field."
     }
   ]
 }

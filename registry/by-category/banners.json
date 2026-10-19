@@ -23,7 +23,8 @@
         "marketing",
         "local",
         "announcement"
-      ]
+      ],
+      "description": "exports AlertStatusBanner"
     },
     {
       "type": "component-banner",
@@ -47,7 +48,8 @@
         "local",
         "notification",
         "promo"
-      ]
+      ],
+      "description": "exports AnnouncementBanner"
     },
     {
       "type": "component-banner",
@@ -71,7 +73,8 @@
         "announcement",
         "notification",
         "promo"
-      ]
+      ],
+      "description": "Banners Showcase"
     },
     {
       "type": "component-banner",
@@ -95,7 +98,8 @@
         "marketing",
         "local",
         "announcement"
-      ]
+      ],
+      "description": "exports CookieConsentBanner"
     },
     {
       "type": "component-banner",
@@ -119,7 +123,8 @@
         "marketing",
         "local",
         "announcement"
-      ]
+      ],
+      "description": "exports FloatingBottomBanner"
     },
     {
       "type": "component-banner",
@@ -140,7 +145,8 @@
         "ts",
         "marketing",
         "local"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "component-banner",
@@ -164,7 +170,8 @@
         "marketing",
         "local",
         "announcement"
-      ]
+      ],
+      "description": "exports PromotionalSaleBanner"
     }
   ]
 }

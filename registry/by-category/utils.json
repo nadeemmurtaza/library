@@ -19,7 +19,8 @@
         "js",
         "general",
         "local"
-      ]
+      ],
+      "description": "Join class names, skipping falsy values: cn('btn', active && 'btn-primary', { hidden: !show })"
     },
     {
       "type": "utils-costing.js",
@@ -39,7 +40,8 @@
         "js",
         "general",
         "local"
-      ]
+      ],
+      "description": "Bill-of-materials maths. Pure functions over plain objects; money is whatever unit the caller uses. material : { id, name, unit, cost (per unit), stock, reorde…"
     },
     {
       "type": "utils-csv.js",
@@ -59,7 +61,8 @@
         "js",
         "general",
         "local"
-      ]
+      ],
+      "description": "CSV export. toCsv(rows, columns) with columns [{ key, label, value?(row) }]; downloadCsv triggers a browser download."
     },
     {
       "type": "utils-dates.js",
@@ -79,7 +82,8 @@
         "js",
         "general",
         "local"
-      ]
+      ],
+      "description": "Date helpers bound to a locale tag and timezone from config. createDates({ intlTag, timezone })"
     },
     {
       "type": "utils-html.js",
@@ -99,7 +103,8 @@
         "js",
         "general",
         "local"
-      ]
+      ],
+      "description": "Tiny HTML helpers for framework-free views. html escapes every interpolation unless it is wrapped in raw() ."
     },
     {
       "type": "utils-money.js",
@@ -119,7 +124,8 @@
         "js",
         "general",
         "local"
-      ]
+      ],
+      "description": "Money formatting from locale config (config/brand locale ): no currency or locale literal lives here. createMoney({ currency, intlTag, minorUnits, display }) -…"
     },
     {
       "type": "utils-slug.js",
@@ -139,7 +145,8 @@
         "js",
         "general",
         "local"
-      ]
+      ],
+      "description": "Short, sortable-ish unique id: uid('ord') - ord lq3k9x2a"
     },
     {
       "type": "utils-storage.js",
@@ -159,7 +166,8 @@
         "js",
         "general",
         "local"
-      ]
+      ],
+      "description": "Namespaced, failure-tolerant JSON storage (private windows and blocked storage fall back to memory)."
     },
     {
       "type": "utils-untitledui",
@@ -179,7 +187,8 @@
         "countries",
         "tsx",
         "general"
-      ]
+      ],
+      "description": "List of countries with their respective country code, flag, phone code, and phone mask."
     },
     {
       "type": "utils-untitledui",
@@ -199,7 +208,8 @@
         "cx",
         "ts",
         "general"
-      ]
+      ],
+      "description": "This function is a wrapper around the twMerge function. It is used to merge the classes inside style objects."
     },
     {
       "type": "utils-untitledui",
@@ -222,7 +232,8 @@
         "component",
         "ts",
         "general"
-      ]
+      ],
+      "description": "eslint-disable @typescript-eslint/no-explicit-any"
     },
     {
       "type": "utils-untitledui",
@@ -242,7 +253,8 @@
         "timezones",
         "tsx",
         "general"
-      ]
+      ],
+      "description": "List of timezones with their timezone value, code and name."
     },
     {
       "type": "utils-validate.js",
@@ -262,7 +274,8 @@
         "js",
         "general",
         "local"
-      ]
+      ],
+      "description": "Minimal JSON-Schema validator (subset): type, required, properties, enum, minimum, maximum, minLength, maxLength, pattern, items. validate(schema, data, messag…"
     }
   ]
 }

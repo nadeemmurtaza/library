@@ -20,7 +20,8 @@
         "license",
         "bencium-marketplace",
         "general"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "vendor-daisyui",
@@ -39,7 +40,8 @@
         "daisyui",
         "license",
         "general"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "vendor-daisyui",
@@ -59,7 +61,8 @@
         "readme",
         "md",
         "general"
-      ]
+      ],
+      "description": "daisyUI 5 — [![][version]](https://www.npmjs.com/package/daisyui)"
     },
     {
       "type": "vendor-open-design",
@@ -81,7 +84,8 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "vendor-ui-ux-pro-max-skill",
@@ -105,7 +109,8 @@
         "cli",
         "gitignore",
         "ui-ux-pro-max-skill"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "vendor-ui-ux-pro-max-skill",
@@ -129,7 +134,8 @@
         "cli",
         "npmignore",
         "ui-ux-pro-max-skill"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "vendor-ui-ux-pro-max-skill",
@@ -153,7 +159,8 @@
         "cli",
         "playwright",
         "config"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "vendor-ui-ux-pro-max-skill",
@@ -177,7 +184,8 @@
         "cli",
         "readme",
         "md"
-      ]
+      ],
+      "description": "ui-ux-pro-max-cli — CLI to install UI/UX Pro Max skill for AI coding assistants."
     },
     {
       "type": "vendor-ui-ux-pro-max-skill",
@@ -201,7 +209,8 @@
         "cli",
         "scripts",
         "build"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "vendor-ui-ux-pro-max-skill",
@@ -225,7 +234,8 @@
         "skill",
         "cli",
         "scripts"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "vendor-ui-ux-pro-max-skill",
@@ -249,7 +259,8 @@
         "skill",
         "cli",
         "scripts"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "vendor-ui-ux-pro-max-skill",
@@ -273,7 +284,8 @@
         "cli",
         "commands",
         "init"
-      ]
+      ],
+      "description": "Try to install from GitHub release (legacy method) Returns the copied folders if successful, null if failed"
     },
     {
       "type": "vendor-ui-ux-pro-max-skill",
@@ -297,7 +309,8 @@
         "cli",
         "commands",
         "uninstall"
-      ]
+      ],
+      "description": "Remove skill directory for a given AI type"
     },
     {
       "type": "vendor-ui-ux-pro-max-skill",
@@ -321,7 +334,8 @@
         "cli",
         "commands",
         "update"
-      ]
+      ],
+      "description": "exports updateCommand"
     },
     {
       "type": "vendor-ui-ux-pro-max-skill",
@@ -345,7 +359,8 @@
         "cli",
         "commands",
         "versions"
-      ]
+      ],
+      "description": "exports versionsCommand"
     },
     {
       "type": "vendor-ui-ux-pro-max-skill",
@@ -369,7 +384,8 @@
         "cli",
         "index",
         "ts"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "vendor-ui-ux-pro-max-skill",
@@ -393,7 +409,8 @@
         "cli",
         "types",
         "index"
-      ]
+      ],
+      "description": "exports AI TYPES"
     },
     {
       "type": "vendor-ui-ux-pro-max-skill",
@@ -417,7 +434,8 @@
         "cli",
         "utils",
         "detect"
-      ]
+      ],
+      "description": "exports detectAIType"
     },
     {
       "type": "vendor-ui-ux-pro-max-skill",
@@ -441,7 +459,8 @@
         "cli",
         "utils",
         "extract"
-      ]
+      ],
+      "description": "Create a temporary directory for extracting ZIP files"
     },
     {
       "type": "vendor-ui-ux-pro-max-skill",
@@ -465,7 +484,8 @@
         "cli",
         "utils",
         "github"
-      ]
+      ],
+      "description": "exports GitHubRateLimitError"
     },
     {
       "type": "vendor-ui-ux-pro-max-skill",
@@ -489,7 +509,8 @@
         "cli",
         "utils",
         "logger"
-      ]
+      ],
+      "description": "exports logger"
     },
     {
       "type": "vendor-ui-ux-pro-max-skill",
@@ -513,7 +534,8 @@
         "cli",
         "utils",
         "template"
-      ]
+      ],
+      "description": "Layouts an earlier CLI version installed and the current layout replaces. Paths are relative to the install base (project or home directory)."
     },
     {
       "type": "vendor-ui-ux-pro-max-skill",
@@ -537,7 +559,8 @@
         "vendor",
         "skill",
         "cli"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "vendor-ui-ux-pro-max-skill",
@@ -561,7 +584,8 @@
         "contract.spec.ts",
         "vendor",
         "skill"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "vendor-ui-ux-pro-max-skill",
@@ -585,7 +609,8 @@
         "skill",
         "cli",
         "tests"
-      ]
+      ],
+      "description": "What uipro init --ai copilot installed before it targeted Agent Skills."
     },
     {
       "type": "vendor-ui-ux-pro-max-skill",
@@ -609,7 +634,8 @@
         "cli",
         "tests",
         "e2e"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "vendor-ui-ux-pro-max-skill",
@@ -633,7 +659,8 @@
         "skill",
         "cli",
         "tests"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "vendor-ui-ux-pro-max-skill",
@@ -657,7 +684,8 @@
         "cli",
         "tests",
         "e2e"
-      ]
+      ],
+      "description": "Smoke test for the generated design-system preview pages under /preview. These files are shipped as proof that the design system generator produces working, se…"
     },
     {
       "type": "vendor-ui-ux-pro-max-skill",
@@ -681,7 +709,8 @@
         "vendor",
         "skill",
         "cli"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "vendor-ui-ux-pro-max-skill",
@@ -705,7 +734,8 @@
         "cli",
         "tsconfig",
         "json"
-      ]
+      ],
+      "description": "keys: compilerOptions, include, exclude"
     },
     {
       "type": "vendor-ui-ux-pro-max-skill",
@@ -729,7 +759,8 @@
         "license",
         "ui-ux-pro-max-skill",
         "general"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "vendor-untitledui",
@@ -748,7 +779,8 @@
         "untitledui",
         "license",
         "general"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "vendor-untitledui",
@@ -768,7 +800,8 @@
         "readme",
         "md",
         "general"
-      ]
+      ],
+      "description": "Untitled UI React — [![Untitled UI React](https://www.untitledui.com/react/untitled-ui-react-open-graph.jpg)](https://www.untitledui.com/react)"
     }
   ]
 }

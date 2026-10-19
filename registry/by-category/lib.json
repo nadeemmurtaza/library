@@ -21,7 +21,8 @@
         "activity-log.js",
         "general",
         "local"
-      ]
+      ],
+      "description": "Audit trail on top of a collection: log(by, action, target). Keeps the newest max entries."
     },
     {
       "type": "lib-collection-store.js",
@@ -43,7 +44,8 @@
         "collection-store.js",
         "ecommerce",
         "local"
-      ]
+      ],
+      "description": "A small client-side database over any storage with get/set (utils/storage.js). One key per collection. Demo/prototype persistence: when a real API exists, repl…"
     }
   ]
 }

@@ -23,7 +23,8 @@
         "tsx",
         "logos-brand",
         "general"
-      ]
+      ],
+      "description": "exports Dot"
     },
     {
       "type": "asset-logos-brand",
@@ -47,7 +48,8 @@
         "icon",
         "demo",
         "tsx"
-      ]
+      ],
+      "description": "exports DefaultDemo"
     },
     {
       "type": "asset-logos-brand",
@@ -71,7 +73,8 @@
         "icon",
         "story",
         "tsx"
-      ]
+      ],
+      "description": "exports Light"
     },
     {
       "type": "asset-logos-brand",
@@ -95,7 +98,8 @@
         "icon",
         "tsx",
         "logos-brand"
-      ]
+      ],
+      "description": "A ref to the wrapper element."
     },
     {
       "type": "asset-logos-integration",
@@ -119,7 +123,8 @@
         "icons",
         "bolt",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-integration",
@@ -143,7 +148,8 @@
         "icons",
         "chatgpt",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-integration",
@@ -167,7 +173,8 @@
         "icons",
         "claude",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-integration",
@@ -191,7 +198,8 @@
         "icons",
         "cursor",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-integration",
@@ -215,7 +223,8 @@
         "icons",
         "figma",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-integration",
@@ -239,7 +248,8 @@
         "icons",
         "gemini",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-integration",
@@ -263,7 +273,8 @@
         "icons",
         "github",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-integration",
@@ -287,7 +298,8 @@
         "icons",
         "grok",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-integration",
@@ -311,7 +323,8 @@
         "index",
         "tsx",
         "logos-integration"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-integration",
@@ -335,7 +348,8 @@
         "icons",
         "story",
         "tsx"
-      ]
+      ],
+      "description": "exports IntegrationIcons"
     },
     {
       "type": "asset-logos-integration",
@@ -359,7 +373,8 @@
         "icons",
         "lovable",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-integration",
@@ -383,7 +398,8 @@
         "icons",
         "nextjs",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-integration",
@@ -407,7 +423,8 @@
         "icons",
         "perplexity",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-integration",
@@ -431,7 +448,8 @@
         "icons",
         "react",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-integration",
@@ -455,7 +473,8 @@
         "icons",
         "replit",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-integration",
@@ -479,7 +498,8 @@
         "integration",
         "icons",
         "tailwind"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-integration",
@@ -503,7 +523,8 @@
         "icons",
         "v0",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-integration",
@@ -527,7 +548,8 @@
         "icons",
         "vite",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-brand",
@@ -551,7 +573,8 @@
         "tsx",
         "logos-brand",
         "general"
-      ]
+      ],
+      "description": "exports UntitledLogoMinimal"
     },
     {
       "type": "asset-logos-brand",
@@ -574,7 +597,8 @@
         "tsx",
         "logos-brand",
         "general"
-      ]
+      ],
+      "description": "Minimal logo"
     },
     {
       "type": "asset-logos-payment",
@@ -598,7 +622,8 @@
         "icons",
         "affirm",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -622,7 +647,8 @@
         "icons",
         "afterpay",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -646,7 +672,8 @@
         "icons",
         "alipay",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -670,7 +697,8 @@
         "icons",
         "amazon",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -694,7 +722,8 @@
         "icons",
         "amex",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -718,7 +747,8 @@
         "payment",
         "icons",
         "apple"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -742,7 +772,8 @@
         "icons",
         "ayden",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -766,7 +797,8 @@
         "icons",
         "bancontact",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -790,7 +822,8 @@
         "payment",
         "icons",
         "binance"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -814,7 +847,8 @@
         "payment",
         "icons",
         "bitcoin"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -838,7 +872,8 @@
         "icons",
         "bitcoin",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -862,7 +897,8 @@
         "icons",
         "bitpay",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -886,7 +922,8 @@
         "icons",
         "braintree",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -910,7 +947,8 @@
         "untitledui",
         "payment",
         "icons"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -934,7 +972,8 @@
         "icons",
         "citadele",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -958,7 +997,8 @@
         "icons",
         "coinbase",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -982,7 +1022,8 @@
         "payment",
         "icons",
         "diners"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1006,7 +1047,8 @@
         "icons",
         "discover",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1030,7 +1072,8 @@
         "icons",
         "elo",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1054,7 +1097,8 @@
         "icons",
         "etherium",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1078,7 +1122,8 @@
         "icons",
         "forbrugsforeningen",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1102,7 +1147,8 @@
         "icons",
         "giropay",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1126,7 +1172,8 @@
         "payment",
         "icons",
         "google"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1150,7 +1197,8 @@
         "icons",
         "ideal",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1174,7 +1222,8 @@
         "index",
         "tsx",
         "logos-payment"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1198,7 +1247,8 @@
         "icons",
         "interac",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1222,7 +1272,8 @@
         "icons",
         "jcb",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1246,7 +1297,8 @@
         "icons",
         "klarna",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1270,7 +1322,8 @@
         "icons",
         "lightcoin",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1294,7 +1347,8 @@
         "icons",
         "maestro",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1318,7 +1372,8 @@
         "icons",
         "mastercard",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1342,7 +1397,8 @@
         "icons",
         "story",
         "tsx"
-      ]
+      ],
+      "description": "exports PaymentIcons"
     },
     {
       "type": "asset-logos-payment",
@@ -1366,7 +1422,8 @@
         "icons",
         "payoneer",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1390,7 +1447,8 @@
         "icons",
         "paypal",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1414,7 +1472,8 @@
         "icons",
         "paysafe",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1438,7 +1497,8 @@
         "icons",
         "qiwi",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1462,7 +1522,8 @@
         "icons",
         "razorpay",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1486,7 +1547,8 @@
         "icons",
         "revolut",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1510,7 +1572,8 @@
         "payment",
         "icons",
         "ru"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1534,7 +1597,8 @@
         "payment",
         "icons",
         "samsung"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1558,7 +1622,8 @@
         "icons",
         "sepa",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1582,7 +1647,8 @@
         "payment",
         "icons",
         "shop"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1606,7 +1672,8 @@
         "payment",
         "icons",
         "shopee"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1630,7 +1697,8 @@
         "icons",
         "skrill",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1654,7 +1722,8 @@
         "icons",
         "sofort",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1678,7 +1747,8 @@
         "icons",
         "stripe",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1702,7 +1772,8 @@
         "payment",
         "icons",
         "union"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1726,7 +1797,8 @@
         "icons",
         "upi",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1750,7 +1822,8 @@
         "icons",
         "venmo",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1774,7 +1847,8 @@
         "icons",
         "verifone",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1798,7 +1872,8 @@
         "icons",
         "visa",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1822,7 +1897,8 @@
         "payment",
         "icons",
         "we"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1846,7 +1922,8 @@
         "untitledui",
         "payment",
         "icons"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1870,7 +1947,8 @@
         "icons",
         "webmoney",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1894,7 +1972,8 @@
         "icons",
         "wise",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1918,7 +1997,8 @@
         "icons",
         "yandex",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1942,7 +2022,8 @@
         "icons",
         "zelle",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -1966,7 +2047,8 @@
         "payment",
         "icons",
         "zip"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-brand",
@@ -1990,7 +2072,8 @@
         "icon",
         "tsx",
         "logos-brand"
-      ]
+      ],
+      "description": "Rounded play icon with blurred background and a filled triangle in the middle."
     },
     {
       "type": "asset-logos-brand",
@@ -2014,7 +2097,8 @@
         "tsx",
         "logos-brand",
         "general"
-      ]
+      ],
+      "description": "exports Wreath"
     },
     {
       "type": "asset-logos-brand",
@@ -2038,7 +2122,8 @@
         "tsx",
         "logos-brand",
         "general"
-      ]
+      ],
+      "description": "The progress of the star icon. It should be a number between 0 and 100. @default 100"
     },
     {
       "type": "asset-logos-social",
@@ -2062,7 +2147,8 @@
         "icons",
         "angel",
         "list"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-social",
@@ -2086,7 +2172,8 @@
         "apple",
         "tsx",
         "logos-social"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-social",
@@ -2110,7 +2197,8 @@
         "clubhouse",
         "tsx",
         "logos-social"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-social",
@@ -2134,7 +2222,8 @@
         "discord",
         "tsx",
         "logos-social"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-social",
@@ -2158,7 +2247,8 @@
         "dribbble",
         "tsx",
         "logos-social"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-social",
@@ -2182,7 +2272,8 @@
         "facebook",
         "tsx",
         "logos-social"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-social",
@@ -2206,7 +2297,8 @@
         "figma",
         "tsx",
         "logos-social"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-social",
@@ -2230,7 +2322,8 @@
         "github",
         "tsx",
         "logos-social"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-social",
@@ -2254,7 +2347,8 @@
         "google",
         "tsx",
         "logos-social"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-social",
@@ -2278,7 +2372,8 @@
         "index",
         "tsx",
         "logos-social"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-social",
@@ -2302,7 +2397,8 @@
         "instagram",
         "tsx",
         "logos-social"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-social",
@@ -2326,7 +2422,8 @@
         "layers",
         "tsx",
         "logos-social"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-social",
@@ -2350,7 +2447,8 @@
         "linkedin",
         "tsx",
         "logos-social"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-social",
@@ -2374,7 +2472,8 @@
         "pinterest",
         "tsx",
         "logos-social"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-social",
@@ -2398,7 +2497,8 @@
         "reddit",
         "tsx",
         "logos-social"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-social",
@@ -2422,7 +2522,8 @@
         "signal",
         "tsx",
         "logos-social"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-social",
@@ -2446,7 +2547,8 @@
         "snapchat",
         "tsx",
         "logos-social"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-social",
@@ -2470,7 +2572,8 @@
         "telegram",
         "tsx",
         "logos-social"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-social",
@@ -2494,7 +2597,8 @@
         "tiktok",
         "tsx",
         "logos-social"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-social",
@@ -2518,7 +2622,8 @@
         "tumblr",
         "tsx",
         "logos-social"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-social",
@@ -2542,7 +2647,8 @@
         "twitter",
         "tsx",
         "logos-social"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-social",
@@ -2566,7 +2672,8 @@
         "tsx",
         "logos-social",
         "general"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-social",
@@ -2590,7 +2697,8 @@
         "youtube",
         "tsx",
         "logos-social"
-      ]
+      ],
+      "description": ""
     }
   ]
 }

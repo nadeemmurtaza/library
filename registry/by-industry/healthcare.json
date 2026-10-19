@@ -23,7 +23,9 @@
         "report",
         "example",
         "html"
-      ]
+      ],
+      "description": "Clinical Case Report — Inferior STEMI with Cardiogenic Shock",
+      "unit": "templates/open-design-design-templates/clinical-case-report"
     },
     {
       "type": "template-open-design-design-templates",
@@ -47,7 +49,9 @@
         "clinical",
         "report",
         "examples"
-      ]
+      ],
+      "description": "Clinical Case Report — Inferior STEMI with Cardiogenic Shock",
+      "unit": "templates/open-design-design-templates/clinical-case-report"
     },
     {
       "type": "template-open-design-design-templates",
@@ -71,7 +75,9 @@
         "clinical",
         "report",
         "references"
-      ]
+      ],
+      "description": "Case Presentation Formats — Use this reference to choose the correct format for the user's context.",
+      "unit": "templates/open-design-design-templates/clinical-case-report"
     },
     {
       "type": "template-open-design-design-templates",
@@ -95,7 +101,9 @@
         "report",
         "references",
         "checklist"
-      ]
+      ],
+      "description": "Clinical Case Report — Quality Checklist",
+      "unit": "templates/open-design-design-templates/clinical-case-report"
     },
     {
       "type": "template-open-design-design-templates",
@@ -119,7 +127,9 @@
         "report",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Structured medical case presentation for clinical rounds, conferences,",
+      "unit": "templates/open-design-design-templates/clinical-case-report"
     },
     {
       "type": "template-open-design-design-templates",
@@ -143,7 +153,9 @@
         "artifact",
         "assets",
         "clinic"
-      ]
+      ],
+      "description": "keys: brand name, greeting, search placeholder, search shortcut, secondary action label, primary action label, user, nav main label",
+      "unit": "templates/open-design-design-templates/live-artifact"
     },
     {
       "type": "template-open-design-design-templates",
@@ -167,7 +179,9 @@
         "artifact",
         "assets",
         "clinic"
-      ]
+      ],
+      "description": "Clinic Console — live artifact template — A html template v1 template for a friendly clinic / hospital / telemedicine",
+      "unit": "templates/open-design-design-templates/live-artifact"
     },
     {
       "type": "template-open-design-design-templates",
@@ -191,7 +205,9 @@
         "artifact",
         "assets",
         "clinic"
-      ]
+      ],
+      "description": "{{data.brand name}} — Clinic Operations Console",
+      "unit": "templates/open-design-design-templates/live-artifact"
     },
     {
       "type": "template-open-design-design-templates",
@@ -215,7 +231,9 @@
         "live",
         "artifact",
         "examples"
-      ]
+      ],
+      "description": "Mira's First Month · A quiet panel",
+      "unit": "templates/open-design-design-templates/live-artifact"
     },
     {
       "type": "asset-icons",
@@ -239,7 +257,8 @@
         "svg",
         "icons-untitledui",
         "healthcare"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -263,7 +282,8 @@
         "svg",
         "icons-untitledui",
         "healthcare"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -287,7 +307,8 @@
         "svg",
         "icons-untitledui",
         "healthcare"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "docs-open-design",
@@ -311,7 +332,8 @@
         "design",
         "screenshots",
         "deployment"
-      ]
+      ],
+      "description": "image file"
     }
   ]
 }

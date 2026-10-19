@@ -19,7 +19,8 @@
         "ts",
         "saas",
         "local"
-      ]
+      ],
+      "description": "Shared contracts for back-office modules. Money is whole major units."
     }
   ]
 }

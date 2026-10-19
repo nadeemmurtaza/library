@@ -23,7 +23,8 @@
         "local",
         "session",
         "security"
-      ]
+      ],
+      "description": "Demo session provider for prototypes. NOT security: a static site cannot protect anything. Real deployments replace verify with a server call (or put the site …"
     },
     {
       "type": "providers-confirm-provider.js",
@@ -45,7 +46,8 @@
         "confirm-provider.js",
         "general",
         "local"
-      ]
+      ],
+      "description": "Promise-based confirm dialog on the daisyUI modal: await confirm({ title, body, action, tone }) - boolean"
     },
     {
       "type": "providers-theme-provider.js",
@@ -67,7 +69,8 @@
         "theme-provider.js",
         "general",
         "local"
-      ]
+      ],
+      "description": "Light/dark theme switch driven by data-theme on . Theme names come from config (brand.theme)."
     },
     {
       "type": "providers-toast-provider.js",
@@ -89,7 +92,8 @@
         "toast-provider.js",
         "general",
         "local"
-      ]
+      ],
+      "description": "Toasts using the daisyUI toast/alert classes. createToaster() - { show(message, tone) }, tone: success | error | info | warning"
     }
   ]
 }

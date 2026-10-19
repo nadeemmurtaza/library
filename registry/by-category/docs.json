@@ -21,7 +21,8 @@
         "admin-panel.md",
         "saas",
         "local"
-      ]
+      ],
+      "description": "Admin panel kit — Framework-free building blocks for a back office. Plain ES modules (no build step for the JS), daisyUI + Tailwind v4 for the look, every colo…"
     },
     {
       "type": "docs-bom.md",
@@ -41,7 +42,8 @@
         "md",
         "general",
         "local"
-      ]
+      ],
+      "description": "Bill of materials (BOM) — Recipes for made-to-order products: what goes into one unit, what it costs, what to charge, and what to buy."
     },
     {
       "type": "docs-open-design",
@@ -65,7 +67,8 @@
         "adr",
         "0001",
         "startup"
-      ]
+      ],
+      "description": "0001. Centralize daemon startup — The od CLI serves two different roles: it can start the local daemon, and it can act as a thin client for commands such as od…"
     },
     {
       "type": "docs-open-design",
@@ -89,7 +92,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Agent Adapters — The adapter layer is OD's most load-bearing design decision. We delegate the entire agent loop — model calls, tool use, context management, pe…"
     },
     {
       "type": "docs-open-design",
@@ -112,7 +116,8 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "Directory guide — This file is the single source of truth for agents entering this repository. Read this file first; after entering apps/ , packages/ , tools/ …"
     },
     {
       "type": "docs-open-design",
@@ -136,7 +141,8 @@
         "design",
         "ai",
         "analysis"
-      ]
+      ],
+      "description": "AI Native Observability Trace Analysis Guide — This document records how to read the new OpenDesign Langfuse trace shape for"
     },
     {
       "type": "docs-open-design",
@@ -159,7 +165,8 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "Architecture — This document describes the code-backed runtime topology and the boundaries"
     },
     {
       "type": "docs-open-design",
@@ -183,7 +190,8 @@
         "open-design",
         "marketing",
         "local"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "docs-open-design",
@@ -207,7 +215,8 @@
         "design",
         "assets",
         "backfill"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -231,7 +240,8 @@
         "docs",
         "design",
         "assets"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -255,7 +265,8 @@
         "docs",
         "design",
         "assets"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -279,7 +290,8 @@
         "library",
         "png",
         "open-design"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -303,7 +315,8 @@
         "library",
         "svg",
         "open-design"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "docs-open-design",
@@ -327,7 +340,8 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -351,7 +365,8 @@
         "readme",
         "agent",
         "webp"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -375,7 +390,8 @@
         "banner",
         "html",
         "open-design"
-      ]
+      ],
+      "description": "OpenDesign — cover"
     },
     {
       "type": "docs-open-design",
@@ -399,7 +415,8 @@
         "library",
         "html",
         "open-design"
-      ]
+      ],
+      "description": "71 Design Systems — cover"
     },
     {
       "type": "docs-open-design",
@@ -423,7 +440,8 @@
         "star",
         "html",
         "open-design"
-      ]
+      ],
+      "description": "OpenDesign — Star us on GitHub"
     },
     {
       "type": "docs-open-design",
@@ -446,7 +464,8 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "First-party atom catalog — The atomic capabilities OpenDesign exposes to plugins."
     },
     {
       "type": "docs-open-design",
@@ -470,7 +489,8 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "Release note source contract — Release note content is stored under docs/CHANGELOG/v / .md ."
     },
     {
       "type": "docs-open-design",
@@ -494,7 +514,8 @@
         "en",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Opt in to silent updates that are applied the next time OpenDesign starts."
     },
     {
       "type": "docs-open-design",
@@ -518,7 +539,8 @@
         "14",
         "zh",
         "cn"
-      ]
+      ],
+      "description": "可选择允许 OpenDesign 在下次启动时静默应用已下载的更新。"
     },
     {
       "type": "docs-open-design",
@@ -542,7 +564,8 @@
         "en",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Cost Less. Ship Faster. OD's DeepSeek Moment."
     },
     {
       "type": "docs-open-design",
@@ -566,7 +589,8 @@
         "15",
         "zh",
         "cn"
-      ]
+      ],
+      "description": "更低成本，更快交付：OD 的 DeepSeek 时刻。"
     },
     {
       "type": "docs-open-design",
@@ -590,7 +614,8 @@
         "en",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Choose a visual direction, keep your work intact, and move from creation to delivery with confidence."
     },
     {
       "type": "docs-open-design",
@@ -614,7 +639,8 @@
         "16",
         "zh",
         "cn"
-      ]
+      ],
+      "description": "选定视觉方向、保住创作成果，更笃定地从创作走向交付。"
     },
     {
       "type": "docs-open-design",
@@ -638,7 +664,8 @@
         "en",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Bring OpenDesign into Codex as an editable design workspace, then refine the result directly in Studio."
     },
     {
       "type": "docs-open-design",
@@ -662,7 +689,8 @@
         "17",
         "zh",
         "cn"
-      ]
+      ],
+      "description": "在 Codex 中直接调用 OpenDesign 设计工作区，把想法变成可继续编辑的真实成果，并在 Studio 中完成精修。"
     },
     {
       "type": "docs-open-design",
@@ -686,7 +714,8 @@
         "en",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "OpenDesign 0.18.0 introduces Team Workspace—a shared home where design teams can share projects, review updates, comment in context, and reuse the same design …"
     },
     {
       "type": "docs-open-design",
@@ -710,7 +739,8 @@
         "18",
         "zh",
         "cn"
-      ]
+      ],
+      "description": "OpenDesign 0.18.0 带来 Team Workspace——设计团队共同的家：共享项目、查看更新、在上下文中评论，并复用同一套设计体系、插件与技能；协作工作区现已直接延伸进 Codex。"
     },
     {
       "type": "docs-open-design",
@@ -734,7 +764,8 @@
         "en",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "DeepSeek V4 Flash is unlimited for every paid plan from August 6 to August 13, and 0.18.1 brings the offer into the app — alongside fixes for the first week of…"
     },
     {
       "type": "docs-open-design",
@@ -758,7 +789,8 @@
         "18",
         "zh",
         "cn"
-      ]
+      ],
+      "description": "8月6日—8月13日，所有付费套餐均可在 OpenDesign Cloud 上无限使用 DeepSeek V4 Flash，0.18.1 把这个权益带进了产品里；同时修复了 Team Workspace 上线第一周暴露出的问题。"
     },
     {
       "type": "docs-open-design",
@@ -782,7 +814,8 @@
         "en",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Bring ideas to life with your OpenDesign subscription—generate images directly with Seedream 5.0 Pro, GPT Image 2.0, and Nano Banana 2.0."
     },
     {
       "type": "docs-open-design",
@@ -806,7 +839,8 @@
         "19",
         "zh",
         "cn"
-      ]
+      ],
+      "description": "用 OpenDesign 订阅把想法变成图片：直接使用 Seedream 5.0 Pro、GPT Image 2.0 和 Nano Banana 2.0 生成图像。"
     },
     {
       "type": "docs-open-design",
@@ -830,7 +864,8 @@
         "en",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Connect your official DeepSeek Harness installation to OpenDesign for model discovery, structured runs, and session resume. Paid plans also get DeepSeek V4 Pro…"
     },
     {
       "type": "docs-open-design",
@@ -854,7 +889,8 @@
         "19",
         "zh",
         "cn"
-      ]
+      ],
+      "description": "把你安装的官方 DeepSeek Harness 接入 OpenDesign，使用模型发现、结构化运行与会话续接；付费套餐还可在两周内不限量使用 DeepSeek V4 Pro 和 Flash。"
     },
     {
       "type": "docs-open-design",
@@ -878,7 +914,8 @@
         "en",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "From Agent connections to live HTML previews and app relaunches, Open Design 0.21.0 makes the entire creation experience more reliable—and easier to recover wh…"
     },
     {
       "type": "docs-open-design",
@@ -902,7 +939,8 @@
         "21",
         "zh",
         "cn"
-      ]
+      ],
+      "description": "从 Agent 连接、实时 HTML 预览到 App 重新启动，Open Design 0.21.0 让整个创作体验更加可靠；遇到问题时，也更容易恢复。"
     },
     {
       "type": "docs-open-design",
@@ -926,7 +964,8 @@
         "en",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "OD Next becomes the default for supported design tasks, while clearer failures, reliable retries, steadier chat scrolling, and final syntax checks help you kee…"
     },
     {
       "type": "docs-open-design",
@@ -950,7 +989,8 @@
         "22",
         "zh",
         "cn"
-      ]
+      ],
+      "description": "支持的设计任务默认使用 OD Next，并改进失败提示、重试、聊天自动跟随和交付前语法检查，让创作更顺畅。"
     },
     {
       "type": "docs-open-design",
@@ -974,7 +1014,8 @@
         "en",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Conversations keep their thread across reloads and follow-ups, the preview you chose stays put, rich answers arrive as content instead of markup, a fresh Windo…"
     },
     {
       "type": "docs-open-design",
@@ -998,7 +1039,8 @@
         "24",
         "zh",
         "cn"
-      ]
+      ],
+      "description": "重新加载和补充问题后对话不断线，你选中的预览会一直保持，丰富回复以内容呈现而不是泄漏标记，Windows 全新安装第一次启动就能进入 App，Novita AI 也进入了 BYOK 选择器。"
     },
     {
       "type": "docs-open-design",
@@ -1022,7 +1064,8 @@
         "en",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "\"A focused reliability patch that preserves diagnostic evidence, makes desktop update restarts safer, keeps successful blocked runs honest, restores the fullsc…"
     },
     {
       "type": "docs-open-design",
@@ -1046,7 +1089,8 @@
         "24",
         "zh",
         "cn"
-      ]
+      ],
+      "description": "\"一个聚焦可靠性的补丁：保留诊断证据，让桌面端更新重启更稳，正确呈现已成功结束的受阻运行，在所有主题下恢复全屏退出控件，并改进 OD Next 与 MCP 的故障处理。\""
     },
     {
       "type": "docs-open-design",
@@ -1070,7 +1114,8 @@
         "version",
         "policy",
         "md"
-      ]
+      ],
+      "description": "Automatic version bump completion — After a stable release, finalize-release.yml opens the synchronized workspace"
     },
     {
       "type": "docs-open-design",
@@ -1094,7 +1139,8 @@
         "products",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Workload product consumption — validates the result bound to the pending plan and downloads its complete product"
     },
     {
       "type": "docs-open-design",
@@ -1117,7 +1163,8 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "docs-open-design",
@@ -1141,7 +1188,8 @@
         "guidelines",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Code review guidelines — Use code review to protect repository boundaries, keep changes easy to maintain, and catch regressions before they reach users. Review…"
     },
     {
       "type": "docs-open-design",
@@ -1165,7 +1213,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Codex pets — The pet companion in the web app can adopt pets packaged by the upstream"
     },
     {
       "type": "docs-open-design",
@@ -1188,7 +1237,8 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "OpenDesign — OpenDesign is a local-first design workspace where projects contain generated design files and agent conversations. This glossary records domain l…"
     },
     {
       "type": "docs-open-design",
@@ -1212,7 +1262,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Design Jury (Critique Theater) — A built-in design panel that reviews every generation before it ships. Five"
     },
     {
       "type": "docs-open-design",
@@ -1236,7 +1287,8 @@
         "docs",
         "design",
         "deepseek"
-      ]
+      ],
+      "description": "DeepSeek Harness × OpenDesign 一键安装指引 — 运营发布状态：文案已可评审，安装脚本尚未发布到正式下载地址。正式对外发送前，请确认下方三个 open-design.ai/install-dsh. 地址均可访问，并分别完成一次 macOS、Windows PowerShell 和 Wind…"
     },
     {
       "type": "docs-open-design",
@@ -1260,7 +1312,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Alibaba Cloud (阿里云) Deployment — This guide covers self-hosting OpenDesign on Alibaba Cloud for users in mainland China and the broader Asia-Pacific region. It…"
     },
     {
       "type": "docs-open-design",
@@ -1284,7 +1337,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Azure Container Instances — This guide deploys the Docker image to Azure Container Instances (ACI) with persistent OpenDesign data. Before choosing or document…"
     },
     {
       "type": "docs-open-design",
@@ -1308,7 +1362,8 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "Docker and Docker Compose — This is the easiest self-hosting path for beginners."
     },
     {
       "type": "docs-open-design",
@@ -1332,7 +1387,8 @@
         "workspace",
         "rollout",
         "md"
-      ]
+      ],
+      "description": "Workspace Team 上线 Runbook — 本手册用于把 Workspace Team 从 Vela feature-test 推进到 test ，最终再发布到 production。它同时覆盖 Vela DB/API/Link/Web/CLI 和 OpenDesign 桌面包；任何一层没有明确版本和验收…"
     },
     {
       "type": "docs-open-design",
@@ -1356,7 +1412,8 @@
         "mirror",
         "build",
         "compare"
-      ]
+      ],
+      "description": "逐格对照页:左边交付稿的组件实体,右边我们的实现,90 格全覆盖。 给产品 / 设计走一轮验收用 —— 他们不读代码,只逐格看两张图一不一样。 每格的编号、组件名、状态名都从镜像陈列页的表头原样取,和 build-matrix.mjs 出的那一页同号。 前置:两边的截图已经拍好( shots-design/ 与 sh…"
     },
     {
       "type": "docs-open-design",
@@ -1380,7 +1437,8 @@
         "mirror",
         "build",
         "matrix"
-      ]
+      ],
+      "description": "稿子那一侧的陈列页 —— 从 交付稿原件 抽出九十个实体,按镜像页的编号重排一遍。 逐格比对要的是「同一个编号的两格并排」。交付稿原件不能直接拿来比: · 它的组件顺序是 1, 2, 20, 21, 22, 23, 3, 4 …(按叙事分节),不是 1..90; · 每个实体外面还套着卡头、状态标题、说明段,那些是陈…"
     },
     {
       "type": "docs-open-design",
@@ -1404,7 +1462,8 @@
         "mirror",
         "check",
         "fonts"
-      ]
+      ],
+      "description": "量数之前的前置闸 :确认你手上这份陈列页已经上过字体。 仓库里那份 mirror-exec.html 是不带字体的 (同一份字节 apps/web/public/fonts/ 里已经有了,再复制一份进 HTML 要 +423KB 并撑破 CI 的单文件 1MB 闸)。 字体由 inline-fonts.mjs 在 本…"
     },
     {
       "type": "docs-open-design",
@@ -1428,7 +1487,8 @@
         "mirror",
         "diff",
         "cells"
-      ]
+      ],
+      "description": "逐格 × 逐元素 × 逐属性 对比交付稿与我们的实现。 为什么不是「看图」也不是「diff CSS 文本」: · 看图要人眼盯 84 格,而且颜色差一档、字号差 1px 根本看不出来; · diff 规则文本会漏掉 层叠 ——2026-08-25 撞过:两边声明一模一样, 我少写了一个祖先,特异性从 (0,3,0) …"
     },
     {
       "type": "docs-open-design",
@@ -1452,7 +1512,8 @@
         "film",
         "mjs",
         "open-design"
-      ]
+      ],
+      "description": "流式过程连拍 —— 自测录屏的替代物(OPEND-2205)。 为什么不是 GIF:仓库里没有编码器,而且一串带编号的 PNG 在代码评审里比 GIF 好用 (能逐帧引用、能 diff、不用播放器)。 它做的事:开真实页面 → 在输入框里打字 → 点发送 → 每隔一段时间拍一张,直到这一轮结束。 驱动 Lexical…"
     },
     {
       "type": "docs-open-design",
@@ -1476,7 +1537,8 @@
         "mirror",
         "inline",
         "fonts"
-      ]
+      ],
+      "description": "把产品真实字体 内联 进 mirror-exec.html 。 为什么要有这个文件 陈列页原来一条 @font-face 都没有(全文零声明、零 、零 @import ), 却照着产品声明了 --sans: \"Albert Sans\", \"PingFang SC\", … 。 于是页面上每一个几何读数 —— 行高、文本…"
     },
     {
       "type": "docs-open-design",
@@ -1500,7 +1562,8 @@
         "measure",
         "mjs",
         "open-design"
-      ]
+      ],
+      "description": "逐格量「计算样式指纹」,给对照页附上一条 不靠眼看 的差异摘要。 为什么要它:2026-08-25 撞过一次 —— 交付稿和我们的 CSS 规则文本一模一样 , 但少写了一个祖先,特异性从 (0,3,0) 掉到 (0,2,0),层叠反转,壳内失败行铺出整行红底。 光贴图要人眼盯,光 diff CSS 文本完全照不出来…"
     },
     {
       "type": "docs-open-design",
@@ -1524,7 +1587,8 @@
         "mirror",
         "exec",
         "html"
-      ]
+      ],
+      "description": "执行记录 · 镜像陈列页"
     },
     {
       "type": "docs-open-design",
@@ -1548,7 +1612,8 @@
         "readme",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "执行记录 · 镜像陈列页 — 编号一致(唯一出处是 build-matrix.mjs 里的 ORDER ),两页并排开着就能逐格对 ——"
     },
     {
       "type": "docs-open-design",
@@ -1572,7 +1637,8 @@
         "mirror",
         "shoot",
         "live"
-      ]
+      ],
+      "description": "从 真实运行时 逐格截图,给逐格对照页补上第三列。 为什么非要这一列(2026-08-25 的教训): 陈列页是 renderToStaticMarkup 出来的静态 HTML,而且它给每一格 自己包了一层 .root —— 也就是接缝。所以那天应用里 ChatRoot 根本没挂、壳头「进行中」那句字是透明的, 陈列…"
     },
     {
       "type": "docs-open-design",
@@ -1596,7 +1662,8 @@
         "shoot",
         "mjs",
         "open-design"
-      ]
+      ],
+      "description": "给镜像陈列页逐格拍照,供设计逐格比对。 用法(先起个静态服: python3 -m http.server 8791 --bind 127.0.0.1 在 docs/design 下): node docs/design/chat-mirror/shoot.mjs 产出:docs/design/chat-mirror…"
     },
     {
       "type": "docs-open-design",
@@ -1620,7 +1687,8 @@
         "docs",
         "design",
         "chat"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -1644,7 +1712,8 @@
         "docs",
         "design",
         "chat"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -1668,7 +1737,8 @@
         "docs",
         "design",
         "chat"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -1692,7 +1762,8 @@
         "design",
         "chat",
         "mirror"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -1716,7 +1787,8 @@
         "chat",
         "mirror",
         "shots"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -1740,7 +1812,8 @@
         "design",
         "chat",
         "mirror"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -1764,7 +1837,8 @@
         "chat",
         "mirror",
         "shots"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -1788,7 +1862,8 @@
         "design",
         "chat",
         "mirror"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -1812,7 +1887,8 @@
         "design",
         "chat",
         "mirror"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -1836,7 +1912,8 @@
         "design",
         "chat",
         "mirror"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -1860,7 +1937,8 @@
         "run",
         "errors",
         "error"
-      ]
+      ],
+      "description": "Open Design 报错体验设计方案(v1 · 请评审) — 仓库副本。权威源是飞书文档,改动请在那边评审后回抄:"
     },
     {
       "type": "docs-open-design",
@@ -1884,7 +1962,8 @@
         "errors",
         "implementation",
         "audit"
-      ]
+      ],
+      "description": "报错体验设计方案 · 实现现状对照表(origin/main @ 9881cff70e,2026-08-27) — 只读审计。基线是 origin/main ,不是任何特性分支。每一条判断都带 文件:行号 ;找不到的写「未找到」,不推测。"
     },
     {
       "type": "docs-open-design",
@@ -1908,7 +1987,8 @@
         "spec",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Design System 埋点方案（已落地的历史实施计划） — 状态：归档实施计划。最初的“仅设计、未实现代码”基线随后已由"
     },
     {
       "type": "docs-open-design",
@@ -1932,7 +2012,8 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "Design system authoring guide — This guide describes the current design-system package consumed by the daemon,"
     },
     {
       "type": "docs-open-design",
@@ -1956,7 +2037,8 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "Warm Editorial — Sample DESIGN.md demonstrating the 9-section format. Used as a reference / test fixture."
     },
     {
       "type": "docs-open-design",
@@ -1980,7 +2062,8 @@
         "saas",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Single-page SaaS landing with hero, features, social proof, pricing, and CTA."
     },
     {
       "type": "docs-open-design",
@@ -2004,7 +2087,8 @@
         "orchestration",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "External Media Orchestration — This note describes how an external service can use OpenDesign as a creative"
     },
     {
       "type": "docs-open-design",
@@ -2028,7 +2112,8 @@
         "handoffs",
         "slides",
         "handoff"
-      ]
+      ],
+      "description": "Slides project experience handoff — Repo: /Users/pftom/.superset/worktrees/d3aab1a3-c696-403f-9692-7e5bc2dfa1f3/jumpy-centipede"
     },
     {
       "type": "docs-open-design",
@@ -2052,7 +2137,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Headless BYOK runs over REST — Use POST /api/runs to start an OpenDesign run against your own model provider"
     },
     {
       "type": "docs-open-design",
@@ -2076,7 +2162,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Zu OpenDesign beitragen — Danke, dass Sie über einen Beitrag nachdenken. OD ist bewusst klein gehalten — der größte Teil des Werts steckt in Dateien (Skills, D…"
     },
     {
       "type": "docs-open-design",
@@ -2100,7 +2187,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Contribuer à OpenDesign — Merci d'envisager de contribuer. OD reste volontairement petit : l'essentiel"
     },
     {
       "type": "docs-open-design",
@@ -2124,7 +2212,8 @@
         "ja",
         "jp",
         "md"
-      ]
+      ],
+      "description": "OpenDesign へのコントリビューション — コントリビューションを検討してくださりありがとうございます。OD は意図的に小さく保っています — 価値の大部分はフレームワークコードではなく ファイル （Skill、Design System、プロンプトフラグメント）にあります。そのため、最も効果の高いコントリビ…"
     },
     {
       "type": "docs-open-design",
@@ -2148,7 +2237,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "OpenDesign 기여 가이드 — 기여를 고민하고 있다니 고맙습니다. OD는 일부러 작게 유지합니다. 대부분의 가치는 프레임워크 코드가 아니라 파일 (skill, design system, 프롬프트 조각)에 담겨 있습니다. 그래서 가장 효과가 큰 기여는 대개 폴더 하나, Markdo…"
     },
     {
       "type": "docs-open-design",
@@ -2172,7 +2262,8 @@
         "pt",
         "br",
         "md"
-      ]
+      ],
+      "description": "Contribuindo com o OpenDesign — Obrigado por considerar contribuir. O OD é pequeno de propósito — a maior parte do valor mora em arquivos (skills, design syste…"
     },
     {
       "type": "docs-open-design",
@@ -2196,7 +2287,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "การ contribute ให้ OpenDesign — ขอบคุณที่คิดจะ contribute. OD ตั้งใจให้เล็ก — คุณค่าส่วนใหญ่อยู่ใน ไฟล์ (skills, design systems, prompt fragments) มากกว่า fram…"
     },
     {
       "type": "docs-open-design",
@@ -2220,7 +2312,8 @@
         "zh",
         "cn",
         "md"
-      ]
+      ],
+      "description": "贡献指南 · Contributing to OpenDesign — 谢谢你愿意参与。OD 是有意做小的 —— 大部分价值在 文件 里（skill、design system、提示词片段），而不是框架代码。这意味着收益最高的贡献往往就是一个文件夹、一份 Markdown，或者一个 PR 大小的 adapter。"
     },
     {
       "type": "docs-open-design",
@@ -2244,7 +2337,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Maintainer — English · Português (Brasil) · Deutsch · Français · 简体中文 · 日本語 · 한국어 · ภาษาไทย"
     },
     {
       "type": "docs-open-design",
@@ -2268,7 +2362,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Mainteneurs — English · Português (Brasil) · Deutsch · Français · 简体中文 · 日本語 · 한국어 · ภาษาไทย"
     },
     {
       "type": "docs-open-design",
@@ -2292,7 +2387,8 @@
         "ja",
         "jp",
         "md"
-      ]
+      ],
+      "description": "Maintainers — English · Português (Brasil) · Deutsch · Français · 简体中文 · 日本語 · 한국어 · ภาษาไทย"
     },
     {
       "type": "docs-open-design",
@@ -2316,7 +2412,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Maintainers — English · Português (Brasil) · Deutsch · Français · 简体中文 · 日本語 · 한국어 · ภาษาไทย"
     },
     {
       "type": "docs-open-design",
@@ -2340,7 +2437,8 @@
         "pt",
         "br",
         "md"
-      ]
+      ],
+      "description": "Maintainers — English · Português (Brasil) · Deutsch · Français · 简体中文 · 日本語 · 한국어 · ภาษาไทย"
     },
     {
       "type": "docs-open-design",
@@ -2364,7 +2462,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Maintainers — English · Português (Brasil) · Deutsch · Français · 简体中文 · 日本語 · 한국어 · ภาษาไทย"
     },
     {
       "type": "docs-open-design",
@@ -2388,7 +2487,8 @@
         "zh",
         "cn",
         "md"
-      ]
+      ],
+      "description": "Maintainers — English · Português (Brasil) · Deutsch · Français · 简体中文 · 日本語 · 한국어 · ภาษาไทย"
     },
     {
       "type": "docs-open-design",
@@ -2412,7 +2512,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Schnellstart — English · Português (Brasil) · Deutsch · Français · 日本語 · 한국어 · 简体中文 · 繁體中文 · ภาษาไทย"
     },
     {
       "type": "docs-open-design",
@@ -2436,7 +2537,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Quickstart — English · Português (Brasil) · Deutsch · Français · 日本語 · 한국어 · 简体中文 · 繁體中文 · ภาษาไทย"
     },
     {
       "type": "docs-open-design",
@@ -2460,7 +2562,8 @@
         "ja",
         "jp",
         "md"
-      ]
+      ],
+      "description": "クイックスタート — English · Português (Brasil) · Deutsch · Français · 日本語 · 한국어 · 简体中文 · 繁體中文 · ภาษาไทย"
     },
     {
       "type": "docs-open-design",
@@ -2484,7 +2587,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "빠른 시작 — English · Português (Brasil) · Deutsch · Français · 日本語 · 한국어 · 简体中文 · 繁體中文 · ภาษาไทย"
     },
     {
       "type": "docs-open-design",
@@ -2508,7 +2612,8 @@
         "pt",
         "br",
         "md"
-      ]
+      ],
+      "description": "Início rápido — English · Português (Brasil) · Deutsch · Français · 日本語 · 한국어 · 简体中文 · 繁體中文 · ภาษาไทย"
     },
     {
       "type": "docs-open-design",
@@ -2532,7 +2637,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Quickstart — English · Português (Brasil) · Deutsch · Français · 日本語 · 한국어 · 简体中文 · 繁體中文 · ภาษาไทย"
     },
     {
       "type": "docs-open-design",
@@ -2556,7 +2662,8 @@
         "zh",
         "cn",
         "md"
-      ]
+      ],
+      "description": "快速上手 · Quickstart — English · Português (Brasil) · Deutsch · Français · 日本語 · 한국어 · 简体中文 · 繁體中文 · ภาษาไทย"
     },
     {
       "type": "docs-open-design",
@@ -2580,7 +2687,8 @@
         "zh",
         "tw",
         "md"
-      ]
+      ],
+      "description": "快速上手 · Quickstart — English · Português (Brasil) · Deutsch · Français · 日本語 · 한국어 · 简体中文 · 繁體中文 · ภาษาไทย"
     },
     {
       "type": "docs-open-design",
@@ -2604,7 +2712,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "ما هو OpenDesign — OpenDesign: أول مساحة عمل تعاونية لوكلاء التصميم بالذكاء الاصطناعي"
     },
     {
       "type": "docs-open-design",
@@ -2628,7 +2737,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Was ist OpenDesign — OpenDesign: der erste kollaborative Arbeitsbereich für KI-Design-Agenten"
     },
     {
       "type": "docs-open-design",
@@ -2652,7 +2762,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Qué es OpenDesign — OpenDesign: el primer espacio de trabajo colaborativo con agentes de diseño con IA"
     },
     {
       "type": "docs-open-design",
@@ -2676,7 +2787,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Qu'est-ce qu'OpenDesign — OpenDesign : le premier espace de travail collaboratif avec des agents de design IA"
     },
     {
       "type": "docs-open-design",
@@ -2700,7 +2812,8 @@
         "ja",
         "jp",
         "md"
-      ]
+      ],
+      "description": "OpenDesign とは — OpenDesign：初の共同作業型AIデザインエージェントワークスペース"
     },
     {
       "type": "docs-open-design",
@@ -2724,7 +2837,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "OpenDesign란 — OpenDesign: 최초의 협업형 AI 디자인 에이전트 워크스페이스"
     },
     {
       "type": "docs-open-design",
@@ -2748,7 +2862,8 @@
         "pt",
         "br",
         "md"
-      ]
+      ],
+      "description": "O que é o OpenDesign — OpenDesign: o primeiro espaço de trabalho colaborativo com agentes de design com IA"
     },
     {
       "type": "docs-open-design",
@@ -2772,7 +2887,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Что такое OpenDesign — OpenDesign: первое совместное рабочее пространство с ИИ-дизайн-агентами"
     },
     {
       "type": "docs-open-design",
@@ -2796,7 +2912,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "OpenDesign คืออะไร — OpenDesign: พื้นที่ทำงานร่วมกับเอเจนต์ออกแบบ AI แห่งแรก"
     },
     {
       "type": "docs-open-design",
@@ -2820,7 +2937,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "OpenDesign nedir — OpenDesign: ilk iş birliğine dayalı yapay zekâ tasarım ajanı çalışma alanı"
     },
     {
       "type": "docs-open-design",
@@ -2844,7 +2962,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Що таке OpenDesign — OpenDesign: перший спільний робочий простір із ШІ-дизайн-агентами"
     },
     {
       "type": "docs-open-design",
@@ -2868,7 +2987,8 @@
         "zh",
         "cn",
         "md"
-      ]
+      ],
+      "description": "什么是 OpenDesign — OpenDesign：首个协作式 AI 设计 Agent 工作台"
     },
     {
       "type": "docs-open-design",
@@ -2892,7 +3012,8 @@
         "zh",
         "tw",
         "md"
-      ]
+      ],
+      "description": "什麼是 OpenDesign — OpenDesign：首個協作式 AI 設計 Agent 工作台"
     },
     {
       "type": "docs-open-design",
@@ -2916,7 +3037,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "One-Click Install Guide — Deploy OpenDesign on Linux or macOS with a single command. The installer wraps the existing Docker Compose stack — no build step requ…"
     },
     {
       "type": "docs-open-design",
@@ -2940,7 +3062,8 @@
         "check",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Real-CLI contract check — The replay mocks under mocks/ impersonate real agent CLIs by emitting"
     },
     {
       "type": "docs-open-design",
@@ -2963,7 +3086,8 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "Creation surfaces and skill modes — OpenDesign has two related taxonomies:"
     },
     {
       "type": "docs-open-design",
@@ -2987,7 +3111,8 @@
         "sources",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Motion templates: sources and maintenance — Five official HTML examples populate the Motion design Home entry and Community"
     },
     {
       "type": "docs-open-design",
@@ -3011,7 +3136,8 @@
         "new",
         "acp",
         "md"
-      ]
+      ],
+      "description": "New agent runtime expectations: ACP over stdio — This note documents the preferred integration shape for a new OpenDesign agent runtime."
     },
     {
       "type": "docs-open-design",
@@ -3034,7 +3160,8 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "NotebookLM: export issues/PRs from OpenDesign — OpenDesign gets a lot of feedback via GitHub Issues + PRs. If you want NotebookLM to help with:"
     },
     {
       "type": "docs-open-design",
@@ -3058,7 +3185,8 @@
         "lifecycle",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Update lifecycle observations — Common properties: flow id , from version , to version , channel , platform , arch , occurred at , observation version=1 . Stag…"
     },
     {
       "type": "docs-open-design",
@@ -3082,7 +3210,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Externally Prepared Workspaces — OpenDesign supports OD-owned project storage and folder-backed projects. Folder-backed projects need explicit provenance so OD…"
     },
     {
       "type": "docs-open-design",
@@ -3106,7 +3235,8 @@
         "architecture.md",
         "docs",
         "design"
-      ]
+      ],
+      "description": "Sandbox Orchestration Hardening Architecture — Architecture review draft. This document describes the hardening work needed to"
     },
     {
       "type": "docs-open-design",
@@ -3130,7 +3260,8 @@
         "design",
         "plans",
         "amr"
-      ]
+      ],
+      "description": "AMR Vela CLI CI Integration Review Summary — This PR wires OpenDesign's beta mac arm64 packaging path to Vela's npm-owned CLI distribution contract."
     },
     {
       "type": "docs-open-design",
@@ -3154,7 +3285,8 @@
         "plans",
         "manual",
         "implementation"
-      ]
+      ],
+      "description": "Manual Edit Mode Implementation Plan — Source requirement: specs/current/manual-edit-mode-requirements.md ."
     },
     {
       "type": "docs-open-design",
@@ -3178,7 +3310,8 @@
         "registry",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "OpenDesign Plugin Registry — Plan (living) — One sentence: Turn the existing open-design-marketplace.json federation"
     },
     {
       "type": "docs-open-design",
@@ -3202,7 +3335,8 @@
         "implementation",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "OpenDesign Plugin & Marketplace — Implementation Plan (living) — Source spec: [ docs/plugins-spec.md ](../plugins-spec.md) (zh-CN: [ docs/plugins-spec.zh-CN.md…"
     },
     {
       "type": "docs-open-design",
@@ -3226,7 +3360,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "OpenDesign Plugin & Marketplace Spec (v1) — In one sentence: OpenDesign plugins turn portable SKILL.md capabilities into marketplace-ready, one-click design wo…"
     },
     {
       "type": "docs-open-design",
@@ -3250,7 +3385,8 @@
         "spec",
         "zh",
         "cn"
-      ]
+      ],
+      "description": "OpenDesign 插件与 Marketplace 规范（v1） — 一句话总结： OpenDesign 插件把可移植的 SKILL.md 能力包装成 marketplace 可发现、一键可用的设计工作流，同时保留对现有 agent skill 生态、headless CLI 使用方式和自托管部署的兼容性。"
     },
     {
       "type": "docs-open-design",
@@ -3274,7 +3410,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Prompt composition — the variant axes — Read this before changing any prompt text, wherever it lives."
     },
     {
       "type": "docs-open-design",
@@ -3298,7 +3435,8 @@
         "plugin",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Publishing An OpenDesign Plugin — OpenDesign registry publishing is GitHub-backed in v1. The CLI remains the"
     },
     {
       "type": "docs-open-design",
@@ -3322,7 +3460,8 @@
         "publishing",
         "plugin",
         "zh"
-      ]
+      ],
+      "description": "发布 OpenDesign 插件 — OpenDesign registry v1 复用 GitHub 作为后端。CLI 是 canonical workflow；"
     },
     {
       "type": "docs-open-design",
@@ -3346,7 +3485,8 @@
         "qa",
         "cms",
         "20260910"
-      ]
+      ],
+      "description": "CMS Codex 验收交接（2026-09-10） — 本交接覆盖本 PR 的已完成代码、可复跑验收和剩余阻断项；它 不 授权合并、部署、生产操作、Plane 更新或自动关闭任何工单。认证、部署状态、远端 CI、合并和已部署版本均为 UNKNOWN ，除非接手者以自己的安全登录态重新读取并记录。不得读取凭据、不得静…"
     },
     {
       "type": "docs-open-design",
@@ -3370,7 +3510,8 @@
         "cms",
         "en",
         "jpg"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -3394,7 +3535,8 @@
         "cms",
         "settings",
         "jpg"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -3418,7 +3560,8 @@
         "cms",
         "zh",
         "jpg"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -3441,7 +3584,8 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "What is OpenDesign — OpenDesign: The 1st Collaborative AI Design Agent Workspace"
     },
     {
       "type": "docs-open-design",
@@ -3464,7 +3608,8 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "References — Every external project this spec leans on. Three questions per entry: what is it, what do we borrow, and what do we deliberately not take."
     },
     {
       "type": "docs-open-design",
@@ -3488,7 +3633,8 @@
         "design",
         "rfc",
         "drafts"
-      ]
+      ],
+      "description": "RFC: Agent-ready OpenDesign — cross-project tasks & spanning-project permissions — The umbrella RFC ([agent-ready.md](./agent-ready.md)) defers \"cross-project …"
     },
     {
       "type": "docs-open-design",
@@ -3512,7 +3658,8 @@
         "drafts",
         "agent",
         "ready"
-      ]
+      ],
+      "description": "RFC: Agent-ready OpenDesign — one assistant that can drive the whole app — Today the chat assistant only helps with the page you are on. This RFC proposes"
     },
     {
       "type": "docs-open-design",
@@ -3536,7 +3683,8 @@
         "design",
         "rfc",
         "drafts"
-      ]
+      ],
+      "description": "RFC: Auto-detect & launch dev server for folder-imported projects — When a user imports an existing local folder as a project ( 597), the"
     },
     {
       "type": "docs-open-design",
@@ -3559,7 +3707,8 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "Historical roadmap (2026-04 baseline) — Archived plan: This file records the pre-implementation roadmap written on"
     },
     {
       "type": "docs-open-design",
@@ -3583,7 +3732,8 @@
         "v1",
         "json",
         "open-design"
-      ]
+      ],
+      "description": "Schema for open-design-marketplace.json federated catalog files. See docs/plugins-spec.md §6."
     },
     {
       "type": "docs-open-design",
@@ -3607,7 +3757,8 @@
         "v1",
         "json",
         "open-design"
-      ]
+      ],
+      "description": "Schema for open-design.json sidecar files. Companion of SKILL.md ; never duplicates skill body content. See docs/plugins-spec.md §5."
     },
     {
       "type": "docs-open-design",
@@ -3631,7 +3782,8 @@
         "01",
         "view",
         "png"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -3655,7 +3807,8 @@
         "01",
         "view",
         "svg"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "docs-open-design",
@@ -3679,7 +3832,8 @@
         "02",
         "form",
         "png"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -3703,7 +3857,8 @@
         "02",
         "form",
         "svg"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "docs-open-design",
@@ -3727,7 +3882,8 @@
         "03",
         "picker",
         "png"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -3751,7 +3907,8 @@
         "03",
         "picker",
         "svg"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "docs-open-design",
@@ -3775,7 +3932,8 @@
         "04",
         "progress",
         "png"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -3799,7 +3957,8 @@
         "04",
         "progress",
         "svg"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "docs-open-design",
@@ -3823,7 +3982,8 @@
         "05",
         "iframe",
         "png"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -3847,7 +4007,8 @@
         "05",
         "iframe",
         "svg"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "docs-open-design",
@@ -3871,7 +4032,8 @@
         "06",
         "library",
         "png"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -3895,7 +4057,8 @@
         "06",
         "library",
         "svg"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "docs-open-design",
@@ -3919,7 +4082,8 @@
         "07",
         "deck",
         "png"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -3943,7 +4107,8 @@
         "07",
         "deck",
         "svg"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "docs-open-design",
@@ -3967,7 +4132,8 @@
         "08",
         "app",
         "png"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -3991,7 +4157,8 @@
         "08",
         "app",
         "svg"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "docs-open-design",
@@ -4015,7 +4182,8 @@
         "design",
         "screenshots",
         "current"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4039,7 +4207,8 @@
         "screenshots",
         "current",
         "06"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4063,7 +4232,8 @@
         "screenshots",
         "current",
         "06"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4087,7 +4257,8 @@
         "screenshots",
         "current",
         "06"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4111,7 +4282,8 @@
         "design",
         "screenshots",
         "current"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4135,7 +4307,8 @@
         "screenshots",
         "current",
         "06"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4159,7 +4332,8 @@
         "screenshots",
         "current",
         "06"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4183,7 +4357,8 @@
         "docker",
         "01",
         "home"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4207,7 +4382,8 @@
         "design",
         "screenshots",
         "deployment"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4231,7 +4407,8 @@
         "docker",
         "03",
         "mobile"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4255,7 +4432,8 @@
         "design",
         "screenshots",
         "deployment"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4279,7 +4457,8 @@
         "design",
         "screenshots",
         "deployment"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4303,7 +4482,8 @@
         "220900.webp",
         "docs",
         "design"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4327,7 +4507,8 @@
         "product",
         "tour",
         "system"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4351,7 +4532,8 @@
         "30",
         "220910.png",
         "docs"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4375,7 +4557,8 @@
         "220844.png",
         "docs",
         "design"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4399,7 +4582,8 @@
         "tour",
         "home",
         "png"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4423,7 +4607,8 @@
         "220917.png",
         "docs",
         "design"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4447,7 +4632,8 @@
         "tour",
         "plugins",
         "png"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4471,7 +4657,8 @@
         "product",
         "tour",
         "studio"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4495,7 +4682,8 @@
         "product",
         "tour",
         "studio"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4519,7 +4707,8 @@
         "product",
         "tour",
         "studio"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4543,7 +4732,8 @@
         "screenshots",
         "product",
         "tour"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "docs-open-design",
@@ -4567,7 +4757,8 @@
         "design",
         "screenshots",
         "product"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4591,7 +4782,8 @@
         "screenshots",
         "product",
         "tour"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4615,7 +4807,8 @@
         "product",
         "tour",
         "studio"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4639,7 +4832,8 @@
         "screenshots",
         "product",
         "tour"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4663,7 +4857,8 @@
         "screenshots",
         "product",
         "tour"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4687,7 +4882,8 @@
         "product",
         "tour",
         "studio"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4711,7 +4907,8 @@
         "screenshots",
         "product",
         "tour"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4735,7 +4932,8 @@
         "dating",
         "web",
         "png"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4759,7 +4957,8 @@
         "skills",
         "deck",
         "editorial"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4783,7 +4982,8 @@
         "skills",
         "deck",
         "international"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4807,7 +5007,8 @@
         "digital",
         "eguide",
         "png"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4831,7 +5032,8 @@
         "skills",
         "doc",
         "parchment"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4855,7 +5057,8 @@
         "email",
         "marketing",
         "png"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4879,7 +5082,8 @@
         "screenshots",
         "skills",
         "flowai"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4903,7 +5107,8 @@
         "gamified",
         "app",
         "png"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4927,7 +5132,8 @@
         "github",
         "dashboard",
         "png"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4951,7 +5157,8 @@
         "live",
         "dashboard",
         "png"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4975,7 +5182,8 @@
         "magazine",
         "poster",
         "png"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -4999,7 +5207,8 @@
         "mobile",
         "onboarding",
         "png"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -5023,7 +5232,8 @@
         "motion",
         "frames",
         "png"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -5047,7 +5257,8 @@
         "skills",
         "research",
         "room"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -5071,7 +5282,8 @@
         "social",
         "carousel",
         "png"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -5095,7 +5307,8 @@
         "sprite",
         "animation",
         "png"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -5119,7 +5332,8 @@
         "video",
         "hyperframes",
         "png"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -5143,7 +5357,8 @@
         "waitlist",
         "page",
         "png"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -5167,7 +5382,8 @@
         "self",
         "registry",
         "md"
-      ]
+      ],
+      "description": "Self-hosting An OpenDesign Registry — An OpenDesign registry is a source of open-design-marketplace.json plus the"
     },
     {
       "type": "docs-open-design",
@@ -5191,7 +5407,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Contributing a Design Template — Want to read the shared SKILL.md protocol instead? See [ skills-protocol.md ](skills-protocol.md). This file is the how-to for…"
     },
     {
       "type": "docs-open-design",
@@ -5215,7 +5432,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Skills Protocol — Want to ship a skill upstream rather than read the protocol spec? See [ skills-contributing.md ](skills-contributing.md) — quick start, merge…"
     },
     {
       "type": "docs-open-design",
@@ -5238,7 +5456,8 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "OpenDesign — Historical Product Spec — Historical baseline: This document predates the implemented desktop and"
     },
     {
       "type": "docs-open-design",
@@ -5262,7 +5481,8 @@
         "docs",
         "design",
         "superpowers"
-      ]
+      ],
+      "description": "Linux Client Parity Plan — Issue: https://github.com/nexu-io/open-design/issues/709"
     },
     {
       "type": "docs-open-design",
@@ -5286,7 +5506,8 @@
         "flash",
         "vision",
         "exp.md"
-      ]
+      ],
+      "description": "Pricing DeepSeek V4 Flash Vision Exp Implementation Plan — For agentic workers: REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) o…"
     },
     {
       "type": "docs-open-design",
@@ -5310,7 +5531,8 @@
         "analytics.md",
         "docs",
         "design"
-      ]
+      ],
+      "description": "OpenDesign Authenticated Pricing Analytics Emitter Implementation Plan — For agentic workers: REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (…"
     },
     {
       "type": "docs-open-design",
@@ -5334,7 +5556,8 @@
         "bridge.md",
         "docs",
         "design"
-      ]
+      ],
+      "description": "Vela Authenticated Pricing Analytics Endpoint Implementation Plan — For agentic workers: REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recom…"
     },
     {
       "type": "docs-open-design",
@@ -5358,7 +5581,8 @@
         "flash",
         "vision",
         "exp"
-      ]
+      ],
+      "description": "Pricing 页新增 DeepSeek V4 Flash Vision Exp 设计说明 — 在 OpenDesign 公开 Pricing 页的个人套餐区域中新增 DeepSeek V4 Flash Vision Exp ，并明确它在 Go、Plus、Pro 和 Max 四个套餐中都可无限量使用。页面展示、展开后…"
     },
     {
       "type": "docs-open-design",
@@ -5382,7 +5606,8 @@
         "exposure",
         "design.md",
         "docs"
-      ]
+      ],
+      "description": "Restore Authenticated Pricing Funnel Analytics Design — Restore the Vela subscription funnel that was lost when the authenticated"
     },
     {
       "type": "docs-open-design",
@@ -5406,7 +5631,8 @@
         "design",
         "testing",
         "amr"
-      ]
+      ],
+      "description": "AMR 登录同步规则 — 本文档用于对齐 OpenDesign 与 Vela 网页钱包 在以下场景中的状态预期："
     },
     {
       "type": "docs-open-design",
@@ -5430,7 +5656,8 @@
         "testing",
         "amr",
         "cases"
-      ]
+      ],
+      "description": "AMR Functional Test Cases — This document covers manual functional verification for the AMR (vela) runtime on the feat/amr-runtime-acp branch."
     },
     {
       "type": "docs-open-design",
@@ -5454,7 +5681,8 @@
         "design",
         "testing",
         "amr"
-      ]
+      ],
+      "description": "AMR 功能测试用例 — 本文档用于 feat/amr-runtime-acp 分支的 AMR（vela）运行时手工功能验证。"
     },
     {
       "type": "docs-open-design",
@@ -5478,7 +5706,8 @@
         "amr",
         "contract",
         "md"
-      ]
+      ],
+      "description": "AMR prerelease runtime contract validation — This is the regression entry point for OPEND-2886. It distinguishes package"
     },
     {
       "type": "docs-open-design",
@@ -5502,7 +5731,8 @@
         "testing",
         "amr",
         "p0"
-      ]
+      ],
+      "description": "AMR P0 冒烟清单 — 本文档用于从完整 AMR 功能回归集中抽取最关键的 P0 / 必测 项，适合："
     },
     {
       "type": "docs-open-design",
@@ -5526,7 +5756,8 @@
         "codex",
         "streaming",
         "md"
-      ]
+      ],
+      "description": "Codex file preview compatibility and validation — OD consumes the official item/fileChange/patchUpdated notification from the"
     },
     {
       "type": "docs-open-design",
@@ -5550,7 +5781,8 @@
         "environment",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Environment evidence in diagnostics exports — The existing Export diagnostics action and od diagnostics export --json"
     },
     {
       "type": "docs-open-design",
@@ -5574,7 +5806,8 @@
         "coverage",
         "desktop",
         "md"
-      ]
+      ],
+      "description": "桌面端模块"
     },
     {
       "type": "docs-open-design",
@@ -5598,7 +5831,8 @@
         "coverage",
         "entry",
         "md"
-      ]
+      ],
+      "description": "入口模块"
     },
     {
       "type": "docs-open-design",
@@ -5622,7 +5856,8 @@
         "e2e",
         "coverage",
         "project"
-      ]
+      ],
+      "description": "项目管理模块"
     },
     {
       "type": "docs-open-design",
@@ -5646,7 +5881,8 @@
         "coverage",
         "readme",
         "md"
-      ]
+      ],
+      "description": "E2E 用例库 — 这个目录用于维护当前自动化测试覆盖的 QA 用例文档，主要索引 e2e/ 套件，并在必要处补充与同一用户流直接相关的 apps/web 组件测试。"
     },
     {
       "type": "docs-open-design",
@@ -5670,7 +5906,8 @@
         "coverage",
         "settings",
         "md"
-      ]
+      ],
+      "description": "设置模块"
     },
     {
       "type": "docs-open-design",
@@ -5694,7 +5931,8 @@
         "coverage",
         "status",
         "md"
-      ]
+      ],
+      "description": "E2E 状态 — 这份文档记录 e2e/ 当前的自动化测试分层、自动执行入口，以及我们有意保留的已知缺口。"
     },
     {
       "type": "docs-open-design",
@@ -5718,7 +5956,8 @@
         "coverage",
         "workspace",
         "md"
-      ]
+      ],
+      "description": "工作区模块"
     },
     {
       "type": "docs-open-design",
@@ -5742,7 +5981,8 @@
         "design",
         "testing",
         "home"
-      ]
+      ],
+      "description": "首页新增 E2E 覆盖点 — 本分支： test/home-entry-coverage"
     },
     {
       "type": "docs-open-design",
@@ -5766,7 +6006,8 @@
         "design",
         "testing",
         "html"
-      ]
+      ],
+      "description": "HTML 生成与预览覆盖矩阵（含 Express 路由回归缺口） — 当前仓库并不是“完全没有”覆盖项目内生成 HTML 文件和 HTML 预览，而是："
     },
     {
       "type": "docs-open-design",
@@ -5790,7 +6031,8 @@
         "design",
         "testing",
         "launch"
-      ]
+      ],
+      "description": "Launch Review 后新增 E2E 回归覆盖（main） — 这份文档汇总 main 分支基于 launch-review-since-0.8.0.md 补上的页面级 E2E 回归。"
     },
     {
       "type": "docs-open-design",
@@ -5814,7 +6056,8 @@
         "testing",
         "main",
         "alerts"
-      ]
+      ],
+      "description": "Main CI 告警处理规则 — 这份文档约定 main 分支全量 CI 失败后的告警范围、消息内容和处理方式。目标只有一个： main 挂掉时，相关负责人能尽快看到并恢复为绿色。"
     },
     {
       "type": "docs-open-design",
@@ -5838,7 +6081,8 @@
         "testing",
         "plugin",
         "cases"
-      ]
+      ],
+      "description": "Plugin Registry 评测集用例 — 这份用例集把 registry 产品心智转成可回归的断言： Sources 只接收"
     },
     {
       "type": "docs-open-design",
@@ -5862,7 +6106,8 @@
         "testing",
         "plugin",
         "suite"
-      ]
+      ],
+      "description": "Plugin System 测试集与验收指南 — 这份文档覆盖 docs/plugins-spec.md 、 docs/plans/plugin-registry.md 、 docs/plans/plugins-implementation.md"
     },
     {
       "type": "docs-open-design",
@@ -5886,7 +6131,8 @@
         "acceptance",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Deliverable syntax: local acceptance and outcome metrics — This runbook validates the branch's actual daemon before a PR or remote evaluation."
     },
     {
       "type": "docs-open-design",
@@ -5910,7 +6156,8 @@
         "test",
         "efficiency",
         "zh"
-      ]
+      ],
+      "description": "测试效率与确定性 — 本文记录当前测试实现与评审应遵守的效率规则。目标是在不降低隔离性、"
     },
     {
       "type": "docs-open-design",
@@ -5934,7 +6181,8 @@
         "tool",
         "streaming",
         "md"
-      ]
+      ],
+      "description": "Long tool arguments: local CLI acceptance — The red line is a visible tool row before arguments finish generating ."
     },
     {
       "type": "docs-open-design",
@@ -5958,7 +6206,8 @@
         "lifecycle",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Install + updater lifecycle coverage map — The single reference for where every install/updater lifecycle node is tested."
     },
     {
       "type": "docs-open-design",
@@ -5982,7 +6231,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "🔥 OpenDesign 0.8.0-preview — Design's old world ends here. Help us build the new one. — Status: Now landed on main · 0.8.0 release tag coming up · feedback st…"
     },
     {
       "type": "docs-open-design",
@@ -6006,7 +6256,8 @@
         "announcement",
         "zh",
         "cn"
-      ]
+      ],
+      "description": "🔥 OpenDesign 0.8.0-preview —— 设计的旧世界，到此为止。新世界，和我们一起造。 — 状态： 已合并进 main · 0.8.0 正式版 tag 即将到来 · 反馈仍然欢迎"
     },
     {
       "type": "docs-open-design",
@@ -6030,7 +6281,8 @@
         "json",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "The OpenDesign Product Design Hackathon is here!"
     },
     {
       "type": "docs-open-design",
@@ -6054,7 +6306,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Post-update \"What's New\" card — After the app comes back on a new version (a desktop update + restart, or a web"
     },
     {
       "type": "docs-open-design",
@@ -6078,7 +6331,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Windows Troubleshooting Guide — OpenDesign runs on Windows natively, but the path is less travelled than macOS, Linux, or WSL2. This guide covers the most comm…"
     },
     {
       "type": "docs-open-design",
@@ -6102,7 +6356,8 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "WSL2 Setup Guide — Use this guide when your coding-agent CLIs run inside WSL2. In that setup,"
     },
     {
       "type": "docs-ui-ux-pro-max",
@@ -6126,7 +6381,8 @@
         "md",
         "ui-ux-pro-max",
         "general"
-      ]
+      ],
+      "description": "CLAUDE.md — This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository."
     },
     {
       "type": "docs-ui-ux-pro-max",
@@ -6150,7 +6406,8 @@
         "max",
         "code",
         "conduct"
-      ]
+      ],
+      "description": "Contributor Covenant Code of Conduct — We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for …"
     },
     {
       "type": "docs-ui-ux-pro-max",
@@ -6174,7 +6431,8 @@
         "md",
         "ui-ux-pro-max",
         "general"
-      ]
+      ],
+      "description": "Contributing to UI/UX Pro Max — Thank you for taking the time to contribute! 🎉"
     },
     {
       "type": "docs-ui-ux-pro-max",
@@ -6198,7 +6456,8 @@
         "quality",
         "planning.md",
         "docs"
-      ]
+      ],
+      "description": "Planning Stopped Us from Making Search Worse — We completed a nine-phase overhaul plan, not an implementation. Data expansion was gated behind a human-judged r…"
     },
     {
       "type": "docs-ui-ux-pro-max",
@@ -6222,7 +6481,8 @@
         "accessibility",
         "refresh.md",
         "docs"
-      ]
+      ],
+      "description": "Phase 6 Passed Only After the Review Found What Gates Missed — Phase 6 refreshed search-facing accessibility contracts across colors, charts, UX guidance, land…"
     },
     {
       "type": "docs-ui-ux-pro-max",
@@ -6246,7 +6506,8 @@
         "web",
         "stack",
         "freshness.md"
-      ]
+      ],
+      "description": "Phase 7 Nearly Shipped Fresh Labels on Stale Framework Advice — Phase 7 refreshed 589 rows across React, Next.js, Vue, Svelte, Astro, Angular, Tailwind, shadcn…"
     },
     {
       "type": "docs-ui-ux-pro-max",
@@ -6270,7 +6531,8 @@
         "overhaul",
         "completion.md",
         "docs"
-      ]
+      ],
+      "description": "Search and Data Overhaul Finished, but Green Was Not Enough — The nine-phase overhaul audited BM25 routing, query interpretation, agent guidance, CSV quality, …"
     },
     {
       "type": "docs-ui-ux-pro-max",
@@ -6294,7 +6556,8 @@
         "id",
         "md",
         "ui-ux-pro-max"
-      ]
+      ],
+      "description": "[UI UX Pro Max](https://uupm.cc) — 🇮🇩 Bahasa Indonesia |"
     },
     {
       "type": "docs-ui-ux-pro-max",
@@ -6318,7 +6581,8 @@
         "ko",
         "md",
         "ui-ux-pro-max"
-      ]
+      ],
+      "description": "[UI UX Pro Max](https://uupm.cc) — 🇮🇩 Bahasa Indonesia |"
     },
     {
       "type": "docs-ui-ux-pro-max",
@@ -6342,7 +6606,8 @@
         "md",
         "ui-ux-pro-max",
         "general"
-      ]
+      ],
+      "description": "[UI UX Pro Max](https://uupm.cc) — 🇮🇩 Bahasa Indonesia |"
     },
     {
       "type": "docs-ui-ux-pro-max",
@@ -6366,7 +6631,8 @@
         "vi",
         "md",
         "ui-ux-pro-max"
-      ]
+      ],
+      "description": "[UI UX Pro Max](https://uupm.cc) — 🇮🇩 Bahasa Indonesia |"
     },
     {
       "type": "docs-ui-ux-pro-max",
@@ -6390,7 +6656,8 @@
         "zh",
         "md",
         "ui-ux-pro-max"
-      ]
+      ],
+      "description": "[UI UX Pro Max](https://uupm.cc) — 🇮🇩 Bahasa Indonesia |"
     },
     {
       "type": "docs-ui-ux-pro-max",
@@ -6414,7 +6681,8 @@
         "md",
         "ui-ux-pro-max",
         "general"
-      ]
+      ],
+      "description": "Security Policy — Only the latest released version of ui-ux-pro-max-cli and the latest main branch of this skill receive security fixes."
     },
     {
       "type": "docs-ui-ux-pro-max",
@@ -6438,7 +6706,8 @@
         "json",
         "ui-ux-pro-max",
         "general"
-      ]
+      ],
+      "description": "AI-powered design intelligence with 79 UI styles, 192 color palettes, 74 font pairings, 119 UX guidelines, and 25 chart types across 22 tech stacks."
     },
     {
       "type": "docs-ui-ux-pro-max",
@@ -6462,7 +6731,8 @@
         "max",
         "三个 data",
         "templates 的区别"
-      ]
+      ],
+      "description": "三处 data / scripts / templates 的区别 — 这样 data、scripts 和 templates 只在 src 维护，镜像目录由同步脚本更新。"
     },
     {
       "type": "docs-untitledui.md",
@@ -6481,7 +6751,8 @@
         "untitledui",
         "md",
         "general"
-      ]
+      ],
+      "description": "Untitled UI Integration Guide — Untitled UI is the world's most popular UI kit and design system, built for Figma and React with Tailwind CSS and React Aria."
     }
   ]
 }

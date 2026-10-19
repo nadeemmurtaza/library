@@ -21,7 +21,8 @@
         "marketing",
         "daisyui"
       ],
-      "example": "styles/components/footer/footer.example.html"
+      "example": "styles/components/footer/footer.example.html",
+      "description": "footer stylesheet (daisyUI)"
     },
     {
       "type": "component-daisyui",
@@ -45,7 +46,8 @@
         "section",
         "landing"
       ],
-      "example": "styles/components/hero/hero.example.html"
+      "example": "styles/components/hero/hero.example.html",
+      "description": "hero stylesheet (daisyUI)"
     },
     {
       "type": "design-trend",
@@ -72,7 +74,9 @@
       ],
       "demo": "design-trends/heroic-realism/heroic-realism.demo.html",
       "demoCss": "design-trends/heroic-realism/heroic-realism.demo.css",
-      "screenshot": "design-trends/heroic-realism/heroic-realism.screenshot.avif"
+      "screenshot": "design-trends/heroic-realism/heroic-realism.screenshot.avif",
+      "description": "Heroic Realism UI design style — Idealized naturalistic figures become monumental symbols of strength, labor, unity, and progress in the legible, emotionally d…",
+      "unit": "design-trends/heroic-realism"
     },
     {
       "type": "template-landing",
@@ -95,7 +99,8 @@
         "tsx",
         "marketing",
         "local"
-      ]
+      ],
+      "description": "exports SaasLandingTemplate"
     },
     {
       "type": "template-marketing",
@@ -119,7 +124,8 @@
         "tsx",
         "local",
         "full-page"
-      ]
+      ],
+      "description": "exports ContactPageTemplate"
     },
     {
       "type": "template-open-design-design-templates",
@@ -143,7 +149,9 @@
         "example",
         "html",
         "open-design-design-templates"
-      ]
+      ],
+      "description": "Why we rewrote our sync engine in Rust — Filebase",
+      "unit": "templates/open-design-design-templates/blog-post"
     },
     {
       "type": "template-open-design-design-templates",
@@ -167,7 +175,9 @@
         "skill",
         "md",
         "open-design-design-templates"
-      ]
+      ],
+      "description": "A long-form article / blog post — masthead, hero image placeholder,",
+      "unit": "templates/open-design-design-templates/blog-post"
     },
     {
       "type": "template-open-design-design-templates",
@@ -191,7 +201,9 @@
         "example",
         "html",
         "open-design-design-templates"
-      ]
+      ],
+      "description": "Contact Widget — Example",
+      "unit": "templates/open-design-design-templates/contact-widget"
     },
     {
       "type": "template-open-design-design-templates",
@@ -215,7 +227,9 @@
         "skill",
         "md",
         "open-design-design-templates"
-      ]
+      ],
+      "description": "\"Self-contained floating chat widget with welcome screen, social links, meeting button, and message input. Single HTML file, zero dependencies.\"",
+      "unit": "templates/open-design-design-templates/contact-widget"
     },
     {
       "type": "template-open-design-design-templates",
@@ -239,7 +253,9 @@
         "example",
         "html",
         "open-design-design-templates"
-      ]
+      ],
+      "description": "SPORT TEST — Meet the Axis Pro",
+      "unit": "templates/open-design-design-templates/email-marketing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -263,7 +279,9 @@
         "skill",
         "md",
         "open-design-design-templates"
-      ]
+      ],
+      "description": "A brand product-launch email — masthead with wordmark, hero image block,",
+      "unit": "templates/open-design-design-templates/email-marketing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -287,7 +305,9 @@
         "ppt",
         "single",
         "page"
-      ]
+      ],
+      "description": "CTA",
+      "unit": "templates/open-design-design-templates/html-ppt"
     },
     {
       "type": "template-open-design-design-templates",
@@ -311,7 +331,9 @@
         "html",
         "ppt",
         "single"
-      ]
+      ],
+      "description": "Image Hero",
+      "unit": "templates/open-design-design-templates/html-ppt"
     },
     {
       "type": "template-open-design-design-templates",
@@ -335,7 +357,9 @@
         "example",
         "html",
         "open-design-design-templates"
-      ]
+      ],
+      "description": "OpenDesign as a kami one-pager. Warm parchment canvas, ink-blue accent, serif at one weight, no italic, no cool grays.",
+      "unit": "templates/open-design-design-templates/kami-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -359,7 +383,9 @@
         "readme",
         "md",
         "open-design-design-templates"
-      ]
+      ],
+      "description": "kami-landing — A drop-in skill that turns a brief into a print-grade kami one-pager —",
+      "unit": "templates/open-design-design-templates/kami-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -383,7 +409,9 @@
         "skill",
         "md",
         "open-design-design-templates"
-      ]
+      ],
+      "description": "Produce a print-grade single-page kami (紙 / 纸) document — warm",
+      "unit": "templates/open-design-design-templates/kami-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -407,7 +435,9 @@
         "about",
         "png",
         "open-design-design-templates"
-      ]
+      ],
+      "description": "image file",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -431,7 +461,9 @@
         "agents",
         "anthropic",
         "svg"
-      ]
+      ],
+      "description": "svg graphic",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -455,7 +487,9 @@
         "agents",
         "deepseek",
         "svg"
-      ]
+      ],
+      "description": "svg graphic",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -479,7 +513,9 @@
         "agents",
         "gemini",
         "svg"
-      ]
+      ],
+      "description": "svg graphic",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -503,7 +539,9 @@
         "agents",
         "minimax",
         "svg"
-      ]
+      ],
+      "description": "svg graphic",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -527,7 +565,9 @@
         "agents",
         "moonshot",
         "svg"
-      ]
+      ],
+      "description": "svg graphic",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -551,7 +591,9 @@
         "agents",
         "openai",
         "svg"
-      ]
+      ],
+      "description": "svg graphic",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -575,7 +617,9 @@
         "agents",
         "qwen",
         "svg"
-      ]
+      ],
+      "description": "svg graphic",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -599,7 +643,9 @@
         "agents",
         "xai",
         "svg"
-      ]
+      ],
+      "description": "svg graphic",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -623,7 +669,9 @@
         "agents",
         "xiaomi",
         "svg"
-      ]
+      ],
+      "description": "svg graphic",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -647,7 +695,9 @@
         "agents",
         "zhipu",
         "svg"
-      ]
+      ],
+      "description": "svg graphic",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -671,7 +721,9 @@
         "capabilities",
         "png",
         "open-design-design-templates"
-      ]
+      ],
+      "description": "image file",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -695,7 +747,9 @@
         "cta",
         "png",
         "open-design-design-templates"
-      ]
+      ],
+      "description": "image file",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -719,7 +773,9 @@
         "hero",
         "png",
         "open-design-design-templates"
-      ]
+      ],
+      "description": "image file",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -743,7 +799,9 @@
         "assets",
         "image",
         "manifest"
-      ]
+      ],
+      "description": "keys: $schema, skill, design system, default quality, slots",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -767,7 +825,9 @@
         "assets",
         "imagegen",
         "prompts"
-      ]
+      ],
+      "description": "Atelier Zero — Image Generation Prompt Pack — This pack is consumed by the open-design-landing skill. Every page-level",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -791,7 +851,9 @@
         "assets",
         "lab",
         "png"
-      ]
+      ],
+      "description": "image file",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -815,7 +877,9 @@
         "assets",
         "lab",
         "png"
-      ]
+      ],
+      "description": "image file",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -839,7 +903,9 @@
         "assets",
         "lab",
         "png"
-      ]
+      ],
+      "description": "image file",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -863,7 +929,9 @@
         "assets",
         "lab",
         "png"
-      ]
+      ],
+      "description": "image file",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -887,7 +955,9 @@
         "assets",
         "lab",
         "png"
-      ]
+      ],
+      "description": "image file",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -911,7 +981,9 @@
         "assets",
         "method",
         "png"
-      ]
+      ],
+      "description": "image file",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -935,7 +1007,9 @@
         "assets",
         "method",
         "png"
-      ]
+      ],
+      "description": "image file",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -959,7 +1033,9 @@
         "assets",
         "method",
         "png"
-      ]
+      ],
+      "description": "image file",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -983,7 +1059,9 @@
         "assets",
         "method",
         "png"
-      ]
+      ],
+      "description": "image file",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -1007,7 +1085,9 @@
         "testimonial",
         "png",
         "open-design-design-templates"
-      ]
+      ],
+      "description": "image file",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -1031,7 +1111,9 @@
         "assets",
         "work",
         "png"
-      ]
+      ],
+      "description": "image file",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -1055,7 +1137,9 @@
         "assets",
         "work",
         "png"
-      ]
+      ],
+      "description": "image file",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -1079,7 +1163,9 @@
         "html",
         "open-design-design-templates",
         "marketing"
-      ]
+      ],
+      "description": "OpenDesign is the open-source alternative to Claude Design. 12 coding-agent CLIs · 31 composable skills · 72 brand-grade design systems. Local-first, web-deplo…",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -1103,7 +1189,9 @@
         "example",
         "json",
         "open-design-design-templates"
-      ]
+      ],
+      "description": "keys: $schema, doc, brand, nav, rules, hero, about, capabilities",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -1127,7 +1215,9 @@
         "md",
         "open-design-design-templates",
         "marketing"
-      ]
+      ],
+      "description": "open-design-landing — Reusable design template that produces a world-class editorial landing page in",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -1151,7 +1241,9 @@
         "ts",
         "open-design-design-templates",
         "marketing"
-      ]
+      ],
+      "description": "open-design-landing — input schema. This is the contract between users and scripts/compose.ts . A valid inputs.json matching EditorialCollageInputs is enough t…",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -1175,7 +1267,9 @@
         "compose",
         "ts",
         "open-design-design-templates"
-      ]
+      ],
+      "description": "open-design-landing — HTML composer. Reads inputs.json (matching ../schema.ts ) and writes a single self-contained HTML file with the Atelier Zero stylesheet i…",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -1199,7 +1293,9 @@
         "imagegen",
         "ts",
         "open-design-design-templates"
-      ]
+      ],
+      "description": "open-design-landing — gpt-image-2 generator (fal.ai backend). Generates the 16 collage assets defined in assets/image-manifest.json by composing per-slot promp…",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -1223,7 +1319,9 @@
         "placeholder",
         "ts",
         "open-design-design-templates"
-      ]
+      ],
+      "description": "open-design-landing — SVG framework placeholder generator. When imagery.strategy === 'placeholder' , this script writes one paper-textured SVG file per slot in…",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -1247,7 +1345,9 @@
         "md",
         "open-design-design-templates",
         "marketing"
-      ]
+      ],
+      "description": "Produce a world-class single-page editorial landing site in the",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -1271,7 +1371,9 @@
         "css",
         "open-design-design-templates",
         "marketing"
-      ]
+      ],
+      "description": "Atelier Zero — canonical landing-page stylesheet. This file is the SINGLE SOURCE OF TRUTH for the open-design-landing skill's visual system. It is consumed by:…",
+      "unit": "templates/open-design-design-templates/open-design-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -1295,7 +1397,9 @@
         "example",
         "html",
         "open-design-design-templates"
-      ]
+      ],
+      "description": "OpenDesign pitch deck — Vol. 01.",
+      "unit": "templates/open-design-design-templates/open-design-landing-deck"
     },
     {
       "type": "template-open-design-design-templates",
@@ -1319,7 +1423,9 @@
         "inputs",
         "example",
         "json"
-      ]
+      ],
+      "description": "keys: $schema, doc, brand, deck title, slides, imagery",
+      "unit": "templates/open-design-design-templates/open-design-landing-deck"
     },
     {
       "type": "template-open-design-design-templates",
@@ -1343,7 +1449,9 @@
         "readme",
         "md",
         "open-design-design-templates"
-      ]
+      ],
+      "description": "open-design-landing-deck — Sister design template to [ open-design-landing ](../open-design-landing/).",
+      "unit": "templates/open-design-design-templates/open-design-landing-deck"
     },
     {
       "type": "template-open-design-design-templates",
@@ -1367,7 +1475,9 @@
         "schema",
         "ts",
         "open-design-design-templates"
-      ]
+      ],
+      "description": "open-design-landing-deck — input schema. Sister skill to open-design-landing . Produces a single-file slide deck (horizontal swipe pagination, magazine-style) …",
+      "unit": "templates/open-design-design-templates/open-design-landing-deck"
     },
     {
       "type": "template-open-design-design-templates",
@@ -1391,7 +1501,9 @@
         "scripts",
         "compose",
         "ts"
-      ]
+      ],
+      "description": "open-design-landing-deck — slide deck composer. Reads inputs.json (matching ../schema.ts ) and writes a single self-contained HTML file: a horizontal magazine-…",
+      "unit": "templates/open-design-design-templates/open-design-landing-deck"
     },
     {
       "type": "template-open-design-design-templates",
@@ -1415,7 +1527,9 @@
         "skill",
         "md",
         "open-design-design-templates"
-      ]
+      ],
+      "description": "OpenDesign's brand-story deck for partners and press: why it exists, what it believes, and where design is going. Built as a decision-grade marketing & GTM dec…",
+      "unit": "templates/open-design-design-templates/open-design-landing-deck"
     },
     {
       "type": "template-open-design-design-templates",
@@ -1439,7 +1553,9 @@
         "example",
         "html",
         "open-design-design-templates"
-      ]
+      ],
+      "description": "Pricing — Filebase",
+      "unit": "templates/open-design-design-templates/pricing-page"
     },
     {
       "type": "template-open-design-design-templates",
@@ -1463,7 +1579,9 @@
         "skill",
         "md",
         "open-design-design-templates"
-      ]
+      ],
+      "description": "A standalone pricing page — header, plan tiers, feature comparison table,",
+      "unit": "templates/open-design-design-templates/pricing-page"
     },
     {
       "type": "template-open-design-design-templates",
@@ -1487,7 +1605,9 @@
         "example",
         "html",
         "open-design-design-templates"
-      ]
+      ],
+      "description": "Filebase — sync that respects your bandwidth",
+      "unit": "templates/open-design-design-templates/saas-landing"
     },
     {
       "type": "template-open-design-design-templates",
@@ -1511,7 +1631,9 @@
         "skill",
         "md",
         "open-design-design-templates"
-      ]
+      ],
+      "description": "Single-page SaaS landing with hero, features, social proof, pricing, and CTA.",
+      "unit": "templates/open-design-design-templates/saas-landing"
     },
     {
       "type": "template-pages",
@@ -1535,7 +1657,8 @@
         "tsx",
         "marketing",
         "local"
-      ]
+      ],
+      "description": "exports LandingSaasPage"
     },
     {
       "type": "design-system-open-design",
@@ -1559,7 +1682,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Agentic - Landing page",
+      "unit": "design-systems/open-design/agentic"
     },
     {
       "type": "design-system-open-design",
@@ -1583,7 +1708,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Airbnb - Landing page",
+      "unit": "design-systems/open-design/airbnb"
     },
     {
       "type": "design-system-open-design",
@@ -1607,7 +1734,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Airtable - Landing page",
+      "unit": "design-systems/open-design/airtable"
     },
     {
       "type": "design-system-open-design",
@@ -1631,7 +1760,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Ant - Landing page",
+      "unit": "design-systems/open-design/ant"
     },
     {
       "type": "design-system-open-design",
@@ -1655,7 +1786,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Apple - Landing page",
+      "unit": "design-systems/open-design/apple"
     },
     {
       "type": "design-system-open-design",
@@ -1679,7 +1812,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Application - Landing page",
+      "unit": "design-systems/open-design/application"
     },
     {
       "type": "design-system-open-design",
@@ -1703,7 +1838,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Arc Browser - Landing page",
+      "unit": "design-systems/open-design/arc"
     },
     {
       "type": "design-system-open-design",
@@ -1727,7 +1864,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Artistic - Landing page",
+      "unit": "design-systems/open-design/artistic"
     },
     {
       "type": "design-system-open-design",
@@ -1751,7 +1890,9 @@
         "system",
         "artifacts",
         "landing"
-      ]
+      ],
+      "description": "Atelier Zero - Landing page",
+      "unit": "design-systems/open-design/atelier-zero"
     },
     {
       "type": "design-system-open-design",
@@ -1775,7 +1916,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Bento - Landing page",
+      "unit": "design-systems/open-design/bento"
     },
     {
       "type": "design-system-open-design",
@@ -1799,7 +1942,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Binance.US - Landing page",
+      "unit": "design-systems/open-design/binance"
     },
     {
       "type": "design-system-open-design",
@@ -1823,7 +1968,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "BMW - Landing page",
+      "unit": "design-systems/open-design/bmw"
     },
     {
       "type": "design-system-open-design",
@@ -1847,7 +1994,9 @@
         "artifacts",
         "landing",
         "html"
-      ]
+      ],
+      "description": "BMW M - Landing page",
+      "unit": "design-systems/open-design/bmw-m"
     },
     {
       "type": "design-system-open-design",
@@ -1871,7 +2020,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Bold - Landing page",
+      "unit": "design-systems/open-design/bold"
     },
     {
       "type": "design-system-open-design",
@@ -1895,7 +2046,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Brutalism - Landing page",
+      "unit": "design-systems/open-design/brutalism"
     },
     {
       "type": "design-system-open-design",
@@ -1919,7 +2072,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Bugatti - Landing page",
+      "unit": "design-systems/open-design/bugatti"
     },
     {
       "type": "design-system-open-design",
@@ -1943,7 +2098,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Cafe - Landing page",
+      "unit": "design-systems/open-design/cafe"
     },
     {
       "type": "design-system-open-design",
@@ -1967,7 +2124,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Cal.com - Landing page",
+      "unit": "design-systems/open-design/cal"
     },
     {
       "type": "design-system-open-design",
@@ -1991,7 +2150,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Canva - Landing page",
+      "unit": "design-systems/open-design/canva"
     },
     {
       "type": "design-system-open-design",
@@ -2015,7 +2176,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Cisco - Landing page",
+      "unit": "design-systems/open-design/cisco"
     },
     {
       "type": "design-system-open-design",
@@ -2039,7 +2202,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Claude (Anthropic) - Landing page",
+      "unit": "design-systems/open-design/claude"
     },
     {
       "type": "design-system-open-design",
@@ -2063,7 +2228,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Clay - Landing page",
+      "unit": "design-systems/open-design/clay"
     },
     {
       "type": "design-system-open-design",
@@ -2087,7 +2254,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Claymorphism - Landing page",
+      "unit": "design-systems/open-design/claymorphism"
     },
     {
       "type": "design-system-open-design",
@@ -2111,7 +2280,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Clean - Landing page",
+      "unit": "design-systems/open-design/clean"
     },
     {
       "type": "design-system-open-design",
@@ -2135,7 +2306,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "ClickHouse - Landing page",
+      "unit": "design-systems/open-design/clickhouse"
     },
     {
       "type": "design-system-open-design",
@@ -2159,7 +2332,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Cohere - Landing page",
+      "unit": "design-systems/open-design/cohere"
     },
     {
       "type": "design-system-open-design",
@@ -2183,7 +2358,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Coinbase - Landing page",
+      "unit": "design-systems/open-design/coinbase"
     },
     {
       "type": "design-system-open-design",
@@ -2207,7 +2384,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Colorful - Landing page",
+      "unit": "design-systems/open-design/colorful"
     },
     {
       "type": "design-system-open-design",
@@ -2231,7 +2410,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Composio - Landing page",
+      "unit": "design-systems/open-design/composio"
     },
     {
       "type": "design-system-open-design",
@@ -2255,7 +2436,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Contemporary - Landing page",
+      "unit": "design-systems/open-design/contemporary"
     },
     {
       "type": "design-system-open-design",
@@ -2279,7 +2462,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Corporate - Landing page",
+      "unit": "design-systems/open-design/corporate"
     },
     {
       "type": "design-system-open-design",
@@ -2303,7 +2488,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Cosmic - Landing page",
+      "unit": "design-systems/open-design/cosmic"
     },
     {
       "type": "design-system-open-design",
@@ -2327,7 +2514,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Creative - Landing page",
+      "unit": "design-systems/open-design/creative"
     },
     {
       "type": "design-system-open-design",
@@ -2351,7 +2540,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Cursor - Landing page",
+      "unit": "design-systems/open-design/cursor"
     },
     {
       "type": "design-system-open-design",
@@ -2375,7 +2566,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Dashboard - Landing page",
+      "unit": "design-systems/open-design/dashboard"
     },
     {
       "type": "design-system-open-design",
@@ -2399,7 +2592,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Neutral Modern - Landing page",
+      "unit": "design-systems/open-design/default"
     },
     {
       "type": "design-system-open-design",
@@ -2423,7 +2618,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Discord - Landing page",
+      "unit": "design-systems/open-design/discord"
     },
     {
       "type": "design-system-open-design",
@@ -2447,7 +2644,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Dithered - Landing page",
+      "unit": "design-systems/open-design/dithered"
     },
     {
       "type": "design-system-open-design",
@@ -2471,7 +2670,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Doodle - Landing page",
+      "unit": "design-systems/open-design/doodle"
     },
     {
       "type": "design-system-open-design",
@@ -2495,7 +2696,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Dramatic - Landing page",
+      "unit": "design-systems/open-design/dramatic"
     },
     {
       "type": "design-system-open-design",
@@ -2519,7 +2722,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Duolingo - Landing page",
+      "unit": "design-systems/open-design/duolingo"
     },
     {
       "type": "design-system-open-design",
@@ -2543,7 +2748,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Editorial - Landing page",
+      "unit": "design-systems/open-design/editorial"
     },
     {
       "type": "design-system-open-design",
@@ -2567,7 +2774,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Elegant - Landing page",
+      "unit": "design-systems/open-design/elegant"
     },
     {
       "type": "design-system-open-design",
@@ -2591,7 +2800,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "ElevenLabs - Landing page",
+      "unit": "design-systems/open-design/elevenlabs"
     },
     {
       "type": "design-system-open-design",
@@ -2615,7 +2826,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Energetic - Landing page",
+      "unit": "design-systems/open-design/energetic"
     },
     {
       "type": "design-system-open-design",
@@ -2639,7 +2852,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Enterprise - Landing page",
+      "unit": "design-systems/open-design/enterprise"
     },
     {
       "type": "design-system-open-design",
@@ -2663,7 +2878,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Expo - Landing page",
+      "unit": "design-systems/open-design/expo"
     },
     {
       "type": "design-system-open-design",
@@ -2687,7 +2904,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Expressive - Landing page",
+      "unit": "design-systems/open-design/expressive"
     },
     {
       "type": "design-system-open-design",
@@ -2711,7 +2930,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Fantasy - Landing page",
+      "unit": "design-systems/open-design/fantasy"
     },
     {
       "type": "design-system-open-design",
@@ -2735,7 +2956,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Ferrari - Landing page",
+      "unit": "design-systems/open-design/ferrari"
     },
     {
       "type": "design-system-open-design",
@@ -2759,7 +2982,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Figma - Landing page",
+      "unit": "design-systems/open-design/figma"
     },
     {
       "type": "design-system-open-design",
@@ -2783,7 +3008,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Flat - Landing page",
+      "unit": "design-systems/open-design/flat"
     },
     {
       "type": "design-system-open-design",
@@ -2807,7 +3034,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Framer - Landing page",
+      "unit": "design-systems/open-design/framer"
     },
     {
       "type": "design-system-open-design",
@@ -2831,7 +3060,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Friendly - Landing page",
+      "unit": "design-systems/open-design/friendly"
     },
     {
       "type": "design-system-open-design",
@@ -2855,7 +3086,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Futuristic - Landing page",
+      "unit": "design-systems/open-design/futuristic"
     },
     {
       "type": "design-system-open-design",
@@ -2879,7 +3112,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "GitHub - Landing page",
+      "unit": "design-systems/open-design/github"
     },
     {
       "type": "design-system-open-design",
@@ -2903,7 +3138,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Glassmorphism - Landing page",
+      "unit": "design-systems/open-design/glassmorphism"
     },
     {
       "type": "design-system-open-design",
@@ -2927,7 +3164,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Gradient - Landing page",
+      "unit": "design-systems/open-design/gradient"
     },
     {
       "type": "design-system-open-design",
@@ -2951,7 +3190,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "HashiCorp - Landing page",
+      "unit": "design-systems/open-design/hashicorp"
     },
     {
       "type": "design-system-open-design",
@@ -2975,7 +3216,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "HUD Design System - Landing page",
+      "unit": "design-systems/open-design/hud"
     },
     {
       "type": "design-system-open-design",
@@ -2999,7 +3242,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Hugging Face - Landing page",
+      "unit": "design-systems/open-design/huggingface"
     },
     {
       "type": "design-system-open-design",
@@ -3023,7 +3268,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "IBM - Landing page",
+      "unit": "design-systems/open-design/ibm"
     },
     {
       "type": "design-system-open-design",
@@ -3047,7 +3294,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Intercom - Landing page",
+      "unit": "design-systems/open-design/intercom"
     },
     {
       "type": "design-system-open-design",
@@ -3071,7 +3320,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "kami (紙 / 纸) - Landing page",
+      "unit": "design-systems/open-design/kami"
     },
     {
       "type": "design-system-open-design",
@@ -3095,7 +3346,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Kraken - Landing page",
+      "unit": "design-systems/open-design/kraken"
     },
     {
       "type": "design-system-open-design",
@@ -3119,7 +3372,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Lamborghini - Landing page",
+      "unit": "design-systems/open-design/lamborghini"
     },
     {
       "type": "design-system-open-design",
@@ -3143,7 +3398,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Levels - Landing page",
+      "unit": "design-systems/open-design/levels"
     },
     {
       "type": "design-system-open-design",
@@ -3167,7 +3424,9 @@
         "system",
         "artifacts",
         "landing"
-      ]
+      ],
+      "description": "Linear - Landing page",
+      "unit": "design-systems/open-design/linear-app"
     },
     {
       "type": "design-system-open-design",
@@ -3191,7 +3450,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Lingo - Landing page",
+      "unit": "design-systems/open-design/lingo"
     },
     {
       "type": "design-system-open-design",
@@ -3215,7 +3476,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Loom Design System - Landing page",
+      "unit": "design-systems/open-design/loom"
     },
     {
       "type": "design-system-open-design",
@@ -3239,7 +3502,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Lovable - Landing page",
+      "unit": "design-systems/open-design/lovable"
     },
     {
       "type": "design-system-open-design",
@@ -3263,7 +3528,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Luxury - Landing page",
+      "unit": "design-systems/open-design/luxury"
     },
     {
       "type": "design-system-open-design",
@@ -3287,7 +3554,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Material - Landing page",
+      "unit": "design-systems/open-design/material"
     },
     {
       "type": "design-system-open-design",
@@ -3311,7 +3580,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Meta (Store) - Landing page",
+      "unit": "design-systems/open-design/meta"
     },
     {
       "type": "design-system-open-design",
@@ -3335,7 +3606,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Minimal - Landing page",
+      "unit": "design-systems/open-design/minimal"
     },
     {
       "type": "design-system-open-design",
@@ -3359,7 +3632,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "MiniMax - Landing page",
+      "unit": "design-systems/open-design/minimax"
     },
     {
       "type": "design-system-open-design",
@@ -3383,7 +3658,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Mintlify - Landing page",
+      "unit": "design-systems/open-design/mintlify"
     },
     {
       "type": "design-system-open-design",
@@ -3407,7 +3684,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Miro - Landing page",
+      "unit": "design-systems/open-design/miro"
     },
     {
       "type": "design-system-open-design",
@@ -3431,7 +3710,9 @@
         "system",
         "artifacts",
         "landing"
-      ]
+      ],
+      "description": "Mission Control Design System - Landing page",
+      "unit": "design-systems/open-design/mission-control"
     },
     {
       "type": "design-system-open-design",
@@ -3455,7 +3736,9 @@
         "system",
         "artifacts",
         "landing"
-      ]
+      ],
+      "description": "Mistral AI - Landing page",
+      "unit": "design-systems/open-design/mistral-ai"
     },
     {
       "type": "design-system-open-design",
@@ -3479,7 +3762,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Modern - Landing page",
+      "unit": "design-systems/open-design/modern"
     },
     {
       "type": "design-system-open-design",
@@ -3503,7 +3788,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "MongoDB - Landing page",
+      "unit": "design-systems/open-design/mongodb"
     },
     {
       "type": "design-system-open-design",
@@ -3527,7 +3814,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Mono - Landing page",
+      "unit": "design-systems/open-design/mono"
     },
     {
       "type": "design-system-open-design",
@@ -3551,7 +3840,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Neobrutalism - Landing page",
+      "unit": "design-systems/open-design/neobrutalism"
     },
     {
       "type": "design-system-open-design",
@@ -3575,7 +3866,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Neon - Landing page",
+      "unit": "design-systems/open-design/neon"
     },
     {
       "type": "design-system-open-design",
@@ -3599,7 +3892,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Neumorphism - Landing page",
+      "unit": "design-systems/open-design/neumorphism"
     },
     {
       "type": "design-system-open-design",
@@ -3623,7 +3918,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Nike - Landing page",
+      "unit": "design-systems/open-design/nike"
     },
     {
       "type": "design-system-open-design",
@@ -3647,7 +3944,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Notion - Landing page",
+      "unit": "design-systems/open-design/notion"
     },
     {
       "type": "design-system-open-design",
@@ -3671,7 +3970,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "NVIDIA - Landing page",
+      "unit": "design-systems/open-design/nvidia"
     },
     {
       "type": "design-system-open-design",
@@ -3695,7 +3996,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Ollama - Landing page",
+      "unit": "design-systems/open-design/ollama"
     },
     {
       "type": "design-system-open-design",
@@ -3719,7 +4022,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "OpenAI - Landing page",
+      "unit": "design-systems/open-design/openai"
     },
     {
       "type": "design-system-open-design",
@@ -3743,7 +4048,9 @@
         "system",
         "artifacts",
         "landing"
-      ]
+      ],
+      "description": "OpenCode - Landing page",
+      "unit": "design-systems/open-design/opencode-ai"
     },
     {
       "type": "design-system-open-design",
@@ -3767,7 +4074,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Pacman - Landing page",
+      "unit": "design-systems/open-design/pacman"
     },
     {
       "type": "design-system-open-design",
@@ -3791,7 +4100,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Paper - Landing page",
+      "unit": "design-systems/open-design/paper"
     },
     {
       "type": "design-system-open-design",
@@ -3815,7 +4126,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Perplexity AI - Landing page",
+      "unit": "design-systems/open-design/perplexity"
     },
     {
       "type": "design-system-open-design",
@@ -3839,7 +4152,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Perspective - Landing page",
+      "unit": "design-systems/open-design/perspective"
     },
     {
       "type": "design-system-open-design",
@@ -3863,7 +4178,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Pinterest - Landing page",
+      "unit": "design-systems/open-design/pinterest"
     },
     {
       "type": "design-system-open-design",
@@ -3887,7 +4204,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "PlayStation - Landing page",
+      "unit": "design-systems/open-design/playstation"
     },
     {
       "type": "design-system-open-design",
@@ -3911,7 +4230,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "PostHog - Landing page",
+      "unit": "design-systems/open-design/posthog"
     },
     {
       "type": "design-system-open-design",
@@ -3935,7 +4256,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Premium - Landing page",
+      "unit": "design-systems/open-design/premium"
     },
     {
       "type": "design-system-open-design",
@@ -3959,7 +4282,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Professional - Landing page",
+      "unit": "design-systems/open-design/professional"
     },
     {
       "type": "design-system-open-design",
@@ -3983,7 +4308,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Publication - Landing page",
+      "unit": "design-systems/open-design/publication"
     },
     {
       "type": "design-system-open-design",
@@ -4007,7 +4334,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Raycast - Landing page",
+      "unit": "design-systems/open-design/raycast"
     },
     {
       "type": "design-system-open-design",
@@ -4031,7 +4360,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Refined - Landing page",
+      "unit": "design-systems/open-design/refined"
     },
     {
       "type": "design-system-open-design",
@@ -4055,7 +4386,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Renault - Landing page",
+      "unit": "design-systems/open-design/renault"
     },
     {
       "type": "design-system-open-design",
@@ -4079,7 +4412,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Replicate - Landing page",
+      "unit": "design-systems/open-design/replicate"
     },
     {
       "type": "design-system-open-design",
@@ -4103,7 +4438,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Resend - Landing page",
+      "unit": "design-systems/open-design/resend"
     },
     {
       "type": "design-system-open-design",
@@ -4127,7 +4464,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Retro - Landing page",
+      "unit": "design-systems/open-design/retro"
     },
     {
       "type": "design-system-open-design",
@@ -4151,7 +4490,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Revolut - Landing page",
+      "unit": "design-systems/open-design/revolut"
     },
     {
       "type": "design-system-open-design",
@@ -4175,7 +4516,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Runway - Landing page",
+      "unit": "design-systems/open-design/runwayml"
     },
     {
       "type": "design-system-open-design",
@@ -4199,7 +4542,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Sanity - Landing page",
+      "unit": "design-systems/open-design/sanity"
     },
     {
       "type": "design-system-open-design",
@@ -4223,7 +4568,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Sentry - Landing page",
+      "unit": "design-systems/open-design/sentry"
     },
     {
       "type": "design-system-open-design",
@@ -4247,7 +4594,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Shadcn - Landing page",
+      "unit": "design-systems/open-design/shadcn"
     },
     {
       "type": "design-system-open-design",
@@ -4271,7 +4620,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Simple - Landing page",
+      "unit": "design-systems/open-design/simple"
     },
     {
       "type": "design-system-open-design",
@@ -4295,7 +4646,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Skeumorphism - Landing page",
+      "unit": "design-systems/open-design/skeumorphism"
     },
     {
       "type": "design-system-open-design",
@@ -4319,7 +4672,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Slack - Landing page",
+      "unit": "design-systems/open-design/slack"
     },
     {
       "type": "design-system-open-design",
@@ -4343,7 +4698,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Sleek - Landing page",
+      "unit": "design-systems/open-design/sleek"
     },
     {
       "type": "design-system-open-design",
@@ -4367,7 +4724,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "SpaceX - Landing page",
+      "unit": "design-systems/open-design/spacex"
     },
     {
       "type": "design-system-open-design",
@@ -4391,7 +4750,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Spacious - Landing page",
+      "unit": "design-systems/open-design/spacious"
     },
     {
       "type": "design-system-open-design",
@@ -4415,7 +4776,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Spotify - Landing page",
+      "unit": "design-systems/open-design/spotify"
     },
     {
       "type": "design-system-open-design",
@@ -4439,7 +4802,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Starbucks - Landing page",
+      "unit": "design-systems/open-design/starbucks"
     },
     {
       "type": "design-system-open-design",
@@ -4463,7 +4828,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Storytelling - Landing page",
+      "unit": "design-systems/open-design/storytelling"
     },
     {
       "type": "design-system-open-design",
@@ -4487,7 +4854,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Supabase - Landing page",
+      "unit": "design-systems/open-design/supabase"
     },
     {
       "type": "design-system-open-design",
@@ -4511,7 +4880,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Superhuman - Landing page",
+      "unit": "design-systems/open-design/superhuman"
     },
     {
       "type": "design-system-open-design",
@@ -4535,7 +4906,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Tesla - Landing page",
+      "unit": "design-systems/open-design/tesla"
     },
     {
       "type": "design-system-open-design",
@@ -4559,7 +4932,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Tetris - Landing page",
+      "unit": "design-systems/open-design/tetris"
     },
     {
       "type": "design-system-open-design",
@@ -4583,7 +4958,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "The Verge - Landing page",
+      "unit": "design-systems/open-design/theverge"
     },
     {
       "type": "design-system-open-design",
@@ -4607,7 +4984,9 @@
         "system",
         "artifacts",
         "landing"
-      ]
+      ],
+      "description": "Together AI - Landing page",
+      "unit": "design-systems/open-design/together-ai"
     },
     {
       "type": "design-system-open-design",
@@ -4631,7 +5010,9 @@
         "system",
         "artifacts",
         "landing"
-      ]
+      ],
+      "description": "Totality Festival - Landing page",
+      "unit": "design-systems/open-design/totality-festival"
     },
     {
       "type": "design-system-open-design",
@@ -4655,7 +5036,9 @@
         "system",
         "artifacts",
         "landing"
-      ]
+      ],
+      "description": "Trading Terminal Design System - Landing page",
+      "unit": "design-systems/open-design/trading-terminal"
     },
     {
       "type": "design-system-open-design",
@@ -4679,7 +5062,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Uber - Landing page",
+      "unit": "design-systems/open-design/uber"
     },
     {
       "type": "design-system-open-design",
@@ -4703,7 +5088,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Urdu Modern (Indus Script System) - Landing page",
+      "unit": "design-systems/open-design/urdu"
     },
     {
       "type": "design-system-open-design",
@@ -4727,7 +5114,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Vercel - Landing page",
+      "unit": "design-systems/open-design/vercel"
     },
     {
       "type": "design-system-open-design",
@@ -4751,7 +5140,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Vibrant - Landing page",
+      "unit": "design-systems/open-design/vibrant"
     },
     {
       "type": "design-system-open-design",
@@ -4775,7 +5166,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Vintage - Landing page",
+      "unit": "design-systems/open-design/vintage"
     },
     {
       "type": "design-system-open-design",
@@ -4799,7 +5192,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Vodafone - Landing page",
+      "unit": "design-systems/open-design/vodafone"
     },
     {
       "type": "design-system-open-design",
@@ -4823,7 +5218,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "VoltAgent - Landing page",
+      "unit": "design-systems/open-design/voltagent"
     },
     {
       "type": "design-system-open-design",
@@ -4847,7 +5244,9 @@
         "system",
         "artifacts",
         "landing"
-      ]
+      ],
+      "description": "Warm Editorial - Landing page",
+      "unit": "design-systems/open-design/warm-editorial"
     },
     {
       "type": "design-system-open-design",
@@ -4871,7 +5270,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Warp - Landing page",
+      "unit": "design-systems/open-design/warp"
     },
     {
       "type": "design-system-open-design",
@@ -4895,7 +5296,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Webex - Landing page",
+      "unit": "design-systems/open-design/webex"
     },
     {
       "type": "design-system-open-design",
@@ -4919,7 +5322,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Webflow - Landing page",
+      "unit": "design-systems/open-design/webflow"
     },
     {
       "type": "design-system-open-design",
@@ -4943,7 +5348,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "WeChat Design System - Landing page",
+      "unit": "design-systems/open-design/wechat"
     },
     {
       "type": "design-system-open-design",
@@ -4967,7 +5374,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "WIRED - Landing page",
+      "unit": "design-systems/open-design/wired"
     },
     {
       "type": "design-system-open-design",
@@ -4991,7 +5400,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Wise - Landing page",
+      "unit": "design-systems/open-design/wise"
     },
     {
       "type": "design-system-open-design",
@@ -5015,7 +5426,9 @@
         "artifacts",
         "landing",
         "html"
-      ]
+      ],
+      "description": "xAI - Landing page",
+      "unit": "design-systems/open-design/x-ai"
     },
     {
       "type": "design-system-open-design",
@@ -5039,7 +5452,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Xiaohongshu - Landing page",
+      "unit": "design-systems/open-design/xiaohongshu"
     },
     {
       "type": "design-system-open-design",
@@ -5063,7 +5478,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Zapier - Landing page",
+      "unit": "design-systems/open-design/zapier"
     },
     {
       "type": "component-banner",
@@ -5087,7 +5504,8 @@
         "marketing",
         "local",
         "announcement"
-      ]
+      ],
+      "description": "exports AlertStatusBanner"
     },
     {
       "type": "component-banner",
@@ -5111,7 +5529,8 @@
         "local",
         "notification",
         "promo"
-      ]
+      ],
+      "description": "exports AnnouncementBanner"
     },
     {
       "type": "component-banner",
@@ -5135,7 +5554,8 @@
         "announcement",
         "notification",
         "promo"
-      ]
+      ],
+      "description": "Banners Showcase"
     },
     {
       "type": "component-banner",
@@ -5159,7 +5579,8 @@
         "marketing",
         "local",
         "announcement"
-      ]
+      ],
+      "description": "exports CookieConsentBanner"
     },
     {
       "type": "component-banner",
@@ -5183,7 +5604,8 @@
         "marketing",
         "local",
         "announcement"
-      ]
+      ],
+      "description": "exports FloatingBottomBanner"
     },
     {
       "type": "component-banner",
@@ -5204,7 +5626,8 @@
         "ts",
         "marketing",
         "local"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "component-banner",
@@ -5228,7 +5651,8 @@
         "marketing",
         "local",
         "announcement"
-      ]
+      ],
+      "description": "exports PromotionalSaleBanner"
     },
     {
       "type": "component-section",
@@ -5252,7 +5676,8 @@
         "local",
         "section",
         "landing"
-      ]
+      ],
+      "description": "exports FaqAccordion"
     },
     {
       "type": "component-section",
@@ -5275,7 +5700,8 @@
         "tsx",
         "marketing",
         "local"
-      ]
+      ],
+      "description": "exports FooterMultiColumn"
     },
     {
       "type": "component-section",
@@ -5299,7 +5725,8 @@
         "local",
         "section",
         "landing"
-      ]
+      ],
+      "description": "exports HeroCentered"
     },
     {
       "type": "component-section",
@@ -5323,7 +5750,8 @@
         "local",
         "section",
         "landing"
-      ]
+      ],
+      "description": "exports HeroSplit"
     },
     {
       "type": "component-section",
@@ -5347,7 +5775,8 @@
         "marketing",
         "local",
         "section"
-      ]
+      ],
+      "description": "exports Pricing3Tier"
     },
     {
       "type": "component-button",
@@ -5371,7 +5800,8 @@
         "marketing",
         "base",
         "avatar"
-      ]
+      ],
+      "description": "exports AvatarAddButton"
     },
     {
       "type": "component-avatar",
@@ -5395,7 +5825,8 @@
         "marketing",
         "base",
         "avatar"
-      ]
+      ],
+      "description": "exports AvatarCompanyIcon"
     },
     {
       "type": "component-avatar",
@@ -5419,7 +5850,8 @@
         "base",
         "avatar",
         "count"
-      ]
+      ],
+      "description": "exports AvatarCount"
     },
     {
       "type": "component-avatar",
@@ -5443,7 +5875,8 @@
         "marketing",
         "base",
         "avatar"
-      ]
+      ],
+      "description": "Reflection"
     },
     {
       "type": "component-avatar",
@@ -5467,7 +5900,8 @@
         "avatar",
         "index",
         "tsx"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "component-avatar",
@@ -5491,7 +5925,8 @@
         "base",
         "avatar",
         "verified"
-      ]
+      ],
+      "description": "exports VerifiedTick"
     },
     {
       "type": "component-feedback",
@@ -5515,7 +5950,8 @@
         "badges",
         "badge",
         "types"
-      ]
+      ],
+      "description": "exports badgeTypes"
     },
     {
       "type": "component-button",
@@ -5539,7 +5975,8 @@
         "buttons",
         "social",
         "logos"
-      ]
+      ],
+      "description": "exports GoogleLogo"
     },
     {
       "type": "component-input",
@@ -5563,7 +6000,8 @@
         "input",
         "hint",
         "text"
-      ]
+      ],
+      "description": "Indicates that the hint text is an error message."
     },
     {
       "type": "component-input",
@@ -5587,7 +6025,8 @@
         "label",
         "tsx",
         "inputs"
-      ]
+      ],
+      "description": "The label text, rendered before the required asterisk and the tooltip trigger."
     },
     {
       "type": "component-marketing",
@@ -5611,7 +6050,8 @@
         "dot",
         "icon",
         "tsx"
-      ]
+      ],
+      "description": "exports Dot"
     },
     {
       "type": "component-card",
@@ -5635,7 +6075,8 @@
         "blog",
         "base",
         "cards"
-      ]
+      ],
+      "description": "exports Simple01Vertical"
     },
     {
       "type": "component-marketing",
@@ -5659,7 +6100,8 @@
         "contact",
         "map",
         "tsx"
-      ]
+      ],
+      "description": "exports ContactCenteredMap"
     },
     {
       "type": "component-marketing",
@@ -5683,7 +6125,8 @@
         "marketing",
         "features",
         "01"
-      ]
+      ],
+      "description": "Light mode image (hidden in dark mode)"
     },
     {
       "type": "component-marketing",
@@ -5707,7 +6150,8 @@
         "marketing",
         "footers",
         "footer"
-      ]
+      ],
+      "description": "exports FooterLarge01Brand"
     },
     {
       "type": "component-navigation",
@@ -5731,7 +6175,8 @@
         "patterns",
         "untitledui",
         "marketing"
-      ]
+      ],
+      "description": "exports ImageCardHorizontal"
     },
     {
       "type": "component-navigation",
@@ -5755,7 +6200,8 @@
         "untitledui",
         "marketing",
         "header"
-      ]
+      ],
+      "description": "exports NavMenuItemLink"
     },
     {
       "type": "component-dropdown",
@@ -5779,7 +6225,8 @@
         "untitledui",
         "marketing",
         "header"
-      ]
+      ],
+      "description": "exports DropdownMenuFeatureCard"
     },
     {
       "type": "component-navigation",
@@ -5803,7 +6250,8 @@
         "marketing",
         "header",
         "section"
-      ]
+      ],
+      "description": "exports HeaderCenteredBrand"
     },
     {
       "type": "component-card",
@@ -5827,7 +6275,8 @@
         "untitledui",
         "marketing",
         "pricing"
-      ]
+      ],
+      "description": "exports CheckItemText"
     },
     {
       "type": "component-marketing",
@@ -5851,7 +6300,8 @@
         "marketing",
         "pricing",
         "sections"
-      ]
+      ],
+      "description": "exports PricingAbstractAngles"
     },
     {
       "type": "component-form",
@@ -5875,7 +6325,8 @@
         "patterns",
         "untitledui",
         "marketing"
-      ]
+      ],
+      "description": "exports Step1CheckEmail"
     },
     {
       "type": "component-marketing",
@@ -5899,7 +6350,8 @@
         "patterns",
         "untitledui",
         "marketing"
-      ]
+      ],
+      "description": "exports Step1ForgotPassword"
     },
     {
       "type": "component-marketing",
@@ -5923,7 +6375,8 @@
         "assets",
         "illustrations",
         "box"
-      ]
+      ],
+      "description": "exports BoxIllustration"
     },
     {
       "type": "component-marketing",
@@ -5947,7 +6400,8 @@
         "assets",
         "illustrations",
         "cloud"
-      ]
+      ],
+      "description": "exports CloudIllustration"
     },
     {
       "type": "component-marketing",
@@ -5971,7 +6425,8 @@
         "assets",
         "illustrations",
         "documents"
-      ]
+      ],
+      "description": "exports DocumentsIllustration"
     },
     {
       "type": "component-marketing",
@@ -5995,7 +6450,8 @@
         "assets",
         "illustrations",
         "index"
-      ]
+      ],
+      "description": "The overall scale of the illustration, which also selects the background pattern drawn behind it."
     },
     {
       "type": "component-card",
@@ -6019,7 +6475,8 @@
         "marketing",
         "shared",
         "assets"
-      ]
+      ],
+      "description": "exports LoginCardCombined"
     },
     {
       "type": "component-marketing",
@@ -6043,7 +6500,8 @@
         "patterns",
         "untitledui",
         "marketing"
-      ]
+      ],
+      "description": "exports NotFoundIllustration01"
     },
     {
       "type": "component-card",
@@ -6067,7 +6525,8 @@
         "marketing",
         "shared",
         "assets"
-      ]
+      ],
+      "description": "exports SignupCardCombined"
     },
     {
       "type": "component-marketing",
@@ -6089,7 +6548,8 @@
         "utils",
         "cx",
         "ts"
-      ]
+      ],
+      "description": "This function is a wrapper around the twMerge function. It is used to merge the classes inside style objects."
     },
     {
       "type": "component-marketing",
@@ -6113,7 +6573,8 @@
         "utils",
         "is",
         "component"
-      ]
+      ],
+      "description": "eslint-disable @typescript-eslint/no-explicit-any"
     },
     {
       "type": "asset-icons",
@@ -6137,7 +6598,8 @@
         "svg",
         "icons-untitledui",
         "marketing"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -6161,7 +6623,8 @@
         "svg",
         "icons-untitledui",
         "marketing"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -6185,7 +6648,8 @@
         "svg",
         "icons-untitledui",
         "marketing"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -6209,7 +6673,8 @@
         "svg",
         "icons-untitledui",
         "marketing"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -6233,7 +6698,8 @@
         "svg",
         "icons-untitledui",
         "marketing"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -6257,7 +6723,8 @@
         "marketing",
         "glyph",
         "symbol"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -6281,7 +6748,8 @@
         "svg",
         "icons-untitledui",
         "marketing"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -6305,7 +6773,8 @@
         "csv",
         "ui-ux-pro-max",
         "marketing"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "skills-banner-design",
@@ -6329,7 +6798,9 @@
         "references",
         "styles",
         "md"
-      ]
+      ],
+      "description": "Banner Sizes & Art Direction Styles Reference — 1. Minimalist — White space dominant, single focal element, 1-2 colors, clean sans-serif",
+      "unit": "skills/banner-design"
     },
     {
       "type": "skills-banner-design",
@@ -6353,7 +6824,9 @@
         "marketing",
         "local",
         "announcement"
-      ]
+      ],
+      "description": "\"Design banners for social media, ads, website heroes, creative assets, and print. Multiple art direction options with optional generated or supplied visuals. …",
+      "unit": "skills/banner-design"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -6377,7 +6850,9 @@
         "claude",
         "plugin",
         "json"
-      ]
+      ],
+      "description": "Answer Engine Optimization for AI search visibility. Optimize content for ChatGPT, Claude, Gemini, AI Overviews citations.",
+      "unit": "skills/bencium-marketplace/bencium-aeo"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -6401,7 +6876,9 @@
         "claude",
         "md",
         "bencium-marketplace"
-      ]
+      ],
+      "description": "AEO Content Generation Guide — This skill provides guidance for generating Answer Engine Optimization (AEO) content - optimizing websites for AI-powered answer…",
+      "unit": "skills/bencium-marketplace/bencium-aeo"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -6425,7 +6902,9 @@
         "prd",
         "md",
         "bencium-marketplace"
-      ]
+      ],
+      "description": "AEO Content Generation Guide for Claude Code — These principles are derived from LLM citation behavior analysis and should inform all content optimization deci…",
+      "unit": "skills/bencium-marketplace/bencium-aeo"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -6449,7 +6928,9 @@
         "readme",
         "md",
         "bencium-marketplace"
-      ]
+      ],
+      "description": "AISEO - Answer Engine Optimization Content Generator — Generate machine-readable content that earns citations from ChatGPT, Claude, Gemini, and Google AI Overv…",
+      "unit": "skills/bencium-marketplace/bencium-aeo"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -6473,7 +6954,9 @@
         "skill",
         "md",
         "bencium-marketplace"
-      ]
+      ],
+      "description": "Generate AEO-optimized content (Answer Engine Optimization) for AI search visibility - ChatGPT, Claude, Gemini, AI Overviews. Use when optimizing websites for …",
+      "unit": "skills/bencium-marketplace/bencium-aeo"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -6497,7 +6980,9 @@
         "aeo",
         "story",
         "structured"
-      ]
+      ],
+      "description": "Princeton GEO Study: Strategic Insights — Key findings from the Princeton-validated study on Generative Engine Optimization (GEO) and AI visibility.",
+      "unit": "skills/bencium-marketplace/bencium-aeo"
     },
     {
       "type": "skills-design",
@@ -6521,7 +7006,9 @@
         "banner",
         "styles",
         "md"
-      ]
+      ],
+      "description": "Banner Sizes & Art Direction Styles Reference — 1. Minimalist — White space dominant, single focal element, 1-2 colors, clean sans-serif",
+      "unit": "skills/design"
     },
     {
       "type": "skills-open-design",
@@ -6545,7 +7032,9 @@
         "example",
         "html",
         "open-design"
-      ]
+      ],
+      "description": "FAQ - Help Center",
+      "unit": "skills/open-design/faq-page"
     },
     {
       "type": "skills-open-design",
@@ -6569,7 +7058,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "A Frequently Asked Questions (FAQ) page with collapsible accordion sections,",
+      "unit": "skills/open-design/faq-page"
     },
     {
       "type": "skills-open-design",
@@ -6593,7 +7084,9 @@
         "frame",
         "hero",
         "example"
-      ]
+      ],
+      "description": "Liquid Hero · Aurora Violet",
+      "unit": "skills/open-design/frame-liquid-bg-hero"
     },
     {
       "type": "skills-open-design",
@@ -6617,7 +7110,9 @@
         "frame",
         "hero",
         "example"
-      ]
+      ],
+      "description": "流体 Hero · 金句帧 — Aurora Violet 流体背景, mix-blend-mode 文字",
+      "unit": "skills/open-design/frame-liquid-bg-hero"
     },
     {
       "type": "skills-open-design",
@@ -6641,7 +7136,9 @@
         "frame",
         "hero",
         "skill"
-      ]
+      ],
+      "description": "\"WebGL-style fluid displacement background with a quote overlay, suited to video intros, landing heroes, or posters.\"",
+      "unit": "skills/open-design/frame-liquid-bg-hero"
     },
     {
       "type": "skills-open-design",
@@ -6665,7 +7162,9 @@
         "hatch",
         "pet",
         "scripts"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/hatch-pet"
     },
     {
       "type": "skills-open-design",
@@ -6689,7 +7188,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Apply psychological principles and behavioral science to copy and design. Useful for tightening hooks, framing, and pricing presentation.",
+      "unit": "skills/open-design/marketing-psychology"
     },
     {
       "type": "skills-open-design",
@@ -6713,7 +7214,9 @@
         "example",
         "html",
         "open-design"
-      ]
+      ],
+      "description": "HTML Anything 0.1 海报",
+      "unit": "skills/open-design/poster-hero"
     },
     {
       "type": "skills-open-design",
@@ -6737,7 +7240,9 @@
         "example",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "HTML Anything 0.1 已发布 — 任何文档 → 世界级好看的 HTML, 用你本地的 AI agent",
+      "unit": "skills/open-design/poster-hero"
     },
     {
       "type": "skills-open-design",
@@ -6761,7 +7266,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "\"Vertical poster or Moments-style share image with strong visual impact.\"",
+      "unit": "skills/open-design/poster-hero"
     },
     {
       "type": "skills-open-design",
@@ -6785,7 +7292,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Generate marketing screenshots with Playwright. Useful for landing-page hero shots, App Store screenshots, and changelog visuals.",
+      "unit": "skills/open-design/screenshots-marketing"
     },
     {
       "type": "examples-ui-ux-pro-max-projects",
@@ -6809,7 +7318,9 @@
         "projects",
         "saas",
         "landing"
-      ]
+      ],
+      "description": "SaaSify - Streamline Your Workflow",
+      "unit": "examples/ui-ux-pro-max-projects"
     },
     {
       "type": "docs-open-design",
@@ -6833,7 +7344,8 @@
         "open-design",
         "marketing",
         "local"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "docs-open-design",
@@ -6857,7 +7369,8 @@
         "readme",
         "agent",
         "webp"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -6881,7 +7394,8 @@
         "banner",
         "html",
         "open-design"
-      ]
+      ],
+      "description": "OpenDesign — cover"
     },
     {
       "type": "docs-open-design",
@@ -6905,7 +7419,8 @@
         "saas",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Single-page SaaS landing with hero, features, social proof, pricing, and CTA."
     },
     {
       "type": "docs-open-design",
@@ -6929,7 +7444,8 @@
         "email",
         "marketing",
         "png"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -6953,7 +7469,8 @@
         "flash",
         "vision",
         "exp.md"
-      ]
+      ],
+      "description": "Pricing DeepSeek V4 Flash Vision Exp Implementation Plan — For agentic workers: REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) o…"
     },
     {
       "type": "docs-open-design",
@@ -6977,7 +7494,8 @@
         "bridge.md",
         "docs",
         "design"
-      ]
+      ],
+      "description": "Vela Authenticated Pricing Analytics Endpoint Implementation Plan — For agentic workers: REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recom…"
     },
     {
       "type": "docs-open-design",
@@ -7001,7 +7519,8 @@
         "flash",
         "vision",
         "exp"
-      ]
+      ],
+      "description": "Pricing 页新增 DeepSeek V4 Flash Vision Exp 设计说明 — 在 OpenDesign 公开 Pricing 页的个人套餐区域中新增 DeepSeek V4 Flash Vision Exp ，并明确它在 Go、Plus、Pro 和 Max 四个套餐中都可无限量使用。页面展示、展开后…"
     },
     {
       "type": "vendor-ui-ux-pro-max-skill",
@@ -7025,7 +7544,8 @@
         "contract.spec.ts",
         "vendor",
         "skill"
-      ]
+      ],
+      "description": ""
     }
   ]
 }

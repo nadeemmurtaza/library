@@ -23,7 +23,8 @@
         "html",
         "saas",
         "local"
-      ]
+      ],
+      "description": "Admin Operations Dashboard"
     },
     {
       "type": "dashboard-admin",
@@ -46,7 +47,8 @@
         "tsx",
         "saas",
         "local"
-      ]
+      ],
+      "description": "exports AdminOperationsDashboard"
     },
     {
       "type": "dashboard-ecommerce",
@@ -69,7 +71,8 @@
         "demo",
         "html",
         "local"
-      ]
+      ],
+      "description": "E-Commerce Operations Dashboard"
     },
     {
       "type": "dashboard-ecommerce",
@@ -91,7 +94,8 @@
         "dashboard",
         "tsx",
         "local"
-      ]
+      ],
+      "description": "exports EcommerceOperationsDashboard"
     },
     {
       "type": "dashboard-fintech",
@@ -114,7 +118,8 @@
         "demo",
         "html",
         "local"
-      ]
+      ],
+      "description": "Fintech Portfolio Dashboard"
     },
     {
       "type": "dashboard-fintech",
@@ -136,7 +141,8 @@
         "dashboard",
         "tsx",
         "local"
-      ]
+      ],
+      "description": "exports FintechPortfolioDashboard"
     },
     {
       "type": "dashboard-saas",
@@ -159,7 +165,8 @@
         "demo",
         "html",
         "local"
-      ]
+      ],
+      "description": "SaaS Analytics Dashboard"
     },
     {
       "type": "dashboard-saas",
@@ -181,7 +188,8 @@
         "dashboard",
         "tsx",
         "local"
-      ]
+      ],
+      "description": "exports SaasAnalyticsDashboard"
     }
   ]
 }

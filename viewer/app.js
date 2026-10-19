@@ -69,7 +69,7 @@ const match = (i) => {
   if (state.filterDs && i.designSystem !== state.filterDs) return false
   if (state.filterSub && i.subcategory !== state.filterSub) return false
   if (!state.q) return true
-  const haystack = `${i.name} ${i.type} ${i.category} ${i.subcategory} ${i.language} ${i.industry} ${i.designSystem} ${i.path}`.toLowerCase()
+  const haystack = `${i.name} ${i.type} ${i.category} ${i.subcategory} ${i.language} ${i.industry} ${i.designSystem} ${i.description || ''} ${i.path}`.toLowerCase()
   return haystack.includes(state.q)
 }
 
@@ -199,6 +199,7 @@ function list(groupKey, groupVal) {
           <div class="p-3">
             <div class="truncate font-semibold text-sm" title="${esc(i.name)}">${esc(i.name)}</div>
             <div class="flex flex-wrap gap-1 mt-2">${i._count > 1 ? `<span class="badge badge-xs badge-primary">${i._count} files</span>` : ''}${badges(i)}</div>
+            ${i.description ? `<p class="mt-1 line-clamp-2 text-xs opacity-70">${esc(i.description)}</p>` : ''}
             <div class="text-[11px] opacity-50 mt-1 truncate font-mono">${esc(i.path)}</div>
           </div>
         </a>

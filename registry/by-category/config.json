@@ -19,7 +19,8 @@
         "brand.ts",
         "general",
         "local"
-      ]
+      ],
+      "description": "Single source for identity, contact, locale and theme. Every surface (web, API, mobile) imports this; nothing else defines these values. Stays out of here: the…"
     }
   ]
 }

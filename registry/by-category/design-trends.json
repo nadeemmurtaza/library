@@ -23,7 +23,9 @@
       ],
       "demo": "design-trends/2k1/2k1.demo.html",
       "demoCss": "design-trends/2k1/2k1.demo.css",
-      "screenshot": "design-trends/2k1/2k1.screenshot.avif"
+      "screenshot": "design-trends/2k1/2k1.screenshot.avif",
+      "description": "2K1 UI design style — This 2001–2004 transitional pop-cultural look mixes late-Y2K clarity with dirtier hip-hop, sports, nu-metal, teen-comedy, and early-McBli…",
+      "unit": "design-trends/2k1"
     },
     {
       "type": "design-trend",
@@ -49,7 +51,9 @@
       ],
       "demo": "design-trends/acid-graphics/acid-graphics.demo.html",
       "demoCss": "design-trends/acid-graphics/acid-graphics.demo.css",
-      "screenshot": "design-trends/acid-graphics/acid-graphics.screenshot.avif"
+      "screenshot": "design-trends/acid-graphics/acid-graphics.screenshot.avif",
+      "description": "Acid Graphics UI design style — Fluorescent colors, warped typography, chrome details, distortion, dense layering, and underground rave energy.",
+      "unit": "design-trends/acid-graphics"
     },
     {
       "type": "design-trend",
@@ -73,7 +77,9 @@
       ],
       "demo": "design-trends/afrofuturism/afrofuturism.demo.html",
       "demoCss": "design-trends/afrofuturism/afrofuturism.demo.css",
-      "screenshot": "design-trends/afrofuturism/afrofuturism.screenshot.avif"
+      "screenshot": "design-trends/afrofuturism/afrofuturism.screenshot.avif",
+      "description": "Afrofuturism UI design style — African and diasporic cultural references combine with speculative technology, cosmic imagery, bold pattern, and future-facing s…",
+      "unit": "design-trends/afrofuturism"
     },
     {
       "type": "design-trend",
@@ -99,7 +105,9 @@
       ],
       "demo": "design-trends/american-kitsch/american-kitsch.demo.html",
       "demoCss": "design-trends/american-kitsch/american-kitsch.demo.css",
-      "screenshot": "design-trends/american-kitsch/american-kitsch.screenshot.avif"
+      "screenshot": "design-trends/american-kitsch/american-kitsch.screenshot.avif",
+      "description": "American Kitsch UI design style — Commercial illustration from the 1920s through 1960s, especially the 1950s, uses vivid cartoonish realism, cheerful exaggerat…",
+      "unit": "design-trends/american-kitsch"
     },
     {
       "type": "design-trend",
@@ -125,7 +133,9 @@
       ],
       "demo": "design-trends/aqua-ui/aqua-ui.demo.html",
       "demoCss": "design-trends/aqua-ui/aqua-ui.demo.css",
-      "screenshot": "design-trends/aqua-ui/aqua-ui.screenshot.avif"
+      "screenshot": "design-trends/aqua-ui/aqua-ui.screenshot.avif",
+      "description": "Aqua UI design style — Glossy gel-like controls, candy colors, translucent highlights, pinstripes, and vivid dimensional icons.",
+      "unit": "design-trends/aqua-ui"
     },
     {
       "type": "design-trend",
@@ -151,7 +161,9 @@
       ],
       "demo": "design-trends/art-deco/art-deco.demo.html",
       "demoCss": "design-trends/art-deco/art-deco.demo.css",
-      "screenshot": "design-trends/art-deco/art-deco.screenshot.avif"
+      "screenshot": "design-trends/art-deco/art-deco.screenshot.avif",
+      "description": "Art Deco UI design style — Symmetrical geometry, stepped forms, luxurious metallic accents, dramatic contrast, and ornamental typography.",
+      "unit": "design-trends/art-deco"
     },
     {
       "type": "design-trend",
@@ -177,7 +189,9 @@
       ],
       "demo": "design-trends/art-nouveau/art-nouveau.demo.html",
       "demoCss": "design-trends/art-nouveau/art-nouveau.demo.css",
-      "screenshot": "design-trends/art-nouveau/art-nouveau.screenshot.avif"
+      "screenshot": "design-trends/art-nouveau/art-nouveau.screenshot.avif",
+      "description": "Art Nouveau UI design style — Flowing botanical lines, decorative frames, elegant lettering, natural motifs, and integrated ornament.",
+      "unit": "design-trends/art-nouveau"
     },
     {
       "type": "design-trend",
@@ -201,7 +215,9 @@
       ],
       "demo": "design-trends/bauhaus/bauhaus.demo.html",
       "demoCss": "design-trends/bauhaus/bauhaus.demo.css",
-      "screenshot": "design-trends/bauhaus/bauhaus.screenshot.avif"
+      "screenshot": "design-trends/bauhaus/bauhaus.screenshot.avif",
+      "description": "Bauhaus UI design style — Functional compositions use primary colors, geometric forms, strong typography, and visibly organized structure.",
+      "unit": "design-trends/bauhaus"
     },
     {
       "type": "design-trend",
@@ -228,7 +244,9 @@
       ],
       "demo": "design-trends/biophilic-design/biophilic-design.demo.html",
       "demoCss": "design-trends/biophilic-design/biophilic-design.demo.css",
-      "screenshot": "design-trends/biophilic-design/biophilic-design.screenshot.avif"
+      "screenshot": "design-trends/biophilic-design/biophilic-design.screenshot.avif",
+      "description": "Biophilic Design UI design style — Nature-centered interfaces use organic shapes, botanical imagery, earthy colors, natural textures, and gentle motion.",
+      "unit": "design-trends/biophilic-design"
     },
     {
       "type": "design-trend",
@@ -252,7 +270,9 @@
       ],
       "demo": "design-trends/brutalism/brutalism.demo.html",
       "demoCss": "design-trends/brutalism/brutalism.demo.css",
-      "screenshot": "design-trends/brutalism/brutalism.screenshot.avif"
+      "screenshot": "design-trends/brutalism/brutalism.screenshot.avif",
+      "description": "Brutalism UI design style — Raw typography, exposed structure, sharp edges, stark contrast, default-like controls, and intentionally unpolished layouts.",
+      "unit": "design-trends/brutalism"
     },
     {
       "type": "design-trend",
@@ -278,7 +298,9 @@
       ],
       "demo": "design-trends/cassette-futurism/cassette-futurism.demo.html",
       "demoCss": "design-trends/cassette-futurism/cassette-futurism.demo.css",
-      "screenshot": "design-trends/cassette-futurism/cassette-futurism.screenshot.avif"
+      "screenshot": "design-trends/cassette-futurism/cassette-futurism.screenshot.avif",
+      "description": "Cassette Futurism UI design style — Chunky analog controls, CRT displays, industrial panels, physical switches, amber or green screens, and late-20th-century s…",
+      "unit": "design-trends/cassette-futurism"
     },
     {
       "type": "design-trend",
@@ -305,7 +327,9 @@
       ],
       "demo": "design-trends/chrome-liquid-metal/chrome-liquid-metal.demo.html",
       "demoCss": "design-trends/chrome-liquid-metal/chrome-liquid-metal.demo.css",
-      "screenshot": "design-trends/chrome-liquid-metal/chrome-liquid-metal.screenshot.avif"
+      "screenshot": "design-trends/chrome-liquid-metal/chrome-liquid-metal.screenshot.avif",
+      "description": "Chrome / Liquid Metal UI design style — Mirror-like metallic surfaces, molten forms, sharp reflections, and high-contrast specular lighting.",
+      "unit": "design-trends/chrome-liquid-metal"
     },
     {
       "type": "design-trend",
@@ -329,7 +353,9 @@
       ],
       "demo": "design-trends/claymorphism/claymorphism.demo.html",
       "demoCss": "design-trends/claymorphism/claymorphism.demo.css",
-      "screenshot": "design-trends/claymorphism/claymorphism.screenshot.avif"
+      "screenshot": "design-trends/claymorphism/claymorphism.screenshot.avif",
+      "description": "Claymorphism UI design style — Inflated, clay-like components with pastel colors, large radii, soft shading, and playful dimensional shadows.",
+      "unit": "design-trends/claymorphism"
     },
     {
       "type": "design-trend",
@@ -355,7 +381,9 @@
       ],
       "demo": "design-trends/clean-ui/clean-ui.demo.html",
       "demoCss": "design-trends/clean-ui/clean-ui.demo.css",
-      "screenshot": "design-trends/clean-ui/clean-ui.screenshot.avif"
+      "screenshot": "design-trends/clean-ui/clean-ui.screenshot.avif",
+      "description": "Clean UI design style — An engineered interface language pairs tightly controlled spacing, measured grids, layered neutral surfaces, and precise micro-details …",
+      "unit": "design-trends/clean-ui"
     },
     {
       "type": "design-trend",
@@ -379,7 +407,9 @@
       ],
       "demo": "design-trends/collage/collage.demo.html",
       "demoCss": "design-trends/collage/collage.demo.css",
-      "screenshot": "design-trends/collage/collage.screenshot.avif"
+      "screenshot": "design-trends/collage/collage.screenshot.avif",
+      "description": "Collage UI design style — Cutout photography, overlapping fragments, mixed scales, torn edges, and layered media create expressive compositions.",
+      "unit": "design-trends/collage"
     },
     {
       "type": "design-trend",
@@ -403,7 +433,9 @@
       ],
       "demo": "design-trends/constructivism/constructivism.demo.html",
       "demoCss": "design-trends/constructivism/constructivism.demo.css",
-      "screenshot": "design-trends/constructivism/constructivism.screenshot.avif"
+      "screenshot": "design-trends/constructivism/constructivism.screenshot.avif",
+      "description": "Constructivism UI design style — Dynamic diagonals, photomontage, bold sans-serif type, limited red-black palettes, and propagandistic visual force.",
+      "unit": "design-trends/constructivism"
     },
     {
       "type": "design-trend",
@@ -429,7 +461,9 @@
       ],
       "demo": "design-trends/corporate-memphis/corporate-memphis.demo.html",
       "demoCss": "design-trends/corporate-memphis/corporate-memphis.demo.css",
-      "screenshot": "design-trends/corporate-memphis/corporate-memphis.screenshot.avif"
+      "screenshot": "design-trends/corporate-memphis/corporate-memphis.screenshot.avif",
+      "description": "Corporate Memphis UI design style — Flat vector scenes with bright solid colors, geometric environments, and simplified people with exaggerated proportions.",
+      "unit": "design-trends/corporate-memphis"
     },
     {
       "type": "design-trend",
@@ -453,7 +487,9 @@
       ],
       "demo": "design-trends/cottagecore/cottagecore.demo.html",
       "demoCss": "design-trends/cottagecore/cottagecore.demo.css",
-      "screenshot": "design-trends/cottagecore/cottagecore.screenshot.avif"
+      "screenshot": "design-trends/cottagecore/cottagecore.screenshot.avif",
+      "description": "Cottagecore UI design style — Pastoral imagery, florals, handmade textures, gentle serif type, warm domestic details, and romantic rural nostalgia.",
+      "unit": "design-trends/cottagecore"
     },
     {
       "type": "design-trend",
@@ -477,7 +513,9 @@
       ],
       "demo": "design-trends/cybercore/cybercore.demo.html",
       "demoCss": "design-trends/cybercore/cybercore.demo.css",
-      "screenshot": "design-trends/cybercore/cybercore.screenshot.avif"
+      "screenshot": "design-trends/cybercore/cybercore.screenshot.avif",
+      "description": "Cybercore UI design style — A 2020s nostalgic remix of late-1990s and early-2000s digital culture combines saturated blue and silver with retro anime, obsolete…",
+      "unit": "design-trends/cybercore"
     },
     {
       "type": "design-trend",
@@ -501,7 +539,9 @@
       ],
       "demo": "design-trends/cyberdelia/cyberdelia.demo.html",
       "demoCss": "design-trends/cyberdelia/cyberdelia.demo.css",
-      "screenshot": "design-trends/cyberdelia/cyberdelia.screenshot.avif"
+      "screenshot": "design-trends/cyberdelia/cyberdelia.screenshot.avif",
+      "description": "Cyberdelia UI design style — Cyberculture merges with psychedelia through acid color, fractals, kaleidoscopic imagery, early 3D type, and rave-era digital opti…",
+      "unit": "design-trends/cyberdelia"
     },
     {
       "type": "design-trend",
@@ -525,7 +565,9 @@
       ],
       "demo": "design-trends/cyberminimalism/cyberminimalism.demo.html",
       "demoCss": "design-trends/cyberminimalism/cyberminimalism.demo.css",
-      "screenshot": "design-trends/cyberminimalism/cyberminimalism.screenshot.avif"
+      "screenshot": "design-trends/cyberminimalism/cyberminimalism.screenshot.avif",
+      "description": "Cyberminimalism UI design style — Late-2010s hyper-minimal tech design reduces interfaces to black or white fields, large grotesque type, strict grids, sparse …",
+      "unit": "design-trends/cyberminimalism"
     },
     {
       "type": "design-trend",
@@ -549,7 +591,9 @@
       ],
       "demo": "design-trends/cyberpunk/cyberpunk.demo.html",
       "demoCss": "design-trends/cyberpunk/cyberpunk.demo.css",
-      "screenshot": "design-trends/cyberpunk/cyberpunk.screenshot.avif"
+      "screenshot": "design-trends/cyberpunk/cyberpunk.screenshot.avif",
+      "description": "Cyberpunk UI design style — Dense dark interfaces use neon accents, glitches, terminal typography, surveillance motifs, and futuristic HUD elements.",
+      "unit": "design-trends/cyberpunk"
     },
     {
       "type": "design-trend",
@@ -575,7 +619,9 @@
       ],
       "demo": "design-trends/dark-academia/dark-academia.demo.html",
       "demoCss": "design-trends/dark-academia/dark-academia.demo.css",
-      "screenshot": "design-trends/dark-academia/dark-academia.screenshot.avif"
+      "screenshot": "design-trends/dark-academia/dark-academia.screenshot.avif",
+      "description": "Dark Academia UI design style — Moody scholarly visuals use serif typography, parchment, dark wood, muted earth tones, and archival details.",
+      "unit": "design-trends/dark-academia"
     },
     {
       "type": "design-trend",
@@ -602,7 +648,9 @@
       ],
       "demo": "design-trends/data-dense-utilitarian-ui/data-dense-utilitarian-ui.demo.html",
       "demoCss": "design-trends/data-dense-utilitarian-ui/data-dense-utilitarian-ui.demo.css",
-      "screenshot": "design-trends/data-dense-utilitarian-ui/data-dense-utilitarian-ui.screenshot.avif"
+      "screenshot": "design-trends/data-dense-utilitarian-ui/data-dense-utilitarian-ui.screenshot.avif",
+      "description": "Data-Dense Utilitarian UI design style — Compact spacing, visible structure, tables, restrained colors, functional typography, and minimal ornamental styling.",
+      "unit": "design-trends/data-dense-utilitarian-ui"
     },
     {
       "type": "design-trend",
@@ -626,7 +674,9 @@
       ],
       "demo": "design-trends/dieselpunk/dieselpunk.demo.html",
       "demoCss": "design-trends/dieselpunk/dieselpunk.demo.css",
-      "screenshot": "design-trends/dieselpunk/dieselpunk.screenshot.avif"
+      "screenshot": "design-trends/dieselpunk/dieselpunk.screenshot.avif",
+      "description": "Dieselpunk UI design style — Interwar and mid-century industrial machinery, riveted metal, propaganda graphics, soot, military modernism, and heavy mechanical …",
+      "unit": "design-trends/dieselpunk"
     },
     {
       "type": "design-trend",
@@ -651,7 +701,9 @@
       ],
       "demo": "design-trends/dopamine-design/dopamine-design.demo.html",
       "demoCss": "design-trends/dopamine-design/dopamine-design.demo.css",
-      "screenshot": "design-trends/dopamine-design/dopamine-design.screenshot.avif"
+      "screenshot": "design-trends/dopamine-design/dopamine-design.screenshot.avif",
+      "description": "Dopamine Design UI design style — Joyful saturated colors, bold patterns, playful forms, and deliberately energetic combinations prioritize emotional uplift.",
+      "unit": "design-trends/dopamine-design"
     },
     {
       "type": "design-trend",
@@ -675,7 +727,9 @@
       ],
       "demo": "design-trends/dorfic/dorfic.demo.html",
       "demoCss": "design-trends/dorfic/dorfic.demo.css",
-      "screenshot": "design-trends/dorfic/dorfic.screenshot.avif"
+      "screenshot": "design-trends/dorfic/dorfic.screenshot.avif",
+      "description": "DORFic UI design style — Daylight, orange, red, futurism, and graphic design define this mid-2000s-to-mid-2010s industrial style of stark white spaces, clean t…",
+      "unit": "design-trends/dorfic"
     },
     {
       "type": "design-trend",
@@ -700,7 +754,9 @@
       ],
       "demo": "design-trends/editorial-design/editorial-design.demo.html",
       "demoCss": "design-trends/editorial-design/editorial-design.demo.css",
-      "screenshot": "design-trends/editorial-design/editorial-design.screenshot.avif"
+      "screenshot": "design-trends/editorial-design/editorial-design.screenshot.avif",
+      "description": "Editorial Design UI design style — Magazine-inspired layouts with dramatic typography, art-directed imagery, columns, captions, and deliberate pacing.",
+      "unit": "design-trends/editorial-design"
     },
     {
       "type": "design-trend",
@@ -726,7 +782,9 @@
       ],
       "demo": "design-trends/elvish-aesthetic/elvish-aesthetic.demo.html",
       "demoCss": "design-trends/elvish-aesthetic/elvish-aesthetic.demo.css",
-      "screenshot": "design-trends/elvish-aesthetic/elvish-aesthetic.screenshot.avif"
+      "screenshot": "design-trends/elvish-aesthetic/elvish-aesthetic.screenshot.avif",
+      "description": "Elvish Aesthetic UI design style — Nature-bound high fantasy combines graceful verticality, flowing botanical ornament, luminous landscapes, refined handcraft,…",
+      "unit": "design-trends/elvish-aesthetic"
     },
     {
       "type": "design-trend",
@@ -751,7 +809,9 @@
       ],
       "demo": "design-trends/flat-design/flat-design.demo.html",
       "demoCss": "design-trends/flat-design/flat-design.demo.css",
-      "screenshot": "design-trends/flat-design/flat-design.screenshot.avif"
+      "screenshot": "design-trends/flat-design/flat-design.screenshot.avif",
+      "description": "Flat Design UI design style — Simple two-dimensional shapes, solid colors, clean icons, and little or no simulated depth.",
+      "unit": "design-trends/flat-design"
     },
     {
       "type": "design-trend",
@@ -776,7 +836,9 @@
       ],
       "demo": "design-trends/fluent-design/fluent-design.demo.html",
       "demoCss": "design-trends/fluent-design/fluent-design.demo.css",
-      "screenshot": "design-trends/fluent-design/fluent-design.screenshot.avif"
+      "screenshot": "design-trends/fluent-design/fluent-design.screenshot.avif",
+      "description": "Fluent Design UI design style — Layered surfaces, adaptable components, soft depth, light, motion, and restrained translucent materials.",
+      "unit": "design-trends/fluent-design"
     },
     {
       "type": "design-trend",
@@ -802,7 +864,9 @@
       ],
       "demo": "design-trends/frutiger-aero/frutiger-aero.demo.html",
       "demoCss": "design-trends/frutiger-aero/frutiger-aero.demo.css",
-      "screenshot": "design-trends/frutiger-aero/frutiger-aero.screenshot.avif"
+      "screenshot": "design-trends/frutiger-aero/frutiger-aero.screenshot.avif",
+      "description": "Frutiger Aero UI design style — Glossy blue-and-green visuals combine skeuomorphic interfaces, glassy controls, water, bubbles, open skies, nature, and optimis…",
+      "unit": "design-trends/frutiger-aero"
     },
     {
       "type": "design-trend",
@@ -828,7 +892,9 @@
       ],
       "demo": "design-trends/fui-hud/fui-hud.demo.html",
       "demoCss": "design-trends/fui-hud/fui-hud.demo.css",
-      "screenshot": "design-trends/fui-hud/fui-hud.screenshot.avif"
+      "screenshot": "design-trends/fui-hud/fui-hud.screenshot.avif",
+      "description": "FUI / HUD UI design style — Fictional-interface styling with telemetry, reticles, grids, diagrams, scanning effects, and layered translucent readouts.",
+      "unit": "design-trends/fui-hud"
     },
     {
       "type": "design-trend",
@@ -855,7 +921,9 @@
       ],
       "demo": "design-trends/gen-x-soft-club/gen-x-soft-club.demo.html",
       "demoCss": "design-trends/gen-x-soft-club/gen-x-soft-club.demo.css",
-      "screenshot": "design-trends/gen-x-soft-club/gen-x-soft-club.screenshot.avif"
+      "screenshot": "design-trends/gen-x-soft-club/gen-x-soft-club.screenshot.avif",
+      "description": "Gen-X Soft Club UI design style — Late-1990s and early-2000s urban futurism softens Y2K gloss through muted color, minimalist typography, blurred photography, …",
+      "unit": "design-trends/gen-x-soft-club"
     },
     {
       "type": "design-trend",
@@ -881,7 +949,9 @@
       ],
       "demo": "design-trends/geometric-abstract/geometric-abstract.demo.html",
       "demoCss": "design-trends/geometric-abstract/geometric-abstract.demo.css",
-      "screenshot": "design-trends/geometric-abstract/geometric-abstract.screenshot.avif"
+      "screenshot": "design-trends/geometric-abstract/geometric-abstract.screenshot.avif",
+      "description": "Geometric Abstract UI design style — Circles, lines, polygons, modular forms, and bold spatial relationships create a nonrepresentational visual system.",
+      "unit": "design-trends/geometric-abstract"
     },
     {
       "type": "design-trend",
@@ -905,7 +975,9 @@
       ],
       "demo": "design-trends/glassmorphism/glassmorphism.demo.html",
       "demoCss": "design-trends/glassmorphism/glassmorphism.demo.css",
-      "screenshot": "design-trends/glassmorphism/glassmorphism.screenshot.avif"
+      "screenshot": "design-trends/glassmorphism/glassmorphism.screenshot.avif",
+      "description": "Glassmorphism UI design style — Translucent frosted panels, background blur, thin highlights, and layered depth.",
+      "unit": "design-trends/glassmorphism"
     },
     {
       "type": "design-trend",
@@ -931,7 +1003,9 @@
       ],
       "demo": "design-trends/glitch-art/glitch-art.demo.html",
       "demoCss": "design-trends/glitch-art/glitch-art.demo.css",
-      "screenshot": "design-trends/glitch-art/glitch-art.screenshot.avif"
+      "screenshot": "design-trends/glitch-art/glitch-art.screenshot.avif",
+      "description": "Glitch Art UI design style — Pixel sorting, signal errors, compression artifacts, scanlines, channel shifts, and broken digital imagery become intentional text…",
+      "unit": "design-trends/glitch-art"
     },
     {
       "type": "design-trend",
@@ -958,7 +1032,9 @@
       ],
       "demo": "design-trends/global-village-coffeehouse/global-village-coffeehouse.demo.html",
       "demoCss": "design-trends/global-village-coffeehouse/global-village-coffeehouse.demo.css",
-      "screenshot": "design-trends/global-village-coffeehouse/global-village-coffeehouse.screenshot.avif"
+      "screenshot": "design-trends/global-village-coffeehouse/global-village-coffeehouse.screenshot.avif",
+      "description": "Global Village Coffeehouse UI design style — Earth tones, rough borders, woodcut-like symbols, suns, moons, spirals, natural motifs, and sincere hand-drawn glo…",
+      "unit": "design-trends/global-village-coffeehouse"
     },
     {
       "type": "design-trend",
@@ -984,7 +1060,9 @@
       ],
       "demo": "design-trends/gothic-neo-gothic/gothic-neo-gothic.demo.html",
       "demoCss": "design-trends/gothic-neo-gothic/gothic-neo-gothic.demo.css",
-      "screenshot": "design-trends/gothic-neo-gothic/gothic-neo-gothic.screenshot.avif"
+      "screenshot": "design-trends/gothic-neo-gothic/gothic-neo-gothic.screenshot.avif",
+      "description": "Gothic / Neo-Gothic UI design style — Pointed forms, blackletter or dramatic serif type, dark contrast, tracery, religious ornament, and medieval atmosphere.",
+      "unit": "design-trends/gothic-neo-gothic"
     },
     {
       "type": "design-trend",
@@ -1008,7 +1086,9 @@
       ],
       "demo": "design-trends/grunge/grunge.demo.html",
       "demoCss": "design-trends/grunge/grunge.demo.css",
-      "screenshot": "design-trends/grunge/grunge.screenshot.avif"
+      "screenshot": "design-trends/grunge/grunge.screenshot.avif",
+      "description": "Grunge UI design style — Distressed type, scratches, stains, rough textures, muted or dirty color, and irregular layering create worn intensity.",
+      "unit": "design-trends/grunge"
     },
     {
       "type": "design-trend",
@@ -1035,7 +1115,9 @@
       ],
       "demo": "design-trends/halftone-comic-book/halftone-comic-book.demo.html",
       "demoCss": "design-trends/halftone-comic-book/halftone-comic-book.demo.css",
-      "screenshot": "design-trends/halftone-comic-book/halftone-comic-book.screenshot.avif"
+      "screenshot": "design-trends/halftone-comic-book/halftone-comic-book.screenshot.avif",
+      "description": "Halftone / Comic Book UI design style — Dot screens, ink outlines, speech devices, panel logic, action marks, and punchy print colors.",
+      "unit": "design-trends/halftone-comic-book"
     },
     {
       "type": "design-trend",
@@ -1062,7 +1144,9 @@
       ],
       "demo": "design-trends/hand-drawn-ui/hand-drawn-ui.demo.html",
       "demoCss": "design-trends/hand-drawn-ui/hand-drawn-ui.demo.css",
-      "screenshot": "design-trends/hand-drawn-ui/hand-drawn-ui.screenshot.avif"
+      "screenshot": "design-trends/hand-drawn-ui/hand-drawn-ui.screenshot.avif",
+      "description": "Hand-Drawn UI design style — Imperfect lines, sketchy icons, paper textures, handwritten type, and playful annotations emphasize human craft.",
+      "unit": "design-trends/hand-drawn-ui"
     },
     {
       "type": "design-trend",
@@ -1089,7 +1173,9 @@
       ],
       "demo": "design-trends/heroic-realism/heroic-realism.demo.html",
       "demoCss": "design-trends/heroic-realism/heroic-realism.demo.css",
-      "screenshot": "design-trends/heroic-realism/heroic-realism.screenshot.avif"
+      "screenshot": "design-trends/heroic-realism/heroic-realism.screenshot.avif",
+      "description": "Heroic Realism UI design style — Idealized naturalistic figures become monumental symbols of strength, labor, unity, and progress in the legible, emotionally d…",
+      "unit": "design-trends/heroic-realism"
     },
     {
       "type": "design-trend",
@@ -1116,7 +1202,9 @@
       ],
       "demo": "design-trends/historical-manuscript-skeuomorphism/historical-manuscript-skeuomorphism.demo.html",
       "demoCss": "design-trends/historical-manuscript-skeuomorphism/historical-manuscript-skeuomorphism.demo.css",
-      "screenshot": "design-trends/historical-manuscript-skeuomorphism/historical-manuscript-skeuomorphism.screenshot.avif"
+      "screenshot": "design-trends/historical-manuscript-skeuomorphism/historical-manuscript-skeuomorphism.screenshot.avif",
+      "description": "Historical Manuscript Skeuomorphism UI design style — A tactile interface style that makes digital UI feel like a physical artifact from an older era, using th…",
+      "unit": "design-trends/historical-manuscript-skeuomorphism"
     },
     {
       "type": "design-trend",
@@ -1143,7 +1231,9 @@
       ],
       "demo": "design-trends/holographic-iridescent-ui/holographic-iridescent-ui.demo.html",
       "demoCss": "design-trends/holographic-iridescent-ui/holographic-iridescent-ui.demo.css",
-      "screenshot": "design-trends/holographic-iridescent-ui/holographic-iridescent-ui.screenshot.avif"
+      "screenshot": "design-trends/holographic-iridescent-ui/holographic-iridescent-ui.screenshot.avif",
+      "description": "Holographic / Iridescent UI design style — Spectral color shifts, pearlescent gradients, reflective surfaces, diffraction, and futuristic light effects.",
+      "unit": "design-trends/holographic-iridescent-ui"
     },
     {
       "type": "design-trend",
@@ -1169,7 +1259,9 @@
       ],
       "demo": "design-trends/indie-sleaze/indie-sleaze.demo.html",
       "demoCss": "design-trends/indie-sleaze/indie-sleaze.demo.css",
-      "screenshot": "design-trends/indie-sleaze/indie-sleaze.screenshot.avif"
+      "screenshot": "design-trends/indie-sleaze/indie-sleaze.screenshot.avif",
+      "description": "Indie Sleaze UI design style — Flash photography, messy nightlife imagery, condensed type, black backgrounds, low-fi textures, and deliberately unpolished cool.",
+      "unit": "design-trends/indie-sleaze"
     },
     {
       "type": "design-trend",
@@ -1195,7 +1287,9 @@
       ],
       "demo": "design-trends/japanese-minimalism/japanese-minimalism.demo.html",
       "demoCss": "design-trends/japanese-minimalism/japanese-minimalism.demo.css",
-      "screenshot": "design-trends/japanese-minimalism/japanese-minimalism.screenshot.avif"
+      "screenshot": "design-trends/japanese-minimalism/japanese-minimalism.screenshot.avif",
+      "description": "Japanese Minimalism UI design style — Disciplined reduction, calm neutral color, precise spacing, natural materials, and meaningful emptiness create quiet clar…",
+      "unit": "design-trends/japanese-minimalism"
     },
     {
       "type": "design-trend",
@@ -1222,7 +1316,9 @@
       ],
       "demo": "design-trends/jet-age-optimism/jet-age-optimism.demo.html",
       "demoCss": "design-trends/jet-age-optimism/jet-age-optimism.demo.css",
-      "screenshot": "design-trends/jet-age-optimism/jet-age-optimism.screenshot.avif"
+      "screenshot": "design-trends/jet-age-optimism/jet-age-optimism.screenshot.avif",
+      "description": "Jet Age Optimism UI design style — Postwar futurism combines boomerangs, starbursts, atoms, parabolas, sweeping curves, neon, chrome, and exuberant technologic…",
+      "unit": "design-trends/jet-age-optimism"
     },
     {
       "type": "design-trend",
@@ -1248,7 +1344,9 @@
       ],
       "demo": "design-trends/kawaii-ui/kawaii-ui.demo.html",
       "demoCss": "design-trends/kawaii-ui/kawaii-ui.demo.css",
-      "screenshot": "design-trends/kawaii-ui/kawaii-ui.screenshot.avif"
+      "screenshot": "design-trends/kawaii-ui/kawaii-ui.screenshot.avif",
+      "description": "Kawaii UI design style — Cute characters, rounded shapes, soft colors, expressive icons, and cheerful decorative details.",
+      "unit": "design-trends/kawaii-ui"
     },
     {
       "type": "design-trend",
@@ -1274,7 +1372,9 @@
       ],
       "demo": "design-trends/kinetic-typography/kinetic-typography.demo.html",
       "demoCss": "design-trends/kinetic-typography/kinetic-typography.demo.css",
-      "screenshot": "design-trends/kinetic-typography/kinetic-typography.screenshot.avif"
+      "screenshot": "design-trends/kinetic-typography/kinetic-typography.screenshot.avif",
+      "description": "Kinetic Typography UI design style — Animated text changes position, scale, weight, shape, or rhythm to communicate tone and guide attention.",
+      "unit": "design-trends/kinetic-typography"
     },
     {
       "type": "design-trend",
@@ -1301,7 +1401,9 @@
       ],
       "demo": "design-trends/lo-fi-art/lo-fi-art.demo.html",
       "demoCss": "design-trends/lo-fi-art/lo-fi-art.demo.css",
-      "screenshot": "design-trends/lo-fi-art/lo-fi-art.screenshot.avif"
+      "screenshot": "design-trends/lo-fi-art/lo-fi-art.screenshot.avif",
+      "description": "Lo-fi Art UI design style — Cozy 2010s imagery associated with lo-fi hip-hop uses anime-influenced everyday scenes, muted color, warm pools of light, and analo…",
+      "unit": "design-trends/lo-fi-art"
     },
     {
       "type": "design-trend",
@@ -1328,7 +1430,9 @@
       ],
       "demo": "design-trends/low-poly-ui/low-poly-ui.demo.html",
       "demoCss": "design-trends/low-poly-ui/low-poly-ui.demo.css",
-      "screenshot": "design-trends/low-poly-ui/low-poly-ui.screenshot.avif"
+      "screenshot": "design-trends/low-poly-ui/low-poly-ui.screenshot.avif",
+      "description": "Low-Poly UI design style — Faceted geometric models, simplified shading, angular silhouettes, and deliberately economical three-dimensional detail.",
+      "unit": "design-trends/low-poly-ui"
     },
     {
       "type": "design-trend",
@@ -1355,7 +1459,9 @@
       ],
       "demo": "design-trends/luminous-eco-skeuomorphism/luminous-eco-skeuomorphism.demo.html",
       "demoCss": "design-trends/luminous-eco-skeuomorphism/luminous-eco-skeuomorphism.demo.css",
-      "screenshot": "design-trends/luminous-eco-skeuomorphism/luminous-eco-skeuomorphism.screenshot.avif"
+      "screenshot": "design-trends/luminous-eco-skeuomorphism/luminous-eco-skeuomorphism.screenshot.avif",
+      "description": "Luminous Eco-Skeuomorphism UI design style — A glossy, tactile interface style that combines early-2010s skeuomorphism with futuristic ecological-tech aestheti…",
+      "unit": "design-trends/luminous-eco-skeuomorphism"
     },
     {
       "type": "design-trend",
@@ -1380,7 +1486,9 @@
       ],
       "demo": "design-trends/material-design/material-design.demo.html",
       "demoCss": "design-trends/material-design/material-design.demo.css",
-      "screenshot": "design-trends/material-design/material-design.screenshot.avif"
+      "screenshot": "design-trends/material-design/material-design.screenshot.avif",
+      "description": "Material Design UI design style — Google’s adaptive design system combines clear interface hierarchy, personalized color, accessible components, generous round…",
+      "unit": "design-trends/material-design"
     },
     {
       "type": "design-trend",
@@ -1404,7 +1512,9 @@
       ],
       "demo": "design-trends/maximalism/maximalism.demo.html",
       "demoCss": "design-trends/maximalism/maximalism.demo.css",
-      "screenshot": "design-trends/maximalism/maximalism.screenshot.avif"
+      "screenshot": "design-trends/maximalism/maximalism.screenshot.avif",
+      "description": "Maximalism UI design style — Dense compositions combine expressive typography, vivid color, layered imagery, pattern, and abundant decoration.",
+      "unit": "design-trends/maximalism"
     },
     {
       "type": "design-trend",
@@ -1428,7 +1538,9 @@
       ],
       "demo": "design-trends/mcbling/mcbling.demo.html",
       "demoCss": "design-trends/mcbling/mcbling.demo.css",
-      "screenshot": "design-trends/mcbling/mcbling.screenshot.avif"
+      "screenshot": "design-trends/mcbling/mcbling.screenshot.avif",
+      "description": "McBling UI design style — Bedazzled surfaces, hot pink, metallic accessories, ornate scripts, celebrity excess, and maximal early-2000s luxury signals.",
+      "unit": "design-trends/mcbling"
     },
     {
       "type": "design-trend",
@@ -1453,7 +1565,9 @@
       ],
       "demo": "design-trends/memphis-design/memphis-design.demo.html",
       "demoCss": "design-trends/memphis-design/memphis-design.demo.css",
-      "screenshot": "design-trends/memphis-design/memphis-design.screenshot.avif"
+      "screenshot": "design-trends/memphis-design/memphis-design.screenshot.avif",
+      "description": "Memphis Design UI design style — Bright geometric shapes, squiggles, dots, contrasting patterns, and playful visual imbalance evoke the 1980s Memphis Group.",
+      "unit": "design-trends/memphis-design"
     },
     {
       "type": "design-trend",
@@ -1480,7 +1594,9 @@
       ],
       "demo": "design-trends/mesh-gradient-aurora-ui/mesh-gradient-aurora-ui.demo.html",
       "demoCss": "design-trends/mesh-gradient-aurora-ui/mesh-gradient-aurora-ui.demo.css",
-      "screenshot": "design-trends/mesh-gradient-aurora-ui/mesh-gradient-aurora-ui.screenshot.avif"
+      "screenshot": "design-trends/mesh-gradient-aurora-ui/mesh-gradient-aurora-ui.screenshot.avif",
+      "description": "Mesh Gradient / Aurora UI design style — Atmospheric multi-point gradients blending luminous colors into soft clouds, glows, and color fields.",
+      "unit": "design-trends/mesh-gradient-aurora-ui"
     },
     {
       "type": "design-trend",
@@ -1507,7 +1623,9 @@
       ],
       "demo": "design-trends/metro-modern-ui/metro-modern-ui.demo.html",
       "demoCss": "design-trends/metro-modern-ui/metro-modern-ui.demo.css",
-      "screenshot": "design-trends/metro-modern-ui/metro-modern-ui.screenshot.avif"
+      "screenshot": "design-trends/metro-modern-ui/metro-modern-ui.screenshot.avif",
+      "description": "Metro / Modern UI design style — Typography-led layouts with flat tiles, edge-to-edge content, strong alignment, minimal chrome, and directional motion.",
+      "unit": "design-trends/metro-modern-ui"
     },
     {
       "type": "design-trend",
@@ -1534,7 +1652,9 @@
       ],
       "demo": "design-trends/mid-century-modern/mid-century-modern.demo.html",
       "demoCss": "design-trends/mid-century-modern/mid-century-modern.demo.css",
-      "screenshot": "design-trends/mid-century-modern/mid-century-modern.screenshot.avif"
+      "screenshot": "design-trends/mid-century-modern/mid-century-modern.screenshot.avif",
+      "description": "Mid-Century Modern UI design style — Clean geometry, warm muted colors, humanist illustration, functional layouts, and optimistic postwar simplicity.",
+      "unit": "design-trends/mid-century-modern"
     },
     {
       "type": "design-trend",
@@ -1560,7 +1680,9 @@
       ],
       "demo": "design-trends/millennial-beige/millennial-beige.demo.html",
       "demoCss": "design-trends/millennial-beige/millennial-beige.demo.css",
-      "screenshot": "design-trends/millennial-beige/millennial-beige.screenshot.avif"
+      "screenshot": "design-trends/millennial-beige/millennial-beige.screenshot.avif",
+      "description": "Millennial Beige UI design style — A calm tonal aesthetic layers cream, tan, sand, taupe, and greige with tactile natural details, soft contrast, and intention…",
+      "unit": "design-trends/millennial-beige"
     },
     {
       "type": "design-trend",
@@ -1584,7 +1706,9 @@
       ],
       "demo": "design-trends/minimalism/minimalism.demo.html",
       "demoCss": "design-trends/minimalism/minimalism.demo.css",
-      "screenshot": "design-trends/minimalism/minimalism.screenshot.avif"
+      "screenshot": "design-trends/minimalism/minimalism.screenshot.avif",
+      "description": "Minimalism UI design style — Deliberate reduction leaves only the content, controls, imagery, and structure needed for one focused experience.",
+      "unit": "design-trends/minimalism"
     },
     {
       "type": "design-trend",
@@ -1610,7 +1734,9 @@
       ],
       "demo": "design-trends/monochrome-ui/monochrome-ui.demo.html",
       "demoCss": "design-trends/monochrome-ui/monochrome-ui.demo.css",
-      "screenshot": "design-trends/monochrome-ui/monochrome-ui.screenshot.avif"
+      "screenshot": "design-trends/monochrome-ui/monochrome-ui.screenshot.avif",
+      "description": "Monochrome UI design style — A single hue or neutral family creates hierarchy through tone, scale, texture, and contrast rather than varied color.",
+      "unit": "design-trends/monochrome-ui"
     },
     {
       "type": "design-trend",
@@ -1634,7 +1760,9 @@
       ],
       "demo": "design-trends/neubrutalism/neubrutalism.demo.html",
       "demoCss": "design-trends/neubrutalism/neubrutalism.demo.css",
-      "screenshot": "design-trends/neubrutalism/neubrutalism.screenshot.avif"
+      "screenshot": "design-trends/neubrutalism/neubrutalism.screenshot.avif",
+      "description": "Neubrutalism UI design style — Also called Neo Brutalism or Neo Memphis, this late-2010s and 2020s digital style wraps conventional UX in loud geometric blocks…",
+      "unit": "design-trends/neubrutalism"
     },
     {
       "type": "design-trend",
@@ -1658,7 +1786,9 @@
       ],
       "demo": "design-trends/neumorphism/neumorphism.demo.html",
       "demoCss": "design-trends/neumorphism/neumorphism.demo.css",
-      "screenshot": "design-trends/neumorphism/neumorphism.screenshot.avif"
+      "screenshot": "design-trends/neumorphism/neumorphism.screenshot.avif",
+      "description": "Neumorphism UI design style — Low-contrast monochromatic surfaces with controls that appear softly raised from or pressed into the background.",
+      "unit": "design-trends/neumorphism"
     },
     {
       "type": "design-trend",
@@ -1684,7 +1814,9 @@
       ],
       "demo": "design-trends/organic-blob-design/organic-blob-design.demo.html",
       "demoCss": "design-trends/organic-blob-design/organic-blob-design.demo.css",
-      "screenshot": "design-trends/organic-blob-design/organic-blob-design.screenshot.avif"
+      "screenshot": "design-trends/organic-blob-design/organic-blob-design.screenshot.avif",
+      "description": "Organic / Blob Design UI design style — Fluid silhouettes, asymmetric curves, soft blobs, rounded containers, and freeform compositions replace rigid geometry.",
+      "unit": "design-trends/organic-blob-design"
     },
     {
       "type": "design-trend",
@@ -1710,7 +1842,9 @@
       ],
       "demo": "design-trends/pc-98/pc-98.demo.html",
       "demoCss": "design-trends/pc-98/pc-98.demo.css",
-      "screenshot": "design-trends/pc-98/pc-98.screenshot.avif"
+      "screenshot": "design-trends/pc-98/pc-98.screenshot.avif",
+      "description": "PC-98 UI design style — NEC PC-9800-era Japanese games pair relatively high-resolution 640×400 scenes with tightly limited color, meticulous dithering, detaile…",
+      "unit": "design-trends/pc-98"
     },
     {
       "type": "design-trend",
@@ -1736,7 +1870,9 @@
       ],
       "demo": "design-trends/pixel-art/pixel-art.demo.html",
       "demoCss": "design-trends/pixel-art/pixel-art.demo.css",
-      "screenshot": "design-trends/pixel-art/pixel-art.screenshot.avif"
+      "screenshot": "design-trends/pixel-art/pixel-art.screenshot.avif",
+      "description": "Pixel Art UI design style — Low-resolution graphics, limited palettes, blocky typography, and game-inspired interface details.",
+      "unit": "design-trends/pixel-art"
     },
     {
       "type": "design-trend",
@@ -1762,7 +1898,9 @@
       ],
       "demo": "design-trends/pop-art/pop-art.demo.html",
       "demoCss": "design-trends/pop-art/pop-art.demo.css",
-      "screenshot": "design-trends/pop-art/pop-art.screenshot.avif"
+      "screenshot": "design-trends/pop-art/pop-art.screenshot.avif",
+      "description": "Pop Art UI design style — Commercial imagery, bold outlines, repetition, bright primary colors, and mass-media references become graphic spectacle.",
+      "unit": "design-trends/pop-art"
     },
     {
       "type": "design-trend",
@@ -1788,7 +1926,9 @@
       ],
       "demo": "design-trends/postmodern-eclecticism/postmodern-eclecticism.demo.html",
       "demoCss": "design-trends/postmodern-eclecticism/postmodern-eclecticism.demo.css",
-      "screenshot": "design-trends/postmodern-eclecticism/postmodern-eclecticism.screenshot.avif"
+      "screenshot": "design-trends/postmodern-eclecticism/postmodern-eclecticism.screenshot.avif",
+      "description": "Postmodern Eclecticism UI design style — Historical references, irony, ornament, clashing styles, playful symbolism, and deliberate rule-breaking reject strict…",
+      "unit": "design-trends/postmodern-eclecticism"
     },
     {
       "type": "design-trend",
@@ -1813,7 +1953,9 @@
       ],
       "demo": "design-trends/psychedelic-design/psychedelic-design.demo.html",
       "demoCss": "design-trends/psychedelic-design/psychedelic-design.demo.css",
-      "screenshot": "design-trends/psychedelic-design/psychedelic-design.screenshot.avif"
+      "screenshot": "design-trends/psychedelic-design/psychedelic-design.screenshot.avif",
+      "description": "Psychedelic Design UI design style — Surreal imagery, distorted lettering, intense colors, fluid patterns, and dreamlike compositions.",
+      "unit": "design-trends/psychedelic-design"
     },
     {
       "type": "design-trend",
@@ -1839,7 +1981,9 @@
       ],
       "demo": "design-trends/punk-zine/punk-zine.demo.html",
       "demoCss": "design-trends/punk-zine/punk-zine.demo.css",
-      "screenshot": "design-trends/punk-zine/punk-zine.screenshot.avif"
+      "screenshot": "design-trends/punk-zine/punk-zine.screenshot.avif",
+      "description": "Punk / Zine UI design style — Photocopied textures, ransom-note typography, torn paper, handwriting, stamps, and confrontational DIY energy.",
+      "unit": "design-trends/punk-zine"
     },
     {
       "type": "design-trend",
@@ -1865,7 +2009,9 @@
       ],
       "demo": "design-trends/quiet-luxury/quiet-luxury.demo.html",
       "demoCss": "design-trends/quiet-luxury/quiet-luxury.demo.css",
-      "screenshot": "design-trends/quiet-luxury/quiet-luxury.screenshot.avif"
+      "screenshot": "design-trends/quiet-luxury/quiet-luxury.screenshot.avif",
+      "description": "Quiet Luxury UI design style — Restrained palettes, refined serif or neo-grotesque type, generous space, subtle motion, and meticulous premium detail.",
+      "unit": "design-trends/quiet-luxury"
     },
     {
       "type": "design-trend",
@@ -1892,7 +2038,9 @@
       ],
       "demo": "design-trends/real-wood-skeuomorphism/real-wood-skeuomorphism.demo.html",
       "demoCss": "design-trends/real-wood-skeuomorphism/real-wood-skeuomorphism.demo.css",
-      "screenshot": "design-trends/real-wood-skeuomorphism/real-wood-skeuomorphism.screenshot.avif"
+      "screenshot": "design-trends/real-wood-skeuomorphism/real-wood-skeuomorphism.screenshot.avif",
+      "description": "Real-Wood Skeuomorphism UI design style — A tactile skeuomorphic style that constructs interfaces from highly realistic wood surfaces, making digital controls …",
+      "unit": "design-trends/real-wood-skeuomorphism"
     },
     {
       "type": "design-trend",
@@ -1918,7 +2066,9 @@
       ],
       "demo": "design-trends/retro-computing/retro-computing.demo.html",
       "demoCss": "design-trends/retro-computing/retro-computing.demo.css",
-      "screenshot": "design-trends/retro-computing/retro-computing.screenshot.avif"
+      "screenshot": "design-trends/retro-computing/retro-computing.screenshot.avif",
+      "description": "Retro Computing UI design style — CRT glow, bitmap fonts, window chrome, limited palettes, scanlines, floppy-disk motifs, and vintage operating-system conventi…",
+      "unit": "design-trends/retro-computing"
     },
     {
       "type": "design-trend",
@@ -1944,7 +2094,9 @@
       ],
       "demo": "design-trends/retro-futurism/retro-futurism.demo.html",
       "demoCss": "design-trends/retro-futurism/retro-futurism.demo.css",
-      "screenshot": "design-trends/retro-futurism/retro-futurism.screenshot.avif"
+      "screenshot": "design-trends/retro-futurism/retro-futurism.screenshot.avif",
+      "description": "Retro-Futurism UI design style — Past visions of tomorrow are recombined through vintage technology, period typography, space-age forms, chrome, and imagined f…",
+      "unit": "design-trends/retro-futurism"
     },
     {
       "type": "design-trend",
@@ -1971,7 +2123,9 @@
       ],
       "demo": "design-trends/rpg-pixel-art/rpg-pixel-art.demo.html",
       "demoCss": "design-trends/rpg-pixel-art/rpg-pixel-art.demo.css",
-      "screenshot": "design-trends/rpg-pixel-art/rpg-pixel-art.screenshot.avif"
+      "screenshot": "design-trends/rpg-pixel-art/rpg-pixel-art.screenshot.avif",
+      "description": "RPG Pixel Art UI design style — Classic 8-bit and 16-bit role-playing games combine top-down tile maps, expressive party sprites, framed dialogue, inventory me…",
+      "unit": "design-trends/rpg-pixel-art"
     },
     {
       "type": "design-trend",
@@ -1998,7 +2152,9 @@
       ],
       "demo": "design-trends/scandinavian-modern/scandinavian-modern.demo.html",
       "demoCss": "design-trends/scandinavian-modern/scandinavian-modern.demo.css",
-      "screenshot": "design-trends/scandinavian-modern/scandinavian-modern.screenshot.avif"
+      "screenshot": "design-trends/scandinavian-modern/scandinavian-modern.screenshot.avif",
+      "description": "Scandinavian Modern UI design style — Functional simplicity, light palettes, warm natural materials, clean lines, and friendly human-centered restraint.",
+      "unit": "design-trends/scandinavian-modern"
     },
     {
       "type": "design-trend",
@@ -2025,7 +2181,9 @@
       ],
       "demo": "design-trends/scrapbook-sticker-ui/scrapbook-sticker-ui.demo.html",
       "demoCss": "design-trends/scrapbook-sticker-ui/scrapbook-sticker-ui.demo.css",
-      "screenshot": "design-trends/scrapbook-sticker-ui/scrapbook-sticker-ui.screenshot.avif"
+      "screenshot": "design-trends/scrapbook-sticker-ui/scrapbook-sticker-ui.screenshot.avif",
+      "description": "Scrapbook / Sticker UI design style — Stickers, tape, stamps, snapshots, doodles, labels, and layered ephemera create a personal assembled look.",
+      "unit": "design-trends/scrapbook-sticker-ui"
     },
     {
       "type": "design-trend",
@@ -2049,7 +2207,9 @@
       ],
       "demo": "design-trends/seapunk/seapunk.demo.html",
       "demoCss": "design-trends/seapunk/seapunk.demo.css",
-      "screenshot": "design-trends/seapunk/seapunk.screenshot.avif"
+      "screenshot": "design-trends/seapunk/seapunk.screenshot.avif",
+      "description": "Seapunk UI design style — Turquoise water, dolphins, shells, early CGI, chrome, tropical graphics, and playful aquatic internet surrealism.",
+      "unit": "design-trends/seapunk"
     },
     {
       "type": "design-trend",
@@ -2073,7 +2233,9 @@
       ],
       "demo": "design-trends/skeuomorphism/skeuomorphism.demo.html",
       "demoCss": "design-trends/skeuomorphism/skeuomorphism.demo.css",
-      "screenshot": "design-trends/skeuomorphism/skeuomorphism.screenshot.avif"
+      "screenshot": "design-trends/skeuomorphism/skeuomorphism.screenshot.avif",
+      "description": "Skeuomorphism UI design style — Photorealistic or softly modeled interfaces use material depth, mechanical controls, and analog-equipment cues, often combining…",
+      "unit": "design-trends/skeuomorphism"
     },
     {
       "type": "design-trend",
@@ -2097,7 +2259,9 @@
       ],
       "demo": "design-trends/solarpunk/solarpunk.demo.html",
       "demoCss": "design-trends/solarpunk/solarpunk.demo.css",
-      "screenshot": "design-trends/solarpunk/solarpunk.screenshot.avif"
+      "screenshot": "design-trends/solarpunk/solarpunk.screenshot.avif",
+      "description": "Solarpunk UI design style — Optimistic futurism combines renewable technology, lush vegetation, warm daylight, community infrastructure, and organic forms.",
+      "unit": "design-trends/solarpunk"
     },
     {
       "type": "design-trend",
@@ -2123,7 +2287,9 @@
       ],
       "demo": "design-trends/spatial-ui/spatial-ui.demo.html",
       "demoCss": "design-trends/spatial-ui/spatial-ui.demo.css",
-      "screenshot": "design-trends/spatial-ui/spatial-ui.screenshot.avif"
+      "screenshot": "design-trends/spatial-ui/spatial-ui.screenshot.avif",
+      "description": "Spatial UI design style — Depth-aware panels, volumetric hierarchy, gaze and gesture affordances, environmental anchoring, and restrained floating controls.",
+      "unit": "design-trends/spatial-ui"
     },
     {
       "type": "design-trend",
@@ -2149,7 +2315,9 @@
       ],
       "demo": "design-trends/sports-brutalism/sports-brutalism.demo.html",
       "demoCss": "design-trends/sports-brutalism/sports-brutalism.demo.css",
-      "screenshot": "design-trends/sports-brutalism/sports-brutalism.screenshot.avif"
+      "screenshot": "design-trends/sports-brutalism/sports-brutalism.screenshot.avif",
+      "description": "Sports Brutalism UI design style — Condensed type, hard grids, scoreboards, halftones, high-contrast photography, oversized numbers, and aggressive overlays.",
+      "unit": "design-trends/sports-brutalism"
     },
     {
       "type": "design-trend",
@@ -2173,7 +2341,9 @@
       ],
       "demo": "design-trends/steampunk/steampunk.demo.html",
       "demoCss": "design-trends/steampunk/steampunk.demo.css",
-      "screenshot": "design-trends/steampunk/steampunk.screenshot.avif"
+      "screenshot": "design-trends/steampunk/steampunk.screenshot.avif",
+      "description": "Steampunk UI design style — A hyper-skeuomorphic Victorian machine aesthetic turns the interface into a worn, theatrical artifact built from brass, iron, leath…",
+      "unit": "design-trends/steampunk"
     },
     {
       "type": "design-trend",
@@ -2199,7 +2369,9 @@
       ],
       "demo": "design-trends/streamline-moderne/streamline-moderne.demo.html",
       "demoCss": "design-trends/streamline-moderne/streamline-moderne.demo.css",
-      "screenshot": "design-trends/streamline-moderne/streamline-moderne.screenshot.avif"
+      "screenshot": "design-trends/streamline-moderne/streamline-moderne.screenshot.avif",
+      "description": "Streamline Moderne UI design style — Aerodynamic curves, horizontal bands, chrome, rounded corners, and machine-age speed simplify Art Deco ornament.",
+      "unit": "design-trends/streamline-moderne"
     },
     {
       "type": "design-trend",
@@ -2225,7 +2397,9 @@
       ],
       "demo": "design-trends/superflat-pop/superflat-pop.demo.html",
       "demoCss": "design-trends/superflat-pop/superflat-pop.demo.css",
-      "screenshot": "design-trends/superflat-pop/superflat-pop.screenshot.avif"
+      "screenshot": "design-trends/superflat-pop/superflat-pop.screenshot.avif",
+      "description": "Superflat Pop UI design style — Extremely flat perspective, bright candy color, dense cartoon motifs, polished outlines, and Japanese pop-cultural energy.",
+      "unit": "design-trends/superflat-pop"
     },
     {
       "type": "design-trend",
@@ -2251,7 +2425,9 @@
       ],
       "demo": "design-trends/surf-crush/surf-crush.demo.html",
       "demoCss": "design-trends/surf-crush/surf-crush.demo.css",
-      "screenshot": "design-trends/surf-crush/surf-crush.screenshot.avif"
+      "screenshot": "design-trends/surf-crush/surf-crush.screenshot.avif",
+      "description": "Surf Crush UI design style — The 1999–2008 surf-media craze combines sunlit ocean photography, boards, Hawaiian prints, puka shells, hibiscus flowers, beach ha…",
+      "unit": "design-trends/surf-crush"
     },
     {
       "type": "design-trend",
@@ -2277,7 +2453,9 @@
       ],
       "demo": "design-trends/swiss-style/swiss-style.demo.html",
       "demoCss": "design-trends/swiss-style/swiss-style.demo.css",
-      "screenshot": "design-trends/swiss-style/swiss-style.screenshot.avif"
+      "screenshot": "design-trends/swiss-style/swiss-style.screenshot.avif",
+      "description": "Swiss Style UI design style — Strict grids, generous whitespace, sans-serif typography, asymmetry, and objective information hierarchy.",
+      "unit": "design-trends/swiss-style"
     },
     {
       "type": "design-trend",
@@ -2303,7 +2481,9 @@
       ],
       "demo": "design-trends/synthwave-outrun/synthwave-outrun.demo.html",
       "demoCss": "design-trends/synthwave-outrun/synthwave-outrun.demo.css",
-      "screenshot": "design-trends/synthwave-outrun/synthwave-outrun.screenshot.avif"
+      "screenshot": "design-trends/synthwave-outrun/synthwave-outrun.screenshot.avif",
+      "description": "Synthwave / Outrun UI design style — Dark horizons, neon grids, magenta-cyan light, sports cars, chrome lettering, and cinematic 1980s night-drive energy.",
+      "unit": "design-trends/synthwave-outrun"
     },
     {
       "type": "design-trend",
@@ -2330,7 +2510,9 @@
       ],
       "demo": "design-trends/terminal-cli-ui/terminal-cli-ui.demo.html",
       "demoCss": "design-trends/terminal-cli-ui/terminal-cli-ui.demo.css",
-      "screenshot": "design-trends/terminal-cli-ui/terminal-cli-ui.screenshot.avif"
+      "screenshot": "design-trends/terminal-cli-ui/terminal-cli-ui.screenshot.avif",
+      "description": "Terminal / CLI UI design style — Monospaced type, command prompts, phosphor-like color, cursor states, logs, and text-first interaction.",
+      "unit": "design-trends/terminal-cli-ui"
     },
     {
       "type": "design-trend",
@@ -2356,7 +2538,9 @@
       ],
       "demo": "design-trends/type-first-design/type-first-design.demo.html",
       "demoCss": "design-trends/type-first-design/type-first-design.demo.css",
-      "screenshot": "design-trends/type-first-design/type-first-design.screenshot.avif"
+      "screenshot": "design-trends/type-first-design/type-first-design.screenshot.avif",
+      "description": "Type-First Design UI design style — Oversized or expressive typography acts as the primary visual element, with imagery and controls playing supporting roles.",
+      "unit": "design-trends/type-first-design"
     },
     {
       "type": "design-trend",
@@ -2380,7 +2564,9 @@
       ],
       "demo": "design-trends/urbling/urbling.demo.html",
       "demoCss": "design-trends/urbling/urbling.demo.css",
-      "screenshot": "design-trends/urbling/urbling.screenshot.avif"
+      "screenshot": "design-trends/urbling/urbling.screenshot.avif",
+      "description": "UrBling UI design style — Also called Urban Grunge, this late-1990s and mid-2000s commercial style fuses hip-hop and street imagery with grunge, graffiti, Kust…",
+      "unit": "design-trends/urbling"
     },
     {
       "type": "design-trend",
@@ -2406,7 +2592,9 @@
       ],
       "demo": "design-trends/utopian-scholastic/utopian-scholastic.demo.html",
       "demoCss": "design-trends/utopian-scholastic/utopian-scholastic.demo.css",
-      "screenshot": "design-trends/utopian-scholastic/utopian-scholastic.screenshot.avif"
+      "screenshot": "design-trends/utopian-scholastic/utopian-scholastic.screenshot.avif",
+      "description": "Utopian Scholastic UI design style — Encyclopedic collage, scientific specimens, planets, animals, diagrams, classical type, and optimistic educational imagery.",
+      "unit": "design-trends/utopian-scholastic"
     },
     {
       "type": "design-trend",
@@ -2430,7 +2618,9 @@
       ],
       "demo": "design-trends/vaporwave/vaporwave.demo.html",
       "demoCss": "design-trends/vaporwave/vaporwave.demo.css",
-      "screenshot": "design-trends/vaporwave/vaporwave.screenshot.avif"
+      "screenshot": "design-trends/vaporwave/vaporwave.screenshot.avif",
+      "description": "Vaporwave UI design style — Pastel neon, digital sunsets, classical sculpture, grids, obsolete consumer imagery, and surreal 1980s–1990s nostalgia.",
+      "unit": "design-trends/vaporwave"
     },
     {
       "type": "design-trend",
@@ -2457,7 +2647,9 @@
       ],
       "demo": "design-trends/vectordelia-frutiger-metro/vectordelia-frutiger-metro.demo.html",
       "demoCss": "design-trends/vectordelia-frutiger-metro/vectordelia-frutiger-metro.demo.css",
-      "screenshot": "design-trends/vectordelia-frutiger-metro/vectordelia-frutiger-metro.screenshot.avif"
+      "screenshot": "design-trends/vectordelia-frutiger-metro/vectordelia-frutiger-metro.screenshot.avif",
+      "description": "Vectordelia (Frutiger Metro) UI design style — Vivid flat vectors, organic flourishes, silhouettes, layered curves, urban energy, and humanist maximalism repla…",
+      "unit": "design-trends/vectordelia-frutiger-metro"
     },
     {
       "type": "design-trend",
@@ -2484,7 +2676,9 @@
       ],
       "demo": "design-trends/wabi-sabi/wabi-sabi.demo.html",
       "demoCss": "design-trends/wabi-sabi/wabi-sabi.demo.css",
-      "screenshot": "design-trends/wabi-sabi/wabi-sabi.screenshot.avif"
+      "screenshot": "design-trends/wabi-sabi/wabi-sabi.screenshot.avif",
+      "description": "Wabi-Sabi UI design style — Asymmetry, weathered texture, muted earth tones, imperfection, and visible material age create understated warmth.",
+      "unit": "design-trends/wabi-sabi"
     },
     {
       "type": "design-trend",
@@ -2511,7 +2705,9 @@
       ],
       "demo": "design-trends/web-1-0-webcore/web-1-0-webcore.demo.html",
       "demoCss": "design-trends/web-1-0-webcore/web-1-0-webcore.demo.css",
-      "screenshot": "design-trends/web-1-0-webcore/web-1-0-webcore.screenshot.avif"
+      "screenshot": "design-trends/web-1-0-webcore/web-1-0-webcore.screenshot.avif",
+      "description": "Web 1.0 / Webcore UI design style — Browser-default typography, tiled backgrounds, beveled buttons, underlined links, animated GIFs, badges, counters, and visi…",
+      "unit": "design-trends/web-1-0-webcore"
     },
     {
       "type": "design-trend",
@@ -2535,7 +2731,9 @@
       ],
       "demo": "design-trends/whimsigothic/whimsigothic.demo.html",
       "demoCss": "design-trends/whimsigothic/whimsigothic.demo.css",
-      "screenshot": "design-trends/whimsigothic/whimsigothic.screenshot.avif"
+      "screenshot": "design-trends/whimsigothic/whimsigothic.screenshot.avif",
+      "description": "Whimsigothic UI design style — Celestial symbols, jewel tones, ornate curves, mystical illustration, and playful gothic motifs create theatrical enchantment.",
+      "unit": "design-trends/whimsigothic"
     },
     {
       "type": "design-trend",
@@ -2559,7 +2757,9 @@
       ],
       "demo": "design-trends/y2k/y2k.demo.html",
       "demoCss": "design-trends/y2k/y2k.demo.css",
-      "screenshot": "design-trends/y2k/y2k.screenshot.avif"
+      "screenshot": "design-trends/y2k/y2k.screenshot.avif",
+      "description": "Y2K UI design style — Glossy chrome, translucent plastics, bubble typography, metallic gradients, compact devices, and turn-of-the-millennium digital optimism.",
+      "unit": "design-trends/y2k"
     },
     {
       "type": "design-trend",
@@ -2586,7 +2786,9 @@
       ],
       "demo": "design-trends/y2k-techno-skeuomorphism/y2k-techno-skeuomorphism.demo.html",
       "demoCss": "design-trends/y2k-techno-skeuomorphism/y2k-techno-skeuomorphism.demo.css",
-      "screenshot": "design-trends/y2k-techno-skeuomorphism/y2k-techno-skeuomorphism.screenshot.avif"
+      "screenshot": "design-trends/y2k-techno-skeuomorphism/y2k-techno-skeuomorphism.screenshot.avif",
+      "description": "Y2K Techno-Skeuomorphism UI design style — Early-2000s skinnable media-player interfaces model software after futuristic audio equipment; the style is also rec…",
+      "unit": "design-trends/y2k-techno-skeuomorphism"
     }
   ]
 }

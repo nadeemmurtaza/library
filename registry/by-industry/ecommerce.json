@@ -22,7 +22,8 @@
         "demo",
         "html",
         "local"
-      ]
+      ],
+      "description": "E-Commerce Operations Dashboard"
     },
     {
       "type": "dashboard-ecommerce",
@@ -44,7 +45,8 @@
         "dashboard",
         "tsx",
         "local"
-      ]
+      ],
+      "description": "exports EcommerceOperationsDashboard"
     },
     {
       "type": "template-open-design-design-templates",
@@ -68,7 +70,9 @@
         "html",
         "ppt",
         "full"
-      ]
+      ],
+      "description": "Halo v2 · Launch",
+      "unit": "templates/open-design-design-templates/html-ppt"
     },
     {
       "type": "template-open-design-design-templates",
@@ -92,7 +96,9 @@
         "html",
         "ppt",
         "full"
-      ]
+      ],
+      "description": "product-launch — 8-slide consumer product announcement deck: hero cover, \"introducing\" moment, three feature slides, how-it-works, pricing tiers, and a closing…",
+      "unit": "templates/open-design-design-templates/html-ppt"
     },
     {
       "type": "template-open-design-design-templates",
@@ -116,7 +122,9 @@
         "html",
         "ppt",
         "full"
-      ]
+      ],
+      "description": "product-launch — modern announcement deck",
+      "unit": "templates/open-design-design-templates/html-ppt"
     },
     {
       "type": "template-open-design-design-templates",
@@ -140,7 +148,9 @@
         "html",
         "launch",
         "example"
-      ]
+      ],
+      "description": "Pitch a Team Rollout like a Strategic Account Executive - B2B sales",
+      "unit": "templates/open-design-design-templates/html-ppt-product-launch"
     },
     {
       "type": "template-open-design-design-templates",
@@ -164,7 +174,9 @@
         "html",
         "launch",
         "skill"
-      ]
+      ],
+      "description": "OpenDesign Teams: a launch-and-adoption proposal for a mid-market design team weighing a switch from closed cloud tools. Built as a decision-grade B2B sales de…",
+      "unit": "templates/open-design-design-templates/html-ppt-product-launch"
     },
     {
       "type": "template-open-design-design-templates",
@@ -188,7 +200,9 @@
         "html",
         "cartesian",
         "example"
-      ]
+      ],
+      "description": "Present a Senior Thesis Defense like a Distinction-Grade Economics Student - Student coursework",
+      "unit": "templates/open-design-design-templates/html-ppt-zhangzara-cartesian"
     },
     {
       "type": "template-open-design-design-templates",
@@ -212,7 +226,9 @@
         "html",
         "cartesian",
         "license"
-      ]
+      ],
+      "description": "other file",
+      "unit": "templates/open-design-design-templates/html-ppt-zhangzara-cartesian"
     },
     {
       "type": "template-open-design-design-templates",
@@ -236,7 +252,9 @@
         "html",
         "cartesian",
         "skill"
-      ]
+      ],
+      "description": "An economics senior thesis on the employment effects of local minimum-wage increases — identification strategy, evidence, and limitations. Built as a decision-…",
+      "unit": "templates/open-design-design-templates/html-ppt-zhangzara-cartesian"
     },
     {
       "type": "template-open-design-design-templates",
@@ -260,7 +278,9 @@
         "html",
         "cartesian",
         "template"
-      ]
+      ],
+      "description": "Cartesian",
+      "unit": "templates/open-design-design-templates/html-ppt-zhangzara-cartesian"
     },
     {
       "type": "template-open-design-design-templates",
@@ -284,7 +304,9 @@
         "py",
         "open-design-design-templates",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "templates/open-design-design-templates/last30days"
     },
     {
       "type": "template-open-design-prompts",
@@ -308,7 +330,9 @@
         "shop",
         "outfit",
         "teaser"
-      ]
+      ],
+      "description": "Social Media Post - Anime Pokémon Shop Outfit Teaser Poster",
+      "unit": "templates/open-design-prompts/image"
     },
     {
       "type": "template-open-design-prompts",
@@ -332,7 +356,9 @@
         "prompts",
         "video",
         "hyperframes"
-      ]
+      ],
+      "description": "HyperFrames: 5-Second Minimal Product Reveal",
+      "unit": "templates/open-design-prompts/video"
     },
     {
       "type": "template-open-design-prompts",
@@ -356,7 +382,9 @@
         "templates",
         "prompts",
         "video"
-      ]
+      ],
+      "description": "HyperFrames: 30-Second SaaS Product Promo (Linear-style)",
+      "unit": "templates/open-design-prompts/video"
     },
     {
       "type": "design-system-open-design",
@@ -380,7 +408,9 @@
         "design-systems",
         "open-design",
         "ecommerce"
-      ]
+      ],
+      "description": "Reference fixture for design-systems/shopify. Every visible value comes from tokens.css. Shopify",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -404,7 +434,9 @@
         "json",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "keys: schemaVersion, brandId, source, fixture, tokens, selectors, classes, elements",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -428,7 +460,9 @@
         "md",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "نظام التصميم المستوحى من Shopify — Category: التجارة الإلكترونية والتجزئة",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -452,7 +486,9 @@
         "md",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Design-System inspiriert von Shopify — Category: E-Commerce & Einzelhandel",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -476,7 +512,9 @@
         "md",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Sistema de diseño inspirado en Shopify — Category: Comercio electrónico y venta minorista",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -500,7 +538,9 @@
         "md",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Système de design inspiré de Shopify — Category: E-Commerce & Vente au détail",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -524,7 +564,9 @@
         "md",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Sistem Desain Terinspirasi Shopify — Category: E-Commerce & Ritel",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -548,7 +590,9 @@
         "md",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Sistema di Design Ispirato a Shopify — Category: E-Commerce e Retail",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -572,7 +616,9 @@
         "md",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Shopify にインスパイアされたデザインシステム — Eコマースプラットフォーム。ダークファーストのシネマティック、ネオングリーンのアクセント、超細字のタイポグラフィ。",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -596,7 +642,9 @@
         "md",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Shopify에서 영감받은 디자인 시스템 — 전자상거래 플랫폼. 다크 퍼스트 시네마틱, 네온 그린 강조색, 초경량 타이포그래피.",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -620,7 +668,9 @@
         "md",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Ontwerpsysteem Geïnspireerd door Shopify — Category: E-Commerce & Detailhandel",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -644,7 +694,9 @@
         "md",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "System projektowania inspirowany Shopify — Category: E-Commerce i handel detaliczny",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -668,7 +720,9 @@
         "br",
         "md",
         "design-systems"
-      ]
+      ],
+      "description": "Sistema de Design Inspirado na Shopify — Category: E-Commerce & Varejo",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -692,7 +746,9 @@
         "md",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Дизайн-система, вдохновлённая Shopify — Category: Электронная коммерция и ритейл",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -716,7 +772,9 @@
         "json",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "keys: schemaVersion, format, contract, generatedAt, source, summary, tokens",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -740,7 +798,9 @@
         "md",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Shopify'dan İlham Alan Tasarım Sistemi — Category: E-Ticaret ve Perakende",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -764,7 +824,9 @@
         "md",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Система дизайну, натхненна Shopify — Category: Електронна комерція та роздрібна торгівля",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -788,7 +850,9 @@
         "md",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Hệ Thống Thiết Kế Lấy Cảm Hứng Từ Shopify — Category: Thương Mại Điện Tử & Bán Lẻ",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -812,7 +876,9 @@
         "tw",
         "md",
         "design-systems"
-      ]
+      ],
+      "description": "受 Shopify 啟發的設計系統 — 電商平台。深色優先的電影感，霓虹綠強調色，超細字重。",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -836,7 +902,9 @@
         "md",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "受 Shopify 启发的设计系统 — 电商平台。深色优先的电影感，霓虹绿强调色，超细字重。",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -860,7 +928,9 @@
         "open-design",
         "ecommerce",
         "local"
-      ]
+      ],
+      "description": "Design System Inspired by Shopify — Category: E-Commerce & Retail",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -884,7 +954,9 @@
         "design-systems",
         "open-design",
         "ecommerce"
-      ]
+      ],
+      "description": "Bundled OpenDesign package for Shopify, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -908,7 +980,9 @@
         "html",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Shopify colors",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -932,7 +1006,9 @@
         "html",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Shopify spacing",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -956,7 +1032,9 @@
         "html",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Shopify typography",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -980,7 +1058,9 @@
         "md",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Shopify Source Evidence — This Design System 2.0 backfill is derived from the curated OpenDesign bundled fixture.",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -1004,7 +1084,9 @@
         "token",
         "contract",
         "report"
-      ]
+      ],
+      "description": "keys: schemaVersion, contract, generatedAt, sourceScope, summary, tokens",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -1028,7 +1110,9 @@
         "json",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "keys: schemaVersion, sourceScope, brandId, files, generatedAt, tokens",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -1052,7 +1136,9 @@
         "deck",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Shopify - Pitch deck",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -1076,7 +1162,9 @@
         "email",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Shopify - Email",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -1100,7 +1188,9 @@
         "form",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Shopify - Form page",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -1124,7 +1214,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Shopify - Landing page",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -1148,7 +1240,9 @@
         "newsletter",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Shopify - Newsletter",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -1172,7 +1266,9 @@
         "poster",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Shopify - Poster",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -1196,7 +1292,9 @@
         "html",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Shopify - system assets",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -1220,7 +1318,9 @@
         "dark",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Shopify - dark component kit",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -1244,7 +1344,9 @@
         "html",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Shopify - component kit",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -1268,7 +1370,9 @@
         "default",
         "json",
         "design-systems"
-      ]
+      ],
+      "description": "keys: colorPrimary, colorPrimaryBg, colorPrimaryHover, colorPrimaryActive, fontSize, borderRadius",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -1292,7 +1396,9 @@
         "v4",
         "css",
         "design-systems"
-      ]
+      ],
+      "description": "Derived from tokens.css. Keep tokens.css as the source of truth.",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -1316,7 +1422,9 @@
         "design-systems",
         "open-design",
         "ecommerce"
-      ]
+      ],
+      "description": "───────────────────────────────────────────────────────────────────────── design-systems/shopify/tokens.css Structured token bindings for the \"Shopify\" brand —…",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "design-system-open-design",
@@ -1340,7 +1448,9 @@
         "design-systems",
         "open-design",
         "ecommerce"
-      ]
+      ],
+      "description": "Shopify Usage — Design System 2.0 package guide for OpenDesign agents and reviewers.",
+      "unit": "design-systems/open-design/shopify"
     },
     {
       "type": "component-button",
@@ -1364,7 +1474,8 @@
         "app",
         "outline",
         "tsx"
-      ]
+      ],
+      "description": "Controls the rendered width and height of the badge."
     },
     {
       "type": "component-button",
@@ -1388,7 +1499,8 @@
         "app",
         "demo",
         "tsx"
-      ]
+      ],
+      "description": "exports AppStoreButtonDefaultDemo"
     },
     {
       "type": "component-button",
@@ -1412,7 +1524,8 @@
         "app",
         "story",
         "tsx"
-      ]
+      ],
+      "description": "exports MobileAppStoreButtons"
     },
     {
       "type": "component-button",
@@ -1436,7 +1549,8 @@
         "app",
         "tsx",
         "ecommerce"
-      ]
+      ],
+      "description": "Controls the rendered width and height of the badge."
     },
     {
       "type": "component-patterns",
@@ -1458,7 +1572,8 @@
         "js",
         "ecommerce",
         "local"
-      ]
+      ],
+      "description": "Horizontal/vertical progress for an order. timeline(order, dates) where dates.dateTime formats a timestamp."
     },
     {
       "type": "asset-icons",
@@ -1482,7 +1597,8 @@
         "01",
         "svg",
         "icons-untitledui"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -1506,7 +1622,8 @@
         "02",
         "svg",
         "icons-untitledui"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -1530,7 +1647,8 @@
         "03",
         "svg",
         "icons-untitledui"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -1554,7 +1672,8 @@
         "01",
         "svg",
         "icons-untitledui"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -1578,7 +1697,8 @@
         "02",
         "svg",
         "icons-untitledui"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -1602,7 +1722,8 @@
         "03",
         "svg",
         "icons-untitledui"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -1626,7 +1747,8 @@
         "off",
         "svg",
         "icons-untitledui"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -1650,7 +1772,8 @@
         "svg",
         "icons-untitledui",
         "ecommerce"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "schema-order.schema.json",
@@ -1671,7 +1794,8 @@
         "json",
         "ecommerce",
         "local"
-      ]
+      ],
+      "description": "Order"
     },
     {
       "type": "schema-product.schema.json",
@@ -1692,7 +1816,8 @@
         "json",
         "ecommerce",
         "local"
-      ]
+      ],
+      "description": "Product"
     },
     {
       "type": "lib-collection-store.js",
@@ -1714,7 +1839,8 @@
         "collection-store.js",
         "ecommerce",
         "local"
-      ]
+      ],
+      "description": "A small client-side database over any storage with get/set (utils/storage.js). One key per collection. Demo/prototype persistence: when a real API exists, repl…"
     },
     {
       "type": "data-bencium",
@@ -1736,7 +1862,8 @@
         "training",
         "json",
         "ecommerce"
-      ]
+      ],
+      "description": "keys: page, lastUpdated, version, service, facts, workshop types, outcomes"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -1760,7 +1887,8 @@
         "csv",
         "ui-ux-pro-max",
         "ecommerce"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1784,7 +1912,9 @@
         "skills",
         "marketplace",
         "designer"
-      ]
+      ],
+      "description": "Production System — Read this only after the human has explicitly locked one typography-led HTML design direction. Inject its Round 1 concept capsule as the go…",
+      "unit": "skills/bencium-marketplace/bencium-innovative-ux-designer"
     },
     {
       "type": "skills-open-design",
@@ -1808,7 +1938,9 @@
         "workflow",
         "example",
         "html"
-      ]
+      ],
+      "description": "Ecommerce image workflow example",
+      "unit": "skills/open-design/ecommerce-image-workflow"
     },
     {
       "type": "skills-open-design",
@@ -1832,7 +1964,9 @@
         "workflow",
         "references",
         "checklist"
-      ]
+      ],
+      "description": "Ecommerce Image Workflow Checklist — Run this before handoff. P0 items must pass for the output to be usable.",
+      "unit": "skills/open-design/ecommerce-image-workflow"
     },
     {
       "type": "skills-open-design",
@@ -1856,7 +1990,9 @@
         "workflow",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Reference-product ecommerce image workflow for generating a compact set",
+      "unit": "skills/open-design/ecommerce-image-workflow"
     },
     {
       "type": "skills-open-design",
@@ -1880,7 +2016,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Restore and fix image quality — deblur, denoise, fix faces, and restore old documents using fal.ai's hosted restoration models.",
+      "unit": "skills/open-design/fal-restore"
     },
     {
       "type": "skills-open-design",
@@ -1904,7 +2042,9 @@
         "motion",
         "scripts",
         "production"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/oil-motion"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -1928,7 +2068,9 @@
         "059f045659212c06",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -1952,7 +2094,9 @@
         "0639bc99b0589fd8",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -1976,7 +2120,9 @@
         "0ff756e765db7c7f",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2000,7 +2146,9 @@
         "21fb408dd0a2d70b",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2024,7 +2172,9 @@
         "253b28b5da7b9aeb",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2048,7 +2198,9 @@
         "36340fdbaaac33ae",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2072,7 +2224,9 @@
         "369cdbcf1640897b",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2096,7 +2250,9 @@
         "386690ca5f7b011c",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2120,7 +2276,9 @@
         "407ecc519daf5281",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2144,7 +2302,9 @@
         "46fd63aa920cc4e2",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2168,7 +2328,9 @@
         "4a077060901af0dc",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2192,7 +2354,9 @@
         "56a063876c363bac",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2216,7 +2380,9 @@
         "56cbffbf194e9dbc",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2240,7 +2406,9 @@
         "5d3b8082ca4515dd",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2264,7 +2432,9 @@
         "6cb6768c7c3e4ae2",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2288,7 +2458,9 @@
         "6e2882e1568b6f92",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2312,7 +2484,9 @@
         "72e0dc11d464a5b4",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2336,7 +2510,9 @@
         "7b2f96b0719c4526",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2360,7 +2536,9 @@
         "8648bc00fc906342",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2384,7 +2562,9 @@
         "93b595eaa369d3ec",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2408,7 +2588,9 @@
         "95982faad853d1ea",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2432,7 +2614,9 @@
         "981d62468021d495",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2456,7 +2640,9 @@
         "99d3c2716ee34e44",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2480,7 +2666,9 @@
         "9f533d554471312d",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2504,7 +2692,9 @@
         "a29615b56e81fe3d",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2528,7 +2718,9 @@
         "a6699f37502ce15f",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2552,7 +2744,9 @@
         "a859f66fa34568e6",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2576,7 +2770,9 @@
         "abf9c1fb25609393",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2600,7 +2796,9 @@
         "af37c7d062f587cd",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2624,7 +2822,9 @@
         "b66c65a093a81679",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2648,7 +2848,9 @@
         "b7fc5c258287263b",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2672,7 +2874,9 @@
         "bc954f270f3124ce",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2696,7 +2900,9 @@
         "c3f54c2c0964c956",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2720,7 +2926,9 @@
         "ca4b12146d856b3e",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2744,7 +2952,9 @@
         "cc89f4ba61c90187",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2768,7 +2978,9 @@
         "cd2129a4405c8d5d",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2792,7 +3004,9 @@
         "d66759cc2c55bc97",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2816,7 +3030,9 @@
         "dfe397a2098096cb",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2840,7 +3056,9 @@
         "e03d41427a36caa3",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2864,7 +3082,9 @@
         "f2a789cfae11b801",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2888,7 +3108,9 @@
         "f95db1ce134fc04c",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2912,7 +3134,9 @@
         "fd522e4670adc9c8",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2936,7 +3160,9 @@
         "demo",
         "html",
         "uupm-site-pet-grooming"
-      ]
+      ],
+      "description": "AI-powered design intelligence toolkit. Searchable database of UI styles, color palettes, font pairings, chart types, and UX guidelines. Build beautiful interf…",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2960,7 +3186,9 @@
         "png",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "image file",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "docs-open-design",
@@ -2984,7 +3212,8 @@
         "products",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Workload product consumption — validates the result bound to the pending plan and downloads its complete product"
     },
     {
       "type": "docs-open-design",
@@ -3008,7 +3237,8 @@
         "220900.webp",
         "docs",
         "design"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -3032,7 +3262,8 @@
         "product",
         "tour",
         "system"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -3056,7 +3287,8 @@
         "220844.png",
         "docs",
         "design"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -3080,7 +3312,8 @@
         "tour",
         "home",
         "png"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -3104,7 +3337,8 @@
         "220917.png",
         "docs",
         "design"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -3128,7 +3362,8 @@
         "tour",
         "plugins",
         "png"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -3152,7 +3387,8 @@
         "product",
         "tour",
         "studio"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -3176,7 +3412,8 @@
         "product",
         "tour",
         "studio"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -3200,7 +3437,8 @@
         "product",
         "tour",
         "studio"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -3224,7 +3462,8 @@
         "screenshots",
         "product",
         "tour"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "docs-open-design",
@@ -3248,7 +3487,8 @@
         "design",
         "screenshots",
         "product"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -3272,7 +3512,8 @@
         "screenshots",
         "product",
         "tour"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -3296,7 +3537,8 @@
         "product",
         "tour",
         "studio"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -3320,7 +3562,8 @@
         "screenshots",
         "product",
         "tour"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -3344,7 +3587,8 @@
         "screenshots",
         "product",
         "tour"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -3368,7 +3612,8 @@
         "product",
         "tour",
         "studio"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -3392,7 +3637,8 @@
         "screenshots",
         "product",
         "tour"
-      ]
+      ],
+      "description": "image file"
     },
     {
       "type": "docs-open-design",
@@ -3416,7 +3662,8 @@
         "analytics.md",
         "docs",
         "design"
-      ]
+      ],
+      "description": "OpenDesign Authenticated Pricing Analytics Emitter Implementation Plan — For agentic workers: REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (…"
     },
     {
       "type": "docs-open-design",
@@ -3440,7 +3687,8 @@
         "exposure",
         "design.md",
         "docs"
-      ]
+      ],
+      "description": "Restore Authenticated Pricing Funnel Analytics Design — Restore the Vela subscription funnel that was lost when the authenticated"
     }
   ]
 }

@@ -22,7 +22,8 @@
         "demo",
         "html",
         "local"
-      ]
+      ],
+      "description": "Fintech Portfolio Dashboard"
     },
     {
       "type": "dashboard-fintech",
@@ -44,7 +45,8 @@
         "dashboard",
         "tsx",
         "local"
-      ]
+      ],
+      "description": "exports FintechPortfolioDashboard"
     },
     {
       "type": "module-billing",
@@ -68,7 +70,8 @@
         "data-viz",
         "analytics",
         "graph"
-      ]
+      ],
+      "description": "exports PlanTierSchema"
     },
     {
       "type": "module-billing",
@@ -92,7 +95,8 @@
         "data-viz",
         "analytics",
         "graph"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "module-billing",
@@ -116,7 +120,8 @@
         "fintech",
         "local",
         "data-grid"
-      ]
+      ],
+      "description": "exports PricingTable"
     },
     {
       "type": "template-open-design-design-templates",
@@ -140,7 +145,9 @@
         "example",
         "html",
         "open-design-design-templates"
-      ]
+      ],
+      "description": "Northwind — Q3 Financial Report",
+      "unit": "templates/open-design-design-templates/finance-report"
     },
     {
       "type": "template-open-design-design-templates",
@@ -164,7 +171,9 @@
         "skill",
         "md",
         "open-design-design-templates"
-      ]
+      ],
+      "description": "Quarterly / monthly financial report — masthead with KPIs, revenue and",
+      "unit": "templates/open-design-design-templates/finance-report"
     },
     {
       "type": "template-open-design-design-templates",
@@ -188,7 +197,9 @@
         "open-design-design-templates",
         "fintech",
         "local"
-      ]
+      ],
+      "description": "Invoice · Sable Studio · INV-2025-0142",
+      "unit": "templates/open-design-design-templates/invoice"
     },
     {
       "type": "template-open-design-design-templates",
@@ -212,7 +223,9 @@
         "open-design-design-templates",
         "fintech",
         "local"
-      ]
+      ],
+      "description": "A printable invoice page — sender + recipient block, line items table,",
+      "unit": "templates/open-design-design-templates/invoice"
     },
     {
       "type": "template-pages",
@@ -236,7 +249,8 @@
         "tsx",
         "fintech",
         "local"
-      ]
+      ],
+      "description": "exports SettingsBillingPage"
     },
     {
       "type": "design-system-open-design",
@@ -260,7 +274,9 @@
         "design-systems",
         "open-design",
         "fintech"
-      ]
+      ],
+      "description": "Reference fixture for design-systems/mastercard: putty-cream editorial canvas, orbital geometry, and warm payment-network restraint.",
+      "unit": "design-systems/open-design/mastercard"
     },
     {
       "type": "design-system-open-design",
@@ -284,7 +300,9 @@
         "json",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "keys: schemaVersion, brandId, source, fixture, tokens, selectors, classes, elements",
+      "unit": "design-systems/open-design/mastercard"
     },
     {
       "type": "design-system-open-design",
@@ -308,7 +326,9 @@
         "json",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "keys: schemaVersion, format, contract, generatedAt, source, summary, tokens",
+      "unit": "design-systems/open-design/mastercard"
     },
     {
       "type": "design-system-open-design",
@@ -332,7 +352,9 @@
         "open-design",
         "fintech",
         "local"
-      ]
+      ],
+      "description": "Design System Inspired by Mastercard — Category: Fintech & Crypto",
+      "unit": "design-systems/open-design/mastercard"
     },
     {
       "type": "design-system-open-design",
@@ -356,7 +378,9 @@
         "design-systems",
         "open-design",
         "fintech"
-      ]
+      ],
+      "description": "Bundled OpenDesign package for Mastercard, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+      "unit": "design-systems/open-design/mastercard"
     },
     {
       "type": "design-system-open-design",
@@ -380,7 +404,9 @@
         "html",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Mastercard colors",
+      "unit": "design-systems/open-design/mastercard"
     },
     {
       "type": "design-system-open-design",
@@ -404,7 +430,9 @@
         "html",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Mastercard spacing",
+      "unit": "design-systems/open-design/mastercard"
     },
     {
       "type": "design-system-open-design",
@@ -428,7 +456,9 @@
         "html",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Mastercard typography",
+      "unit": "design-systems/open-design/mastercard"
     },
     {
       "type": "design-system-open-design",
@@ -452,7 +482,9 @@
         "md",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Mastercard Source Evidence — This Design System 2.0 backfill is derived from the curated OpenDesign bundled fixture.",
+      "unit": "design-systems/open-design/mastercard"
     },
     {
       "type": "design-system-open-design",
@@ -476,7 +508,9 @@
         "token",
         "contract",
         "report"
-      ]
+      ],
+      "description": "keys: schemaVersion, contract, generatedAt, sourceScope, summary, tokens",
+      "unit": "design-systems/open-design/mastercard"
     },
     {
       "type": "design-system-open-design",
@@ -500,7 +534,9 @@
         "json",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "keys: schemaVersion, sourceScope, brandId, files, generatedAt, tokens",
+      "unit": "design-systems/open-design/mastercard"
     },
     {
       "type": "design-system-open-design",
@@ -524,7 +560,9 @@
         "deck",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Mastercard - Pitch deck",
+      "unit": "design-systems/open-design/mastercard"
     },
     {
       "type": "design-system-open-design",
@@ -548,7 +586,9 @@
         "email",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Mastercard - Email",
+      "unit": "design-systems/open-design/mastercard"
     },
     {
       "type": "design-system-open-design",
@@ -572,7 +612,9 @@
         "form",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Mastercard - Form page",
+      "unit": "design-systems/open-design/mastercard"
     },
     {
       "type": "design-system-open-design",
@@ -596,7 +638,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Mastercard - Landing page",
+      "unit": "design-systems/open-design/mastercard"
     },
     {
       "type": "design-system-open-design",
@@ -620,7 +664,9 @@
         "newsletter",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Mastercard - Newsletter",
+      "unit": "design-systems/open-design/mastercard"
     },
     {
       "type": "design-system-open-design",
@@ -644,7 +690,9 @@
         "poster",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Mastercard - Poster",
+      "unit": "design-systems/open-design/mastercard"
     },
     {
       "type": "design-system-open-design",
@@ -668,7 +716,9 @@
         "html",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Mastercard - system assets",
+      "unit": "design-systems/open-design/mastercard"
     },
     {
       "type": "design-system-open-design",
@@ -692,7 +742,9 @@
         "dark",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Mastercard - dark component kit",
+      "unit": "design-systems/open-design/mastercard"
     },
     {
       "type": "design-system-open-design",
@@ -716,7 +768,9 @@
         "html",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Mastercard - component kit",
+      "unit": "design-systems/open-design/mastercard"
     },
     {
       "type": "design-system-open-design",
@@ -740,7 +794,9 @@
         "default",
         "json",
         "design-systems"
-      ]
+      ],
+      "description": "keys: colorPrimary, colorPrimaryBg, colorPrimaryHover, colorPrimaryActive, fontSize, borderRadius",
+      "unit": "design-systems/open-design/mastercard"
     },
     {
       "type": "design-system-open-design",
@@ -764,7 +820,9 @@
         "v4",
         "css",
         "design-systems"
-      ]
+      ],
+      "description": "Derived from tokens.css. Keep tokens.css as the source of truth.",
+      "unit": "design-systems/open-design/mastercard"
     },
     {
       "type": "design-system-open-design",
@@ -788,7 +846,9 @@
         "design-systems",
         "open-design",
         "fintech"
-      ]
+      ],
+      "description": "design-systems/mastercard/tokens.css Structured token bindings for Mastercard. putty-cream editorial canvas, orbital geometry, and warm payment-network restrai…",
+      "unit": "design-systems/open-design/mastercard"
     },
     {
       "type": "design-system-open-design",
@@ -812,7 +872,9 @@
         "design-systems",
         "open-design",
         "fintech"
-      ]
+      ],
+      "description": "Mastercard Usage — Design System 2.0 package guide for OpenDesign agents and reviewers.",
+      "unit": "design-systems/open-design/mastercard"
     },
     {
       "type": "design-system-open-design",
@@ -836,7 +898,9 @@
         "design-systems",
         "open-design",
         "fintech"
-      ]
+      ],
+      "description": "Reference fixture for design-systems/stripe. Every visible value comes from tokens.css; the page itself follows Stripe",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -860,7 +924,9 @@
         "json",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "keys: schemaVersion, brandId, source, fixture, tokens, selectors, classes, elements",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -884,7 +950,9 @@
         "md",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "نظام تصميم مستوحى من Stripe — Category: التكنولوجيا المالية والعملات المشفرة",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -908,7 +976,9 @@
         "md",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Design System Inspired by Stripe — Category: Fintech & Kryptowährung",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -932,7 +1002,9 @@
         "md",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Sistema de Diseño Inspirado en Stripe — Category: Fintech y Cripto",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -956,7 +1028,9 @@
         "md",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Design System Inspiré de Stripe — Category: Fintech & Crypto",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -980,7 +1054,9 @@
         "md",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Design System Inspired by Stripe — Category: Fintech & Kripto",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -1004,7 +1080,9 @@
         "md",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Design System Inspired by Stripe — Category: Fintech & Cripto",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -1028,7 +1106,9 @@
         "md",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Stripeにインスパイアされたデザインシステム — 決済インフラ。シグネチャーパープルのグラデーション、ウェイト300のエレガンス。",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -1052,7 +1132,9 @@
         "md",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Stripe에서 영감을 받은 디자인 시스템 — 결제 인프라. 시그니처 퍼플 그래디언트, 웨이트 300의 우아함.",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -1076,7 +1158,9 @@
         "md",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Ontwerpsysteem geïnspireerd door Stripe — Category: Fintech & Crypto",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -1100,7 +1184,9 @@
         "md",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "System Projektowania Inspirowany Stripe — Category: Fintech i Krypto",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -1124,7 +1210,9 @@
         "br",
         "md",
         "design-systems"
-      ]
+      ],
+      "description": "Design System Inspirado no Stripe — Category: Fintech & Cripto",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -1148,7 +1236,9 @@
         "md",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Дизайн-система на основе Stripe — Category: Финтех и криптовалюты",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -1172,7 +1262,9 @@
         "json",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "keys: schemaVersion, format, contract, generatedAt, source, summary, tokens",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -1196,7 +1288,9 @@
         "md",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Stripe'dan İlham Alan Tasarım Sistemi — Category: Fintech & Kripto",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -1220,7 +1314,9 @@
         "md",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Дизайн-система натхнена Stripe — Category: Fintech & Crypto",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -1244,7 +1340,9 @@
         "md",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Hệ Thống Thiết Kế Lấy Cảm Hứng Từ Stripe — Category: Fintech & Tiền Mã Hóa",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -1268,7 +1366,9 @@
         "tw",
         "md",
         "design-systems"
-      ]
+      ],
+      "description": "以 Stripe 為靈感的設計系統 — 支付基礎設施。標誌性紫色漸層，字重 300 的優雅質感。",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -1292,7 +1392,9 @@
         "md",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "以 Stripe 为灵感的设计系统 — 支付基础设施。标志性紫色渐变，300 字重的优雅。",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -1316,7 +1418,9 @@
         "open-design",
         "fintech",
         "local"
-      ]
+      ],
+      "description": "Design System Inspired by Stripe — Category: Fintech & Crypto",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -1340,7 +1444,9 @@
         "design-systems",
         "open-design",
         "fintech"
-      ]
+      ],
+      "description": "Bundled OpenDesign package for Stripe, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -1364,7 +1470,9 @@
         "html",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Stripe colors",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -1388,7 +1496,9 @@
         "html",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Stripe spacing",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -1412,7 +1522,9 @@
         "html",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Stripe typography",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -1436,7 +1548,9 @@
         "md",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Stripe Source Evidence — This Design System 2.0 backfill is derived from the curated OpenDesign bundled fixture.",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -1460,7 +1574,9 @@
         "token",
         "contract",
         "report"
-      ]
+      ],
+      "description": "keys: schemaVersion, contract, generatedAt, sourceScope, summary, tokens",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -1484,7 +1600,9 @@
         "json",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "keys: schemaVersion, sourceScope, brandId, files, generatedAt, tokens",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -1508,7 +1626,9 @@
         "deck",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Stripe - Pitch deck",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -1532,7 +1652,9 @@
         "email",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Stripe - Email",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -1556,7 +1678,9 @@
         "form",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Stripe - Form page",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -1580,7 +1704,9 @@
         "landing",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Stripe - Landing page",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -1604,7 +1730,9 @@
         "newsletter",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Stripe - Newsletter",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -1628,7 +1756,9 @@
         "poster",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Stripe - Poster",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -1652,7 +1782,9 @@
         "html",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Stripe - system assets",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -1676,7 +1808,9 @@
         "dark",
         "html",
         "design-systems"
-      ]
+      ],
+      "description": "Stripe - dark component kit",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -1700,7 +1834,9 @@
         "html",
         "design-systems",
         "open-design"
-      ]
+      ],
+      "description": "Stripe - component kit",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -1724,7 +1860,9 @@
         "default",
         "json",
         "design-systems"
-      ]
+      ],
+      "description": "keys: colorPrimary, colorPrimaryBg, colorPrimaryHover, colorPrimaryActive, fontSize, borderRadius",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -1748,7 +1886,9 @@
         "v4",
         "css",
         "design-systems"
-      ]
+      ],
+      "description": "Derived from tokens.css. Keep tokens.css as the source of truth.",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -1772,7 +1912,9 @@
         "design-systems",
         "open-design",
         "fintech"
-      ]
+      ],
+      "description": "───────────────────────────────────────────────────────────────────────── design-systems/stripe/tokens.css Structured token bindings for \"Inspired by Stripe\" —…",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "design-system-open-design",
@@ -1796,7 +1938,9 @@
         "design-systems",
         "open-design",
         "fintech"
-      ]
+      ],
+      "description": "Stripe Usage — Design System 2.0 package guide for OpenDesign agents and reviewers.",
+      "unit": "design-systems/open-design/stripe"
     },
     {
       "type": "component-input",
@@ -1820,7 +1964,8 @@
         "tsx",
         "inputs",
         "fintech"
-      ]
+      ],
+      "description": "Detect the card type based on the card number. @param number The card number to detect the type for. @returns The matching card type object."
     },
     {
       "type": "component-card",
@@ -1844,7 +1989,8 @@
         "card",
         "demo",
         "tsx"
-      ]
+      ],
+      "description": "exports CreditCardExample"
     },
     {
       "type": "component-card",
@@ -1868,7 +2014,8 @@
         "card",
         "story",
         "tsx"
-      ]
+      ],
+      "description": "exports CreditCardStory"
     },
     {
       "type": "component-card",
@@ -1892,7 +2039,8 @@
         "card",
         "tsx",
         "cards"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "component-card",
@@ -1916,7 +2064,8 @@
         "icons",
         "tsx",
         "cards"
-      ]
+      ],
+      "description": "exports PaypassIcon"
     },
     {
       "type": "component-patterns",
@@ -1937,7 +2086,8 @@
         "js",
         "fintech",
         "local"
-      ]
+      ],
+      "description": "Printable invoice / packing slip. invoice({ order, brand, money, dates }) - html; print with openPrint(html)."
     },
     {
       "type": "component-navigation",
@@ -1961,7 +2111,8 @@
         "marketing",
         "header",
         "section"
-      ]
+      ],
+      "description": "BG MASK"
     },
     {
       "type": "component-card",
@@ -1985,7 +2136,8 @@
         "shared",
         "assets",
         "illustrations"
-      ]
+      ],
+      "description": "exports CreditCardIllustration"
     },
     {
       "type": "component-table",
@@ -2009,7 +2161,8 @@
         "tables",
         "fintech",
         "data-grid"
-      ]
+      ],
+      "description": "keys: items, total"
     },
     {
       "type": "asset-icons",
@@ -2033,7 +2186,8 @@
         "01",
         "svg",
         "icons-untitledui"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2057,7 +2211,8 @@
         "02",
         "svg",
         "icons-untitledui"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2081,7 +2236,8 @@
         "03",
         "svg",
         "icons-untitledui"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2105,7 +2261,8 @@
         "fintech",
         "glyph",
         "symbol"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2129,7 +2286,8 @@
         "01",
         "svg",
         "icons-untitledui"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2153,7 +2311,8 @@
         "02",
         "svg",
         "icons-untitledui"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2177,7 +2336,8 @@
         "check",
         "svg",
         "icons-untitledui"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2201,7 +2361,8 @@
         "down",
         "svg",
         "icons-untitledui"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2225,7 +2386,8 @@
         "download",
         "svg",
         "icons-untitledui"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2249,7 +2411,8 @@
         "edit",
         "svg",
         "icons-untitledui"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2273,7 +2436,8 @@
         "lock",
         "svg",
         "icons-untitledui"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2297,7 +2461,8 @@
         "minus",
         "svg",
         "icons-untitledui"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2321,7 +2486,8 @@
         "plus",
         "svg",
         "icons-untitledui"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2345,7 +2511,8 @@
         "refresh",
         "svg",
         "icons-untitledui"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2369,7 +2536,8 @@
         "search",
         "svg",
         "icons-untitledui"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2393,7 +2561,8 @@
         "shield",
         "svg",
         "icons-untitledui"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2417,7 +2586,8 @@
         "up",
         "svg",
         "icons-untitledui"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2441,7 +2611,8 @@
         "upload",
         "svg",
         "icons-untitledui"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2465,7 +2636,8 @@
         "svg",
         "icons-untitledui",
         "fintech"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2489,7 +2661,8 @@
         "svg",
         "icons-untitledui",
         "fintech"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2513,7 +2686,8 @@
         "svg",
         "icons-untitledui",
         "fintech"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2537,7 +2711,8 @@
         "svg",
         "icons-untitledui",
         "fintech"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2561,7 +2736,8 @@
         "svg",
         "icons-untitledui",
         "fintech"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2585,7 +2761,8 @@
         "circle",
         "svg",
         "icons-untitledui"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2609,7 +2786,8 @@
         "svg",
         "icons-untitledui",
         "fintech"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2633,7 +2811,8 @@
         "circle",
         "svg",
         "icons-untitledui"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2657,7 +2836,8 @@
         "svg",
         "icons-untitledui",
         "fintech"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2681,7 +2861,8 @@
         "circle",
         "svg",
         "icons-untitledui"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2705,7 +2886,8 @@
         "svg",
         "icons-untitledui",
         "fintech"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2729,7 +2911,8 @@
         "circle",
         "svg",
         "icons-untitledui"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2753,7 +2936,8 @@
         "svg",
         "icons-untitledui",
         "fintech"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2777,7 +2961,8 @@
         "circle",
         "svg",
         "icons-untitledui"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2801,7 +2986,8 @@
         "svg",
         "icons-untitledui",
         "fintech"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2825,7 +3011,8 @@
         "circle",
         "svg",
         "icons-untitledui"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2849,7 +3036,8 @@
         "svg",
         "icons-untitledui",
         "fintech"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2873,7 +3061,8 @@
         "circle",
         "svg",
         "icons-untitledui"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2897,7 +3086,8 @@
         "svg",
         "icons-untitledui",
         "fintech"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2921,7 +3111,8 @@
         "circle",
         "svg",
         "icons-untitledui"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2945,7 +3136,8 @@
         "svg",
         "icons-untitledui",
         "fintech"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2969,7 +3161,8 @@
         "01",
         "svg",
         "icons-untitledui"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -2993,7 +3186,8 @@
         "02",
         "svg",
         "icons-untitledui"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -3017,7 +3211,8 @@
         "svg",
         "icons-untitledui",
         "fintech"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -3041,7 +3236,8 @@
         "svg",
         "icons-untitledui",
         "fintech"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -3065,7 +3261,8 @@
         "svg",
         "icons-untitledui",
         "fintech"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -3089,7 +3286,8 @@
         "svg",
         "icons-untitledui",
         "fintech"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-icons",
@@ -3113,7 +3311,8 @@
         "svg",
         "icons-untitledui",
         "fintech"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "asset-illustrations",
@@ -3137,7 +3336,8 @@
         "tsx",
         "fintech",
         "container"
-      ]
+      ],
+      "description": "exports CreditCardIllustration"
     },
     {
       "type": "asset-logos-payment",
@@ -3161,7 +3361,8 @@
         "icons",
         "affirm",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -3185,7 +3386,8 @@
         "icons",
         "afterpay",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -3209,7 +3411,8 @@
         "icons",
         "alipay",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -3233,7 +3436,8 @@
         "icons",
         "amazon",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -3257,7 +3461,8 @@
         "icons",
         "amex",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -3281,7 +3486,8 @@
         "payment",
         "icons",
         "apple"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -3305,7 +3511,8 @@
         "icons",
         "ayden",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -3329,7 +3536,8 @@
         "icons",
         "bancontact",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -3353,7 +3561,8 @@
         "payment",
         "icons",
         "binance"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -3377,7 +3586,8 @@
         "payment",
         "icons",
         "bitcoin"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -3401,7 +3611,8 @@
         "icons",
         "bitcoin",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -3425,7 +3636,8 @@
         "icons",
         "bitpay",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -3449,7 +3661,8 @@
         "icons",
         "braintree",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -3473,7 +3686,8 @@
         "untitledui",
         "payment",
         "icons"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -3497,7 +3711,8 @@
         "icons",
         "citadele",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -3521,7 +3736,8 @@
         "icons",
         "coinbase",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -3545,7 +3761,8 @@
         "payment",
         "icons",
         "diners"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -3569,7 +3786,8 @@
         "icons",
         "discover",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -3593,7 +3811,8 @@
         "icons",
         "elo",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -3617,7 +3836,8 @@
         "icons",
         "etherium",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -3641,7 +3861,8 @@
         "icons",
         "forbrugsforeningen",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -3665,7 +3886,8 @@
         "icons",
         "giropay",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -3689,7 +3911,8 @@
         "payment",
         "icons",
         "google"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -3713,7 +3936,8 @@
         "icons",
         "ideal",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -3737,7 +3961,8 @@
         "index",
         "tsx",
         "logos-payment"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -3761,7 +3986,8 @@
         "icons",
         "interac",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -3785,7 +4011,8 @@
         "icons",
         "jcb",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -3809,7 +4036,8 @@
         "icons",
         "klarna",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -3833,7 +4061,8 @@
         "icons",
         "lightcoin",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -3857,7 +4086,8 @@
         "icons",
         "maestro",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -3881,7 +4111,8 @@
         "icons",
         "mastercard",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -3905,7 +4136,8 @@
         "icons",
         "story",
         "tsx"
-      ]
+      ],
+      "description": "exports PaymentIcons"
     },
     {
       "type": "asset-logos-payment",
@@ -3929,7 +4161,8 @@
         "icons",
         "payoneer",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -3953,7 +4186,8 @@
         "icons",
         "paypal",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -3977,7 +4211,8 @@
         "icons",
         "paysafe",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -4001,7 +4236,8 @@
         "icons",
         "qiwi",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -4025,7 +4261,8 @@
         "icons",
         "razorpay",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -4049,7 +4286,8 @@
         "icons",
         "revolut",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -4073,7 +4311,8 @@
         "payment",
         "icons",
         "ru"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -4097,7 +4336,8 @@
         "payment",
         "icons",
         "samsung"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -4121,7 +4361,8 @@
         "icons",
         "sepa",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -4145,7 +4386,8 @@
         "payment",
         "icons",
         "shop"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -4169,7 +4411,8 @@
         "payment",
         "icons",
         "shopee"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -4193,7 +4436,8 @@
         "icons",
         "skrill",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -4217,7 +4461,8 @@
         "icons",
         "sofort",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -4241,7 +4486,8 @@
         "icons",
         "stripe",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -4265,7 +4511,8 @@
         "payment",
         "icons",
         "union"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -4289,7 +4536,8 @@
         "icons",
         "upi",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -4313,7 +4561,8 @@
         "icons",
         "venmo",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -4337,7 +4586,8 @@
         "icons",
         "verifone",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -4361,7 +4611,8 @@
         "icons",
         "visa",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -4385,7 +4636,8 @@
         "payment",
         "icons",
         "we"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -4409,7 +4661,8 @@
         "untitledui",
         "payment",
         "icons"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -4433,7 +4686,8 @@
         "icons",
         "webmoney",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -4457,7 +4711,8 @@
         "icons",
         "wise",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -4481,7 +4736,8 @@
         "icons",
         "yandex",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -4505,7 +4761,8 @@
         "icons",
         "zelle",
         "icon"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "asset-logos-payment",
@@ -4529,7 +4786,8 @@
         "payment",
         "icons",
         "zip"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "skills-open-design",
@@ -4553,7 +4811,9 @@
         "digits",
         "template",
         "assets"
-      ]
+      ],
+      "description": "Digits Fintech Swiss Template",
+      "unit": "skills/open-design/digits-fintech-swiss-template"
     },
     {
       "type": "skills-open-design",
@@ -4577,7 +4837,9 @@
         "digits",
         "template",
         "example"
-      ]
+      ],
+      "description": "Digits Fintech Swiss Example",
+      "unit": "skills/open-design/digits-fintech-swiss-template"
     },
     {
       "type": "skills-open-design",
@@ -4601,7 +4863,9 @@
         "digits",
         "template",
         "references"
-      ]
+      ],
+      "description": "Checklist",
+      "unit": "skills/open-design/digits-fintech-swiss-template"
     },
     {
       "type": "skills-open-design",
@@ -4625,7 +4889,9 @@
         "digits",
         "template",
         "skill"
-      ]
+      ],
+      "description": "Swiss-grid fintech deck template in black / warm paper / neon-lime contrast.",
+      "unit": "skills/open-design/digits-fintech-swiss-template"
     },
     {
       "type": "docs-open-design",
@@ -4649,7 +4915,8 @@
         "30",
         "220910.png",
         "docs"
-      ]
+      ],
+      "description": "image file"
     }
   ]
 }

@@ -22,7 +22,8 @@
         "services",
         "json",
         "general"
-      ]
+      ],
+      "description": "keys: page, lastUpdated, version, service, facts, benchmarks, credentials, technologies"
     },
     {
       "type": "data-bencium",
@@ -45,7 +46,8 @@
         "implementation",
         "json",
         "general"
-      ]
+      ],
+      "description": "keys: page, lastUpdated, version, service, facts, technical capabilities, design principles, case studies"
     },
     {
       "type": "data-bencium",
@@ -65,7 +67,8 @@
         "llms",
         "txt",
         "general"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-bencium",
@@ -87,7 +90,8 @@
         "training",
         "json",
         "ecommerce"
-      ]
+      ],
+      "description": "keys: page, lastUpdated, version, service, facts, workshop types, outcomes"
     },
     {
       "type": "data-open-design",
@@ -111,7 +115,8 @@
         "open-design",
         "saas",
         "local"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-open-design",
@@ -135,7 +140,8 @@
         "yaml",
         "open-design",
         "saas"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-open-design",
@@ -159,7 +165,8 @@
         "md",
         "open-design",
         "saas"
-      ]
+      ],
+      "description": "Introduction — This chart bootstraps an [OpenDesign](https://github.com/nexu-io/open-design) deployment on a [Kubernetes](https://kubernetes.io) cluster using …"
     },
     {
       "type": "data-open-design",
@@ -183,7 +190,8 @@
         "configmap",
         "yaml",
         "open-design"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-open-design",
@@ -207,7 +215,8 @@
         "deployment",
         "yaml",
         "open-design"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-open-design",
@@ -231,7 +240,8 @@
         "hpa",
         "yaml",
         "open-design"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-open-design",
@@ -255,7 +265,8 @@
         "ingress",
         "yaml",
         "open-design"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-open-design",
@@ -279,7 +290,8 @@
         "templates",
         "proxy",
         "configmap"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-open-design",
@@ -303,7 +315,8 @@
         "pvc",
         "yaml",
         "open-design"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-open-design",
@@ -327,7 +340,8 @@
         "secret",
         "yaml",
         "open-design"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-open-design",
@@ -351,7 +365,8 @@
         "service",
         "yaml",
         "open-design"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-open-design",
@@ -375,7 +390,8 @@
         "templates",
         "helpers",
         "tpl"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-open-design",
@@ -399,7 +415,8 @@
         "yaml",
         "open-design",
         "saas"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-open-design",
@@ -423,7 +440,8 @@
         "baseline",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Accessibility baseline craft rules — Universal rules for the legal floor of accessibility plus the craft"
     },
     {
       "type": "data-open-design",
@@ -447,7 +465,8 @@
         "discipline",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Animation discipline craft rules — Universal rules for when motion earns its place in a UI and what numbers"
     },
     {
       "type": "data-open-design",
@@ -471,7 +490,8 @@
         "anti",
         "slop",
         "md"
-      ]
+      ],
+      "description": "Anti-AI-slop rules — Concrete, checkable rules that distinguish \"designed by a human who has"
     },
     {
       "type": "data-open-design",
@@ -495,7 +515,8 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "Color craft rules — Universal color rules applied on top of the active DESIGN.md . The"
     },
     {
       "type": "data-open-design",
@@ -519,7 +540,8 @@
         "validation",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Form validation craft rules — Universal rules for form validation lifecycle, error wiring beyond the"
     },
     {
       "type": "data-open-design",
@@ -543,7 +565,8 @@
         "sections",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Future Craft Sections — These slugs are intentionally referenced by skills before their matching"
     },
     {
       "type": "data-open-design",
@@ -567,7 +590,8 @@
         "laws",
         "ux",
         "md"
-      ]
+      ],
+      "description": "Laws of UX craft rules — Universal cognitive, perceptual, and behavioral heuristics that decide"
     },
     {
       "type": "data-open-design",
@@ -591,7 +615,8 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "Craft references — Brand-agnostic craft knowledge. Each file is a small, dense rulebook on one"
     },
     {
       "type": "data-open-design",
@@ -615,7 +640,8 @@
         "rtl",
         "bidi",
         "md"
-      ]
+      ],
+      "description": "RTL and bidirectional craft rules — Universal rules for right-to-left layout and bidirectional text. The"
     },
     {
       "type": "data-open-design",
@@ -639,7 +665,8 @@
         "coverage",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "State coverage craft rules — Universal rules for what every interactive surface must render. The active"
     },
     {
       "type": "data-open-design",
@@ -663,7 +690,8 @@
         "typography",
         "editorial",
         "md"
-      ]
+      ],
+      "description": "Editorial typography hierarchy craft rules — Extends typography.md + typography-hierarchy.md . Defines hierarchy"
     },
     {
       "type": "data-open-design",
@@ -687,7 +715,8 @@
         "hierarchy",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Typography hierarchy craft rules — Shared hierarchy contracts that layer on top of typography.md . This file does"
     },
     {
       "type": "data-open-design",
@@ -711,7 +740,8 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "Typography craft rules — Universal typography rules that apply on top of any DESIGN.md . The"
     },
     {
       "type": "data-open-design",
@@ -735,7 +765,8 @@
         "lefarcen",
         "1785911256163",
         "svg"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "data-open-design",
@@ -759,7 +790,8 @@
         "zoeforfun",
         "1780483226835",
         "svg"
-      ]
+      ],
+      "description": "svg graphic"
     },
     {
       "type": "data-open-design",
@@ -782,7 +814,8 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "keys: generatedAt, totalContributors, contributors"
     },
     {
       "type": "data-open-design",
@@ -805,7 +838,8 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-open-design",
@@ -829,7 +863,8 @@
         "manifest",
         "json",
         "open-design"
-      ]
+      ],
+      "description": "keys: generatedAt, previews"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -853,7 +888,8 @@
         "app",
         "interface",
         "csv"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -877,7 +913,8 @@
         "catalog",
         "summary",
         "json"
-      ]
+      ],
+      "description": "keys: schemaVersion, verifiedAt, counts, snapshots, promotionPolicy, pendingCandidates"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -901,7 +938,8 @@
         "csv",
         "ui-ux-pro-max",
         "saas"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -925,7 +963,8 @@
         "csv",
         "ui-ux-pro-max",
         "general"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -949,7 +988,8 @@
         "provenance",
         "json",
         "ui-ux-pro-max"
-      ]
+      ],
+      "description": "keys: schemaVersion, generatedAt, freshnessPolicy, records"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -973,7 +1013,8 @@
         "max",
         "google",
         "licenses"
-      ]
+      ],
+      "description": "keys: schemaVersion, source, familyCount, families, excludedFamilies"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -997,7 +1038,8 @@
         "google",
         "fonts",
         "csv"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -1021,7 +1063,8 @@
         "csv",
         "ui-ux-pro-max",
         "general"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -1045,7 +1088,8 @@
         "csv",
         "ui-ux-pro-max",
         "marketing"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -1069,7 +1113,8 @@
         "csv",
         "ui-ux-pro-max",
         "general"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -1093,7 +1138,8 @@
         "max",
         "phosphor",
         "upstream"
-      ]
+      ],
+      "description": "keys: schemaVersion, source, status, verifiedAt, iconCount, weights, reactImports, curatedValidatedCount"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -1117,7 +1163,8 @@
         "csv",
         "ui-ux-pro-max",
         "ecommerce"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -1141,7 +1188,8 @@
         "react",
         "performance",
         "csv"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -1165,7 +1213,8 @@
         "angular",
         "csv",
         "ui-ux-pro-max"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -1189,7 +1238,8 @@
         "astro",
         "csv",
         "ui-ux-pro-max"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -1213,7 +1263,8 @@
         "avalonia",
         "csv",
         "ui-ux-pro-max"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -1237,7 +1288,8 @@
         "flutter",
         "csv",
         "ui-ux-pro-max"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -1261,7 +1313,8 @@
         "stacks",
         "html",
         "tailwind"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -1285,7 +1338,8 @@
         "javafx",
         "csv",
         "ui-ux-pro-max"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -1309,7 +1363,8 @@
         "stacks",
         "jetpack",
         "compose"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -1333,7 +1388,8 @@
         "laravel",
         "csv",
         "ui-ux-pro-max"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -1357,7 +1413,8 @@
         "nextjs",
         "csv",
         "ui-ux-pro-max"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -1381,7 +1438,8 @@
         "stacks",
         "nuxt",
         "csv"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -1405,7 +1463,8 @@
         "nuxtjs",
         "csv",
         "ui-ux-pro-max"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -1429,7 +1488,8 @@
         "stacks",
         "react",
         "native"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -1453,7 +1513,8 @@
         "react",
         "csv",
         "ui-ux-pro-max"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -1477,7 +1538,8 @@
         "shadcn",
         "csv",
         "ui-ux-pro-max"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -1501,7 +1563,8 @@
         "svelte",
         "csv",
         "ui-ux-pro-max"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -1525,7 +1588,8 @@
         "swiftui",
         "csv",
         "ui-ux-pro-max"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -1549,7 +1613,8 @@
         "threejs",
         "csv",
         "ui-ux-pro-max"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -1573,7 +1638,8 @@
         "uno",
         "csv",
         "ui-ux-pro-max"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -1597,7 +1663,8 @@
         "uwp",
         "csv",
         "ui-ux-pro-max"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -1621,7 +1688,8 @@
         "vue",
         "csv",
         "ui-ux-pro-max"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -1645,7 +1713,8 @@
         "winui",
         "csv",
         "ui-ux-pro-max"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -1669,7 +1738,8 @@
         "wpf",
         "csv",
         "ui-ux-pro-max"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -1693,7 +1763,8 @@
         "csv",
         "ui-ux-pro-max",
         "general"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -1717,7 +1788,8 @@
         "csv",
         "ui-ux-pro-max",
         "general"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -1741,7 +1813,8 @@
         "reasoning",
         "csv",
         "ui-ux-pro-max"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "data-ui-ux-pro-max",
@@ -1765,7 +1838,8 @@
         "guidelines",
         "csv",
         "ui-ux-pro-max"
-      ]
+      ],
+      "description": "other file"
     }
   ]
 }

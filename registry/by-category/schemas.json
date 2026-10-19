@@ -20,7 +20,8 @@
         "json",
         "general",
         "local"
-      ]
+      ],
+      "description": "BillOfMaterials"
     },
     {
       "type": "schema-customer.schema.json",
@@ -41,7 +42,8 @@
         "json",
         "general",
         "local"
-      ]
+      ],
+      "description": "Customer"
     },
     {
       "type": "schema-enquiry.schema.json",
@@ -62,7 +64,8 @@
         "json",
         "general",
         "local"
-      ]
+      ],
+      "description": "Enquiry"
     },
     {
       "type": "schema-material.schema.json",
@@ -83,7 +86,8 @@
         "json",
         "general",
         "local"
-      ]
+      ],
+      "description": "Material"
     },
     {
       "type": "schema-order.schema.json",
@@ -104,7 +108,8 @@
         "json",
         "ecommerce",
         "local"
-      ]
+      ],
+      "description": "Order"
     },
     {
       "type": "schema-product.schema.json",
@@ -125,7 +130,8 @@
         "json",
         "ecommerce",
         "local"
-      ]
+      ],
+      "description": "Product"
     },
     {
       "type": "schema-promo.schema.json",
@@ -146,7 +152,8 @@
         "json",
         "general",
         "local"
-      ]
+      ],
+      "description": "PromoCode"
     },
     {
       "type": "schema-untitledui",
@@ -169,7 +176,8 @@
         "schema",
         "ts",
         "general"
-      ]
+      ],
+      "description": "exports ComponentVariantSchema"
     },
     {
       "type": "schema-untitledui",
@@ -192,7 +200,8 @@
         "schema",
         "json",
         "saas"
-      ]
+      ],
+      "description": "W3C Design Tokens Community Group Specification"
     },
     {
       "type": "schema-untitledui",
@@ -215,7 +224,8 @@
         "schema",
         "json",
         "general"
-      ]
+      ],
+      "description": "Untitled UI Component Registry Item"
     },
     {
       "type": "schema-untitledui",
@@ -236,7 +246,8 @@
         "schema",
         "ts",
         "general"
-      ]
+      ],
+      "description": "exports ColorScaleSchema"
     }
   ]
 }

@@ -20,7 +20,8 @@
         "ts",
         "saas",
         "local"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "module-analytics",
@@ -44,7 +45,8 @@
         "saas",
         "local",
         "container"
-      ]
+      ],
+      "description": "exports MetricsCard"
     },
     {
       "type": "module-auth",
@@ -68,7 +70,8 @@
         "local",
         "session",
         "security"
-      ]
+      ],
+      "description": "exports AuthProvider"
     },
     {
       "type": "module-auth",
@@ -92,7 +95,8 @@
         "session",
         "security",
         "user"
-      ]
+      ],
+      "description": "exports LoginSchema"
     },
     {
       "type": "module-auth",
@@ -116,7 +120,8 @@
         "session",
         "security",
         "user"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "module-billing",
@@ -140,7 +145,8 @@
         "data-viz",
         "analytics",
         "graph"
-      ]
+      ],
+      "description": "exports PlanTierSchema"
     },
     {
       "type": "module-billing",
@@ -164,7 +170,8 @@
         "data-viz",
         "analytics",
         "graph"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "module-billing",
@@ -188,7 +195,8 @@
         "fintech",
         "local",
         "data-grid"
-      ]
+      ],
+      "description": "exports PricingTable"
     },
     {
       "type": "module-notifications",
@@ -209,7 +217,8 @@
         "ts",
         "general",
         "local"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "module-notifications",
@@ -232,7 +241,8 @@
         "tsx",
         "general",
         "local"
-      ]
+      ],
+      "description": "exports NotificationFeed"
     }
   ]
 }

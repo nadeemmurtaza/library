@@ -21,7 +21,8 @@
         "admin-routes.js",
         "saas",
         "local"
-      ]
+      ],
+      "description": "Admin navigation, two levels. group is the section on the slim rail; the routes in a group fill the second panel. perm shows/hides an item; icon is a key into …"
     },
     {
       "type": "constants-materials.js",
@@ -41,7 +42,8 @@
         "js",
         "general",
         "local"
-      ]
+      ],
+      "description": "Units and kinds for a materials master and bills of materials. Labels only: no currency or locale here."
     },
     {
       "type": "constants-roles.js",
@@ -61,7 +63,8 @@
         "js",
         "general",
         "local"
-      ]
+      ],
+      "description": "Roles and permission keys for any back office. Permissions are resource:action ."
     },
     {
       "type": "constants-statuses.js",
@@ -81,7 +84,8 @@
         "js",
         "general",
         "local"
-      ]
+      ],
+      "description": "Status flows. next lists the transitions the UI offers; tone maps to a daisyUI badge colour."
     }
   ]
 }

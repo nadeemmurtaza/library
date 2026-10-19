@@ -23,7 +23,9 @@
         "references",
         "styles",
         "md"
-      ]
+      ],
+      "description": "Banner Sizes & Art Direction Styles Reference — 1. Minimalist — White space dominant, single focal element, 1-2 colors, clean sans-serif",
+      "unit": "skills/banner-design"
     },
     {
       "type": "skills-banner-design",
@@ -47,7 +49,9 @@
         "marketing",
         "local",
         "announcement"
-      ]
+      ],
+      "description": "\"Design banners for social media, ads, website heroes, creative assets, and print. Multiple art direction options with optional generated or supplied visuals. …",
+      "unit": "skills/banner-design"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -71,7 +75,9 @@
         "json",
         "bencium-marketplace",
         "general"
-      ]
+      ],
+      "description": "Design, architecture, and productivity plugins for Claude Code by bencium.io",
+      "unit": "skills/bencium-marketplace/.claude-plugin"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -92,7 +98,8 @@
         "gitignore",
         "bencium-marketplace",
         "general"
-      ]
+      ],
+      "description": "other file"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -116,7 +123,9 @@
         "communication",
         "claude",
         "plugin"
-      ]
+      ],
+      "description": "Detects user communication style (high-context relational vs low-context transactional) and adapts responses accordingly.",
+      "unit": "skills/bencium-marketplace/adaptive-communication"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -140,7 +149,9 @@
         "communication",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Use when detecting ambiguous user intent, hedging language, open-ended framing, personal context before requests, or when unsure whether user wants exploration…",
+      "unit": "skills/bencium-marketplace/adaptive-communication"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -164,7 +175,9 @@
         "claude",
         "plugin",
         "json"
-      ]
+      ],
+      "description": "Answer Engine Optimization for AI search visibility. Optimize content for ChatGPT, Claude, Gemini, AI Overviews citations.",
+      "unit": "skills/bencium-marketplace/bencium-aeo"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -188,7 +201,9 @@
         "claude",
         "md",
         "bencium-marketplace"
-      ]
+      ],
+      "description": "AEO Content Generation Guide — This skill provides guidance for generating Answer Engine Optimization (AEO) content - optimizing websites for AI-powered answer…",
+      "unit": "skills/bencium-marketplace/bencium-aeo"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -212,7 +227,9 @@
         "prd",
         "md",
         "bencium-marketplace"
-      ]
+      ],
+      "description": "AEO Content Generation Guide for Claude Code — These principles are derived from LLM citation behavior analysis and should inform all content optimization deci…",
+      "unit": "skills/bencium-marketplace/bencium-aeo"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -236,7 +253,9 @@
         "readme",
         "md",
         "bencium-marketplace"
-      ]
+      ],
+      "description": "AISEO - Answer Engine Optimization Content Generator — Generate machine-readable content that earns citations from ChatGPT, Claude, Gemini, and Google AI Overv…",
+      "unit": "skills/bencium-marketplace/bencium-aeo"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -260,7 +279,9 @@
         "skill",
         "md",
         "bencium-marketplace"
-      ]
+      ],
+      "description": "Generate AEO-optimized content (Answer Engine Optimization) for AI search visibility - ChatGPT, Claude, Gemini, AI Overviews. Use when optimizing websites for …",
+      "unit": "skills/bencium-marketplace/bencium-aeo"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -284,7 +305,9 @@
         "aeo",
         "story",
         "structured"
-      ]
+      ],
+      "description": "Princeton GEO Study: Strategic Insights — Key findings from the Princeton-validated study on Generative Engine Optimization (GEO) and AI visibility.",
+      "unit": "skills/bencium-marketplace/bencium-aeo"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -308,7 +331,9 @@
         "conventions",
         "claude",
         "plugin"
-      ]
+      ],
+      "description": "Code style, tech stack, and workflow conventions for React/Next.js/TypeScript, TailwindCSS, Supabase projects.",
+      "unit": "skills/bencium-marketplace/bencium-code-conventions"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -332,7 +357,9 @@
         "conventions",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Bence's code style, tech stack, and workflow conventions",
+      "unit": "skills/bencium-marketplace/bencium-code-conventions"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -356,7 +383,9 @@
         "marketplace",
         "designer",
         "claude"
-      ]
+      ],
+      "description": "Expert UI/UX design guidance for unique, accessible interfaces. Always-ask-first protocol for visual decisions, colors, typography, layouts.",
+      "unit": "skills/bencium-marketplace/bencium-controlled-ux-designer"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -380,7 +409,9 @@
         "designer",
         "readme",
         "md"
-      ]
+      ],
+      "description": "UX Designer Skill — Expert UI/UX design guidance skill for Claude Code that helps create unique, accessible, and user-centered interfaces.",
+      "unit": "skills/bencium-marketplace/bencium-controlled-ux-designer"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -404,7 +435,9 @@
         "marketplace",
         "designer",
         "accessibility"
-      ]
+      ],
+      "description": "Accessibility Reference — Comprehensive guide for implementing accessible interfaces following WCAG 2.1 AA standards.",
+      "unit": "skills/bencium-marketplace/bencium-controlled-ux-designer"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -428,7 +461,9 @@
         "template.md",
         "skills",
         "marketplace"
-      ]
+      ],
+      "description": "Design System Template — Meta-framework for understanding what's fixed, project-specific, and adaptable in your design system.",
+      "unit": "skills/bencium-marketplace/bencium-controlled-ux-designer"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -452,7 +487,9 @@
         "skills",
         "marketplace",
         "designer"
-      ]
+      ],
+      "description": "Motion Specification Template — Detailed animation specifications for consistent motion design across projects.",
+      "unit": "skills/bencium-marketplace/bencium-controlled-ux-designer"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -476,7 +513,9 @@
         "skills",
         "marketplace",
         "designer"
-      ]
+      ],
+      "description": "Responsive Design Reference — Detailed reference for implementing responsive, mobile-first designs.",
+      "unit": "skills/bencium-marketplace/bencium-controlled-ux-designer"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -500,7 +539,9 @@
         "marketplace",
         "designer",
         "skill"
-      ]
+      ],
+      "description": "Expert UI/UX design guidance for unique, accessible interfaces. Use for visual decisions, colors, typography, layouts. Always ask before making design decision…",
+      "unit": "skills/bencium-marketplace/bencium-controlled-ux-designer"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -524,7 +565,9 @@
         "designer",
         "claude",
         "plugin"
-      ]
+      ],
+      "description": "Production-grade frontend interfaces that avoid generic AI aesthetics. Based on Anthropic's Frontend Designer Skill with bold creative commitment.",
+      "unit": "skills/bencium-marketplace/bencium-impact-designer"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -548,7 +591,9 @@
         "readme",
         "md",
         "bencium-marketplace"
-      ]
+      ],
+      "description": "Innovative UX Designer Skill — Create distinctive, production-grade frontend interfaces that avoid generic AI aesthetics.",
+      "unit": "skills/bencium-marketplace/bencium-impact-designer"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -572,7 +617,9 @@
         "designer",
         "accessibility",
         "md"
-      ]
+      ],
+      "description": "Accessibility Essentials — Accessibility enables creativity - it's a foundation, not a limitation. WCAG 2.1 AA compliance.",
+      "unit": "skills/bencium-marketplace/bencium-impact-designer"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -596,7 +643,9 @@
         "marketplace",
         "designer",
         "motion"
-      ]
+      ],
+      "description": "Motion Specification — Motion should surprise and delight while serving function. Animation is a creative tool.",
+      "unit": "skills/bencium-marketplace/bencium-impact-designer"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -620,7 +669,9 @@
         "marketplace",
         "designer",
         "responsive"
-      ]
+      ],
+      "description": "Responsive Design Essentials — Mobile-first approach: start with mobile, progressively enhance for larger screens.",
+      "unit": "skills/bencium-marketplace/bencium-impact-designer"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -644,7 +695,9 @@
         "designer",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, or applica…",
+      "unit": "skills/bencium-marketplace/bencium-impact-designer"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -668,7 +721,9 @@
         "marketplace",
         "designer",
         "claude"
-      ]
+      ],
+      "description": "Develop an independent visual language through ten isolated typography-led HTML design directions made only from typography, color, and space, then turn the hu…",
+      "unit": "skills/bencium-marketplace/bencium-innovative-ux-designer"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -692,7 +747,9 @@
         "designer",
         "readme",
         "md"
-      ]
+      ],
+      "description": "Innovative UX Designer V3 — Innovative UX Designer V3 is a ground-up rebuild made to escape the statistical middle produced by generative AI. Contemporary desi…",
+      "unit": "skills/bencium-marketplace/bencium-innovative-ux-designer"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -716,7 +773,9 @@
         "skills",
         "marketplace",
         "designer"
-      ]
+      ],
+      "description": "Concept Rounds — Use this workflow to move from evidence to visual judgement without allowing explanation, quantity, or production detail to drown the initial …",
+      "unit": "skills/bencium-marketplace/bencium-innovative-ux-designer"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -740,7 +799,9 @@
         "skills",
         "marketplace",
         "designer"
-      ]
+      ],
+      "description": "Isolation Protocol — Use this protocol while collecting evidence and creating the first ten typography-led HTML design directions. Its purpose is to reduce act…",
+      "unit": "skills/bencium-marketplace/bencium-innovative-ux-designer"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -764,7 +825,9 @@
         "skills",
         "marketplace",
         "designer"
-      ]
+      ],
+      "description": "Production System — Read this only after the human has explicitly locked one typography-led HTML design direction. Inject its Round 1 concept capsule as the go…",
+      "unit": "skills/bencium-marketplace/bencium-innovative-ux-designer"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -788,7 +851,9 @@
         "marketplace",
         "designer",
         "references"
-      ]
+      ],
+      "description": "Verification — Verification asks whether the chosen language survives its real medium. It does not decide whether the language deserves to exist; the human mak…",
+      "unit": "skills/bencium-marketplace/bencium-innovative-ux-designer"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -812,7 +877,9 @@
         "marketplace",
         "designer",
         "skill"
-      ]
+      ],
+      "description": "Develop an independent visual language and turn the human-chosen direction into a production-ready graphic, brand, campaign, publication, web, or product syste…",
+      "unit": "skills/bencium-marketplace/bencium-innovative-ux-designer"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -836,7 +903,9 @@
         "audit",
         "claude",
         "plugin"
-      ]
+      ],
+      "description": "Systematic visual UI/UX audits producing phased, implementation-ready design plans. Purely visual refinement without touching functionality.",
+      "unit": "skills/bencium-marketplace/design-audit"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -860,7 +929,9 @@
         "design",
         "audit",
         "template"
-      ]
+      ],
+      "description": "Audit Output Template — Use this exact structure when presenting audit findings. No deviations.",
+      "unit": "skills/bencium-marketplace/design-audit"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -884,7 +955,9 @@
         "design",
         "audit",
         "principles"
-      ]
+      ],
+      "description": "Design Principles — These are the rules. Not preferences. Not suggestions.",
+      "unit": "skills/bencium-marketplace/design-audit"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -908,7 +981,9 @@
         "audit",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Premium UI/UX design audit and refinement skill. Conducts systematic visual audits of existing",
+      "unit": "skills/bencium-marketplace/design-audit"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -932,7 +1007,9 @@
         "statusline",
         "claude",
         "plugin"
-      ]
+      ],
+      "description": "Statusline that shows Claude's classified emotional state (behavioral, Haiku-scored) with a reward-hacking warning on 'desperate'.",
+      "unit": "skills/bencium-marketplace/emotion-statusline"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -956,7 +1033,9 @@
         "hooks",
         "json",
         "bencium-marketplace"
-      ]
+      ],
+      "description": "keys: hooks",
+      "unit": "skills/bencium-marketplace/emotion-statusline"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -980,7 +1059,9 @@
         "readme",
         "md",
         "bencium-marketplace"
-      ]
+      ],
+      "description": "emotion-statusline — Shows Claude's inferred emotional state in your Claude Code statusline, based on [Anthropic's research on emotion concepts](https://www.an…",
+      "unit": "skills/bencium-marketplace/emotion-statusline"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1004,7 +1085,9 @@
         "statusline",
         "scripts",
         "classify"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/bencium-marketplace/emotion-statusline"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1028,7 +1111,9 @@
         "statusline",
         "scripts",
         "command"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/bencium-marketplace/emotion-statusline"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1052,7 +1137,9 @@
         "marketplace",
         "eu",
         "reviewer"
-      ]
+      ],
+      "description": "Review user journeys, public content, and codebases for potentially relevant EU AI Act provisions, with exact official citations, evidence gaps, application da…",
+      "unit": "skills/bencium-marketplace/eu-ai-act-reviewer"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1076,7 +1163,9 @@
         "marketplace",
         "eu",
         "reviewer"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/bencium-marketplace/eu-ai-act-reviewer"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1100,7 +1189,9 @@
         "content",
         "labelling.md",
         "skills"
-      ]
+      ],
+      "description": "Article 50: interaction, marking, and disclosure — Article 50 of [Regulation (EU) 2024/1689](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R…",
+      "unit": "skills/bencium-marketplace/eu-ai-act-reviewer"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1124,7 +1215,9 @@
         "and",
         "penalties.md",
         "skills"
-      ]
+      ],
+      "description": "Coverage dates, transitions, and penalty ceilings — This summary is pinned to 2 August 2026 . Verify it live against [Regulation (EU) 2024/1689](https://data.e…",
+      "unit": "skills/bencium-marketplace/eu-ai-act-reviewer"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1148,7 +1241,9 @@
         "skills",
         "marketplace",
         "eu"
-      ]
+      ],
+      "description": "Official sources and currency check — Use primary EU sources for statements about the law. Use Commission material only as guidance or a voluntary implementati…",
+      "unit": "skills/bencium-marketplace/eu-ai-act-reviewer"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1172,7 +1267,9 @@
         "skills",
         "marketplace",
         "eu"
-      ]
+      ],
+      "description": "Review output contract — Write the report in plain English. Do not use a compliance score, traffic-light grade, pass/fail result, or final legal classification.",
+      "unit": "skills/bencium-marketplace/eu-ai-act-reviewer"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1196,7 +1293,9 @@
         "skills",
         "marketplace",
         "eu"
-      ]
+      ],
+      "description": "Evidence-led review rules — The user may provide private code, internal journeys, screenshots, unpublished content, logs, prompts, and business facts. Official…",
+      "unit": "skills/bencium-marketplace/eu-ai-act-reviewer"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1220,7 +1319,9 @@
         "marketplace",
         "eu",
         "reviewer"
-      ]
+      ],
+      "description": "Review user journeys, public content, and codebases for potentially relevant EU AI Act provisions, with exact official citations, evidence gaps, application da…",
+      "unit": "skills/bencium-marketplace/eu-ai-act-reviewer"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1244,7 +1345,9 @@
         "human",
         "mindset",
         "claude"
-      ]
+      ],
+      "description": "Systematic architectural thinking for irreplaceable human capabilities - domain modeling, systems thinking, constraint navigation, and AI-aware problem decompo…",
+      "unit": "skills/bencium-marketplace/human-architect-mindset"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1268,7 +1371,9 @@
         "mindset",
         "readme",
         "md"
-      ]
+      ],
+      "description": "Human Architect Mindset Skill — A Claude Code skill that teaches systematic architectural thinking - the irreplaceable human capabilities that AI cannot replac…",
+      "unit": "skills/bencium-marketplace/human-architect-mindset"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1292,7 +1397,9 @@
         "human",
         "mindset",
         "checklist"
-      ]
+      ],
+      "description": "Human Architect Mindset - Checklists — Practical audit checklists for each phase of architectural thinking.",
+      "unit": "skills/bencium-marketplace/human-architect-mindset"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1316,7 +1423,9 @@
         "human",
         "mindset",
         "examples"
-      ]
+      ],
+      "description": "Human Architect Mindset - Examples — Real-world scenarios demonstrating the five pillars in action.",
+      "unit": "skills/bencium-marketplace/human-architect-mindset"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1340,7 +1449,9 @@
         "human",
         "mindset",
         "reference"
-      ]
+      ],
+      "description": "Human Architect Mindset - Reference — Deep technical reference material for the foundation and each pillar.",
+      "unit": "skills/bencium-marketplace/human-architect-mindset"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1364,7 +1475,9 @@
         "human",
         "mindset",
         "skill"
-      ]
+      ],
+      "description": "Systematic architectural thinking for irreplaceable human capabilities - domain modeling, systems thinking, constraint navigation, and AI-aware problem decompo…",
+      "unit": "skills/bencium-marketplace/human-architect-mindset"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1388,7 +1501,9 @@
         "humanizer",
         "claude",
         "plugin"
-      ]
+      ],
+      "description": "Detect and remove AI-generated markers from Hungarian text so it reads like a native speaker wrote it. 26 patterns (12 Hungarian-specific + 14 universal) plus …",
+      "unit": "skills/bencium-marketplace/hungarian-humanizer"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1412,7 +1527,9 @@
         "humanizer",
         "references",
         "patterns"
-      ]
+      ],
+      "description": "Hungarian Humanizer — Teljes patternlista — Mind a 26 AI-pattern példákkal. A SKILL.md 7 kanonikus példát tartalmaz; ez a fájl tartalmazza a többit.",
+      "unit": "skills/bencium-marketplace/hungarian-humanizer"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1436,7 +1553,9 @@
         "humanizer",
         "skill",
         "md"
-      ]
+      ],
+      "description": "'Detect and remove AI-generated markers from Hungarian text, making it sound like a native Hungarian speaker wrote it. Use when asked to \"humanize\", \"naturaliz…",
+      "unit": "skills/bencium-marketplace/hungarian-humanizer"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1460,7 +1579,9 @@
         "campaign",
         "claude",
         "plugin"
-      ]
+      ],
+      "description": "Produces grassroots-first campaign plans for startups, NGOs, movements, and solo brands being outspent by incumbents. Ideates campaigns of any kind (awareness,…",
+      "unit": "skills/bencium-marketplace/insurgent-campaign"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1484,7 +1605,9 @@
         "readme",
         "md",
         "bencium-marketplace"
-      ]
+      ],
+      "description": "insurgent-campaign — A Claude Code skill that turns a campaign brief into a grassroots-first plan for anyone being outspent — startups vs. incumbents, NGOs vs.…",
+      "unit": "skills/bencium-marketplace/insurgent-campaign"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1508,7 +1631,9 @@
         "marketplace",
         "insurgent",
         "campaign"
-      ]
+      ],
+      "description": "Asymmetry Audit Table — Stage 3 of SKILL.md uses this table to classify the user's spend gap against their",
+      "unit": "skills/bencium-marketplace/insurgent-campaign"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1532,7 +1657,9 @@
         "insurgent",
         "campaign",
         "references"
-      ]
+      ],
+      "description": "Authenticity Playbook — In high-saturation media environments, the scarce resource is not reach — it is",
+      "unit": "skills/bencium-marketplace/insurgent-campaign"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1556,7 +1683,9 @@
         "insurgent",
         "campaign",
         "references"
-      ]
+      ],
+      "description": "Campaign Archetypes — The ideation engine in SKILL.md Stage 2 draws from this catalog. Every campaign run",
+      "unit": "skills/bencium-marketplace/insurgent-campaign"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1580,7 +1709,9 @@
         "marketplace",
         "insurgent",
         "campaign"
-      ]
+      ],
+      "description": "Channel Tier Stack — Ranked by cost-effectiveness for resource-constrained campaigns. The Hungarian Tisza",
+      "unit": "skills/bencium-marketplace/insurgent-campaign"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1604,7 +1735,9 @@
         "marketplace",
         "insurgent",
         "campaign"
-      ]
+      ],
+      "description": "Hungarian Case Study — Tisza vs. Fidesz, April 2026 — The 2026 Hungarian parliamentary election is the most extreme empirical test available of",
+      "unit": "skills/bencium-marketplace/insurgent-campaign"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1628,7 +1761,9 @@
         "marketplace",
         "insurgent",
         "campaign"
-      ]
+      ],
+      "description": "Lift-Test Templates — Stage 5b of SKILL.md requires a concrete measurement plan for any paid spend. Platforms",
+      "unit": "skills/bencium-marketplace/insurgent-campaign"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1652,7 +1787,9 @@
         "insurgent",
         "campaign",
         "references"
-      ]
+      ],
+      "description": "Sector Riders — Six sector-specific overlays for the insurgent playbook. A rider does not",
+      "unit": "skills/bencium-marketplace/insurgent-campaign"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1676,7 +1813,9 @@
         "campaign",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Grassroots-first campaign design for anyone being outspent — startups vs. incumbents,",
+      "unit": "skills/bencium-marketplace/insurgent-campaign"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1700,7 +1839,9 @@
         "lens",
         "claude",
         "plugin"
-      ]
+      ],
+      "description": "Decision-support framework evaluating systems through entropy (decay) vs negentropy (growth) while surfacing tacit knowledge gaps.",
+      "unit": "skills/bencium-marketplace/negentropy-lens"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1724,7 +1865,9 @@
         "negentropy",
         "lens",
         "references"
-      ]
+      ],
+      "description": "Flipping the Switch: From Decay to Growth — It was winter 2021. I was 49 years old.",
+      "unit": "skills/bencium-marketplace/negentropy-lens"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1748,7 +1891,9 @@
         "lens",
         "skill",
         "md"
-      ]
+      ],
+      "description": "A decision-support framework that evaluates systems, architectures, and strategies through the",
+      "unit": "skills/bencium-marketplace/negentropy-lens"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1770,7 +1915,8 @@
         "md",
         "bencium-marketplace",
         "general"
-      ]
+      ],
+      "description": "bencium-marketplace — A Claude Code plugin marketplace with 17 skills and tools for design, marketing, architecture, and productivity by [bencium.io](https://b…"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1794,7 +1940,9 @@
         "design",
         "claude",
         "plugin"
-      ]
+      ],
+      "description": "Design AI-first interfaces that build ongoing relationships through memory, trust evolution, and collaborative planning.",
+      "unit": "skills/bencium-marketplace/relationship-design"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1818,7 +1966,9 @@
         "design",
         "checklist",
         "md"
-      ]
+      ],
+      "description": "Agentic UX Design - Checklists and Worksheets — This document provides practical checklists, worksheets, and audit tools for implementing relationship-centric …",
+      "unit": "skills/bencium-marketplace/relationship-design"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1842,7 +1992,9 @@
         "design",
         "examples",
         "md"
-      ]
+      ],
+      "description": "Agentic UX Design - Real-World Examples — This document provides concrete examples of relationship-centric design in action.",
+      "unit": "skills/bencium-marketplace/relationship-design"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1866,7 +2018,9 @@
         "design",
         "reference",
         "md"
-      ]
+      ],
+      "description": "Agentic UX Design - Technical Reference — This document provides detailed technical patterns, research foundations, and implementation guidance for relationshi…",
+      "unit": "skills/bencium-marketplace/relationship-design"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1890,7 +2044,9 @@
         "design",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Design AI-first interfaces that build ongoing relationships through memory, trust evolution, and collaborative planning, not just isolated screen interactions",
+      "unit": "skills/bencium-marketplace/relationship-design"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1914,7 +2070,9 @@
         "architecture",
         "claude",
         "plugin"
-      ]
+      ],
+      "description": "Software architecture and UI/UX principles for building genuinely new solutions through first-principles thinking, not derivative work.",
+      "unit": "skills/bencium-marketplace/renaissance-architecture"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1938,7 +2096,9 @@
         "architecture",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Software architecture and UI/UX principles for building genuinely new solutions, not derivative work. Use when designing features, architecting software, brain…",
+      "unit": "skills/bencium-marketplace/renaissance-architecture"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1962,7 +2122,8 @@
         "json",
         "bencium-marketplace",
         "general"
-      ]
+      ],
+      "description": "keys: mode, verbs"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -1986,7 +2147,9 @@
         "plugin",
         "json",
         "bencium-marketplace"
-      ]
+      ],
+      "description": "Professional typography rules for UI design enforcing correct quote marks, dashes, spacing, hierarchy, and layout. Auto-applies to generated HTML/CSS/React cod…",
+      "unit": "skills/bencium-marketplace/typography"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -2010,7 +2173,9 @@
         "templates",
         "md",
         "bencium-marketplace"
-      ]
+      ],
+      "description": "CSS Typography Templates — Read this file when generating CSS for any web project, building a design system, or auditing",
+      "unit": "skills/bencium-marketplace/typography"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -2034,7 +2199,9 @@
         "entities",
         "md",
         "bencium-marketplace"
-      ]
+      ],
+      "description": "HTML Entity & Character Reference — Read this file when you need to look up the correct HTML entity for a character, or when auditing",
+      "unit": "skills/bencium-marketplace/typography"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -2057,7 +2224,9 @@
         "md",
         "bencium-marketplace",
         "general"
-      ]
+      ],
+      "description": "Professional typography rules for UI design, web applications, software interfaces, and all screen-based",
+      "unit": "skills/bencium-marketplace/typography"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -2081,7 +2250,9 @@
         "vanity",
         "review",
         "claude"
-      ]
+      ],
+      "description": "Reviews codebases, architectures, PRs, and technical plans for vanity engineering — code built for the developer's ego rather than delivering user or business …",
+      "unit": "skills/bencium-marketplace/vanity-engineering-review"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -2105,7 +2276,9 @@
         "marketplace",
         "vanity",
         "review"
-      ]
+      ],
+      "description": "Vanity Engineering Detection Patterns — Concrete patterns to scan for during review. Each pattern includes what to look for,",
+      "unit": "skills/bencium-marketplace/vanity-engineering-review"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -2129,7 +2302,9 @@
         "skills",
         "marketplace",
         "vanity"
-      ]
+      ],
+      "description": "Kill Criteria Template — Generate a project-specific version of this template for every system or feature reviewed.",
+      "unit": "skills/bencium-marketplace/vanity-engineering-review"
     },
     {
       "type": "skills-bencium-marketplace",
@@ -2153,7 +2328,9 @@
         "vanity",
         "review",
         "skill"
-      ]
+      ],
+      "description": "Reviews codebases, architectures, PRs, and technical plans for vanity engineering — code",
+      "unit": "skills/bencium-marketplace/vanity-engineering-review"
     },
     {
       "type": "skills-brand",
@@ -2177,7 +2354,9 @@
         "md",
         "general",
         "local"
-      ]
+      ],
+      "description": "Asset Approval Checklist — Comprehensive checklist for reviewing marketing assets before approval.",
+      "unit": "skills/brand"
     },
     {
       "type": "skills-brand",
@@ -2201,7 +2380,9 @@
         "md",
         "general",
         "local"
-      ]
+      ],
+      "description": "Asset Organization Guide — Guidelines for organizing marketing assets in a structured, searchable system.",
+      "unit": "skills/brand"
     },
     {
       "type": "skills-brand",
@@ -2225,7 +2406,9 @@
         "md",
         "general",
         "local"
-      ]
+      ],
+      "description": "Brand Guidelines Template — Use this template to create comprehensive brand guidelines for any project.",
+      "unit": "skills/brand"
     },
     {
       "type": "skills-brand",
@@ -2249,7 +2432,9 @@
         "management",
         "md",
         "general"
-      ]
+      ],
+      "description": "Color Palette Management — Guidelines for defining, extracting, and enforcing brand colors.",
+      "unit": "skills/brand"
     },
     {
       "type": "skills-brand",
@@ -2273,7 +2458,9 @@
         "md",
         "general",
         "local"
-      ]
+      ],
+      "description": "Brand Consistency Checklist",
+      "unit": "skills/brand"
     },
     {
       "type": "skills-brand",
@@ -2297,7 +2484,9 @@
         "rules",
         "md",
         "general"
-      ]
+      ],
+      "description": "Logo Usage Rules — Guidelines for proper logo implementation across all marketing materials.",
+      "unit": "skills/brand"
     },
     {
       "type": "skills-brand",
@@ -2321,7 +2510,9 @@
         "md",
         "general",
         "local"
-      ]
+      ],
+      "description": "Messaging Framework — Vision (Where we're going)",
+      "unit": "skills/brand"
     },
     {
       "type": "skills-brand",
@@ -2345,7 +2536,9 @@
         "md",
         "general",
         "local"
-      ]
+      ],
+      "description": "Typography Specifications — Guidelines for defining and implementing brand typography.",
+      "unit": "skills/brand"
     },
     {
       "type": "skills-brand",
@@ -2367,7 +2560,9 @@
         "md",
         "general",
         "local"
-      ]
+      ],
+      "description": "Overview — Update brand colors, typography, and style - automatically syncs to all design system files.",
+      "unit": "skills/brand"
     },
     {
       "type": "skills-brand",
@@ -2391,7 +2586,9 @@
         "md",
         "general",
         "local"
-      ]
+      ],
+      "description": "Visual Identity Basics",
+      "unit": "skills/brand"
     },
     {
       "type": "skills-brand",
@@ -2415,7 +2612,9 @@
         "md",
         "general",
         "local"
-      ]
+      ],
+      "description": "Brand Voice Framework — Example: A friendly brand (voice) might be celebratory in a win announcement but empathetic in a support response (tone).",
+      "unit": "skills/brand"
     },
     {
       "type": "skills-brand",
@@ -2439,7 +2638,9 @@
         "cjs",
         "general",
         "local"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/brand"
     },
     {
       "type": "skills-brand",
@@ -2463,7 +2664,9 @@
         "cjs",
         "general",
         "local"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/brand"
     },
     {
       "type": "skills-brand",
@@ -2487,7 +2690,9 @@
         "tokens",
         "cjs",
         "saas"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/brand"
     },
     {
       "type": "skills-brand",
@@ -2511,7 +2716,9 @@
         "tests",
         "test",
         "tokens"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/brand"
     },
     {
       "type": "skills-brand",
@@ -2535,7 +2742,9 @@
         "cjs",
         "general",
         "local"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/brand"
     },
     {
       "type": "skills-brand",
@@ -2556,7 +2765,9 @@
         "md",
         "general",
         "local"
-      ]
+      ],
+      "description": "Brand voice, visual identity, messaging frameworks, asset management, brand consistency. Activate for branded content, tone of voice, marketing assets, brand c…",
+      "unit": "skills/brand"
     },
     {
       "type": "skills-brand",
@@ -2580,7 +2791,9 @@
         "md",
         "general",
         "local"
-      ]
+      ],
+      "description": "Brand Guidelines v1.0 —",
+      "unit": "skills/brand"
     },
     {
       "type": "skills-design",
@@ -2603,7 +2816,9 @@
         "csv",
         "general",
         "local"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -2626,7 +2841,9 @@
         "csv",
         "general",
         "local"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -2650,7 +2867,9 @@
         "contexts",
         "csv",
         "general"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -2673,7 +2892,9 @@
         "csv",
         "general",
         "local"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -2697,7 +2918,9 @@
         "general",
         "local",
         "glyph"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -2720,7 +2943,9 @@
         "csv",
         "general",
         "local"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -2743,7 +2968,9 @@
         "csv",
         "general",
         "local"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -2766,7 +2993,9 @@
         "csv",
         "general",
         "local"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -2790,7 +3019,9 @@
         "banner",
         "styles",
         "md"
-      ]
+      ],
+      "description": "Banner Sizes & Art Direction Styles Reference — 1. Minimalist — White space dominant, single focal element, 1-2 colors, clean sans-serif",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -2814,7 +3045,9 @@
         "guide",
         "md",
         "general"
-      ]
+      ],
+      "description": "CIP Deliverable Guide",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -2837,7 +3070,9 @@
         "md",
         "general",
         "local"
-      ]
+      ],
+      "description": "CIP Design Reference — Corporate Identity Program design with 50+ deliverables, 20 styles, 20 industries. Generate mockups with Gemini Nano Banana (Flash/Pro).",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -2861,7 +3096,9 @@
         "engineering",
         "md",
         "general"
-      ]
+      ],
+      "description": "CIP Mockup Prompt Engineering — Professional corporate identity mockup photograph showing [DELIVERABLE] for brand '[BRAND NAME]', [STYLE] design style, using c…",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -2885,7 +3122,9 @@
         "guide",
         "md",
         "general"
-      ]
+      ],
+      "description": "CIP Design Style Guide",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -2908,7 +3147,9 @@
         "md",
         "general",
         "local"
-      ]
+      ],
+      "description": "Design Routing Guide — When to use each design sub-skill.",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -2932,7 +3173,9 @@
         "general",
         "local",
         "glyph"
-      ]
+      ],
+      "description": "Icon Design Reference — AI-powered SVG icon generation using Gemini 3.1 Pro Preview. 15 styles, 12 categories, multi-size export.",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -2956,7 +3199,9 @@
         "psychology",
         "md",
         "general"
-      ]
+      ],
+      "description": "Logo Color Psychology — Single color with tints/shades. Safe, cohesive.",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -2979,7 +3224,9 @@
         "md",
         "general",
         "local"
-      ]
+      ],
+      "description": "Logo Design Reference — AI-powered logo design with 55+ styles, 30 color palettes, 25 industry guides. Gemini Nano Banana is the default provider; Atlas Cloud …",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -3003,7 +3250,9 @@
         "engineering",
         "md",
         "general"
-      ]
+      ],
+      "description": "Logo AI Prompt Engineering — Professional logo design for [brand/industry]:",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -3027,7 +3276,9 @@
         "guide",
         "md",
         "general"
-      ]
+      ],
+      "description": "Logo Style Guide — Text-only logo using custom typography.",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -3051,7 +3302,9 @@
         "formulas",
         "md",
         "general"
-      ]
+      ],
+      "description": "Copywriting Formulas — 25 formulas for persuasive slide copy.",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -3075,7 +3328,9 @@
         "md",
         "general",
         "local"
-      ]
+      ],
+      "description": "Task — Invoke slides skill to create persuasive HTML slides using design tokens, Chart.js, and the slide knowledge database.",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -3099,7 +3354,9 @@
         "template",
         "md",
         "general"
-      ]
+      ],
+      "description": "HTML Slide Template — Complete HTML structure with navigation, tokens, and Chart.js integration.",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -3123,7 +3380,9 @@
         "patterns",
         "md",
         "general"
-      ]
+      ],
+      "description": "Layout Patterns — 25 slide layouts with CSS structures and animation classes.",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -3147,7 +3406,9 @@
         "md",
         "general",
         "local"
-      ]
+      ],
+      "description": "Slide Strategies — 15 proven deck structures with emotion arcs.",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -3169,7 +3430,9 @@
         "md",
         "general",
         "local"
-      ]
+      ],
+      "description": "Slides Reference — Strategic HTML presentation design with Chart.js data visualization, design tokens, responsive layouts, and copywriting formulas.",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -3193,7 +3456,9 @@
         "md",
         "general",
         "local"
-      ]
+      ],
+      "description": "Social Photos Design Guide — Design social media images via HTML/CSS rendering + screenshot export. Orchestrates the bundled ui-ux-pro-max , brand , and design…",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -3216,7 +3481,9 @@
         "py",
         "general",
         "local"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -3239,7 +3506,9 @@
         "py",
         "general",
         "local"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -3263,7 +3532,9 @@
         "html",
         "py",
         "general"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -3286,7 +3557,9 @@
         "py",
         "general",
         "local"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -3310,7 +3583,9 @@
         "general",
         "local",
         "glyph"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -3333,7 +3608,9 @@
         "py",
         "general",
         "local"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -3356,7 +3633,9 @@
         "py",
         "general",
         "local"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -3379,7 +3658,9 @@
         "py",
         "general",
         "local"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -3403,7 +3684,9 @@
         "test",
         "generate",
         "py"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -3427,7 +3710,9 @@
         "test",
         "generate",
         "py"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -3451,7 +3736,9 @@
         "test",
         "generate",
         "py"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design",
@@ -3472,7 +3759,9 @@
         "md",
         "general",
         "local"
-      ]
+      ],
+      "description": "\"Comprehensive design skill: brand identity, design tokens, UI styling, logo generation (55 styles, Gemini, Atlas Cloud, or MuAPI AI), corporate identity progr…",
+      "unit": "skills/design"
     },
     {
       "type": "skills-design-system",
@@ -3496,7 +3785,9 @@
         "backgrounds",
         "csv",
         "design-system"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/design-system"
     },
     {
       "type": "skills-design-system",
@@ -3520,7 +3811,9 @@
         "charts",
         "csv",
         "design-system"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/design-system"
     },
     {
       "type": "skills-design-system",
@@ -3544,7 +3837,9 @@
         "slide",
         "logic",
         "csv"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/design-system"
     },
     {
       "type": "skills-design-system",
@@ -3568,7 +3863,9 @@
         "copy",
         "csv",
         "design-system"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/design-system"
     },
     {
       "type": "skills-design-system",
@@ -3592,7 +3889,9 @@
         "slide",
         "logic",
         "csv"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/design-system"
     },
     {
       "type": "skills-design-system",
@@ -3616,7 +3915,9 @@
         "layouts",
         "csv",
         "design-system"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/design-system"
     },
     {
       "type": "skills-design-system",
@@ -3640,7 +3941,9 @@
         "strategies",
         "csv",
         "design-system"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/design-system"
     },
     {
       "type": "skills-design-system",
@@ -3664,7 +3967,9 @@
         "typography",
         "csv",
         "design-system"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/design-system"
     },
     {
       "type": "skills-design-system",
@@ -3688,7 +3993,9 @@
         "specs",
         "md",
         "design-system"
-      ]
+      ],
+      "description": "Component Specifications — Detailed specs for core components with states and variants.",
+      "unit": "skills/design-system"
     },
     {
       "type": "skills-design-system",
@@ -3712,7 +4019,9 @@
         "tokens",
         "md",
         "design-system"
-      ]
+      ],
+      "description": "Component Tokens — Component-specific tokens referencing semantic layer.",
+      "unit": "skills/design-system"
     },
     {
       "type": "skills-design-system",
@@ -3736,7 +4045,9 @@
         "tokens",
         "md",
         "design-system"
-      ]
+      ],
+      "description": "Primitive Tokens — Raw design values - foundation of the design system.",
+      "unit": "skills/design-system"
     },
     {
       "type": "skills-design-system",
@@ -3760,7 +4071,9 @@
         "tokens",
         "md",
         "design-system"
-      ]
+      ],
+      "description": "Semantic Tokens — Purpose-based aliases referencing primitive tokens.",
+      "unit": "skills/design-system"
     },
     {
       "type": "skills-design-system",
@@ -3784,7 +4097,9 @@
         "states",
         "variants",
         "md"
-      ]
+      ],
+      "description": "States and Variants — Component state definitions and variant patterns.",
+      "unit": "skills/design-system"
     },
     {
       "type": "skills-design-system",
@@ -3808,7 +4123,9 @@
         "integration",
         "md",
         "design-system"
-      ]
+      ],
+      "description": "Tailwind Integration — Map design system tokens to Tailwind CSS configuration.",
+      "unit": "skills/design-system"
     },
     {
       "type": "skills-design-system",
@@ -3832,7 +4149,9 @@
         "architecture",
         "md",
         "design-system"
-      ]
+      ],
+      "description": "Token Architecture — Three-layer token system for scalable, themeable design systems.",
+      "unit": "skills/design-system"
     },
     {
       "type": "skills-design-system",
@@ -3856,7 +4175,9 @@
         "tokens",
         "cjs",
         "design-system"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/design-system"
     },
     {
       "type": "skills-design-system",
@@ -3880,7 +4201,9 @@
         "background",
         "py",
         "design-system"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/design-system"
     },
     {
       "type": "skills-design-system",
@@ -3904,7 +4227,9 @@
         "slide",
         "py",
         "design-system"
-      ]
+      ],
+      "description": "============================================ STRICT TOKEN USAGE - NO HARDCODED VALUES All styles MUST use var(--token-name) ===================================…",
+      "unit": "skills/design-system"
     },
     {
       "type": "skills-design-system",
@@ -3928,7 +4253,9 @@
         "tokens",
         "cjs",
         "design-system"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/design-system"
     },
     {
       "type": "skills-design-system",
@@ -3952,7 +4279,9 @@
         "html",
         "validator",
         "py"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/design-system"
     },
     {
       "type": "skills-design-system",
@@ -3976,7 +4305,9 @@
         "slides",
         "py",
         "design-system"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/design-system"
     },
     {
       "type": "skills-design-system",
@@ -4000,7 +4331,9 @@
         "slide",
         "validator",
         "py"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/design-system"
     },
     {
       "type": "skills-design-system",
@@ -4024,7 +4357,9 @@
         "slide",
         "core",
         "py"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/design-system"
     },
     {
       "type": "skills-design-system",
@@ -4048,7 +4383,9 @@
         "tests",
         "test",
         "tokens"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/design-system"
     },
     {
       "type": "skills-design-system",
@@ -4072,7 +4409,9 @@
         "tokens",
         "cjs",
         "design-system"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/design-system"
     },
     {
       "type": "skills-design-system",
@@ -4095,7 +4434,9 @@
         "design-system",
         "general",
         "local"
-      ]
+      ],
+      "description": "Token architecture, component specifications, and slide generation. Three-layer tokens (primitive→semantic→component), CSS variables, spacing/typography scales…",
+      "unit": "skills/design-system"
     },
     {
       "type": "skills-design-system",
@@ -4119,7 +4460,9 @@
         "starter",
         "json",
         "design-system"
-      ]
+      ],
+      "description": "keys: $schema, primitive, semantic, component, dark",
+      "unit": "skills/design-system"
     },
     {
       "type": "skills-open-design",
@@ -4143,7 +4486,9 @@
         "design",
         "template",
         "assets"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/8-bit-orbit-video-template"
     },
     {
       "type": "skills-open-design",
@@ -4167,7 +4512,9 @@
         "design",
         "template",
         "example"
-      ]
+      ],
+      "description": "Hyperframes Video Template Example",
+      "unit": "skills/open-design/8-bit-orbit-video-template"
     },
     {
       "type": "skills-open-design",
@@ -4191,7 +4538,9 @@
         "design",
         "template",
         "references"
-      ]
+      ],
+      "description": "Checklist",
+      "unit": "skills/open-design/8-bit-orbit-video-template"
     },
     {
       "type": "skills-open-design",
@@ -4215,7 +4564,9 @@
         "design",
         "template",
         "skill"
-      ]
+      ],
+      "description": "Hyperframes-based video template for retro pixel deck motion design.",
+      "unit": "skills/open-design/8-bit-orbit-video-template"
     },
     {
       "type": "skills-open-design",
@@ -4239,7 +4590,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Generate and iterate ad creative including headlines, descriptions, and primary text. Useful for paid social and search ad iteration.",
+      "unit": "skills/open-design/ad-creative"
     },
     {
       "type": "skills-open-design",
@@ -4263,7 +4616,9 @@
         "after",
         "template",
         "assets"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/after-hours-editorial-template"
     },
     {
       "type": "skills-open-design",
@@ -4287,7 +4642,9 @@
         "after",
         "template",
         "example"
-      ]
+      ],
+      "description": "After Hours Editorial Template Example",
+      "unit": "skills/open-design/after-hours-editorial-template"
     },
     {
       "type": "skills-open-design",
@@ -4311,7 +4668,9 @@
         "after",
         "template",
         "references"
-      ]
+      ],
+      "description": "Checklist",
+      "unit": "skills/open-design/after-hours-editorial-template"
     },
     {
       "type": "skills-open-design",
@@ -4335,7 +4694,9 @@
         "after",
         "template",
         "skill"
-      ]
+      ],
+      "description": "Luxury dark-editorial HyperFrames template for three-page cinematic storyboards,",
+      "unit": "skills/open-design/after-hours-editorial-template"
     },
     {
       "type": "skills-open-design",
@@ -4359,7 +4720,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Browser automation CLI for AI agents. Use when the user needs to inspect,",
+      "unit": "skills/open-design/agent-browser"
     },
     {
       "type": "skills-open-design",
@@ -4382,7 +4745,8 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "skills — This directory holds functional skills — capabilities the agent"
     },
     {
       "type": "skills-open-design",
@@ -4406,7 +4770,9 @@
         "album",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Full-lifecycle AI music album production — concept, lyric drafting, track sequencing, and export. Useful for indie album experiments and brand soundtracks.",
+      "unit": "skills/open-design/ai-music-album"
     },
     {
       "type": "skills-open-design",
@@ -4430,7 +4796,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Create generative art using p5.js with seeded randomness so every render is reproducible. Useful for procedural posters, motion-style stills, and artistic fram…",
+      "unit": "skills/open-design/algorithmic-art"
     },
     {
       "type": "skills-open-design",
@@ -4453,7 +4821,9 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/animate"
     },
     {
       "type": "skills-open-design",
@@ -4477,7 +4847,9 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Animation Recipes — Ready-to-build implementations for the cases that come up most. Start from the recipe, then adapt — don't rebuild from scratch.",
+      "unit": "skills/open-design/animate"
     },
     {
       "type": "skills-open-design",
@@ -4501,7 +4873,9 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "\"Implement purposeful interface animations: easing, springs, interruption, exits, and reduced motion. Use on existing components or an accepted UI brief; this …",
+      "unit": "skills/open-design/animate"
     },
     {
       "type": "skills-open-design",
@@ -4525,7 +4899,9 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "Source and adaptation — skill material; runtime libraries and external assets retain their own terms.",
+      "unit": "skills/open-design/animate"
     },
     {
       "type": "skills-open-design",
@@ -4549,7 +4925,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Apple Human Interface Guidelines as 14 agent skills covering platforms, foundations, components, patterns, inputs, and technologies for iOS, macOS, visionOS, w…",
+      "unit": "skills/open-design/apple-hig"
     },
     {
       "type": "skills-open-design",
@@ -4573,7 +4951,9 @@
         "example",
         "html",
         "open-design"
-      ]
+      ],
+      "description": "我读完 @trq212 那条推之后, 把所有 markdown 都换成了 HTML",
+      "unit": "skills/open-design/article-magazine"
     },
     {
       "type": "skills-open-design",
@@ -4597,7 +4977,9 @@
         "example",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "我读完 @trq212 那条推之后, 把所有 markdown 都换成了 HTML — 灵感原文: https://x.com/trq212/status/2052809885763747935",
+      "unit": "skills/open-design/article-magazine"
     },
     {
       "type": "skills-open-design",
@@ -4621,7 +5003,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "\"Huashu / huashu-md-html-inspired magazine article layout for turning Markdown or notes into a polished long-form HTML essay.\"",
+      "unit": "skills/open-design/article-magazine"
     },
     {
       "type": "skills-open-design",
@@ -4645,7 +5029,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui).",
+      "unit": "skills/open-design/artifacts-builder"
     },
     {
       "type": "skills-open-design",
@@ -4669,7 +5055,9 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "Transform rough ideas into fully-formed designs through structured questioning and alternative exploration. Useful early in concept work.",
+      "unit": "skills/open-design/brainstorming"
     },
     {
       "type": "skills-open-design",
@@ -4693,7 +5081,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Extract a complete Brand Kit from a live website by driving the in-app",
+      "unit": "skills/open-design/brand-extract"
     },
     {
       "type": "skills-open-design",
@@ -4717,7 +5107,9 @@
         "extract",
         "templates",
         "kit"
-      ]
+      ],
+      "description": "OD BRAND TITLE",
+      "unit": "skills/open-design/brand-extract"
     },
     {
       "type": "skills-open-design",
@@ -4741,7 +5133,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Apply Anthropic's official brand colors and typography to artifacts for consistent visual identity and professional design standards. A reference for shaping y…",
+      "unit": "skills/open-design/brand-guidelines"
     },
     {
       "type": "skills-open-design",
@@ -4764,7 +5158,9 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/brandkit"
     },
     {
       "type": "skills-open-design",
@@ -4788,7 +5184,9 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "Premium brand-kit image generation skill for creating high-end brand-guidelines boards, logo systems, identity decks, and visual-world presentations. Trained f…",
+      "unit": "skills/open-design/brandkit"
     },
     {
       "type": "skills-open-design",
@@ -4812,7 +5210,9 @@
         "license",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/brutalist-skill"
     },
     {
       "type": "skills-open-design",
@@ -4836,7 +5236,9 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Raw mechanical interfaces fusing Swiss typographic print with military terminal aesthetics. Rigid grids, extreme type scale contrast, utilitarian color, analog…",
+      "unit": "skills/open-design/brutalist-skill"
     },
     {
       "type": "skills-open-design",
@@ -4860,7 +5262,9 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Create beautiful visual art in PNG and PDF documents using design philosophy and aesthetic principles for posters, illustrations, and static pieces.",
+      "unit": "skills/open-design/canvas-design"
     },
     {
       "type": "skills-open-design",
@@ -4884,7 +5288,9 @@
         "example",
         "html",
         "open-design"
-      ]
+      ],
+      "description": "Twitter 分享卡 · 金句",
+      "unit": "skills/open-design/card-twitter"
     },
     {
       "type": "skills-open-design",
@@ -4908,7 +5314,9 @@
         "example",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Markdown 是给作者爽的, HTML 是给读者爽的。",
+      "unit": "skills/open-design/card-twitter"
     },
     {
       "type": "skills-open-design",
@@ -4932,7 +5340,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "\"Twitter quote or data card designed to pair with a post.\"",
+      "unit": "skills/open-design/card-twitter"
     },
     {
       "type": "skills-open-design",
@@ -4956,7 +5366,9 @@
         "example",
         "html",
         "open-design"
-      ]
+      ],
+      "description": "5 个让你的 AI 编辑用得更顺手的小习惯",
+      "unit": "skills/open-design/card-xiaohongshu"
     },
     {
       "type": "skills-open-design",
@@ -4980,7 +5392,9 @@
         "example",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "5 个让你的 AI 编辑用得更顺手的小习惯 — 你写的 prompt 不可能一次完美。把它当 对话 , 不是 SQL。",
+      "unit": "skills/open-design/card-xiaohongshu"
     },
     {
       "type": "skills-open-design",
@@ -5004,7 +5418,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "\"Xiaohongshu-style knowledge cards, arranged as a swipeable multi-card carousel.\"",
+      "unit": "skills/open-design/card-xiaohongshu"
     },
     {
       "type": "skills-open-design",
@@ -5028,7 +5444,9 @@
         "overlay",
         "agents",
         "openai"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/chat-motion-overlay"
     },
     {
       "type": "skills-open-design",
@@ -5052,7 +5470,9 @@
         "skills",
         "design",
         "chat"
-      ]
+      ],
+      "description": "image file",
+      "unit": "skills/open-design/chat-motion-overlay"
     },
     {
       "type": "skills-open-design",
@@ -5076,7 +5496,9 @@
         "skills",
         "design",
         "chat"
-      ]
+      ],
+      "description": "image file",
+      "unit": "skills/open-design/chat-motion-overlay"
     },
     {
       "type": "skills-open-design",
@@ -5100,7 +5522,9 @@
         "skills",
         "design",
         "chat"
-      ]
+      ],
+      "description": "image file",
+      "unit": "skills/open-design/chat-motion-overlay"
     },
     {
       "type": "skills-open-design",
@@ -5124,7 +5548,9 @@
         "skills",
         "design",
         "chat"
-      ]
+      ],
+      "description": "image file",
+      "unit": "skills/open-design/chat-motion-overlay"
     },
     {
       "type": "skills-open-design",
@@ -5148,7 +5574,9 @@
         "skills",
         "design",
         "chat"
-      ]
+      ],
+      "description": "image file",
+      "unit": "skills/open-design/chat-motion-overlay"
     },
     {
       "type": "skills-open-design",
@@ -5172,7 +5600,9 @@
         "skills",
         "design",
         "chat"
-      ]
+      ],
+      "description": "image file",
+      "unit": "skills/open-design/chat-motion-overlay"
     },
     {
       "type": "skills-open-design",
@@ -5196,7 +5626,9 @@
         "chat",
         "overlay",
         "assets"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/chat-motion-overlay"
     },
     {
       "type": "skills-open-design",
@@ -5220,7 +5652,9 @@
         "design",
         "chat",
         "overlay"
-      ]
+      ],
+      "description": "keys: container, avatarMode, deviceFrame, nicknameMode, deliveryFormat, showTimestamp, participants",
+      "unit": "skills/open-design/chat-motion-overlay"
     },
     {
       "type": "skills-open-design",
@@ -5244,7 +5678,9 @@
         "chat",
         "overlay",
         "assets"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/chat-motion-overlay"
     },
     {
       "type": "skills-open-design",
@@ -5268,7 +5704,9 @@
         "chat",
         "overlay",
         "assets"
-      ]
+      ],
+      "description": "exports chatSpec",
+      "unit": "skills/open-design/chat-motion-overlay"
     },
     {
       "type": "skills-open-design",
@@ -5292,7 +5730,9 @@
         "chat",
         "overlay",
         "assets"
-      ]
+      ],
+      "description": "exports avatarSrcFor",
+      "unit": "skills/open-design/chat-motion-overlay"
     },
     {
       "type": "skills-open-design",
@@ -5316,7 +5756,9 @@
         "chat",
         "overlay",
         "assets"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/chat-motion-overlay"
     },
     {
       "type": "skills-open-design",
@@ -5340,7 +5782,9 @@
         "chat",
         "overlay",
         "assets"
-      ]
+      ],
+      "description": "exports ChatMotionOverlay",
+      "unit": "skills/open-design/chat-motion-overlay"
     },
     {
       "type": "skills-open-design",
@@ -5364,7 +5808,9 @@
         "chat",
         "overlay",
         "assets"
-      ]
+      ],
+      "description": "exports DeviceFrame",
+      "unit": "skills/open-design/chat-motion-overlay"
     },
     {
       "type": "skills-open-design",
@@ -5388,7 +5834,9 @@
         "chat",
         "overlay",
         "assets"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/chat-motion-overlay"
     },
     {
       "type": "skills-open-design",
@@ -5412,7 +5860,9 @@
         "chat",
         "overlay",
         "assets"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/chat-motion-overlay"
     },
     {
       "type": "skills-open-design",
@@ -5436,7 +5886,9 @@
         "chat",
         "overlay",
         "assets"
-      ]
+      ],
+      "description": "exports RemotionRoot",
+      "unit": "skills/open-design/chat-motion-overlay"
     },
     {
       "type": "skills-open-design",
@@ -5460,7 +5912,9 @@
         "chat",
         "overlay",
         "assets"
-      ]
+      ],
+      "description": "keys: compilerOptions, include",
+      "unit": "skills/open-design/chat-motion-overlay"
     },
     {
       "type": "skills-open-design",
@@ -5484,7 +5938,9 @@
         "chat",
         "overlay",
         "references"
-      ]
+      ],
+      "description": "Config Schema — Provide a JSON file when the user wants anything beyond the defaults.",
+      "unit": "skills/open-design/chat-motion-overlay"
     },
     {
       "type": "skills-open-design",
@@ -5508,7 +5964,9 @@
         "chat",
         "overlay",
         "references"
-      ]
+      ],
+      "description": "Input Format — Use this transcript format before generating the scene spec.",
+      "unit": "skills/open-design/chat-motion-overlay"
     },
     {
       "type": "skills-open-design",
@@ -5532,7 +5990,9 @@
         "chat",
         "overlay",
         "references"
-      ]
+      ],
+      "description": "Output Modes — Use user-facing delivery choices and let the skill map them to concrete artifacts.",
+      "unit": "skills/open-design/chat-motion-overlay"
     },
     {
       "type": "skills-open-design",
@@ -5556,7 +6016,9 @@
         "chat",
         "overlay",
         "references"
-      ]
+      ],
+      "description": "Question Strategy — Use this policy when the user triggers $chat-motion-overlay without enough detail.",
+      "unit": "skills/open-design/chat-motion-overlay"
     },
     {
       "type": "skills-open-design",
@@ -5580,7 +6042,9 @@
         "chat",
         "overlay",
         "references"
-      ]
+      ],
+      "description": "Test Matrix — This matrix covers the configurable surface of $chat-motion-overlay .",
+      "unit": "skills/open-design/chat-motion-overlay"
     },
     {
       "type": "skills-open-design",
@@ -5604,7 +6068,9 @@
         "chat",
         "overlay",
         "references"
-      ]
+      ],
+      "description": "Test Report — Validated the new $chat-motion-overlay skill across:",
+      "unit": "skills/open-design/chat-motion-overlay"
     },
     {
       "type": "skills-open-design",
@@ -5628,7 +6094,9 @@
         "skills",
         "design",
         "scripts"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/chat-motion-overlay"
     },
     {
       "type": "skills-open-design",
@@ -5652,7 +6120,9 @@
         "skills",
         "design",
         "scripts"
-      ]
+      ],
+      "description": "exports chatSpec",
+      "unit": "skills/open-design/chat-motion-overlay"
     },
     {
       "type": "skills-open-design",
@@ -5676,7 +6146,9 @@
         "design",
         "chat",
         "overlay"
-      ]
+      ],
+      "description": "exports chatSpec",
+      "unit": "skills/open-design/chat-motion-overlay"
     },
     {
       "type": "skills-open-design",
@@ -5700,7 +6172,9 @@
         "overlay",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Generate configurable chat motion overlays from a transcript or screenshot, including plain bubble scenes, app-style chat containers, optional device frames, p…",
+      "unit": "skills/open-design/chat-motion-overlay"
     },
     {
       "type": "skills-open-design",
@@ -5724,7 +6198,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Color science expert skill with 286K words of reference material covering OKLCH/OKLAB, palette generation, accessibility/contrast, color naming, pigment mixing…",
+      "unit": "skills/open-design/color-expert"
     },
     {
       "type": "skills-open-design",
@@ -5748,7 +6224,9 @@
         "extractor",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Extract and analyze competitors' ads from ad libraries to understand messaging and creative approaches that resonate.",
+      "unit": "skills/open-design/competitive-ads-extractor"
     },
     {
       "type": "skills-open-design",
@@ -5772,7 +6250,9 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "Write and rewrite marketing copy for landing pages, homepages, and ads. Useful as a copy chief partner during launches.",
+      "unit": "skills/open-design/copywriting"
     },
     {
       "type": "skills-open-design",
@@ -5796,7 +6276,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "AI creative director with recursive self-assessment: 20+ methodologies (SIT, TRIZ, Bisociation, SCAMPER, Synectics), 3-axis evaluation calibrated against Canne…",
+      "unit": "skills/open-design/creative-director"
     },
     {
       "type": "skills-open-design",
@@ -5820,7 +6302,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Teaches the agent to produce D3 charts and interactive data visualizations. A comprehensive D3.js skill with examples across chart types and techniques giving …",
+      "unit": "skills/open-design/d3-visualization"
     },
     {
       "type": "skills-open-design",
@@ -5844,7 +6328,9 @@
         "example",
         "html",
         "open-design"
-      ]
+      ],
+      "description": "数据周报 · 2025 年 5 月",
+      "unit": "skills/open-design/data-report"
     },
     {
       "type": "skills-open-design",
@@ -5868,7 +6354,9 @@
         "example",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "数据周报 · 2025 年 5 月 — month,active users,new signups,paying,churn rate",
+      "unit": "skills/open-design/data-report"
     },
     {
       "type": "skills-open-design",
@@ -5892,7 +6380,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "\"Turns CSV, Excel, or JSON data into a polished visual report page.\"",
+      "unit": "skills/open-design/data-report"
     },
     {
       "type": "skills-open-design",
@@ -5916,7 +6406,9 @@
         "editorial",
         "example",
         "html"
-      ]
+      ],
+      "description": "贵赞编辑墨水 · 章节封页",
+      "unit": "skills/open-design/deck-guizang-editorial"
     },
     {
       "type": "skills-open-design",
@@ -5940,7 +6432,9 @@
         "editorial",
         "example",
         "md"
-      ]
+      ],
+      "description": "关于「HTML 取代 Markdown」 — 墨水经典调色板, 双页预览: L02 章节封页 + L03 Big Numbers",
+      "unit": "skills/open-design/deck-guizang-editorial"
     },
     {
       "type": "skills-open-design",
@@ -5964,7 +6458,9 @@
         "editorial",
         "skill",
         "md"
-      ]
+      ],
+      "description": "\"Editorial magazine meets e-ink: 10 layouts and 5 palettes (Ink, Indigo Porcelain, Forest Ink, Kraft Paper, Dune).\"",
+      "unit": "skills/open-design/deck-guizang-editorial"
     },
     {
       "type": "skills-open-design",
@@ -5988,7 +6484,9 @@
         "canvas",
         "example",
         "html"
-      ]
+      ],
+      "description": "Open-Slide Canvas · 一句问题",
+      "unit": "skills/open-design/deck-open-slide-canvas"
     },
     {
       "type": "skills-open-design",
@@ -6012,7 +6510,9 @@
         "canvas",
         "example",
         "md"
-      ]
+      ],
+      "description": "一句关键问题 — Sea Indigo 调色, 单页 hero question 风格",
+      "unit": "skills/open-design/deck-open-slide-canvas"
     },
     {
       "type": "skills-open-design",
@@ -6036,7 +6536,9 @@
         "canvas",
         "skill",
         "md"
-      ]
+      ],
+      "description": "\"Locked 1920x1080 canvas deck with React component-level free composition, not bound to a fixed template.\"",
+      "unit": "skills/open-design/deck-open-slide-canvas"
     },
     {
       "type": "skills-open-design",
@@ -6060,7 +6562,9 @@
         "international",
         "example",
         "html"
-      ]
+      ],
+      "description": "Swiss International · OpenDesign 2026",
+      "unit": "skills/open-design/deck-swiss-international"
     },
     {
       "type": "skills-open-design",
@@ -6084,7 +6588,9 @@
         "international",
         "example",
         "md"
-      ]
+      ],
+      "description": "OpenDesign · 2026 路线图 — Klein Blue 主题, 双页预览: S01 Cover + S06 KPI Tower",
+      "unit": "skills/open-design/deck-swiss-international"
     },
     {
       "type": "skills-open-design",
@@ -6108,7 +6614,9 @@
         "international",
         "skill",
         "md"
-      ]
+      ],
+      "description": "\"16-column grid, one saturated accent, and 22 locked layouts (Klein Blue, Lemon, Mint, Safety Orange).\"",
+      "unit": "skills/open-design/deck-swiss-international"
     },
     {
       "type": "skills-open-design",
@@ -6132,7 +6640,9 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Parse a structured design brief written in I-Lang protocol format into a",
+      "unit": "skills/open-design/design-brief"
     },
     {
       "type": "skills-open-design",
@@ -6156,7 +6666,9 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Build a complete design system from scratch with creative risks and realistic product mockups. Useful for kickoff workshops and brand-from-zero work.",
+      "unit": "skills/open-design/design-consultation"
     },
     {
       "type": "skills-open-design",
@@ -6180,7 +6692,9 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "Create and manage DESIGN.md files. Useful for capturing design direction, tokens, and visual rules in a single source of truth.",
+      "unit": "skills/open-design/design-md"
     },
     {
       "type": "skills-open-design",
@@ -6204,7 +6718,9 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Designer Who Codes: visual audit then fixes with atomic commits and before/after screenshots. Useful for tightening shipped UI before launch.",
+      "unit": "skills/open-design/design-review"
     },
     {
       "type": "skills-open-design",
@@ -6228,7 +6744,9 @@
         "digits",
         "template",
         "assets"
-      ]
+      ],
+      "description": "Digits Fintech Swiss Template",
+      "unit": "skills/open-design/digits-fintech-swiss-template"
     },
     {
       "type": "skills-open-design",
@@ -6252,7 +6770,9 @@
         "digits",
         "template",
         "example"
-      ]
+      ],
+      "description": "Digits Fintech Swiss Example",
+      "unit": "skills/open-design/digits-fintech-swiss-template"
     },
     {
       "type": "skills-open-design",
@@ -6276,7 +6796,9 @@
         "digits",
         "template",
         "references"
-      ]
+      ],
+      "description": "Checklist",
+      "unit": "skills/open-design/digits-fintech-swiss-template"
     },
     {
       "type": "skills-open-design",
@@ -6300,7 +6822,9 @@
         "digits",
         "template",
         "skill"
-      ]
+      ],
+      "description": "Swiss-grid fintech deck template in black / warm paper / neon-lime contrast.",
+      "unit": "skills/open-design/digits-fintech-swiss-template"
     },
     {
       "type": "skills-open-design",
@@ -6324,7 +6848,9 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "Read, create, and edit .docx documents with formatting and layout fidelity via OpenAI's document skill.",
+      "unit": "skills/open-design/doc"
     },
     {
       "type": "skills-open-design",
@@ -6348,7 +6874,9 @@
         "parchment",
         "example",
         "html"
-      ]
+      ],
+      "description": "Kami Parchment · OpenDesign Studio №26",
+      "unit": "skills/open-design/doc-kami-parchment"
     },
     {
       "type": "skills-open-design",
@@ -6372,7 +6900,9 @@
         "parchment",
         "example",
         "md"
-      ]
+      ],
+      "description": "OpenDesign Studio — Issue №26 — An open-source design studio for editorial documents and slide decks — typeset by your own coding agent.",
+      "unit": "skills/open-design/doc-kami-parchment"
     },
     {
       "type": "skills-open-design",
@@ -6396,7 +6926,9 @@
         "parchment",
         "skill",
         "md"
-      ]
+      ],
+      "description": "\"Warm parchment canvas ( f5f4ed), monochrome ink-blue accent ( 1B365D), one serif family, and editorial-grade typography.\"",
+      "unit": "skills/open-design/doc-kami-parchment"
     },
     {
       "type": "skills-open-design",
@@ -6420,7 +6952,9 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "Create, edit, and analyze Word documents with tracked changes, comments, and formatting. Useful for design briefs, copy docs, and review-ready deliverables.",
+      "unit": "skills/open-design/docx"
     },
     {
       "type": "skills-open-design",
@@ -6444,7 +6978,9 @@
         "brainstormer",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Generate creative domain name ideas and check availability across multiple TLDs including .com, .io, .dev, and .ai.",
+      "unit": "skills/open-design/domain-name-brainstormer"
     },
     {
       "type": "skills-open-design",
@@ -6468,7 +7004,9 @@
         "workflow",
         "example",
         "html"
-      ]
+      ],
+      "description": "Ecommerce image workflow example",
+      "unit": "skills/open-design/ecommerce-image-workflow"
     },
     {
       "type": "skills-open-design",
@@ -6492,7 +7030,9 @@
         "workflow",
         "references",
         "checklist"
-      ]
+      ],
+      "description": "Ecommerce Image Workflow Checklist — Run this before handoff. P0 items must pass for the output to be usable.",
+      "unit": "skills/open-design/ecommerce-image-workflow"
     },
     {
       "type": "skills-open-design",
@@ -6516,7 +7056,9 @@
         "workflow",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Reference-product ecommerce image workflow for generating a compact set",
+      "unit": "skills/open-design/ecommerce-image-workflow"
     },
     {
       "type": "skills-open-design",
@@ -6540,7 +7082,9 @@
         "editorial",
         "template",
         "assets"
-      ]
+      ],
+      "description": "Editorial Burgundy Principles Template",
+      "unit": "skills/open-design/editorial-burgundy-principles-template"
     },
     {
       "type": "skills-open-design",
@@ -6564,7 +7108,9 @@
         "editorial",
         "template",
         "example"
-      ]
+      ],
+      "description": "Editorial Burgundy Principles Example",
+      "unit": "skills/open-design/editorial-burgundy-principles-template"
     },
     {
       "type": "skills-open-design",
@@ -6588,7 +7134,9 @@
         "editorial",
         "template",
         "references"
-      ]
+      ],
+      "description": "Checklist",
+      "unit": "skills/open-design/editorial-burgundy-principles-template"
     },
     {
       "type": "skills-open-design",
@@ -6612,7 +7160,9 @@
         "editorial",
         "template",
         "skill"
-      ]
+      ],
+      "description": "Editorial studio deck template in burgundy / blush / muted-gold palette.",
+      "unit": "skills/open-design/editorial-burgundy-principles-template"
     },
     {
       "type": "skills-open-design",
@@ -6636,7 +7186,9 @@
         "license",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/emil-design-eng"
     },
     {
       "type": "skills-open-design",
@@ -6660,7 +7212,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "This skill encodes Emil Kowalski's philosophy on UI polish, component design, animation decisions, and the invisible details that make software feel great.",
+      "unit": "skills/open-design/emil-design-eng"
     },
     {
       "type": "skills-open-design",
@@ -6684,7 +7238,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Motion-design follow-up skill inspired by Emil Kowalski's animation guidance. Use after an interface exists to add tasteful micro-interactions, state transitio…",
+      "unit": "skills/open-design/emilkowalski-motion"
     },
     {
       "type": "skills-open-design",
@@ -6708,7 +7264,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Improve prompts with design specs and UI/UX vocabulary. Useful for design-to-code workflows and clarifying requests for visual output.",
+      "unit": "skills/open-design/enhance-prompt"
     },
     {
       "type": "skills-open-design",
@@ -6732,7 +7290,9 @@
         "debugging",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Diagnose and fix browser, preview, or Electron export/download failures, especially image export issues involving Save As, Blob/Data URLs, the File System Acce…",
+      "unit": "skills/open-design/export-download-debugging"
     },
     {
       "type": "skills-open-design",
@@ -6756,7 +7316,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Generate 3D models from text or images via fal.ai. Useful for game assets, AR previews, product mockups, and concept sculpting.",
+      "unit": "skills/open-design/fal-3d"
     },
     {
       "type": "skills-open-design",
@@ -6780,7 +7342,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Generate images and videos using fal.ai AI models. Production-grade catalogue covering Flux, SDXL, ideogram, and other community-hosted endpoints.",
+      "unit": "skills/open-design/fal-generate"
     },
     {
       "type": "skills-open-design",
@@ -6804,7 +7368,9 @@
         "edit",
         "skill",
         "md"
-      ]
+      ],
+      "description": "AI-powered image editing with style transfer, background removal, object removal, and inpainting via fal.ai hosted models.",
+      "unit": "skills/open-design/fal-image-edit"
     },
     {
       "type": "skills-open-design",
@@ -6828,7 +7394,9 @@
         "o3",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Generate images and videos with Kling O3 — Kling's most powerful model family — via fal.ai.",
+      "unit": "skills/open-design/fal-kling-o3"
     },
     {
       "type": "skills-open-design",
@@ -6852,7 +7420,9 @@
         "sync",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Create talking head videos and lip sync audio to video via fal.ai. Useful for explainer avatars, multilingual dubbing previews, and social cuts.",
+      "unit": "skills/open-design/fal-lip-sync"
     },
     {
       "type": "skills-open-design",
@@ -6876,7 +7446,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Real-time and streaming AI image generation via fal.ai. Suited for moodboard exploration, draft variations, and rapid creative iteration.",
+      "unit": "skills/open-design/fal-realtime"
     },
     {
       "type": "skills-open-design",
@@ -6900,7 +7472,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Restore and fix image quality — deblur, denoise, fix faces, and restore old documents using fal.ai's hosted restoration models.",
+      "unit": "skills/open-design/fal-restore"
     },
     {
       "type": "skills-open-design",
@@ -6924,7 +7498,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Train custom AI models (LoRA) on fal.ai for personalized image generation tailored to a brand, character, or style.",
+      "unit": "skills/open-design/fal-train"
     },
     {
       "type": "skills-open-design",
@@ -6948,7 +7524,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Virtual try-on — see how clothes look on a person via fal.ai's hosted try-on models. Useful for ecommerce, lookbooks, and styling experiments.",
+      "unit": "skills/open-design/fal-tryon"
     },
     {
       "type": "skills-open-design",
@@ -6972,7 +7550,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Upscale and enhance image and video resolution using AI super-resolution models hosted on fal.ai.",
+      "unit": "skills/open-design/fal-upscale"
     },
     {
       "type": "skills-open-design",
@@ -6996,7 +7576,9 @@
         "edit",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Edit existing videos using AI — remix style, upscale, remove background, and add audio via fal.ai's hosted video models.",
+      "unit": "skills/open-design/fal-video-edit"
     },
     {
       "type": "skills-open-design",
@@ -7020,7 +7602,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Analyze images — segment objects, detect, run OCR, describe, and answer visual questions via fal.ai vision models.",
+      "unit": "skills/open-design/fal-vision"
     },
     {
       "type": "skills-open-design",
@@ -7044,7 +7628,9 @@
         "example",
         "html",
         "open-design"
-      ]
+      ],
+      "description": "FAQ - Help Center",
+      "unit": "skills/open-design/faq-page"
     },
     {
       "type": "skills-open-design",
@@ -7068,7 +7654,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "A Frequently Asked Questions (FAQ) page with collapsible accordion sections,",
+      "unit": "skills/open-design/faq-page"
     },
     {
       "type": "skills-open-design",
@@ -7092,7 +7680,9 @@
         "field",
         "template",
         "assets"
-      ]
+      ],
+      "description": "Field Notes Editorial Report",
+      "unit": "skills/open-design/field-notes-editorial-template"
     },
     {
       "type": "skills-open-design",
@@ -7116,7 +7706,9 @@
         "field",
         "template",
         "example"
-      ]
+      ],
+      "description": "Field Notes Editorial Report Example",
+      "unit": "skills/open-design/field-notes-editorial-template"
     },
     {
       "type": "skills-open-design",
@@ -7140,7 +7732,9 @@
         "field",
         "template",
         "references"
-      ]
+      ],
+      "description": "Field Notes Editorial Template Checklist",
+      "unit": "skills/open-design/field-notes-editorial-template"
     },
     {
       "type": "skills-open-design",
@@ -7164,7 +7758,9 @@
         "field",
         "template",
         "skill"
-      ]
+      ],
+      "description": "Editorial \"Field Notes\" report template with soft paper background, serif hero",
+      "unit": "skills/open-design/field-notes-editorial-template"
     },
     {
       "type": "skills-open-design",
@@ -7188,7 +7784,9 @@
         "figma",
         "components",
         "skill"
-      ]
+      ],
+      "description": "Connect Figma design components to code components using Code Connect so design-system updates flow into the codebase automatically.",
+      "unit": "skills/open-design/figma-code-connect-components"
     },
     {
       "type": "skills-open-design",
@@ -7212,7 +7810,9 @@
         "figma",
         "rules",
         "skill"
-      ]
+      ],
+      "description": "Generate project-specific design system rules for Figma-to-code workflows. Useful for capturing tokens, naming, and lint rules in one source.",
+      "unit": "skills/open-design/figma-create-design-system-rules"
     },
     {
       "type": "skills-open-design",
@@ -7236,7 +7836,9 @@
         "figma",
         "file",
         "skill"
-      ]
+      ],
+      "description": "Create a new blank Figma Design or FigJam file. Useful as the first step in scripted design-system or workshop workflows.",
+      "unit": "skills/open-design/figma-create-new-file"
     },
     {
       "type": "skills-open-design",
@@ -7260,7 +7862,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Build or update screens in Figma from code or description using design system components. Translate app pages into Figma using design tokens.",
+      "unit": "skills/open-design/figma-generate-design"
     },
     {
       "type": "skills-open-design",
@@ -7284,7 +7888,9 @@
         "library",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Build or update a professional-grade design system library in Figma from a codebase. Useful for keeping the Figma source of truth in sync with shipped componen…",
+      "unit": "skills/open-design/figma-generate-library"
     },
     {
       "type": "skills-open-design",
@@ -7308,7 +7914,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Translate Figma designs into production-ready code with 1:1 visual fidelity. Useful for handing off Figma frames straight to a frontend agent.",
+      "unit": "skills/open-design/figma-implement-design"
     },
     {
       "type": "skills-open-design",
@@ -7332,7 +7940,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Run Figma Plugin API scripts for canvas writes, inspections, variables, and design-system work. Prerequisite for every other Figma skill in this catalogue.",
+      "unit": "skills/open-design/figma-use"
     },
     {
       "type": "skills-open-design",
@@ -7356,7 +7966,9 @@
         "apps",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Implement animated effects, transitions, and motion in Flutter apps. Useful for native iOS/Android motion design.",
+      "unit": "skills/open-design/flutter-animating-apps"
     },
     {
       "type": "skills-open-design",
@@ -7380,7 +7992,9 @@
         "frame",
         "nyt",
         "example"
-      ]
+      ],
+      "description": "NYT Chart · AI Agent MAU 2018–2026",
+      "unit": "skills/open-design/frame-data-chart-nyt"
     },
     {
       "type": "skills-open-design",
@@ -7404,7 +8018,9 @@
         "frame",
         "nyt",
         "example"
-      ]
+      ],
+      "description": "全球 AI agent 月活 · 2018-2026",
+      "unit": "skills/open-design/frame-data-chart-nyt"
     },
     {
       "type": "skills-open-design",
@@ -7428,7 +8044,9 @@
         "frame",
         "nyt",
         "skill"
-      ]
+      ],
+      "description": "\"NYT-newsroom typography, staggered reveal animation, and editorial-grade charts (line, bar, or range band).\"",
+      "unit": "skills/open-design/frame-data-chart-nyt"
     },
     {
       "type": "skills-open-design",
@@ -7452,7 +8070,9 @@
         "sticky",
         "example",
         "html"
-      ]
+      ],
+      "description": "Sticky Flowchart · HTML Anything Onboarding",
+      "unit": "skills/open-design/frame-flowchart-sticky"
     },
     {
       "type": "skills-open-design",
@@ -7476,7 +8096,9 @@
         "sticky",
         "example",
         "md"
-      ]
+      ],
+      "description": "新用户上手流程 · HTML Anything — 1. 打开 localhost:3456 — 浏览器进入主界面",
+      "unit": "skills/open-design/frame-flowchart-sticky"
     },
     {
       "type": "skills-open-design",
@@ -7500,7 +8122,9 @@
         "sticky",
         "skill",
         "md"
-      ]
+      ],
+      "description": "\"SVG curve connectors, sticky-note nodes, and cursor interaction with a whiteboard-brainstorm feel.\"",
+      "unit": "skills/open-design/frame-flowchart-sticky"
     },
     {
       "type": "skills-open-design",
@@ -7524,7 +8148,9 @@
         "title",
         "example",
         "html"
-      ]
+      ],
+      "description": "Glitch Title · SIGNAL LOST",
+      "unit": "skills/open-design/frame-glitch-title"
     },
     {
       "type": "skills-open-design",
@@ -7548,7 +8174,9 @@
         "title",
         "example",
         "md"
-      ]
+      ],
+      "description": "故障标题帧 · SIGNAL LOST — Cyan / magenta 像散, CRT 扫描线 + ASCII 噪点",
+      "unit": "skills/open-design/frame-glitch-title"
     },
     {
       "type": "skills-open-design",
@@ -7572,7 +8200,9 @@
         "title",
         "skill",
         "md"
-      ]
+      ],
+      "description": "\"Digital glitch, chromatic offset, and data-corruption title frame for video transitions or cyberpunk heroes.\"",
+      "unit": "skills/open-design/frame-glitch-title"
     },
     {
       "type": "skills-open-design",
@@ -7596,7 +8226,9 @@
         "frame",
         "cinema",
         "example"
-      ]
+      ],
+      "description": "Light Leak Cinema · REEL 03",
+      "unit": "skills/open-design/frame-light-leak-cinema"
     },
     {
       "type": "skills-open-design",
@@ -7620,7 +8252,9 @@
         "frame",
         "cinema",
         "example"
-      ]
+      ],
+      "description": "胶片漏光帧 · REEL 03 — 2.39:1 letterbox, 暖橙漏光 + 35mm 颗粒",
+      "unit": "skills/open-design/frame-light-leak-cinema"
     },
     {
       "type": "skills-open-design",
@@ -7644,7 +8278,9 @@
         "frame",
         "cinema",
         "skill"
-      ]
+      ],
+      "description": "\"Film light leaks, grain, 16:9 letterbox, and large serif type for cinematic openings or chapter cards.\"",
+      "unit": "skills/open-design/frame-light-leak-cinema"
     },
     {
       "type": "skills-open-design",
@@ -7668,7 +8304,9 @@
         "frame",
         "hero",
         "example"
-      ]
+      ],
+      "description": "Liquid Hero · Aurora Violet",
+      "unit": "skills/open-design/frame-liquid-bg-hero"
     },
     {
       "type": "skills-open-design",
@@ -7692,7 +8330,9 @@
         "frame",
         "hero",
         "example"
-      ]
+      ],
+      "description": "流体 Hero · 金句帧 — Aurora Violet 流体背景, mix-blend-mode 文字",
+      "unit": "skills/open-design/frame-liquid-bg-hero"
     },
     {
       "type": "skills-open-design",
@@ -7716,7 +8356,9 @@
         "frame",
         "hero",
         "skill"
-      ]
+      ],
+      "description": "\"WebGL-style fluid displacement background with a quote overlay, suited to video intros, landing heroes, or posters.\"",
+      "unit": "skills/open-design/frame-liquid-bg-hero"
     },
     {
       "type": "skills-open-design",
@@ -7740,7 +8382,9 @@
         "outro",
         "example",
         "html"
-      ]
+      ],
+      "description": "Logo Outro · HTML Anything",
+      "unit": "skills/open-design/frame-logo-outro"
     },
     {
       "type": "skills-open-design",
@@ -7764,7 +8408,9 @@
         "outro",
         "example",
         "md"
-      ]
+      ],
+      "description": "Logo 收尾帧 — Midnight Indigo 调色, 用作视频结尾的品牌 reveal",
+      "unit": "skills/open-design/frame-logo-outro"
     },
     {
       "type": "skills-open-design",
@@ -7788,7 +8434,9 @@
         "outro",
         "skill",
         "md"
-      ]
+      ],
+      "description": "\"Segmented logo assembly, glow bloom, and tagline reveal for video outros or brand closing frames.\"",
+      "unit": "skills/open-design/frame-logo-outro"
     },
     {
       "type": "skills-open-design",
@@ -7812,7 +8460,9 @@
         "notification",
         "example",
         "html"
-      ]
+      ],
+      "description": "macOS Notification · 转换完成",
+      "unit": "skills/open-design/frame-macos-notification"
     },
     {
       "type": "skills-open-design",
@@ -7836,7 +8486,9 @@
         "notification",
         "example",
         "md"
-      ]
+      ],
+      "description": "Body: 你的杂志风网页 PPT 已生成 · 31.2 KB · 视频中输出",
+      "unit": "skills/open-design/frame-macos-notification"
     },
     {
       "type": "skills-open-design",
@@ -7860,7 +8512,9 @@
         "notification",
         "skill",
         "md"
-      ]
+      ],
+      "description": "\"Realistic macOS notification banner with app icon, title, and body, suited to video overlays or product teasers.\"",
+      "unit": "skills/open-design/frame-macos-notification"
     },
     {
       "type": "skills-open-design",
@@ -7884,7 +8538,9 @@
         "txt",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/frontend-design"
     },
     {
       "type": "skills-open-design",
@@ -7908,7 +8564,9 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Create distinctive, production-grade frontend interfaces with strong visual direction, polished typography, considered layout, and working HTML/CSS/JS or frame…",
+      "unit": "skills/open-design/frontend-design"
     },
     {
       "type": "skills-open-design",
@@ -7932,7 +8590,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Full-stack frontend with cinematic animations, AI-generated media via MiniMax API, and generative art. Useful for hero pages and showcase sites.",
+      "unit": "skills/open-design/frontend-dev"
     },
     {
       "type": "skills-open-design",
@@ -7956,7 +8616,9 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Create visually strong landing pages, websites, and app UIs with restrained composition. OpenAI's production frontend playbook.",
+      "unit": "skills/open-design/frontend-skill"
     },
     {
       "type": "skills-open-design",
@@ -7980,7 +8642,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Generate animation-rich HTML presentations with visual style previews. Useful for online keynotes, embedded talks, and interactive briefs.",
+      "unit": "skills/open-design/frontend-slides"
     },
     {
       "type": "skills-open-design",
@@ -8004,7 +8668,9 @@
         "screenshot",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Capture full-page screenshots of web pages via Chrome DevTools Protocol with zero dependencies. Useful for portfolios, case studies, and audit reports.",
+      "unit": "skills/open-design/full-page-screenshot"
     },
     {
       "type": "skills-open-design",
@@ -8028,7 +8694,9 @@
         "maker",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Convert photos into animated GIF stickers in Funko Pop / Pop Mart style via the MiniMax API. Useful for personalized chat stickers and avatar packs.",
+      "unit": "skills/open-design/gif-sticker-maker"
     },
     {
       "type": "skills-open-design",
@@ -8052,7 +8720,9 @@
         "license",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/gpt-tasteskill"
     },
     {
       "type": "skills-open-design",
@@ -8076,7 +8746,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Elite UX/UI & Advanced GSAP Motion Engineer. Enforces Python-driven true randomization for layout variance, strict AIDA page structure, wide editorial typograp…",
+      "unit": "skills/open-design/gpt-tasteskill"
     },
     {
       "type": "skills-open-design",
@@ -8100,7 +8772,9 @@
         "license",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/gsap-core"
     },
     {
       "type": "skills-open-design",
@@ -8124,7 +8798,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Official GSAP skill for the core API — gsap.to(), from(), fromTo(), easing, duration, stagger, defaults, gsap.matchMedia() (responsive, prefers-reduced-motion)…",
+      "unit": "skills/open-design/gsap-core"
     },
     {
       "type": "skills-open-design",
@@ -8148,7 +8824,9 @@
         "sources",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Source and adaptation — skill material; runtime libraries and external assets retain their own terms.",
+      "unit": "skills/open-design/gsap-core"
     },
     {
       "type": "skills-open-design",
@@ -8172,7 +8850,9 @@
         "license",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/gsap-frameworks"
     },
     {
       "type": "skills-open-design",
@@ -8196,7 +8876,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Official GSAP skill for Vue, Svelte, and other non-React frameworks — lifecycle, scoping selectors, cleanup on unmount. Use when the user wants animation in Vu…",
+      "unit": "skills/open-design/gsap-frameworks"
     },
     {
       "type": "skills-open-design",
@@ -8220,7 +8902,9 @@
         "sources",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Source and adaptation — skill material; runtime libraries and external assets retain their own terms.",
+      "unit": "skills/open-design/gsap-frameworks"
     },
     {
       "type": "skills-open-design",
@@ -8244,7 +8928,9 @@
         "license",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/gsap-performance"
     },
     {
       "type": "skills-open-design",
@@ -8268,7 +8954,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Official GSAP skill for performance — prefer transforms, avoid layout thrashing, will-change, batching. Use when optimizing GSAP animations, reducing jank, or …",
+      "unit": "skills/open-design/gsap-performance"
     },
     {
       "type": "skills-open-design",
@@ -8292,7 +8980,9 @@
         "sources",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Source and adaptation — skill material; runtime libraries and external assets retain their own terms.",
+      "unit": "skills/open-design/gsap-performance"
     },
     {
       "type": "skills-open-design",
@@ -8316,7 +9006,9 @@
         "license",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/gsap-plugins"
     },
     {
       "type": "skills-open-design",
@@ -8340,7 +9032,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Official GSAP skill for GSAP plugins — registration, ScrollToPlugin, ScrollSmoother, Flip, Draggable, Inertia, Observer, SplitText, ScrambleText, SVG and physi…",
+      "unit": "skills/open-design/gsap-plugins"
     },
     {
       "type": "skills-open-design",
@@ -8364,7 +9058,9 @@
         "sources",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Source and adaptation — skill material; runtime libraries and external assets retain their own terms.",
+      "unit": "skills/open-design/gsap-plugins"
     },
     {
       "type": "skills-open-design",
@@ -8388,7 +9084,9 @@
         "license",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/gsap-react"
     },
     {
       "type": "skills-open-design",
@@ -8412,7 +9110,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Official GSAP skill for React — useGSAP hook, refs, gsap.context(), cleanup. Use when the user wants animation in React or Next.js, or asks about GSAP with Rea…",
+      "unit": "skills/open-design/gsap-react"
     },
     {
       "type": "skills-open-design",
@@ -8436,7 +9136,9 @@
         "sources",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Source and adaptation — skill material; runtime libraries and external assets retain their own terms.",
+      "unit": "skills/open-design/gsap-react"
     },
     {
       "type": "skills-open-design",
@@ -8460,7 +9162,9 @@
         "license",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/gsap-scrolltrigger"
     },
     {
       "type": "skills-open-design",
@@ -8484,7 +9188,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Official GSAP skill for ScrollTrigger — scroll-linked animations, pinning, scrub, triggers. Use when building or recommending scroll-based animation, parallax,…",
+      "unit": "skills/open-design/gsap-scrolltrigger"
     },
     {
       "type": "skills-open-design",
@@ -8508,7 +9214,9 @@
         "sources",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Source and adaptation — skill material; runtime libraries and external assets retain their own terms.",
+      "unit": "skills/open-design/gsap-scrolltrigger"
     },
     {
       "type": "skills-open-design",
@@ -8532,7 +9240,9 @@
         "license",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/gsap-timeline"
     },
     {
       "type": "skills-open-design",
@@ -8556,7 +9266,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Official GSAP skill for timelines — gsap.timeline(), position parameter, nesting, playback. Use when sequencing animations, choreographing keyframes, or when t…",
+      "unit": "skills/open-design/gsap-timeline"
     },
     {
       "type": "skills-open-design",
@@ -8580,7 +9292,9 @@
         "sources",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Source and adaptation — skill material; runtime libraries and external assets retain their own terms.",
+      "unit": "skills/open-design/gsap-timeline"
     },
     {
       "type": "skills-open-design",
@@ -8604,7 +9318,9 @@
         "license",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/gsap-utils"
     },
     {
       "type": "skills-open-design",
@@ -8628,7 +9344,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Official GSAP skill for gsap.utils — clamp, mapRange, normalize, interpolate, random, snap, toArray, wrap, pipe. Use when the user asks about gsap.utils, clamp…",
+      "unit": "skills/open-design/gsap-utils"
     },
     {
       "type": "skills-open-design",
@@ -8652,7 +9370,9 @@
         "sources",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Source and adaptation — skill material; runtime libraries and external assets retain their own terms.",
+      "unit": "skills/open-design/gsap-utils"
     },
     {
       "type": "skills-open-design",
@@ -8676,7 +9396,9 @@
         "diagrams",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Generate hand-drawn Excalidraw diagrams from a prompt — animated SVG, hosted edit link, and PNG export. Works with Claude Code, Codex, Gemini CLI, and any agen…",
+      "unit": "skills/open-design/hand-drawn-diagrams"
     },
     {
       "type": "skills-open-design",
@@ -8700,7 +9422,9 @@
         "agents",
         "openai",
         "yaml"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/hatch-pet"
     },
     {
       "type": "skills-open-design",
@@ -8724,7 +9448,9 @@
         "license",
         "txt",
         "open-design"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/hatch-pet"
     },
     {
       "type": "skills-open-design",
@@ -8748,7 +9474,9 @@
         "readme",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "hatch-pet (vendored) — This directory is a vendored copy of the Codex hatch-pet skill. It is",
+      "unit": "skills/open-design/hatch-pet"
     },
     {
       "type": "skills-open-design",
@@ -8772,7 +9500,9 @@
         "pet",
         "references",
         "animation"
-      ]
+      ],
+      "description": "Animation Rows — The Codex app reads one fixed atlas: 8 columns, 9 rows, 192x208 pixels per cell.",
+      "unit": "skills/open-design/hatch-pet"
     },
     {
       "type": "skills-open-design",
@@ -8796,7 +9526,9 @@
         "hatch",
         "references",
         "codex"
-      ]
+      ],
+      "description": "Codex Pet Contract — The webview animation uses CSS background positions from the fixed row and column counts. Do not add labels, gutters, borders, grid lines,…",
+      "unit": "skills/open-design/hatch-pet"
     },
     {
       "type": "skills-open-design",
@@ -8820,7 +9552,9 @@
         "pet",
         "references",
         "qa"
-      ]
+      ],
+      "description": "QA Rubric — Do not accept an atlas until all checks pass.",
+      "unit": "skills/open-design/hatch-pet"
     },
     {
       "type": "skills-open-design",
@@ -8844,7 +9578,9 @@
         "pet",
         "scripts",
         "compose"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/hatch-pet"
     },
     {
       "type": "skills-open-design",
@@ -8868,7 +9604,9 @@
         "skills",
         "design",
         "hatch"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/hatch-pet"
     },
     {
       "type": "skills-open-design",
@@ -8892,7 +9630,9 @@
         "hatch",
         "pet",
         "scripts"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/hatch-pet"
     },
     {
       "type": "skills-open-design",
@@ -8916,7 +9656,9 @@
         "hatch",
         "scripts",
         "finalize"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/hatch-pet"
     },
     {
       "type": "skills-open-design",
@@ -8940,7 +9682,9 @@
         "hatch",
         "scripts",
         "generate"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/hatch-pet"
     },
     {
       "type": "skills-open-design",
@@ -8964,7 +9708,9 @@
         "pet",
         "scripts",
         "inspect"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/hatch-pet"
     },
     {
       "type": "skills-open-design",
@@ -8988,7 +9734,9 @@
         "hatch",
         "pet",
         "scripts"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/hatch-pet"
     },
     {
       "type": "skills-open-design",
@@ -9012,7 +9760,9 @@
         "hatch",
         "pet",
         "scripts"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/hatch-pet"
     },
     {
       "type": "skills-open-design",
@@ -9036,7 +9786,9 @@
         "hatch",
         "pet",
         "scripts"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/hatch-pet"
     },
     {
       "type": "skills-open-design",
@@ -9060,7 +9812,9 @@
         "hatch",
         "scripts",
         "prepare"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/hatch-pet"
     },
     {
       "type": "skills-open-design",
@@ -9084,7 +9838,9 @@
         "hatch",
         "scripts",
         "queue"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/hatch-pet"
     },
     {
       "type": "skills-open-design",
@@ -9108,7 +9864,9 @@
         "hatch",
         "pet",
         "scripts"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/hatch-pet"
     },
     {
       "type": "skills-open-design",
@@ -9132,7 +9890,9 @@
         "hatch",
         "pet",
         "scripts"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/hatch-pet"
     },
     {
       "type": "skills-open-design",
@@ -9156,7 +9916,9 @@
         "hatch",
         "pet",
         "scripts"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/hatch-pet"
     },
     {
       "type": "skills-open-design",
@@ -9180,7 +9942,9 @@
         "design",
         "hatch",
         "scripts"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/hatch-pet"
     },
     {
       "type": "skills-open-design",
@@ -9204,7 +9968,9 @@
         "pet",
         "scripts",
         "validate"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/hatch-pet"
     },
     {
       "type": "skills-open-design",
@@ -9228,7 +9994,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Create, repair, validate, preview, and package Codex-compatible animated pet spritesheets from character art, screenshots, generated images, or visual referenc…",
+      "unit": "skills/open-design/hatch-pet"
     },
     {
       "type": "skills-open-design",
@@ -9252,7 +10020,9 @@
         "design",
         "html",
         "review"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/html-ppt-retro-quarterly-review"
     },
     {
       "type": "skills-open-design",
@@ -9276,7 +10046,9 @@
         "design",
         "html",
         "review"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/html-ppt-retro-quarterly-review"
     },
     {
       "type": "skills-open-design",
@@ -9300,7 +10072,9 @@
         "design",
         "html",
         "review"
-      ]
+      ],
+      "description": "Checklist",
+      "unit": "skills/open-design/html-ppt-retro-quarterly-review"
     },
     {
       "type": "skills-open-design",
@@ -9324,7 +10098,9 @@
         "design",
         "html",
         "review"
-      ]
+      ],
+      "description": "Retro Quarterly Review presentation template in a bold blue + orange editorial",
+      "unit": "skills/open-design/html-ppt-retro-quarterly-review"
     },
     {
       "type": "skills-open-design",
@@ -9348,7 +10124,9 @@
         "motion",
         "license",
         "open-design"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/huashu-art-motion"
     },
     {
       "type": "skills-open-design",
@@ -9372,7 +10150,9 @@
         "design",
         "huashu",
         "motion"
-      ]
+      ],
+      "description": "艺术风格配方 — 上游工艺参考。原作者的样片耗时、质量指标与实验结论不是 Open Design 的验收结果。文中的上游工程路径和渲染命令用于解释原实现，不是本包可执行入口；实际工具、品牌和交付约定以 SKILL.md 为准。无需复现作者的画面、角色、字体或独立制作流程。",
+      "unit": "skills/open-design/huashu-art-motion"
     },
     {
       "type": "skills-open-design",
@@ -9396,7 +10176,9 @@
         "design",
         "huashu",
         "motion"
-      ]
+      ],
+      "description": "艺术风格配方 — 上游工艺参考。原作者的样片耗时、质量指标与实验结论不是 Open Design 的验收结果。文中的上游工程路径和渲染命令用于解释原实现，不是本包可执行入口；实际工具、品牌和交付约定以 SKILL.md 为准。无需复现作者的画面、角色、字体或独立制作流程。",
+      "unit": "skills/open-design/huashu-art-motion"
     },
     {
       "type": "skills-open-design",
@@ -9420,7 +10202,9 @@
         "huashu",
         "motion",
         "references"
-      ]
+      ],
+      "description": "可复用 Canvas 工具代码 — 按下面顺序按需复制到宿主允许的 HTML 或工程中。保留 MIT 署名。只包含通用绘画、时序与镜头函数，不包含作者人物、字体、样片或独立渲染服务。先加载 util；其余只加载实际用到的模块。",
+      "unit": "skills/open-design/huashu-art-motion"
     },
     {
       "type": "skills-open-design",
@@ -9444,7 +10228,9 @@
         "huashu",
         "motion",
         "references"
-      ]
+      ],
+      "description": "拆解、分镜、绘制与连续性 — 上游工艺参考。原作者的样片耗时、质量指标与实验结论不是 Open Design 的验收结果。文中的上游工程路径和渲染命令用于解释原实现，不是本包可执行入口；实际工具、品牌和交付约定以 SKILL.md 为准。无需复现作者的画面、角色、字体或独立制作流程。",
+      "unit": "skills/open-design/huashu-art-motion"
     },
     {
       "type": "skills-open-design",
@@ -9468,7 +10254,9 @@
         "huashu",
         "motion",
         "references"
-      ]
+      ],
+      "description": "九种解说动画语法 — 上游工艺参考。原作者的样片耗时、质量指标与实验结论不是 Open Design 的验收结果。文中的上游工程路径和渲染命令用于解释原实现，不是本包可执行入口；实际工具、品牌和交付约定以 SKILL.md 为准。无需复现作者的画面、角色、字体或独立制作流程。",
+      "unit": "skills/open-design/huashu-art-motion"
     },
     {
       "type": "skills-open-design",
@@ -9492,7 +10280,9 @@
         "motion",
         "references",
         "index"
-      ]
+      ],
+      "description": "配方索引",
+      "unit": "skills/open-design/huashu-art-motion"
     },
     {
       "type": "skills-open-design",
@@ -9516,7 +10306,9 @@
         "motion",
         "references",
         "license"
-      ]
+      ],
+      "description": "Copyright (c) 2026 alchaincyf (花叔 · 花生)",
+      "unit": "skills/open-design/huashu-art-motion"
     },
     {
       "type": "skills-open-design",
@@ -9540,7 +10332,9 @@
         "motion",
         "skill",
         "md"
-      ]
+      ],
+      "description": "\"辅助艺术动画与解说任务：35 种艺术风格配方、9 种解说语法、分镜与确定性 Canvas 绘制工具。按宿主时间轴实现，素材与导出使用宿主能力。\"",
+      "unit": "skills/open-design/huashu-art-motion"
     },
     {
       "type": "skills-open-design",
@@ -9564,7 +10358,9 @@
         "motion",
         "sources",
         "md"
-      ]
+      ],
+      "description": "Source and adaptation",
+      "unit": "skills/open-design/huashu-art-motion"
     },
     {
       "type": "skills-open-design",
@@ -9588,7 +10384,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Improve image and screenshot quality by enhancing resolution, sharpness, and clarity for professional presentations and documentation.",
+      "unit": "skills/open-design/image-enhancer"
     },
     {
       "type": "skills-open-design",
@@ -9612,7 +10410,9 @@
         "image",
         "skill",
         "license"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/image-to-code-skill"
     },
     {
       "type": "skills-open-design",
@@ -9636,7 +10436,9 @@
         "image",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Elite website image-to-code skill for Codex. For visually important web tasks, it must first generate the design image(s) itself, deeply analyze them, then imp…",
+      "unit": "skills/open-design/image-to-code-skill"
     },
     {
       "type": "skills-open-design",
@@ -9660,7 +10462,9 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "Generate and edit images using OpenAI's Image API for project assets — UI mockups, icons, illustrations, social cards, and visual references.",
+      "unit": "skills/open-design/imagegen"
     },
     {
       "type": "skills-open-design",
@@ -9684,7 +10488,9 @@
         "mobile",
         "license",
         "open-design"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/imagegen-frontend-mobile"
     },
     {
       "type": "skills-open-design",
@@ -9708,7 +10514,9 @@
         "mobile",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Elite mobile app image-generation skill for creating premium, app-native screen concepts and flows. Designed for iOS, Android, and cross-platform mobile produc…",
+      "unit": "skills/open-design/imagegen-frontend-mobile"
     },
     {
       "type": "skills-open-design",
@@ -9732,7 +10540,9 @@
         "web",
         "license",
         "open-design"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/imagegen-frontend-web"
     },
     {
       "type": "skills-open-design",
@@ -9756,7 +10566,9 @@
         "web",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Elite frontend image-direction skill for generating premium, conversion-aware website design references. CRITICAL OUTPUT RULE — generate ONE separate horizonta…",
+      "unit": "skills/open-design/imagegen-frontend-web"
     },
     {
       "type": "skills-open-design",
@@ -9780,7 +10592,9 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "Generate images using Google Gemini's image generation API for UI mockups, icons, illustrations, and visual assets.",
+      "unit": "skills/open-design/imagen"
     },
     {
       "type": "skills-open-design",
@@ -9804,7 +10618,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Follow-up design polish skill inspired by Impeccable. Use after a web or HTML artifact exists to audit, critique, polish, animate, harden, and prepare the page…",
+      "unit": "skills/open-design/impeccable-design-polish"
     },
     {
       "type": "skills-open-design",
@@ -9828,7 +10644,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Search the OD Library (the global asset registry) and apply matching assets",
+      "unit": "skills/open-design/library-curator"
     },
     {
       "type": "skills-open-design",
@@ -9852,7 +10670,9 @@
         "example",
         "html",
         "open-design"
-      ]
+      ],
+      "description": "Nova · Login",
+      "unit": "skills/open-design/login-flow"
     },
     {
       "type": "skills-open-design",
@@ -9876,7 +10696,9 @@
         "references",
         "checklist",
         "md"
-      ]
+      ],
+      "description": "Login Flow Checklist — P0 (must pass before emitting artifact):",
+      "unit": "skills/open-design/login-flow"
     },
     {
       "type": "skills-open-design",
@@ -9900,7 +10722,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Mobile login and authentication flow screens",
+      "unit": "skills/open-design/login-flow"
     },
     {
       "type": "skills-open-design",
@@ -9924,7 +10748,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Apply psychological principles and behavioral science to copy and design. Useful for tightening hooks, framing, and pricing presentation.",
+      "unit": "skills/open-design/marketing-psychology"
     },
     {
       "type": "skills-open-design",
@@ -9948,7 +10774,9 @@
         "license",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/minimalist-skill"
     },
     {
       "type": "skills-open-design",
@@ -9972,7 +10800,9 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Clean editorial-style interfaces. Warm monochrome palette, typographic contrast, flat bento grids, muted pastels. No gradients, no heavy shadows.",
+      "unit": "skills/open-design/minimalist-skill"
     },
     {
       "type": "skills-open-design",
@@ -9996,7 +10826,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Professional DOCX document creation and editing using OpenXML SDK. Useful for branded reports, polished proposals, and template-based authoring.",
+      "unit": "skills/open-design/minimax-docx"
     },
     {
       "type": "skills-open-design",
@@ -10020,7 +10852,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Generate, fill, and reformat PDFs with a token-based design system and 15 cover styles. Useful for branded PDFs, e-guides, and reports.",
+      "unit": "skills/open-design/minimax-pdf"
     },
     {
       "type": "skills-open-design",
@@ -10044,7 +10878,9 @@
         "3d",
         "example",
         "html"
-      ]
+      ],
+      "description": "Device 3D Showcase · HTML-in-Canvas",
+      "unit": "skills/open-design/mockup-device-3d"
     },
     {
       "type": "skills-open-design",
@@ -10068,7 +10904,9 @@
         "3d",
         "example",
         "md"
-      ]
+      ],
+      "description": "HTML Anything · 移动版界面预览 — iPhone 屏幕展示一个 mock 新建任务页, MacBook 屏幕展示桌面版编辑器",
+      "unit": "skills/open-design/mockup-device-3d"
     },
     {
       "type": "skills-open-design",
@@ -10092,7 +10930,9 @@
         "3d",
         "skill",
         "md"
-      ]
+      ],
+      "description": "\"Static iPhone and MacBook 3D-style showcase with real HTML embedded on screens, glass-lens refraction, and 360-degree turntable composition.\"",
+      "unit": "skills/open-design/mockup-device-3d"
     },
     {
       "type": "skills-open-design",
@@ -10116,7 +10956,9 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "\"Apply motion craft to an active task: refine a brief, beat map, visual continuity, typography, pacing, and timeline implementation. Use when planning or impro…",
+      "unit": "skills/open-design/motion-design"
     },
     {
       "type": "skills-open-design",
@@ -10140,7 +10982,9 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Design sources — This is an original Open Design skill, informed by these public approaches:",
+      "unit": "skills/open-design/motion-design"
     },
     {
       "type": "skills-open-design",
@@ -10164,7 +11008,9 @@
         "license",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/motion-lab"
     },
     {
       "type": "skills-open-design",
@@ -10188,7 +11034,9 @@
         "references",
         "advanced",
         "md"
-      ]
+      ],
+      "description": "Motion.Lab · advanced — 从固定提交的 data/effects.ts 提取，代码保留原样；是集成起点，不是对所有运行环境的兼容性保证。使用前落实 DOM 作用域、依赖、清理及无障碍。",
+      "unit": "skills/open-design/motion-lab"
     },
     {
       "type": "skills-open-design",
@@ -10212,7 +11060,9 @@
         "references",
         "basic",
         "md"
-      ]
+      ],
+      "description": "Motion.Lab · basic — 从固定提交的 data/effects.ts 提取，代码保留原样；是集成起点，不是对所有运行环境的兼容性保证。使用前落实 DOM 作用域、依赖、清理及无障碍。",
+      "unit": "skills/open-design/motion-lab"
     },
     {
       "type": "skills-open-design",
@@ -10236,7 +11086,9 @@
         "references",
         "index",
         "md"
-      ]
+      ],
+      "description": "Motion.Lab 动效索引",
+      "unit": "skills/open-design/motion-lab"
     },
     {
       "type": "skills-open-design",
@@ -10260,7 +11112,9 @@
         "references",
         "interaction",
         "md"
-      ]
+      ],
+      "description": "Motion.Lab · interaction — 从固定提交的 data/effects.ts 提取，代码保留原样；是集成起点，不是对所有运行环境的兼容性保证。使用前落实 DOM 作用域、依赖、清理及无障碍。",
+      "unit": "skills/open-design/motion-lab"
     },
     {
       "type": "skills-open-design",
@@ -10284,7 +11138,9 @@
         "references",
         "license",
         "md"
-      ]
+      ],
+      "description": "License declaration: https://github.com/yangxu128/Motion.Lab/blob/fbfda036aadbc1b46547bce8a7a57ec12bf73485/README.md -license",
+      "unit": "skills/open-design/motion-lab"
     },
     {
       "type": "skills-open-design",
@@ -10308,7 +11164,9 @@
         "references",
         "text",
         "md"
-      ]
+      ],
+      "description": "Motion.Lab · text — 从固定提交的 data/effects.ts 提取，代码保留原样；是集成起点，不是对所有运行环境的兼容性保证。使用前落实 DOM 作用域、依赖、清理及无障碍。",
+      "unit": "skills/open-design/motion-lab"
     },
     {
       "type": "skills-open-design",
@@ -10332,7 +11190,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "\"为当前网页或组件查找、选型和改造动效。包含 160 个案例的 HTML/CSS/JS、参数与中英文索引，覆盖基础、文字、交互和高级动效。\"",
+      "unit": "skills/open-design/motion-lab"
     },
     {
       "type": "skills-open-design",
@@ -10356,7 +11216,9 @@
         "sources",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Source and adaptation",
+      "unit": "skills/open-design/motion-lab"
     },
     {
       "type": "skills-open-design",
@@ -10380,7 +11242,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "AI-powered PPT generation with document analysis and styled images via the NanoBanana stack. Combines image generation with structured deck output.",
+      "unit": "skills/open-design/nanobanana-ppt"
     },
     {
       "type": "skills-open-design",
@@ -10404,7 +11268,9 @@
         "od",
         "inputs",
         "skill"
-      ]
+      ],
+      "description": "Prepare required media inputs within an existing OD Next plan. Reuse capability",
+      "unit": "skills/open-design/od-next-media-inputs"
     },
     {
       "type": "skills-open-design",
@@ -10428,7 +11294,9 @@
         "oil",
         "motion",
         "assets"
-      ]
+      ],
+      "description": "exports createChromaVideoRenderer",
+      "unit": "skills/open-design/oil-motion"
     },
     {
       "type": "skills-open-design",
@@ -10452,7 +11320,9 @@
         "motion",
         "assets",
         "interactive"
-      ]
+      ],
+      "description": "exports createFrameAnimator",
+      "unit": "skills/open-design/oil-motion"
     },
     {
       "type": "skills-open-design",
@@ -10476,7 +11346,9 @@
         "oil",
         "motion",
         "assets"
-      ]
+      ],
+      "description": "Oil Motion — 动画原理",
+      "unit": "skills/open-design/oil-motion"
     },
     {
       "type": "skills-open-design",
@@ -10500,7 +11372,9 @@
         "motion",
         "assets",
         "manifest"
-      ]
+      ],
+      "description": "keys: version, type, parameterSpace, frameCount, columns, rows, cellWidth, cellHeight",
+      "unit": "skills/open-design/oil-motion"
     },
     {
       "type": "skills-open-design",
@@ -10524,7 +11398,9 @@
         "motion",
         "assets",
         "step"
-      ]
+      ],
+      "description": "exports createStepGestureAdapter",
+      "unit": "skills/open-design/oil-motion"
     },
     {
       "type": "skills-open-design",
@@ -10548,7 +11424,9 @@
         "license",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/oil-motion"
     },
     {
       "type": "skills-open-design",
@@ -10572,7 +11450,9 @@
         "motion",
         "references",
         "alpha"
-      ]
+      ],
+      "description": "透明图集路线 — 仅当 Concept Contract 锁定 background owner: page （主体确有透明复用需求），且",
+      "unit": "skills/open-design/oil-motion"
     },
     {
       "type": "skills-open-design",
@@ -10596,7 +11476,9 @@
         "motion",
         "references",
         "baked"
-      ]
+      ],
+      "description": "烘焙视频路线 — 仅当 background owner: video 且预算返回 delivery.selected=baked-video 时读取。视频包含完整画面；不做抠色、色键或页面背景合成。",
+      "unit": "skills/open-design/oil-motion"
     },
     {
       "type": "skills-open-design",
@@ -10620,7 +11502,9 @@
         "motion",
         "references",
         "chroma"
-      ]
+      ],
+      "description": "色键视频路线 — 仅当 background owner: page 且预算返回 delivery.selected=chroma-video 时读取。主体通过 WebGL 实时生成 Alpha，页面拥有最终背景。",
+      "unit": "skills/open-design/oil-motion"
     },
     {
       "type": "skills-open-design",
@@ -10644,7 +11528,9 @@
         "references",
         "concepts",
         "md"
-      ]
+      ],
+      "description": "交互动画创意方法 — 当用户询问“可以做什么效果”、只有目标没有动作方案，或现有动画缺少表达目的时读取本文件。",
+      "unit": "skills/open-design/oil-motion"
     },
     {
       "type": "skills-open-design",
@@ -10668,7 +11554,9 @@
         "motion",
         "references",
         "delivery"
-      ]
+      ],
+      "description": "自动选择交付与运行时 — 本文件是媒体格式选择的唯一事实源。选择分为三个正交问题，必须依次处理：",
+      "unit": "skills/open-design/oil-motion"
     },
     {
       "type": "skills-open-design",
@@ -10692,7 +11580,9 @@
         "references",
         "explainer",
         "md"
-      ]
+      ],
+      "description": "动画原理展示页 — 自动播放支持 loop 、 pingpong 和 once 。",
+      "unit": "skills/open-design/oil-motion"
     },
     {
       "type": "skills-open-design",
@@ -10716,7 +11606,9 @@
         "references",
         "license",
         "md"
-      ]
+      ],
+      "description": "Copyright (c) 2026 Lin Zhihuang",
+      "unit": "skills/open-design/oil-motion"
     },
     {
       "type": "skills-open-design",
@@ -10740,7 +11632,9 @@
         "motion",
         "references",
         "patterns"
-      ]
+      ],
+      "description": "网页动效参考模式 — 这些模式提供创意参照，不是必须使用的风格或已经交付的运行时能力。只读与当前表达目的相关的两三张卡。",
+      "unit": "skills/open-design/oil-motion"
     },
     {
       "type": "skills-open-design",
@@ -10764,7 +11658,9 @@
         "references",
         "optimization",
         "md"
-      ]
+      ],
+      "description": "帧策略与图集压缩 — 本文件是 frame policy 和图集清晰度预算的唯一事实源。先验收动作母版，再决定是否插帧；插帧不是默认正确答案。",
+      "unit": "skills/open-design/oil-motion"
     },
     {
       "type": "skills-open-design",
@@ -10788,7 +11684,9 @@
         "references",
         "prompting",
         "md"
-      ]
+      ],
+      "description": "关键帧与视频提示词（Open Design 适配） — 使用当前宿主的图片／视频工具，不要求 ZenMux，不调用外部凭据页或上游 image job/video job 脚本。已有视频或序列帧跳过生成。先检查工具是否支持参考图、首尾帧、透明通道和所需画幅；不支持时不能假装约束已满足。",
+      "unit": "skills/open-design/oil-motion"
     },
     {
       "type": "skills-open-design",
@@ -10812,7 +11710,9 @@
         "references",
         "qa",
         "md"
-      ]
+      ],
+      "description": "质量检查与生产硬门 — 本文档是 Pilot、连续帧链和最终验收的唯一事实源。检查顺序固定为：用户意图 → 关键帧 → 母版 → 帧准备 → 媒体编译 → 时间轴 → 真实页面运行时。上游失败时停止，不在下游掩盖。",
+      "unit": "skills/open-design/oil-motion"
     },
     {
       "type": "skills-open-design",
@@ -10836,7 +11736,9 @@
         "references",
         "runtime",
         "md"
-      ]
+      ],
+      "description": "运行时控制 — 本文档是时间控制、输入映射、预加载和运行时性能的唯一事实源。媒体格式由",
+      "unit": "skills/open-design/oil-motion"
     },
     {
       "type": "skills-open-design",
@@ -10860,7 +11762,9 @@
         "motion",
         "scripts",
         "chroma"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/oil-motion"
     },
     {
       "type": "skills-open-design",
@@ -10884,7 +11788,9 @@
         "oil",
         "motion",
         "scripts"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/oil-motion"
     },
     {
       "type": "skills-open-design",
@@ -10908,7 +11814,9 @@
         "oil",
         "motion",
         "scripts"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/oil-motion"
     },
     {
       "type": "skills-open-design",
@@ -10932,7 +11840,9 @@
         "oil",
         "motion",
         "scripts"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/oil-motion"
     },
     {
       "type": "skills-open-design",
@@ -10956,7 +11866,9 @@
         "motion",
         "scripts",
         "create"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/oil-motion"
     },
     {
       "type": "skills-open-design",
@@ -10980,7 +11892,9 @@
         "motion",
         "scripts",
         "loop"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/oil-motion"
     },
     {
       "type": "skills-open-design",
@@ -11004,7 +11918,9 @@
         "motion",
         "scripts",
         "media"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/oil-motion"
     },
     {
       "type": "skills-open-design",
@@ -11028,7 +11944,9 @@
         "motion",
         "scripts",
         "budget"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/oil-motion"
     },
     {
       "type": "skills-open-design",
@@ -11052,7 +11970,9 @@
         "motion",
         "scripts",
         "pipeline"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/oil-motion"
     },
     {
       "type": "skills-open-design",
@@ -11076,7 +11996,9 @@
         "motion",
         "scripts",
         "optimize"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/oil-motion"
     },
     {
       "type": "skills-open-design",
@@ -11100,7 +12022,9 @@
         "motion",
         "scripts",
         "production"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/oil-motion"
     },
     {
       "type": "skills-open-design",
@@ -11124,7 +12048,9 @@
         "scripts",
         "requirements",
         "txt"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/oil-motion"
     },
     {
       "type": "skills-open-design",
@@ -11148,7 +12074,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "\"处理视频和序列帧，编译滚动、指针、拖动与状态驱动的网页动效；内含本地媒体处理脚本和运行时。新素材生成使用宿主工具。\"",
+      "unit": "skills/open-design/oil-motion"
     },
     {
       "type": "skills-open-design",
@@ -11172,7 +12100,9 @@
         "sources",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Source and adaptation",
+      "unit": "skills/open-design/oil-motion"
     },
     {
       "type": "skills-open-design",
@@ -11196,7 +12126,9 @@
         "license",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/output-skill"
     },
     {
       "type": "skills-open-design",
@@ -11220,7 +12152,9 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Overrides default LLM truncation behavior. Enforces complete code generation, bans placeholder patterns, and handles token-limit splits cleanly. Apply to any t…",
+      "unit": "skills/open-design/output-skill"
     },
     {
       "type": "skills-open-design",
@@ -11244,7 +12178,9 @@
         "cro",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Design and optimize upgrade screens, paywalls, and upsell modals. Useful for SaaS conversion design and pricing-page experiments.",
+      "unit": "skills/open-design/paywall-upgrade-cro"
     },
     {
       "type": "skills-open-design",
@@ -11268,7 +12204,9 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "Extract text, create PDFs, and handle forms. Useful for press releases, branded one-pagers, and printable design deliverables.",
+      "unit": "skills/open-design/pdf"
     },
     {
       "type": "skills-open-design",
@@ -11292,7 +12230,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Generate and edit images and videos with an 85+ API portfolio and build visually appealing website pages via Pixelbin.",
+      "unit": "skills/open-design/pixelbin-media"
     },
     {
       "type": "skills-open-design",
@@ -11316,7 +12256,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Senior Designer review: rates each design dimension 0-10, explains what a 10 looks like, and flags AI Slop signals. Useful as a gate before merging UI work.",
+      "unit": "skills/open-design/plan-design-review"
     },
     {
       "type": "skills-open-design",
@@ -11340,7 +12282,9 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "300+ design rules from Apple HIG, Material Design 3, and WCAG 2.2 for cross-platform apps. Useful when shipping a single design across iOS, Android, and the we…",
+      "unit": "skills/open-design/platform-design"
     },
     {
       "type": "skills-open-design",
@@ -11364,7 +12308,9 @@
         "example",
         "html",
         "open-design"
-      ]
+      ],
+      "description": "HTML Anything 0.1 海报",
+      "unit": "skills/open-design/poster-hero"
     },
     {
       "type": "skills-open-design",
@@ -11388,7 +12334,9 @@
         "example",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "HTML Anything 0.1 已发布 — 任何文档 → 世界级好看的 HTML, 用你本地的 AI agent",
+      "unit": "skills/open-design/poster-hero"
     },
     {
       "type": "skills-open-design",
@@ -11412,7 +12360,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "\"Vertical poster or Moments-style share image with strong visual impact.\"",
+      "unit": "skills/open-design/poster-hero"
     },
     {
       "type": "skills-open-design",
@@ -11436,7 +12386,9 @@
         "example",
         "html",
         "open-design"
-      ]
+      ],
+      "description": "HTML Anything · 产品介绍",
+      "unit": "skills/open-design/ppt-keynote"
     },
     {
       "type": "skills-open-design",
@@ -11460,7 +12412,9 @@
         "example",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "HTML Anything · 产品介绍 — 1. 复用你已经登录的本地 agent (Claude / Cursor / Codex), 不要 API Key",
+      "unit": "skills/open-design/ppt-keynote"
     },
     {
       "type": "skills-open-design",
@@ -11484,7 +12438,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "\"Apple Keynote-quality slides, one card per screen, with keyboard left/right navigation.\"",
+      "unit": "skills/open-design/ppt-keynote"
     },
     {
       "type": "skills-open-design",
@@ -11508,7 +12464,9 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "Read, generate, and adjust PowerPoint slides, layouts, and templates. Useful for executive decks, training material, and product reviews.",
+      "unit": "skills/open-design/pptx"
     },
     {
       "type": "skills-open-design",
@@ -11532,7 +12490,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Create and edit PowerPoint presentations from scratch with PptxGenJS — MiniMax's production-tested deck pipeline.",
+      "unit": "skills/open-design/pptx-generator"
     },
     {
       "type": "skills-open-design",
@@ -11556,7 +12516,9 @@
         "skills",
         "design",
         "pptx"
-      ]
+      ],
+      "description": "Audit Table Template — Drop-in markdown template for the Step-3 audit deliverable. Keep the column order and severity legend stable across audits — readers lea…",
+      "unit": "skills/open-design/pptx-html-fidelity-audit"
     },
     {
       "type": "skills-open-design",
@@ -11580,7 +12542,9 @@
         "design",
         "pptx",
         "audit"
-      ]
+      ],
+      "description": "Font Discipline for PPTX Exports — Companion to layout-discipline.md . The rail / cursor primitives in that",
+      "unit": "skills/open-design/pptx-html-fidelity-audit"
     },
     {
       "type": "skills-open-design",
@@ -11604,7 +12568,9 @@
         "design",
         "pptx",
         "audit"
-      ]
+      ],
+      "description": "Footer-Rail + Cursor-Flow Layout Discipline — The full rule set referenced from SKILL.md Step 4. Read this when the deck has slide types beyond simple title-+-…",
+      "unit": "skills/open-design/pptx-html-fidelity-audit"
     },
     {
       "type": "skills-open-design",
@@ -11628,7 +12594,9 @@
         "pptx",
         "audit",
         "scripts"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/pptx-html-fidelity-audit"
     },
     {
       "type": "skills-open-design",
@@ -11652,7 +12620,9 @@
         "design",
         "pptx",
         "audit"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/pptx-html-fidelity-audit"
     },
     {
       "type": "skills-open-design",
@@ -11676,7 +12646,9 @@
         "design",
         "pptx",
         "audit"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/pptx-html-fidelity-audit"
     },
     {
       "type": "skills-open-design",
@@ -11700,7 +12672,9 @@
         "pptx",
         "audit",
         "skill"
-      ]
+      ],
+      "description": "Audit a python-pptx export against its source HTML deck, identify layout/content drift (footer overflow, cropped content, missing italic/em, lost styling, off-…",
+      "unit": "skills/open-design/pptx-html-fidelity-audit"
     },
     {
       "type": "skills-open-design",
@@ -11724,7 +12698,9 @@
         "pr",
         "gate",
         "skill"
-      ]
+      ],
+      "description": "Safely track pull request feedback, resolve review comments or merge conflicts, validate fixes, and use a read-only cross-review before committing or pushing f…",
+      "unit": "skills/open-design/pr-feedback-quality-gate"
     },
     {
       "type": "skills-open-design",
@@ -11747,7 +12723,8 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "Skills — This directory contains functional skills : capabilities the agent invokes to do work on user input, such as briefs, audits, utilities, and asset pack…"
     },
     {
       "type": "skills-open-design",
@@ -11771,7 +12748,9 @@
         "license",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/redesign-skill"
     },
     {
       "type": "skills-open-design",
@@ -11795,7 +12774,9 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Upgrades existing websites and apps to premium quality. Audits current design, identifies generic AI patterns, and applies high-end design standards without br…",
+      "unit": "skills/open-design/redesign-skill"
     },
     {
       "type": "skills-open-design",
@@ -11819,7 +12800,9 @@
         "example",
         "html",
         "open-design"
-      ]
+      ],
+      "description": "Reference Design Contract Example",
+      "unit": "skills/open-design/reference-design-contract"
     },
     {
       "type": "skills-open-design",
@@ -11843,7 +12826,9 @@
         "references",
         "checklist",
         "md"
-      ]
+      ],
+      "description": "Reference Design Contract checklist — Use this checklist before final handoff.",
+      "unit": "skills/open-design/reference-design-contract"
     },
     {
       "type": "skills-open-design",
@@ -11867,7 +12852,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Turn vague taste, screenshots, URLs, product notes, or \"make it feel like this\"",
+      "unit": "skills/open-design/reference-design-contract"
     },
     {
       "type": "skills-open-design",
@@ -11891,7 +12878,9 @@
         "release",
         "pager",
         "assets"
-      ]
+      ],
+      "description": "[REPLACE] Page title · brand",
+      "unit": "skills/open-design/release-notes-one-pager"
     },
     {
       "type": "skills-open-design",
@@ -11915,7 +12904,9 @@
         "release",
         "pager",
         "example"
-      ]
+      ],
+      "description": "Release Notes v2.3.1",
+      "unit": "skills/open-design/release-notes-one-pager"
     },
     {
       "type": "skills-open-design",
@@ -11939,7 +12930,9 @@
         "release",
         "pager",
         "references"
-      ]
+      ],
+      "description": "Release Notes One-Pager Checklist — Run this before emitting . P0 = must pass; P1 = should pass; P2 = nice to have.",
+      "unit": "skills/open-design/release-notes-one-pager"
     },
     {
       "type": "skills-open-design",
@@ -11963,7 +12956,9 @@
         "release",
         "pager",
         "references"
-      ]
+      ],
+      "description": "Web prototype layouts — 1. Read assets/template.html through the end of the block. Every class used below must exist there. If one is missing, add it to rather…",
+      "unit": "skills/open-design/release-notes-one-pager"
     },
     {
       "type": "skills-open-design",
@@ -11987,7 +12982,9 @@
         "release",
         "pager",
         "skill"
-      ]
+      ],
+      "description": "Release notes one-page HTML with highlights, Added, Fixed, Breaking changes,",
+      "unit": "skills/open-design/release-notes-one-pager"
     },
     {
       "type": "skills-open-design",
@@ -12011,7 +13008,9 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "Programmatic video creation with React. Useful for branded explainers, social cuts, dashboards-to-video, and reproducible motion graphics.",
+      "unit": "skills/open-design/remotion"
     },
     {
       "type": "skills-open-design",
@@ -12035,7 +13034,9 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "Discover, compare, and run AI models using Replicate's API. Strong fit for image, audio, and video generation pipelines that swap models frequently.",
+      "unit": "skills/open-design/replicate"
     },
     {
       "type": "skills-open-design",
@@ -12059,7 +13060,9 @@
         "room",
         "example",
         "html"
-      ]
+      ],
+      "description": "Research Decision Room - Activation Checklist",
+      "unit": "skills/open-design/research-decision-room"
     },
     {
       "type": "skills-open-design",
@@ -12083,7 +13086,9 @@
         "room",
         "references",
         "checklist"
-      ]
+      ],
+      "description": "Research Decision Room Checklist — Run this before emitting . P0 = must pass; P1 = should pass; P2 =",
+      "unit": "skills/open-design/research-decision-room"
     },
     {
       "type": "skills-open-design",
@@ -12107,7 +13112,9 @@
         "research",
         "room",
         "references"
-      ]
+      ],
+      "description": "Evidence Model — Use this model to keep research synthesis honest. The artifact should help a",
+      "unit": "skills/open-design/research-decision-room"
     },
     {
       "type": "skills-open-design",
@@ -12131,7 +13138,9 @@
         "room",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Turn messy user research notes, interviews, support tickets, surveys, and product",
+      "unit": "skills/open-design/research-decision-room"
     },
     {
       "type": "skills-open-design",
@@ -12155,7 +13164,9 @@
         "example",
         "html",
         "open-design"
-      ]
+      ],
+      "description": "林清禾 · 简历",
+      "unit": "skills/open-design/resume-modern"
     },
     {
       "type": "skills-open-design",
@@ -12179,7 +13190,9 @@
         "example",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "林清禾 — 高级前端工程师 · 上海 · qinghe.lin@example.com · github.com/qinghelin · linkedin.com/in/qinghe",
+      "unit": "skills/open-design/resume-modern"
     },
     {
       "type": "skills-open-design",
@@ -12203,7 +13216,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "\"Modern minimal resume, single A4 page, ready for print or PDF export.\"",
+      "unit": "skills/open-design/resume-modern"
     },
     {
       "type": "skills-open-design",
@@ -12227,7 +13242,9 @@
         "license",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/review-animations"
     },
     {
       "type": "skills-open-design",
@@ -12251,7 +13268,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Reviews animation and motion code against a high craft bar derived from Emil Kowalski's design engineering philosophy. Default to flagging; approval is earned.",
+      "unit": "skills/open-design/review-animations"
     },
     {
       "type": "skills-open-design",
@@ -12275,7 +13294,9 @@
         "standards",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Animation Standards Reference — The precise values, curves, and rules behind the review. Cite these in findings instead of approximating. Distilled from Emil K…",
+      "unit": "skills/open-design/review-animations"
     },
     {
       "type": "skills-open-design",
@@ -12299,7 +13320,9 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "Capture desktop, app windows, or pixel regions across OS platforms. Useful for marketing screenshots, design reviews, and bug reports.",
+      "unit": "skills/open-design/screenshot"
     },
     {
       "type": "skills-open-design",
@@ -12323,7 +13346,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Generate marketing screenshots with Playwright. Useful for landing-page hero shots, App Store screenshots, and changelog visuals.",
+      "unit": "skills/open-design/screenshots-marketing"
     },
     {
       "type": "skills-open-design",
@@ -12347,7 +13372,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Build UI components with shadcn/ui. Pairs with the Stitch design loop to ship structured, accessible components quickly.",
+      "unit": "skills/open-design/shadcn-ui"
     },
     {
       "type": "skills-open-design",
@@ -12371,7 +13398,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "GLSL shader techniques for ray marching, fluid simulation, particle systems, and procedural generation. Useful for hero visuals and motion stills.",
+      "unit": "skills/open-design/shader-dev"
     },
     {
       "type": "skills-open-design",
@@ -12395,7 +13424,9 @@
         "creator",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Create animated GIFs optimized for Slack with validators for size constraints and composable animation primitives.",
+      "unit": "skills/open-design/slack-gif-creator"
     },
     {
       "type": "skills-open-design",
@@ -12419,7 +13450,9 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "Create and edit .pptx presentation decks with PptxGenJS. Useful for sales decks, kickoff briefs, and design-system showcases.",
+      "unit": "skills/open-design/slides"
     },
     {
       "type": "skills-open-design",
@@ -12443,7 +13476,9 @@
         "card",
         "example",
         "html"
-      ]
+      ],
+      "description": "Reddit Post · r/programming",
+      "unit": "skills/open-design/social-reddit-card"
     },
     {
       "type": "skills-open-design",
@@ -12467,7 +13502,9 @@
         "card",
         "example",
         "md"
-      ]
+      ],
+      "description": "TIL my code reviewer asks LLMs to roast my PRs before approving — So I started doing this thing where I run my diff through Claude with the prompt \"be brutally…",
+      "unit": "skills/open-design/social-reddit-card"
     },
     {
       "type": "skills-open-design",
@@ -12491,7 +13528,9 @@
         "card",
         "skill",
         "md"
-      ]
+      ],
+      "description": "\"Realistic Reddit post card with vote rail and comment count, suited to video overlays or story sharing.\"",
+      "unit": "skills/open-design/social-reddit-card"
     },
     {
       "type": "skills-open-design",
@@ -12515,7 +13554,9 @@
         "card",
         "example",
         "html"
-      ]
+      ],
+      "description": "Spotify Now Playing · Lo-Fi",
+      "unit": "skills/open-design/social-spotify-card"
     },
     {
       "type": "skills-open-design",
@@ -12539,7 +13580,9 @@
         "card",
         "example",
         "md"
-      ]
+      ],
+      "description": "Lo-Fi Beats · Chillhop Essentials — A daily-driver mix for deep work and late-night writing. 8 hours of mellow beats, soft jazz, and rainy-day ambient — curate…",
+      "unit": "skills/open-design/social-spotify-card"
     },
     {
       "type": "skills-open-design",
@@ -12563,7 +13606,9 @@
         "card",
         "skill",
         "md"
-      ]
+      ],
+      "description": "\"Spotify Now Playing-style card with album art, progress bar, and playback controls, suited to video overlays or personal homepages.\"",
+      "unit": "skills/open-design/social-spotify-card"
     },
     {
       "type": "skills-open-design",
@@ -12587,7 +13632,9 @@
         "social",
         "card",
         "example"
-      ]
+      ],
+      "description": "X Post Card · Markdown is Dead",
+      "unit": "skills/open-design/social-x-post-card"
     },
     {
       "type": "skills-open-design",
@@ -12611,7 +13658,9 @@
         "social",
         "card",
         "example"
-      ]
+      ],
+      "description": "Tweet body — The team at Claude Code just stopped writing markdown. They write everything in HTML now.",
+      "unit": "skills/open-design/social-x-post-card"
     },
     {
       "type": "skills-open-design",
@@ -12635,7 +13684,9 @@
         "social",
         "card",
         "skill"
-      ]
+      ],
+      "description": "\"Realistic X post card with engagement metrics (likes, reposts, views), suited to video overlays or shareable image cards.\"",
+      "unit": "skills/open-design/social-x-post-card"
     },
     {
       "type": "skills-open-design",
@@ -12659,7 +13710,9 @@
         "license",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/soft-skill"
     },
     {
       "type": "skills-open-design",
@@ -12683,7 +13736,9 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Teaches the AI to design like a high-end agency. Defines the exact fonts, spacing, shadows, card structures, and animations that make a website feel expensive.…",
+      "unit": "skills/open-design/soft-skill"
     },
     {
       "type": "skills-open-design",
@@ -12707,7 +13762,9 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "Generate, remix, and manage short video clips via OpenAI's Sora API. Useful for cinematic shots, b-roll, and rapid concept video iteration.",
+      "unit": "skills/open-design/sora"
     },
     {
       "type": "skills-open-design",
@@ -12731,7 +13788,9 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "Generate spoken audio from text using OpenAI's API with built-in voices. Useful for narrated explainers, lecture audio, and quick voiceover tracks.",
+      "unit": "skills/open-design/speech"
     },
     {
       "type": "skills-open-design",
@@ -12755,7 +13814,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Iterative design-to-code feedback loop. Critique → adjust → ship cycle for tightening visual fidelity between brief and built UI.",
+      "unit": "skills/open-design/stitch-loop"
     },
     {
       "type": "skills-open-design",
@@ -12779,7 +13840,9 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Design System: Taste Standard — Adjust these dials before using this design system. They control how creative, dense, and animated the output should be. Pick t…",
+      "unit": "skills/open-design/stitch-skill"
     },
     {
       "type": "skills-open-design",
@@ -12803,7 +13866,9 @@
         "license",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/stitch-skill"
     },
     {
       "type": "skills-open-design",
@@ -12827,7 +13892,9 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Semantic Design System Skill for Google Stitch. Generates agent-friendly DESIGN.md files that enforce premium, anti-generic UI standards — strict typography, c…",
+      "unit": "skills/open-design/stitch-skill"
     },
     {
       "type": "skills-open-design",
@@ -12851,7 +13918,9 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "SwiftUI 前端设计 skill — anti AI-slop rules, design direction advisor, brand asset protocol, and five-dimension review. Works with Claude Code, Cursor, Codex, and …",
+      "unit": "skills/open-design/swiftui-design"
     },
     {
       "type": "skills-open-design",
@@ -12875,7 +13944,9 @@
         "swiss",
         "template",
         "assets"
-      ]
+      ],
+      "description": "Swiss Creative Mode Template",
+      "unit": "skills/open-design/swiss-creative-mode-template"
     },
     {
       "type": "skills-open-design",
@@ -12899,7 +13970,9 @@
         "swiss",
         "template",
         "example"
-      ]
+      ],
+      "description": "Swiss Creative Mode Example",
+      "unit": "skills/open-design/swiss-creative-mode-template"
     },
     {
       "type": "skills-open-design",
@@ -12923,7 +13996,9 @@
         "swiss",
         "template",
         "references"
-      ]
+      ],
+      "description": "Swiss Creative Mode Template Checklist",
+      "unit": "skills/open-design/swiss-creative-mode-template"
     },
     {
       "type": "skills-open-design",
@@ -12947,7 +14022,9 @@
         "swiss",
         "template",
         "skill"
-      ]
+      ],
+      "description": "Swiss-inspired creative-mode presentation template skill with bold editorial",
+      "unit": "skills/open-design/swiss-creative-mode-template"
     },
     {
       "type": "skills-open-design",
@@ -12971,7 +14048,9 @@
         "design",
         "swiss",
         "template"
-      ]
+      ],
+      "description": "Swiss User Research Template",
+      "unit": "skills/open-design/swiss-user-research-video-template"
     },
     {
       "type": "skills-open-design",
@@ -12995,7 +14074,9 @@
         "design",
         "swiss",
         "template"
-      ]
+      ],
+      "description": "User Research Synthesis Example",
+      "unit": "skills/open-design/swiss-user-research-video-template"
     },
     {
       "type": "skills-open-design",
@@ -13019,7 +14100,9 @@
         "design",
         "swiss",
         "template"
-      ]
+      ],
+      "description": "Checklist",
+      "unit": "skills/open-design/swiss-user-research-video-template"
     },
     {
       "type": "skills-open-design",
@@ -13043,7 +14126,9 @@
         "design",
         "swiss",
         "template"
-      ]
+      ],
+      "description": "Swiss-style user-research narrative template in warm-paper editorial aesthetics.",
+      "unit": "skills/open-design/swiss-user-research-video-template"
     },
     {
       "type": "skills-open-design",
@@ -13067,7 +14152,9 @@
         "license",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/taste-skill"
     },
     {
       "type": "skills-open-design",
@@ -13091,7 +14178,9 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Anti-slop frontend skill for landing pages, portfolios, and redesigns. The agent reads the brief, infers the right design direction, and ships interfaces that …",
+      "unit": "skills/open-design/taste-skill"
     },
     {
       "type": "skills-open-design",
@@ -13115,7 +14204,9 @@
         "v1",
         "license",
         "open-design"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/taste-skill-v1"
     },
     {
       "type": "skills-open-design",
@@ -13139,7 +14230,9 @@
         "v1",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "The original v1 taste-skill, preserved for projects depending on its exact behavior. The current default is design-taste-frontend (v2 experimental), which is a…",
+      "unit": "skills/open-design/taste-skill-v1"
     },
     {
       "type": "skills-open-design",
@@ -13163,7 +14256,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Apply professional font and color themes to artifacts including slides, docs, reports, and HTML landing pages. Ships 10 pre-set themes.",
+      "unit": "skills/open-design/theme-factory"
     },
     {
       "type": "skills-open-design",
@@ -13187,7 +14282,9 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "Three.js skills for creating 3D elements and interactive experiences in the browser — scenes, materials, controls, and post-processing.",
+      "unit": "skills/open-design/threejs"
     },
     {
       "type": "skills-open-design",
@@ -13211,7 +14308,9 @@
         "license",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/ui-animation"
     },
     {
       "type": "skills-open-design",
@@ -13235,7 +14334,9 @@
         "references",
         "choreography",
         "md"
-      ]
+      ],
+      "description": "Choreography — A single fitted curve is rarely the whole story. Polish lives in orchestration : what",
+      "unit": "skills/open-design/ui-animation"
     },
     {
       "type": "skills-open-design",
@@ -13259,7 +14360,9 @@
         "ui",
         "animation",
         "references"
-      ]
+      ],
+      "description": "clip-path for Animation — / Fully hidden from right /",
+      "unit": "skills/open-design/ui-animation"
     },
     {
       "type": "skills-open-design",
@@ -13283,7 +14386,9 @@
         "animation",
         "references",
         "code"
-      ]
+      ],
+      "description": "Code Output — Templates that turn fitted parameters into runnable code per target. Substitute numbers from fit curves.py ; keep movement on transform / opacity…",
+      "unit": "skills/open-design/ui-animation"
     },
     {
       "type": "skills-open-design",
@@ -13307,7 +14412,9 @@
         "animation",
         "references",
         "component"
-      ]
+      ],
+      "description": "Component Animation Patterns — Popovers, dropdowns, tooltips, drawers, and modals live with their recipes in transition-recipes.md .",
+      "unit": "skills/open-design/ui-animation"
     },
     {
       "type": "skills-open-design",
@@ -13331,7 +14438,9 @@
         "animation",
         "references",
         "contextual"
-      ]
+      ],
+      "description": "Contextual Animations — Patterns for icon swaps, word-level stagger entrances, and subtle exits.",
+      "unit": "skills/open-design/ui-animation"
     },
     {
       "type": "skills-open-design",
@@ -13355,7 +14464,9 @@
         "animation",
         "references",
         "curve"
-      ]
+      ],
+      "description": "Curve Fitting — Read fit curves.py output, choose spring vs cubic-bezier, judge fit quality, handle",
+      "unit": "skills/open-design/ui-animation"
     },
     {
       "type": "skills-open-design",
@@ -13379,7 +14490,9 @@
         "animation",
         "references",
         "debugging"
-      ]
+      ],
+      "description": "Debugging Symptoms — Turn \"this feels off\" into a named cause, then make the smallest fix that addresses it. Never tweak values blindly: randomly nudging durat…",
+      "unit": "skills/open-design/ui-animation"
     },
     {
       "type": "skills-open-design",
@@ -13403,7 +14516,9 @@
         "animation",
         "references",
         "decision"
-      ]
+      ],
+      "description": "Animation Decision Framework — Answer these four questions in order before writing animation code. SKILL.md carries the duration table, the named curves, and t…",
+      "unit": "skills/open-design/ui-animation"
     },
     {
       "type": "skills-open-design",
@@ -13427,7 +14542,9 @@
         "animation",
         "references",
         "gesture"
-      ]
+      ],
+      "description": "Gesture and Drag Animations — Drag, swipe, and gesture patterns where the user directly manipulates elements.",
+      "unit": "skills/open-design/ui-animation"
     },
     {
       "type": "skills-open-design",
@@ -13451,7 +14568,9 @@
         "animation",
         "references",
         "interface"
-      ]
+      ],
+      "description": "Interface SFX — Sparse confirmation sounds for rare, high-stakes, or physical-feeling interactions.",
+      "unit": "skills/open-design/ui-animation"
     },
     {
       "type": "skills-open-design",
@@ -13475,7 +14594,9 @@
         "animation",
         "references",
         "measurement"
-      ]
+      ],
+      "description": "Measurement Guide — What to measure in a recording, when to trust eyes vs scripts, and how to read",
+      "unit": "skills/open-design/ui-animation"
     },
     {
       "type": "skills-open-design",
@@ -13499,7 +14620,9 @@
         "ui",
         "animation",
         "references"
-      ]
+      ],
+      "description": "Performance Deep Dive — Advanced performance guidance beyond the quick rules in SKILL.md.",
+      "unit": "skills/open-design/ui-animation"
     },
     {
       "type": "skills-open-design",
@@ -13523,7 +14646,9 @@
         "animation",
         "references",
         "review"
-      ]
+      ],
+      "description": "Animation Review Format — Senior motion reviewer with a brutal eye for craft. Bias toward motion that feels right, not motion that merely runs. A transition th…",
+      "unit": "skills/open-design/ui-animation"
     },
     {
       "type": "skills-open-design",
@@ -13547,7 +14672,9 @@
         "animation",
         "references",
         "scroll"
-      ]
+      ],
+      "description": "Scroll Animations — Scroll-triggered reveals and scroll-driven (scrubbed) motion. Scroll is the most abused trigger in web motion, so this reference is half re…",
+      "unit": "skills/open-design/ui-animation"
     },
     {
       "type": "skills-open-design",
@@ -13571,7 +14698,9 @@
         "animation",
         "references",
         "spring"
-      ]
+      ],
+      "description": "Spring Animations — Springs simulate physics, so they feel more natural than duration-based animations: no fixed duration, they settle by physical parameters.",
+      "unit": "skills/open-design/ui-animation"
     },
     {
       "type": "skills-open-design",
@@ -13595,7 +14724,9 @@
         "animation",
         "references",
         "svg"
-      ]
+      ],
+      "description": "SVG Animation — Recipes for animating vector art: line drawing, rotation, path morphing, shakes, and ambient life. SVG has its own coordinate system and its ow…",
+      "unit": "skills/open-design/ui-animation"
     },
     {
       "type": "skills-open-design",
@@ -13619,7 +14750,9 @@
         "animation",
         "references",
         "transition"
-      ]
+      ],
+      "description": "CSS Transition Recipes — 14 CSS transition patterns. Each includes CSS, HTML hooks, and JS orchestration where needed. All read from a shared :root custom prop…",
+      "unit": "skills/open-design/ui-animation"
     },
     {
       "type": "skills-open-design",
@@ -13643,7 +14776,9 @@
         "references",
         "vocabulary",
         "md"
-      ]
+      ],
+      "description": "Animation Vocabulary — Reverse-lookup glossary: turn a vague description of a motion or effect into the precise term, so the user knows what to ask for.",
+      "unit": "skills/open-design/ui-animation"
     },
     {
       "type": "skills-open-design",
@@ -13667,7 +14802,9 @@
         "animation",
         "scripts",
         "extract"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/ui-animation"
     },
     {
       "type": "skills-open-design",
@@ -13691,7 +14828,9 @@
         "animation",
         "scripts",
         "fit"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/ui-animation"
     },
     {
       "type": "skills-open-design",
@@ -13715,7 +14854,9 @@
         "animation",
         "scripts",
         "track"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/ui-animation"
     },
     {
       "type": "skills-open-design",
@@ -13739,7 +14880,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "\"Implement, review, and measure UI motion. Reconstruct easing, springs and gestures from a recording using bundled frame extraction, tracking and curve-fitting…",
+      "unit": "skills/open-design/ui-animation"
     },
     {
       "type": "skills-open-design",
@@ -13763,7 +14906,9 @@
         "sources",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Source and adaptation — skill material; runtime libraries and external assets retain their own terms.",
+      "unit": "skills/open-design/ui-animation"
     },
     {
       "type": "skills-open-design",
@@ -13787,7 +14932,9 @@
         "md",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "Opinionated, evolving constraints to guide agents when building interfaces. Useful for keeping output coherent across many small UI pieces.",
+      "unit": "skills/open-design/ui-skills"
     },
     {
       "type": "skills-open-design",
@@ -13811,7 +14958,9 @@
         "ui",
         "max",
         "skill"
-      ]
+      ],
+      "description": "Catalog-only UI/UX Pro Max entry. The full upstream templates, data, and search workflow are not bundled in OpenDesign.",
+      "unit": "skills/open-design/ui-ux-pro-max"
     },
     {
       "type": "skills-open-design",
@@ -13835,7 +14984,9 @@
         "music",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Music generation queueing, retrieval, and completion endpoints via Venice.ai. Suited for jingles, background loops, and prototype scoring.",
+      "unit": "skills/open-design/venice-audio-music"
     },
     {
       "type": "skills-open-design",
@@ -13859,7 +15010,9 @@
         "speech",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Text-to-speech models, voices, formats, and streaming via Venice.ai. Useful for narration, voiceover, and conversational agent voices.",
+      "unit": "skills/open-design/venice-audio-speech"
     },
     {
       "type": "skills-open-design",
@@ -13883,7 +15036,9 @@
         "edit",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Image edits, upscaling, and background removal via the Venice.ai API.",
+      "unit": "skills/open-design/venice-image-edit"
     },
     {
       "type": "skills-open-design",
@@ -13907,7 +15062,9 @@
         "generate",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Image generation endpoints and available styles via the Venice.ai API.",
+      "unit": "skills/open-design/venice-image-generate"
     },
     {
       "type": "skills-open-design",
@@ -13931,7 +15088,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Video generation and transcription workflows via the Venice.ai API.",
+      "unit": "skills/open-design/venice-video"
     },
     {
       "type": "skills-open-design",
@@ -13955,7 +15114,9 @@
         "cursor",
         "example",
         "html"
-      ]
+      ],
+      "description": "VFX Text Cursor · Opening",
+      "unit": "skills/open-design/vfx-text-cursor"
     },
     {
       "type": "skills-open-design",
@@ -13979,7 +15140,9 @@
         "cursor",
         "example",
         "md"
-      ]
+      ],
+      "description": "VFX 光标开场帧 — 逐字揭示 + chromatic 拖光, hot pink + cyan",
+      "unit": "skills/open-design/vfx-text-cursor"
     },
     {
       "type": "skills-open-design",
@@ -14003,7 +15166,9 @@
         "cursor",
         "skill",
         "md"
-      ]
+      ],
+      "description": "\"Cursor light trail, chromatic rays, and directional flares for word-by-word quote reveals in video intros.\"",
+      "unit": "skills/open-design/vfx-text-cursor"
     },
     {
       "type": "skills-open-design",
@@ -14027,7 +15192,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Download videos from YouTube and other platforms for offline viewing, editing, or archival with support for various formats and quality options.",
+      "unit": "skills/open-design/video-downloader"
     },
     {
       "type": "skills-open-design",
@@ -14051,7 +15218,9 @@
         "example",
         "html",
         "open-design"
-      ]
+      ],
+      "description": "Hyperframes · AI workflow 三件套",
+      "unit": "skills/open-design/video-hyperframes"
     },
     {
       "type": "skills-open-design",
@@ -14075,7 +15244,9 @@
         "example",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Hyperframes 视频脚本: AI workflow 三件套 — 80% 的 AI 工具用户, 都没用对 prompt。",
+      "unit": "skills/open-design/video-hyperframes"
     },
     {
       "type": "skills-open-design",
@@ -14099,7 +15270,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "\"Hyperframes / Remotion-compatible continuous frame animation with autoplay support.\"",
+      "unit": "skills/open-design/video-hyperframes"
     },
     {
       "type": "skills-open-design",
@@ -14123,7 +15296,9 @@
         "builder",
         "skill",
         "md"
-      ]
+      ],
+      "description": "Build complex claude.ai HTML artifacts with React and Tailwind. Anthropic's reference workflow for shipping rich, embeddable artifacts.",
+      "unit": "skills/open-design/web-artifacts-builder"
     },
     {
       "type": "skills-open-design",
@@ -14147,7 +15322,9 @@
         "license",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/web-clone"
     },
     {
       "type": "skills-open-design",
@@ -14171,7 +15348,9 @@
         "references",
         "assessment",
         "md"
-      ]
+      ],
+      "description": "复杂度分级与复刻评分 — 用于复刻前预判、复刻后验收，以及向 Jane 解释\"这个站能克隆到什么程度\"。",
+      "unit": "skills/open-design/web-clone"
     },
     {
       "type": "skills-open-design",
@@ -14195,7 +15374,9 @@
         "clone",
         "references",
         "complex"
-      ]
+      ],
+      "description": "复杂站复刻 Playbooks — 用于 L4-L6 站点，目标是把\"看起来复杂\"拆成可执行路径。",
+      "unit": "skills/open-design/web-clone"
     },
     {
       "type": "skills-open-design",
@@ -14219,7 +15400,9 @@
         "references",
         "deliverables",
         "md"
-      ]
+      ],
+      "description": "产物规范与模板 — 范例： 当前项目目录/marbles-clone/TEARDOWN.md 。",
+      "unit": "skills/open-design/web-clone"
     },
     {
       "type": "skills-open-design",
@@ -14243,7 +15426,9 @@
         "clone",
         "references",
         "dna"
-      ]
+      ],
+      "description": "Design DNA · 结构化设计身份层（视觉复刻 / 内容爆改专用） — 把\"做成那个站的感觉\"从模糊感觉变成 可版本化、可复用、可对照的 JSON 规范 。",
+      "unit": "skills/open-design/web-clone"
     },
     {
       "type": "skills-open-design",
@@ -14267,7 +15452,9 @@
         "clone",
         "references",
         "effect"
-      ]
+      ],
+      "description": "特效提取的证据纪律 + Baseline 闸门（WebGL/Canvas 逆向分支强化） — 以及找不到真源码时的兜底路线。三件套： 证据分级 → no-compensation → baseline-first 闸门 。",
+      "unit": "skills/open-design/web-clone"
     },
     {
       "type": "skills-open-design",
@@ -14291,7 +15478,9 @@
         "clone",
         "references",
         "marbles"
-      ]
+      ],
+      "description": "旗舰案例 · Glass Marbles（真架构 vs AI 臆造） — 源站 https://chiuhans111.github.io/marbles/ ·作者 Hans Chiu ·单文件 1067 行 ·许可证 NONE 。",
+      "unit": "skills/open-design/web-clone"
     },
     {
       "type": "skills-open-design",
@@ -14315,7 +15504,9 @@
         "clone",
         "references",
         "reverse"
-      ]
+      ],
+      "description": "逆向拆解 WebGL/Canvas 重前端站 — 当侦察判定一个站是 WebGL/Canvas/Three.js 重前端（ window.THREE 存在、或有多个 、或有 ），走这套。",
+      "unit": "skills/open-design/web-clone"
     },
     {
       "type": "skills-open-design",
@@ -14339,7 +15530,9 @@
         "clone",
         "references",
         "static"
-      ]
+      ],
+      "description": "静态构建站的 1:1 忠实复刻：全量资产镜像 — 适用： Astro / Vite SSG / Hugo / Eleventy / 任何把客户端运行时输出成可下载静态资产的站 ——哪怕它是 WebGL/Canvas/高斯泼溅重前端。",
+      "unit": "skills/open-design/web-clone"
     },
     {
       "type": "skills-open-design",
@@ -14363,7 +15556,9 @@
         "clone",
         "scripts",
         "asset"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/web-clone"
     },
     {
       "type": "skills-open-design",
@@ -14387,7 +15582,9 @@
         "clone",
         "scripts",
         "audit"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/web-clone"
     },
     {
       "type": "skills-open-design",
@@ -14411,7 +15608,9 @@
         "clone",
         "scripts",
         "compare"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/web-clone"
     },
     {
       "type": "skills-open-design",
@@ -14435,7 +15634,9 @@
         "clone",
         "scripts",
         "dna"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/web-clone"
     },
     {
       "type": "skills-open-design",
@@ -14459,7 +15660,9 @@
         "clone",
         "scripts",
         "init"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/web-clone"
     },
     {
       "type": "skills-open-design",
@@ -14483,7 +15686,9 @@
         "clone",
         "scripts",
         "interaction"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/web-clone"
     },
     {
       "type": "skills-open-design",
@@ -14507,7 +15712,9 @@
         "clone",
         "scripts",
         "playwright"
-      ]
+      ],
+      "description": "exports loadPlaywright",
+      "unit": "skills/open-design/web-clone"
     },
     {
       "type": "skills-open-design",
@@ -14531,7 +15738,9 @@
         "clone",
         "scripts",
         "system"
-      ]
+      ],
+      "description": "exports fullPageScreenshotClip",
+      "unit": "skills/open-design/web-clone"
     },
     {
       "type": "skills-open-design",
@@ -14555,7 +15764,9 @@
         "clone",
         "scripts",
         "mirror"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/web-clone"
     },
     {
       "type": "skills-open-design",
@@ -14579,7 +15790,9 @@
         "clone",
         "scripts",
         "network"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/web-clone"
     },
     {
       "type": "skills-open-design",
@@ -14603,7 +15816,9 @@
         "web",
         "clone",
         "scripts"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/web-clone"
     },
     {
       "type": "skills-open-design",
@@ -14627,7 +15842,9 @@
         "clone",
         "scripts",
         "recon"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/web-clone"
     },
     {
       "type": "skills-open-design",
@@ -14651,7 +15868,9 @@
         "clone",
         "scripts",
         "route"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/web-clone"
     },
     {
       "type": "skills-open-design",
@@ -14675,7 +15894,9 @@
         "clone",
         "scripts",
         "sourcemap"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/web-clone"
     },
     {
       "type": "skills-open-design",
@@ -14699,7 +15920,9 @@
         "clone",
         "scripts",
         "visual"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/open-design/web-clone"
     },
     {
       "type": "skills-open-design",
@@ -14723,7 +15946,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "网站复刻 / 克隆方法论。USE WHEN 用户说 复刻网站、克隆网站、clone website、抄个站、仿站、",
+      "unit": "skills/open-design/web-clone"
     },
     {
       "type": "skills-open-design",
@@ -14747,7 +15972,9 @@
         "license",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/web-design-guidelines"
     },
     {
       "type": "skills-open-design",
@@ -14771,7 +15998,9 @@
         "references",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Review UI code for Vercel Web Interface Guidelines compliance",
+      "unit": "skills/open-design/web-design-guidelines"
     },
     {
       "type": "skills-open-design",
@@ -14795,7 +16024,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Review UI code for Web Interface Guidelines compliance by the Vercel engineering team. Covers layout, typography, color, motion, and accessibility for product …",
+      "unit": "skills/open-design/web-design-guidelines"
     },
     {
       "type": "skills-open-design",
@@ -14819,7 +16050,9 @@
         "skills",
         "design",
         "weread"
-      ]
+      ],
+      "description": "WeRead Year in Review Video Template",
+      "unit": "skills/open-design/weread-year-in-review-video-template"
     },
     {
       "type": "skills-open-design",
@@ -14843,7 +16076,9 @@
         "skills",
         "design",
         "weread"
-      ]
+      ],
+      "description": "WeRead Year in Review Video Template",
+      "unit": "skills/open-design/weread-year-in-review-video-template"
     },
     {
       "type": "skills-open-design",
@@ -14867,7 +16102,9 @@
         "skills",
         "design",
         "weread"
-      ]
+      ],
+      "description": "Checklist",
+      "unit": "skills/open-design/weread-year-in-review-video-template"
     },
     {
       "type": "skills-open-design",
@@ -14891,7 +16128,9 @@
         "skills",
         "design",
         "weread"
-      ]
+      ],
+      "description": "WeRead-inspired HyperFrames video template for vertical annual reading reports,",
+      "unit": "skills/open-design/weread-year-in-review-video-template"
     },
     {
       "type": "skills-open-design",
@@ -14915,7 +16154,9 @@
         "open-design",
         "general",
         "local"
-      ]
+      ],
+      "description": "WordPress Design System. Apply WordPress's official design tokens, typography, and component patterns to themes and sites.",
+      "unit": "skills/open-design/wpds"
     },
     {
       "type": "skills-open-design",
@@ -14939,7 +16180,9 @@
         "license",
         "open-design",
         "general"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/open-design/writing-guidelines"
     },
     {
       "type": "skills-open-design",
@@ -14963,7 +16206,9 @@
         "references",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Review docs/prose for Vercel Writing Guidelines compliance",
+      "unit": "skills/open-design/writing-guidelines"
     },
     {
       "type": "skills-open-design",
@@ -14987,7 +16232,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "Review docs/prose for Writing Guidelines compliance. Use when asked to \"review my docs\", \"check writing style\", \"audit prose\", \"review docs voice and tone\", or…",
+      "unit": "skills/open-design/writing-guidelines"
     },
     {
       "type": "skills-open-design",
@@ -15011,7 +16258,9 @@
         "skill",
         "md",
         "open-design"
-      ]
+      ],
+      "description": "YouTube clip generation and editing with automated workflows — pull source video, slice highlights, add captions, and export.",
+      "unit": "skills/open-design/youtube-clipper"
     },
     {
       "type": "skills-slides",
@@ -15035,7 +16284,9 @@
         "md",
         "general",
         "local"
-      ]
+      ],
+      "description": "Copywriting Formulas — 25 formulas for persuasive slide copy.",
+      "unit": "skills/slides"
     },
     {
       "type": "skills-slides",
@@ -15057,7 +16308,9 @@
         "md",
         "general",
         "local"
-      ]
+      ],
+      "description": "Task — Invoke slides skill to create persuasive HTML slides using design tokens, Chart.js, and the slide knowledge database.",
+      "unit": "skills/slides"
     },
     {
       "type": "skills-slides",
@@ -15081,7 +16334,9 @@
         "md",
         "general",
         "local"
-      ]
+      ],
+      "description": "HTML Slide Template — Complete HTML structure with navigation, tokens, and Chart.js integration.",
+      "unit": "skills/slides"
     },
     {
       "type": "skills-slides",
@@ -15105,7 +16360,9 @@
         "md",
         "general",
         "local"
-      ]
+      ],
+      "description": "Layout Patterns — 25 slide layouts with CSS structures and animation classes.",
+      "unit": "skills/slides"
     },
     {
       "type": "skills-slides",
@@ -15129,7 +16386,9 @@
         "md",
         "general",
         "local"
-      ]
+      ],
+      "description": "Slide Strategies — 15 proven deck structures with emotion arcs.",
+      "unit": "skills/slides"
     },
     {
       "type": "skills-slides",
@@ -15150,7 +16409,9 @@
         "md",
         "general",
         "local"
-      ]
+      ],
+      "description": "Create strategic HTML presentations with Chart.js, design tokens, responsive layouts, copywriting formulas, and contextual slide strategies.",
+      "unit": "skills/slides"
     },
     {
       "type": "skills-ui-styling",
@@ -15173,7 +16434,9 @@
         "ui-styling",
         "general",
         "local"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/ui-styling"
     },
     {
       "type": "skills-ui-styling",
@@ -15197,7 +16460,9 @@
         "canvas",
         "system",
         "md"
-      ]
+      ],
+      "description": "Canvas Design System — Visual design philosophy, systematic composition, and sophisticated visual communication.",
+      "unit": "skills/ui-styling"
     },
     {
       "type": "skills-ui-styling",
@@ -15221,7 +16486,9 @@
         "accessibility",
         "md",
         "ui-styling"
-      ]
+      ],
+      "description": "shadcn/ui Accessibility Patterns — ARIA patterns, keyboard navigation, screen reader support, and accessible component usage.",
+      "unit": "skills/ui-styling"
     },
     {
       "type": "skills-ui-styling",
@@ -15245,7 +16512,9 @@
         "components",
         "md",
         "ui-styling"
-      ]
+      ],
+      "description": "shadcn/ui Component Reference — Complete catalog of shadcn/ui components with usage patterns and installation.",
+      "unit": "skills/ui-styling"
     },
     {
       "type": "skills-ui-styling",
@@ -15269,7 +16538,9 @@
         "theming",
         "md",
         "ui-styling"
-      ]
+      ],
+      "description": "shadcn/ui Theming & Customization — Theme configuration, CSS variables, dark mode, and component customization.",
+      "unit": "skills/ui-styling"
     },
     {
       "type": "skills-ui-styling",
@@ -15293,7 +16564,9 @@
         "customization",
         "md",
         "ui-styling"
-      ]
+      ],
+      "description": "Tailwind CSS Customization — Config file structure, custom utilities, plugins, and theme extensions.",
+      "unit": "skills/ui-styling"
     },
     {
       "type": "skills-ui-styling",
@@ -15317,7 +16590,9 @@
         "responsive",
         "md",
         "ui-styling"
-      ]
+      ],
+      "description": "Tailwind CSS Responsive Design — Mobile-first breakpoints, responsive utilities, and adaptive layouts.",
+      "unit": "skills/ui-styling"
     },
     {
       "type": "skills-ui-styling",
@@ -15341,7 +16616,9 @@
         "utilities",
         "md",
         "ui-styling"
-      ]
+      ],
+      "description": "Tailwind CSS Utility Reference — Core utility classes for layout, spacing, typography, colors, borders, and shadows.",
+      "unit": "skills/ui-styling"
     },
     {
       "type": "skills-ui-styling",
@@ -15365,7 +16642,9 @@
         "ui-styling",
         "general",
         "local"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/ui-styling"
     },
     {
       "type": "skills-ui-styling",
@@ -15389,7 +16668,9 @@
         "add",
         "py",
         "ui-styling"
-      ]
+      ],
+      "description": "",
+      "unit": "skills/ui-styling"
     },
     {
       "type": "skills-ui-styling",
@@ -15413,7 +16694,9 @@
         "tailwind",
         "gen",
         "py"
-      ]
+      ],
+      "description": "/ .{js,jsx,ts,tsx}\", \"./index.html\", ], \"vue\": [ \"./src/",
+      "unit": "skills/ui-styling"
     },
     {
       "type": "skills-ui-styling",
@@ -15437,7 +16720,9 @@
         "coverage",
         "json",
         "ui-styling"
-      ]
+      ],
+      "description": "keys: meta, files, totals",
+      "unit": "skills/ui-styling"
     },
     {
       "type": "skills-ui-styling",
@@ -15461,7 +16746,9 @@
         "txt",
         "ui-styling",
         "general"
-      ]
+      ],
+      "description": "other file",
+      "unit": "skills/ui-styling"
     },
     {
       "type": "skills-ui-styling",
@@ -15485,7 +16772,9 @@
         "tests",
         "test",
         "add"
-      ]
+      ],
+      "description": "exports Button",
+      "unit": "skills/ui-styling"
     },
     {
       "type": "skills-ui-styling",
@@ -15509,7 +16798,9 @@
         "scripts",
         "tests",
         "test"
-      ]
+      ],
+      "description": "/ /",
+      "unit": "skills/ui-styling"
     },
     {
       "type": "skills-ui-styling",
@@ -15532,7 +16823,9 @@
         "ui-styling",
         "general",
         "local"
-      ]
+      ],
+      "description": "Create beautiful, accessible user interfaces with shadcn/ui components (built on Radix UI + Tailwind), Tailwind CSS utility-first styling, and canvas-based vis…",
+      "unit": "skills/ui-styling"
     }
   ]
 }

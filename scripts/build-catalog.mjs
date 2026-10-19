@@ -344,6 +344,95 @@ export type ThemeName = (typeof themeNames)[number]
 `,
 )
 
+// 6b. Agent-facing enrichment: one-line description per item, folder-level units
+const TEXT_LANGS = new Set(['markdown', 'html', 'css', 'javascript', 'typescript', 'json', 'svg', 'python'])
+const clean = (t) => String(t || '').replace(/<[^>]+>/g, ' ').replace(/[`*_#>]+/g, ' ').replace(/\s+/g, ' ').trim()
+const clip = (t, n = 160) => (t.length > n ? `${t.slice(0, n - 1)}…` : t)
+
+function describe(item) {
+  if (!TEXT_LANGS.has(item.language)) return `${item.language} file`
+  let head
+  try {
+    const fd = fs.openSync(item.path, 'r')
+    const buf = Buffer.alloc(6000)
+    const n = fs.readSync(fd, buf, 0, 6000, 0)
+    fs.closeSync(fd)
+    head = buf.toString('utf8', 0, n)
+  } catch { return '' }
+  let d = ''
+  if (item.language === 'markdown') {
+    const fm = head.match(/^---\r?\n([\s\S]*?)\r?\n---/)
+    const fmDesc = fm && fm[1].match(/^description:\s*(?:>-?\s*|\|-?\s*)?(.+)$/m)
+    if (fmDesc) d = fmDesc[1]
+    else {
+      const lines = head.replace(/^---[\s\S]*?---\r?\n/, '').split(/\r?\n/).map((l) => l.trim()).filter((l) => l && !l.startsWith('<!--'))
+      const h = lines.find((l) => /^#{1,3}\s/.test(l))
+      const para = lines.find((l) => !/^(#|[-*|`]|```)/.test(l) && l.length > 25)
+      d = [h, para].filter(Boolean).join(' — ')
+    }
+  } else if (item.language === 'html') {
+    const meta = head.match(/<meta[^>]+name=["']description["'][^>]+content=["']([^"']+)/i)
+    const title = head.match(/<title[^>]*>([^<]+)/i) || head.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i)
+    const cm = head.match(/<!--\s*([^>]{8,}?)\s*-->/)
+    d = (meta && meta[1]) || (title && title[1]) || (cm && cm[1]) || ''
+  } else if (item.language === 'json') {
+    try {
+      const j = JSON.parse(fs.readFileSync(item.path, 'utf8'))
+      d = (!Array.isArray(j) && (j.description || j.title || j.name)) || ''
+      if (!d && Array.isArray(j)) d = `array of ${j.length}`
+      else if (!d && j && typeof j === 'object') d = `keys: ${Object.keys(j).slice(0, 8).join(', ')}`
+    } catch { d = '' }
+  } else if (item.language === 'svg') {
+    const t = head.match(/<title[^>]*>([^<]+)/i)
+    d = t ? t[1] : 'svg graphic'
+  } else {
+    const blk = head.match(/\/\*\*?\s*([\s\S]*?)\*\//) || head.match(/^(?:\s*(?:\/\/|#)\s?.*\n)+/)
+    if (blk) d = blk[1] || blk[0]
+    if (!d) {
+      const ex = head.match(/export\s+(?:default\s+)?(?:async\s+)?(?:function|const|class)\s+(\w+)/)
+      if (ex) d = `exports ${ex[1]}`
+    }
+    d = d.replace(/^\s*(\/\/|#|\*)\s?/gm, ' ')
+  }
+  d = clean(d)
+  if (item.language === 'css' && /license|daisyui \d|^!/i.test(d)) d = `${item.name} stylesheet${item.designSystem === 'daisyui' ? ' (daisyUI)' : ''}`
+  return clip(d)
+}
+
+const UNIT_DEPTH = [
+  ['design-systems/', 3], ['design-trends/', 2], ['examples/', 2],
+  ['skills/open-design/', 3], ['skills/bencium-marketplace/', 3], ['skills/', 2],
+  ['templates/open-design-design-templates/', 3], ['templates/open-design-prompts/', 3], ['templates/open-design-templates/', 3],
+]
+const unitOf = (rel) => {
+  const hit = UNIT_DEPTH.find(([pre]) => rel.startsWith(pre))
+  if (!hit) return null
+  const parts = rel.split('/')
+  return parts.length > hit[1] ? parts.slice(0, hit[1]).join('/') : null
+}
+const ENTRY_RANK = ['SKILL.md', 'DESIGN.md', 'README.md', 'index.html', 'example.html', 'components.html']
+for (const i of items) {
+  i.description = describe(i)
+  const u = unitOf(i.path)
+  if (u) i.unit = u
+}
+const unitMap = new Map()
+for (const i of items) {
+  if (!i.unit) continue
+  const u = unitMap.get(i.unit) || { unit: i.unit, category: i.category, name: i.unit.split('/').pop(), source: i.source, files: 0, entry: null, description: '', tags: new Set() }
+  u.files++
+  const rank = (x) => { const r = ENTRY_RANK.indexOf(x.split('/').pop()); return r < 0 ? 99 : r }
+  if (!u.entry || rank(i.path) < rank(u.entry)) { u.entry = i.path; if (i.description) u.description = i.description }
+  for (const t of i.tags || []) u.tags.add(t)
+  unitMap.set(i.unit, u)
+}
+const units = [...unitMap.values()].map((u) => ({ ...u, tags: [...u.tags].slice(0, 12) }))
+const unitedPaths = new Set(items.filter((i) => i.unit).map((i) => i.path))
+// Standalone entries that are not inside a unit and not bulk assets (icons/logos are summarised, not listed)
+const BULK = (i) => i.category === 'assets' && /^(icons|logos)/.test(i.subcategory)
+const standalone = items.filter((i) => !unitedPaths.has(i.path) && !BULK(i))
+fs.writeFileSync('registry/units.json', JSON.stringify({ count: units.length, units }, null, 2))
+
 // 7. Write main catalog.json
 fs.writeFileSync('registry/catalog.json', JSON.stringify({ version: 2, count: items.length, items }, null, 2))
 
@@ -457,6 +546,46 @@ ${Object.entries(catGroups).map(([c, list]) => `- **${c}**: ${list.length} items
 `
 fs.writeFileSync('registry/INDEX.md', sitemapMd)
 
+
+// 11. Agent entry points.
+//   registry/llms.txt      compact map (names only): read first, a few thousand tokens
+//   registry/llms-full.txt one line per unit/standalone item with description: grep it
+const lineOf = (name, desc, p, extra = '') => `- ${name}${extra} — ${desc || 'no description'} → ${p}`
+const byCat = {}
+for (const u of units) (byCat[u.category] ||= []).push({ name: u.name, line: lineOf(u.name, u.description, u.entry, ` [${u.files} files, ${u.source}]`), unit: true })
+for (const i of standalone) (byCat[i.category] ||= []).push({ name: i.name, line: lineOf(i.name, i.description, i.path, ` (${i.language})`), unit: false })
+const bulk = items.filter(BULK)
+const cats = Object.keys(byCat).sort()
+
+let full = `# Library: full listing\nOne line per folder unit or standalone file: name [files, source] — description → entry path. Icons/logos (${bulk.length}) omitted; use find.\n`
+for (const c of cats) full += `\n## ${c} (${byCat[c].length})\n${byCat[c].map((x) => x.line).sort().join('\n')}\n`
+fs.writeFileSync('registry/llms-full.txt', full)
+
+const catCount = {}
+for (const i of items) catCount[i.category] = (catCount[i.category] || 0) + 1
+const subsOf = (c) => [...new Set(items.filter((i) => i.category === c).map((i) => i.subcategory))].slice(0, 8).join(', ')
+let map = `# Library map (agent entry point)
+${items.length} files, ${units.length} folder units, ${cats.length} categories. Rules: AGENTS.md.
+
+## Find things
+- \`npm run find -- <words>\`            ranked search over names, tags, descriptions (units first)
+- \`npm run find -- -c <category> <w>\`  restrict to a category below
+- \`npm run find -- --show <path>\`      print the file (or a folder's file list)
+- \`npm run find -- --json ...\`         machine output
+- grep registry/llms-full.txt            one line per item with description
+
+## Categories (files; subcategories)
+${cats.map((c) => `- ${c} (${catCount[c]}): ${subsOf(c)}`).join('\n')}
+
+## Folder units by category (name only; ask find for details)
+`
+for (const c of cats) {
+  const names = byCat[c].filter((x) => x.unit).map((x) => x.name).sort()
+  if (names.length) map += `\n### ${c} (${names.length})\n${names.join(', ')}\n`
+}
+fs.writeFileSync('registry/llms.txt', map)
+
 console.log('--- BUILD CATALOG COMPLETE ---')
+console.log('Units:', units.length)
 console.log('Total items:', items.length)
 console.log('Specialized partitioned indexes: banners (' + bannersList.length + '), sections (' + sectionsList.length + '), BI (' + biList.length + '), pages (' + pagesList.length + ')')

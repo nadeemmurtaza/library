@@ -23,7 +23,8 @@
         "local",
         "section",
         "landing"
-      ]
+      ],
+      "description": "exports FaqAccordion"
     },
     {
       "type": "component-section",
@@ -47,7 +48,8 @@
         "general",
         "local",
         "section"
-      ]
+      ],
+      "description": "exports FeaturesGrid3x2"
     },
     {
       "type": "component-section",
@@ -70,7 +72,8 @@
         "tsx",
         "marketing",
         "local"
-      ]
+      ],
+      "description": "exports FooterMultiColumn"
     },
     {
       "type": "component-section",
@@ -94,7 +97,8 @@
         "local",
         "section",
         "landing"
-      ]
+      ],
+      "description": "exports HeroCentered"
     },
     {
       "type": "component-section",
@@ -118,7 +122,8 @@
         "local",
         "section",
         "landing"
-      ]
+      ],
+      "description": "exports HeroSplit"
     },
     {
       "type": "component-section",
@@ -139,7 +144,8 @@
         "ts",
         "general",
         "local"
-      ]
+      ],
+      "description": ""
     },
     {
       "type": "component-section",
@@ -163,7 +169,8 @@
         "local",
         "menu",
         "layout"
-      ]
+      ],
+      "description": "exports NavbarPrimary"
     },
     {
       "type": "component-section",
@@ -187,7 +194,8 @@
         "marketing",
         "local",
         "section"
-      ]
+      ],
+      "description": "exports Pricing3Tier"
     }
   ]
 }

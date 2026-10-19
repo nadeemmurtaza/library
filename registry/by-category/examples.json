@@ -23,7 +23,9 @@
         "open-design-mocks",
         "saas",
         "local"
-      ]
+      ],
+      "description": "other file",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -47,7 +49,9 @@
         "open-design-mocks",
         "saas",
         "local"
-      ]
+      ],
+      "description": "other file",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -71,7 +75,9 @@
         "open-design-mocks",
         "saas",
         "local"
-      ]
+      ],
+      "description": "other file",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -95,7 +101,9 @@
         "cursor",
         "open-design-mocks",
         "saas"
-      ]
+      ],
+      "description": "other file",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -119,7 +127,9 @@
         "open-design-mocks",
         "saas",
         "local"
-      ]
+      ],
+      "description": "other file",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -143,7 +153,9 @@
         "open-design-mocks",
         "saas",
         "local"
-      ]
+      ],
+      "description": "other file",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -167,7 +179,9 @@
         "open-design-mocks",
         "saas",
         "local"
-      ]
+      ],
+      "description": "other file",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -191,7 +205,9 @@
         "open-design-mocks",
         "saas",
         "local"
-      ]
+      ],
+      "description": "other file",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -215,7 +231,9 @@
         "open-design-mocks",
         "saas",
         "local"
-      ]
+      ],
+      "description": "other file",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -239,7 +257,9 @@
         "open-design-mocks",
         "saas",
         "local"
-      ]
+      ],
+      "description": "other file",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -263,7 +283,9 @@
         "open-design-mocks",
         "saas",
         "local"
-      ]
+      ],
+      "description": "other file",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -287,7 +309,9 @@
         "open-design-mocks",
         "saas",
         "local"
-      ]
+      ],
+      "description": "other file",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -311,7 +335,9 @@
         "kiro",
         "open-design-mocks",
         "saas"
-      ]
+      ],
+      "description": "other file",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -335,7 +361,9 @@
         "open-design-mocks",
         "saas",
         "local"
-      ]
+      ],
+      "description": "other file",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -359,7 +387,9 @@
         "opencode",
         "open-design-mocks",
         "saas"
-      ]
+      ],
+      "description": "other file",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -383,7 +413,9 @@
         "open-design-mocks",
         "saas",
         "local"
-      ]
+      ],
+      "description": "other file",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -407,7 +439,9 @@
         "open-design-mocks",
         "saas",
         "local"
-      ]
+      ],
+      "description": "other file",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -431,7 +465,9 @@
         "open-design-mocks",
         "saas",
         "local"
-      ]
+      ],
+      "description": "other file",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -455,7 +491,9 @@
         "vibe",
         "open-design-mocks",
         "saas"
-      ]
+      ],
+      "description": "other file",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -479,7 +517,9 @@
         "examples",
         "mocks",
         "golden"
-      ]
+      ],
+      "description": "keys: agent, trace, events",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -503,7 +543,9 @@
         "examples",
         "mocks",
         "golden"
-      ]
+      ],
+      "description": "keys: agent, trace, events",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -527,7 +569,9 @@
         "examples",
         "mocks",
         "golden"
-      ]
+      ],
+      "description": "keys: agent, trace, events",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -551,7 +595,9 @@
         "md",
         "open-design-mocks",
         "general"
-      ]
+      ],
+      "description": "mocks/golden/ — daemon-event regression snapshots — Each .events.json is a committed snapshot of the event",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -575,7 +621,9 @@
         "acp",
         "mjs",
         "open-design-mocks"
-      ]
+      ],
+      "description": "Split a long text into approximately N-char chunks at word boundaries so OD's UI sees a streamed message rather than one giant burst.",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -599,7 +647,9 @@
         "claude",
         "mjs",
         "open-design-mocks"
-      ]
+      ],
+      "description": "exports renderAsClaude",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -623,7 +673,9 @@
         "codex",
         "mjs",
         "open-design-mocks"
-      ]
+      ],
+      "description": "exports renderAsCodex",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -647,7 +699,9 @@
         "format",
         "agent",
         "mjs"
-      ]
+      ],
+      "description": "exports renderAsCursorAgent",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -671,7 +725,9 @@
         "gemini",
         "mjs",
         "open-design-mocks"
-      ]
+      ],
+      "description": "exports renderAsGemini",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -695,7 +751,9 @@
         "kimi",
         "mjs",
         "open-design-mocks"
-      ]
+      ],
+      "description": "exports renderAsKimi",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -719,7 +777,9 @@
         "opencode",
         "mjs",
         "open-design-mocks"
-      ]
+      ],
+      "description": "exports renderAsOpencode",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -743,7 +803,9 @@
         "plain",
         "mjs",
         "open-design-mocks"
-      ]
+      ],
+      "description": "exports renderAsPlain",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -767,7 +829,9 @@
         "vela",
         "mjs",
         "open-design-mocks"
-      ]
+      ],
+      "description": "Split long text on word boundaries — chunk size mirrors the real vela agent server's typical streaming cadence (the existing fake-vela.mjs uses 16-char chunks;…",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -791,7 +855,9 @@
         "picker",
         "mjs",
         "open-design-mocks"
-      ]
+      ],
+      "description": "exports DEFAULT RECORDINGS DIR",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -815,7 +881,9 @@
         "subcommands",
         "mjs",
         "open-design-mocks"
-      ]
+      ],
+      "description": "vela login — writes the AMR config file the daemon's status reader + AmrLoginPill component expect on disk. The real vela goes through a device-authorization b…",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -839,7 +907,9 @@
         "open-design-mocks",
         "general",
         "local"
-      ]
+      ],
+      "description": "keys: schema version, generated at, storage, entries, total, total bytes, histograms, sessions with multi turn",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -863,7 +933,9 @@
         "agent",
         "mjs",
         "open-design-mocks"
-      ]
+      ],
+      "description": "mock-agent.mjs — pretends to be one of OD's supported agent CLIs (claude / opencode / codex / deepseek / qwen / grok) by streaming a pre-recorded session in th…",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -887,7 +959,9 @@
         "open-design-mocks",
         "general",
         "local"
-      ]
+      ],
+      "description": "mocks/ — replay-based mock CLIs and protocol fixtures — A PATH-overlay replay harness for selected agent CLI contracts ( amp , claude , opencode ,",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -911,7 +985,9 @@
         "open-design-mocks",
         "general",
         "local"
-      ]
+      ],
+      "description": "other file",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -935,7 +1011,9 @@
         "contract",
         "check",
         "sh"
-      ]
+      ],
+      "description": "other file",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -959,7 +1037,9 @@
         "fetch",
         "recordings",
         "sh"
-      ]
+      ],
+      "description": "other file",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -983,7 +1063,9 @@
         "manifest",
         "utils",
         "mjs"
-      ]
+      ],
+      "description": "Parse a recording's first JSONL line (the meta event) and return the shape we store in the manifest.",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -1007,7 +1089,9 @@
         "smoke",
         "test",
         "sh"
-      ]
+      ],
+      "description": "other file",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-open-design-mocks",
@@ -1031,7 +1115,9 @@
         "upload",
         "recording",
         "sh"
-      ]
+      ],
+      "description": "other file",
+      "unit": "examples/open-design-mocks"
     },
     {
       "type": "examples-ui-ux-pro-max-gallery",
@@ -1055,7 +1141,9 @@
         "gitignore",
         "ui-ux-pro-max-gallery",
         "general"
-      ]
+      ],
+      "description": "other file",
+      "unit": "examples/ui-ux-pro-max-gallery"
     },
     {
       "type": "examples-ui-ux-pro-max-gallery",
@@ -1079,7 +1167,9 @@
         "app",
         "globals",
         "css"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/ui-ux-pro-max-gallery"
     },
     {
       "type": "examples-ui-ux-pro-max-gallery",
@@ -1103,7 +1193,9 @@
         "app",
         "layout",
         "tsx"
-      ]
+      ],
+      "description": "exports metadata",
+      "unit": "examples/ui-ux-pro-max-gallery"
     },
     {
       "type": "examples-ui-ux-pro-max-gallery",
@@ -1127,7 +1219,9 @@
         "app",
         "page",
         "tsx"
-      ]
+      ],
+      "description": "exports Home",
+      "unit": "examples/ui-ux-pro-max-gallery"
     },
     {
       "type": "examples-ui-ux-pro-max-gallery",
@@ -1151,7 +1245,9 @@
         "app",
         "providers",
         "tsx"
-      ]
+      ],
+      "description": "exports Providers",
+      "unit": "examples/ui-ux-pro-max-gallery"
     },
     {
       "type": "examples-ui-ux-pro-max-gallery",
@@ -1175,7 +1271,9 @@
         "components",
         "codesnippet",
         "tsx"
-      ]
+      ],
+      "description": "exports CodeSnippet",
+      "unit": "examples/ui-ux-pro-max-gallery"
     },
     {
       "type": "examples-ui-ux-pro-max-gallery",
@@ -1199,7 +1297,9 @@
         "components",
         "colorpalette",
         "tsx"
-      ]
+      ],
+      "description": "exports ColorPalette",
+      "unit": "examples/ui-ux-pro-max-gallery"
     },
     {
       "type": "examples-ui-ux-pro-max-gallery",
@@ -1223,7 +1323,9 @@
         "components",
         "darkmodetoggle",
         "tsx"
-      ]
+      ],
+      "description": "exports DarkModeToggle",
+      "unit": "examples/ui-ux-pro-max-gallery"
     },
     {
       "type": "examples-ui-ux-pro-max-gallery",
@@ -1247,7 +1349,9 @@
         "components",
         "expandablesection",
         "tsx"
-      ]
+      ],
+      "description": "exports ExpandableSection",
+      "unit": "examples/ui-ux-pro-max-gallery"
     },
     {
       "type": "examples-ui-ux-pro-max-gallery",
@@ -1271,7 +1375,9 @@
         "components",
         "filterbar",
         "tsx"
-      ]
+      ],
+      "description": "exports FilterBar",
+      "unit": "examples/ui-ux-pro-max-gallery"
     },
     {
       "type": "examples-ui-ux-pro-max-gallery",
@@ -1295,7 +1401,9 @@
         "components",
         "gallerygrid",
         "tsx"
-      ]
+      ],
+      "description": "Header",
+      "unit": "examples/ui-ux-pro-max-gallery"
     },
     {
       "type": "examples-ui-ux-pro-max-gallery",
@@ -1319,7 +1427,9 @@
         "components",
         "interactivechecklist",
         "tsx"
-      ]
+      ],
+      "description": "exports InteractiveChecklist",
+      "unit": "examples/ui-ux-pro-max-gallery"
     },
     {
       "type": "examples-ui-ux-pro-max-gallery",
@@ -1343,7 +1453,9 @@
         "gallery",
         "components",
         "metadata"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/ui-ux-pro-max-gallery"
     },
     {
       "type": "examples-ui-ux-pro-max-gallery",
@@ -1367,7 +1479,9 @@
         "components",
         "metadatabadges",
         "tsx"
-      ]
+      ],
+      "description": "exports getTaxonomyValue",
+      "unit": "examples/ui-ux-pro-max-gallery"
     },
     {
       "type": "examples-ui-ux-pro-max-gallery",
@@ -1391,7 +1505,9 @@
         "components",
         "phonemockup",
         "tsx"
-      ]
+      ],
+      "description": "iPhone outer frame",
+      "unit": "examples/ui-ux-pro-max-gallery"
     },
     {
       "type": "examples-ui-ux-pro-max-gallery",
@@ -1415,7 +1531,9 @@
         "components",
         "searchinput",
         "tsx"
-      ]
+      ],
+      "description": "exports SearchInput",
+      "unit": "examples/ui-ux-pro-max-gallery"
     },
     {
       "type": "examples-ui-ux-pro-max-gallery",
@@ -1439,7 +1557,9 @@
         "components",
         "stylecard",
         "tsx"
-      ]
+      ],
+      "description": "Header",
+      "unit": "examples/ui-ux-pro-max-gallery"
     },
     {
       "type": "examples-ui-ux-pro-max-gallery",
@@ -1463,7 +1583,9 @@
         "components",
         "styledetailmodal",
         "tsx"
-      ]
+      ],
+      "description": "Backdrop",
+      "unit": "examples/ui-ux-pro-max-gallery"
     },
     {
       "type": "examples-ui-ux-pro-max-gallery",
@@ -1487,7 +1609,9 @@
         "components",
         "stylepreview",
         "tsx"
-      ]
+      ],
+      "description": "Demo card",
+      "unit": "examples/ui-ux-pro-max-gallery"
     },
     {
       "type": "examples-ui-ux-pro-max-gallery",
@@ -1511,7 +1635,9 @@
         "components",
         "uicontrolsshowcase",
         "tsx"
-      ]
+      ],
+      "description": "1. Buttons",
+      "unit": "examples/ui-ux-pro-max-gallery"
     },
     {
       "type": "examples-ui-ux-pro-max-gallery",
@@ -1535,7 +1661,9 @@
         "data",
         "styles",
         "csv"
-      ]
+      ],
+      "description": "other file",
+      "unit": "examples/ui-ux-pro-max-gallery"
     },
     {
       "type": "examples-ui-ux-pro-max-gallery",
@@ -1559,7 +1687,9 @@
         "colorextractor",
         "ts",
         "ui-ux-pro-max-gallery"
-      ]
+      ],
+      "description": "exports extractColors",
+      "unit": "examples/ui-ux-pro-max-gallery"
     },
     {
       "type": "examples-ui-ux-pro-max-gallery",
@@ -1583,7 +1713,9 @@
         "cssgenerator",
         "ts",
         "ui-ux-pro-max-gallery"
-      ]
+      ],
+      "description": "exports parseCssKeywords",
+      "unit": "examples/ui-ux-pro-max-gallery"
     },
     {
       "type": "examples-ui-ux-pro-max-gallery",
@@ -1607,7 +1739,9 @@
         "filterstyles",
         "ts",
         "ui-ux-pro-max-gallery"
-      ]
+      ],
+      "description": "exports DEFAULT FILTERS",
+      "unit": "examples/ui-ux-pro-max-gallery"
     },
     {
       "type": "examples-ui-ux-pro-max-gallery",
@@ -1631,7 +1765,9 @@
         "parsestyles",
         "test",
         "ts"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/ui-ux-pro-max-gallery"
     },
     {
       "type": "examples-ui-ux-pro-max-gallery",
@@ -1655,7 +1791,9 @@
         "parsestyles",
         "ts",
         "ui-ux-pro-max-gallery"
-      ]
+      ],
+      "description": "exports parseStylesCSV",
+      "unit": "examples/ui-ux-pro-max-gallery"
     },
     {
       "type": "examples-ui-ux-pro-max-gallery",
@@ -1679,7 +1817,9 @@
         "types",
         "ts",
         "ui-ux-pro-max-gallery"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/ui-ux-pro-max-gallery"
     },
     {
       "type": "examples-ui-ux-pro-max-gallery",
@@ -1703,7 +1843,9 @@
         "gallery",
         "next",
         "env"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/ui-ux-pro-max-gallery"
     },
     {
       "type": "examples-ui-ux-pro-max-gallery",
@@ -1727,7 +1869,9 @@
         "next",
         "config",
         "js"
-      ]
+      ],
+      "description": "@type {import('next').NextConfig}",
+      "unit": "examples/ui-ux-pro-max-gallery"
     },
     {
       "type": "examples-ui-ux-pro-max-gallery",
@@ -1751,7 +1895,9 @@
         "postcss",
         "config",
         "js"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/ui-ux-pro-max-gallery"
     },
     {
       "type": "examples-ui-ux-pro-max-gallery",
@@ -1775,7 +1921,9 @@
         "tailwind",
         "config",
         "ts"
-      ]
+      ],
+      "description": "/ .{ts,tsx}\", \"./components/",
+      "unit": "examples/ui-ux-pro-max-gallery"
     },
     {
       "type": "examples-ui-ux-pro-max-gallery",
@@ -1799,7 +1947,9 @@
         "tsconfig",
         "json",
         "ui-ux-pro-max-gallery"
-      ]
+      ],
+      "description": "keys: compilerOptions, include, exclude",
+      "unit": "examples/ui-ux-pro-max-gallery"
     },
     {
       "type": "examples-ui-ux-pro-max-gallery",
@@ -1823,7 +1973,9 @@
         "tsconfig",
         "test",
         "json"
-      ]
+      ],
+      "description": "keys: compilerOptions, include",
+      "unit": "examples/ui-ux-pro-max-gallery"
     },
     {
       "type": "examples-ui-ux-pro-max-preview",
@@ -1847,7 +1999,9 @@
         "preview",
         "xiaomaomi",
         "app"
-      ]
+      ],
+      "description": "小猫咪 - 萌宠日常",
+      "unit": "examples/ui-ux-pro-max-preview"
     },
     {
       "type": "examples-ui-ux-pro-max-projects",
@@ -1871,7 +2025,9 @@
         "projects",
         "healthcare",
         "dashboard"
-      ]
+      ],
+      "description": "HealthView - Analytics Dashboard",
+      "unit": "examples/ui-ux-pro-max-projects"
     },
     {
       "type": "examples-ui-ux-pro-max-projects",
@@ -1895,7 +2051,9 @@
         "projects",
         "portfolio",
         "dark"
-      ]
+      ],
+      "description": "Alex Chen - Full Stack Developer",
+      "unit": "examples/ui-ux-pro-max-projects"
     },
     {
       "type": "examples-ui-ux-pro-max-projects",
@@ -1919,7 +2077,9 @@
         "projects",
         "saas",
         "landing"
-      ]
+      ],
+      "description": "SaaSify - Streamline Your Workflow",
+      "unit": "examples/ui-ux-pro-max-projects"
     },
     {
       "type": "examples-ui-ux-pro-max-stack",
@@ -1943,7 +2103,9 @@
         "stack",
         "claude",
         "agents"
-      ]
+      ],
+      "description": "Expert design reviewer for web UI. Use PROACTIVELY after any front-end change and before",
+      "unit": "examples/ui-ux-pro-max-stack"
     },
     {
       "type": "examples-ui-ux-pro-max-stack",
@@ -1967,7 +2129,9 @@
         "stack",
         "claude",
         "commands"
-      ]
+      ],
+      "description": "Generate a concrete design system (tokens, style, type, UX) before building UI",
+      "unit": "examples/ui-ux-pro-max-stack"
     },
     {
       "type": "examples-ui-ux-pro-max-stack",
@@ -1991,7 +2155,9 @@
         "stack",
         "claude",
         "commands"
-      ]
+      ],
+      "description": "Run the 7-phase design review (WCAG AA, responsive, interaction) on a page or URL",
+      "unit": "examples/ui-ux-pro-max-stack"
     },
     {
       "type": "examples-ui-ux-pro-max-stack",
@@ -2015,7 +2181,9 @@
         "claude",
         "settings",
         "json"
-      ]
+      ],
+      "description": "keys: $schema, enableAllProjectMcpServers, permissions",
+      "unit": "examples/ui-ux-pro-max-stack"
     },
     {
       "type": "examples-ui-ux-pro-max-stack",
@@ -2039,7 +2207,9 @@
         "stack",
         "github",
         "workflows"
-      ]
+      ],
+      "description": "other file",
+      "unit": "examples/ui-ux-pro-max-stack"
     },
     {
       "type": "examples-ui-ux-pro-max-stack",
@@ -2063,7 +2233,9 @@
         "gitignore",
         "ui-ux-pro-max-stack",
         "general"
-      ]
+      ],
+      "description": "other file",
+      "unit": "examples/ui-ux-pro-max-stack"
     },
     {
       "type": "examples-ui-ux-pro-max-stack",
@@ -2087,7 +2259,9 @@
         "mcp",
         "json",
         "ui-ux-pro-max-stack"
-      ]
+      ],
+      "description": "keys: $schema, mcpServers",
+      "unit": "examples/ui-ux-pro-max-stack"
     },
     {
       "type": "examples-ui-ux-pro-max-stack",
@@ -2111,7 +2285,9 @@
         "claude",
         "md",
         "ui-ux-pro-max-stack"
-      ]
+      ],
+      "description": "CLAUDE.md — Website Design Stack — This repository is a ready-to-use environment that makes Claude Code good at website",
+      "unit": "examples/ui-ux-pro-max-stack"
     },
     {
       "type": "examples-ui-ux-pro-max-stack",
@@ -2135,7 +2311,9 @@
         "docs",
         "setup",
         "md"
-      ]
+      ],
+      "description": "Setup — This installs the audit dependencies (Playwright + Chromium) and the ui-ux-pro-max skill,",
+      "unit": "examples/ui-ux-pro-max-stack"
     },
     {
       "type": "examples-ui-ux-pro-max-stack",
@@ -2159,7 +2337,9 @@
         "docs",
         "md",
         "ui-ux-pro-max-stack"
-      ]
+      ],
+      "description": "The Stack — why each tool is here — AI design fails in three predictable ways. Each layer of this stack fixes one.",
+      "unit": "examples/ui-ux-pro-max-stack"
     },
     {
       "type": "examples-ui-ux-pro-max-stack",
@@ -2183,7 +2363,9 @@
         "docs",
         "workflow",
         "md"
-      ]
+      ],
+      "description": "Workflow — the design loop, end to end — The stack is built around one loop: plan → commit → build → see → review . Skipping the",
+      "unit": "examples/ui-ux-pro-max-stack"
     },
     {
       "type": "examples-ui-ux-pro-max-stack",
@@ -2207,7 +2389,9 @@
         "stack",
         "juniper",
         "audit"
-      ]
+      ],
+      "description": "Worked example — auditing a production marketing site — This is a real run of scripts/design-audit.mjs against a live single-page marketing site",
+      "unit": "examples/ui-ux-pro-max-stack"
     },
     {
       "type": "examples-ui-ux-pro-max-stack",
@@ -2231,7 +2415,9 @@
         "stack",
         "juniper",
         "audit"
-      ]
+      ],
+      "description": "keys: target, consoleErrors, findings",
+      "unit": "examples/ui-ux-pro-max-stack"
     },
     {
       "type": "examples-ui-ux-pro-max-stack",
@@ -2255,7 +2441,9 @@
         "stack",
         "juniper",
         "audit"
-      ]
+      ],
+      "description": "Design Audit — http://localhost:8099/ — Viewports: 360 / 390 / 768 / 1024 / 1440 / 1920 px · Heuristic pass (pair with /design-review for taste & flows).",
+      "unit": "examples/ui-ux-pro-max-stack"
     },
     {
       "type": "examples-ui-ux-pro-max-stack",
@@ -2279,7 +2467,9 @@
         "examples",
         "stack",
         "juniper"
-      ]
+      ],
+      "description": "image file",
+      "unit": "examples/ui-ux-pro-max-stack"
     },
     {
       "type": "examples-ui-ux-pro-max-stack",
@@ -2303,7 +2493,9 @@
         "examples",
         "stack",
         "juniper"
-      ]
+      ],
+      "description": "image file",
+      "unit": "examples/ui-ux-pro-max-stack"
     },
     {
       "type": "examples-ui-ux-pro-max-stack",
@@ -2327,7 +2519,9 @@
         "examples",
         "stack",
         "juniper"
-      ]
+      ],
+      "description": "image file",
+      "unit": "examples/ui-ux-pro-max-stack"
     },
     {
       "type": "examples-ui-ux-pro-max-stack",
@@ -2351,7 +2545,9 @@
         "examples",
         "stack",
         "juniper"
-      ]
+      ],
+      "description": "image file",
+      "unit": "examples/ui-ux-pro-max-stack"
     },
     {
       "type": "examples-ui-ux-pro-max-stack",
@@ -2375,7 +2571,9 @@
         "examples",
         "stack",
         "juniper"
-      ]
+      ],
+      "description": "image file",
+      "unit": "examples/ui-ux-pro-max-stack"
     },
     {
       "type": "examples-ui-ux-pro-max-stack",
@@ -2399,7 +2597,9 @@
         "examples",
         "stack",
         "juniper"
-      ]
+      ],
+      "description": "image file",
+      "unit": "examples/ui-ux-pro-max-stack"
     },
     {
       "type": "examples-ui-ux-pro-max-stack",
@@ -2423,7 +2623,9 @@
         "readme",
         "md",
         "ui-ux-pro-max-stack"
-      ]
+      ],
+      "description": "Claude Website Design Stack — A ready-to-clone Claude Code project that makes the agent genuinely good at website",
+      "unit": "examples/ui-ux-pro-max-stack"
     },
     {
       "type": "examples-ui-ux-pro-max-stack",
@@ -2447,7 +2649,9 @@
         "stack",
         "scripts",
         "design"
-      ]
+      ],
+      "description": "design-audit.mjs — standalone, MCP-free design audit. Opens a page in Chromium (Playwright), screenshots it across viewport tiers, and runs heuristic checks fo…",
+      "unit": "examples/ui-ux-pro-max-stack"
     },
     {
       "type": "examples-ui-ux-pro-max-stack",
@@ -2471,7 +2675,9 @@
         "scripts",
         "setup",
         "sh"
-      ]
+      ],
+      "description": "other file",
+      "unit": "examples/ui-ux-pro-max-stack"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2495,7 +2701,9 @@
         "059f045659212c06",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2519,7 +2727,9 @@
         "0639bc99b0589fd8",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2543,7 +2753,9 @@
         "0ff756e765db7c7f",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2567,7 +2779,9 @@
         "21fb408dd0a2d70b",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2591,7 +2805,9 @@
         "253b28b5da7b9aeb",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2615,7 +2831,9 @@
         "36340fdbaaac33ae",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2639,7 +2857,9 @@
         "369cdbcf1640897b",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2663,7 +2883,9 @@
         "386690ca5f7b011c",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2687,7 +2909,9 @@
         "407ecc519daf5281",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2711,7 +2935,9 @@
         "46fd63aa920cc4e2",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2735,7 +2961,9 @@
         "4a077060901af0dc",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2759,7 +2987,9 @@
         "56a063876c363bac",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2783,7 +3013,9 @@
         "56cbffbf194e9dbc",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2807,7 +3039,9 @@
         "5d3b8082ca4515dd",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2831,7 +3065,9 @@
         "6cb6768c7c3e4ae2",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2855,7 +3091,9 @@
         "6e2882e1568b6f92",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2879,7 +3117,9 @@
         "72e0dc11d464a5b4",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2903,7 +3143,9 @@
         "7b2f96b0719c4526",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2927,7 +3169,9 @@
         "8648bc00fc906342",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2951,7 +3195,9 @@
         "93b595eaa369d3ec",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2975,7 +3221,9 @@
         "95982faad853d1ea",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -2999,7 +3247,9 @@
         "981d62468021d495",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -3023,7 +3273,9 @@
         "99d3c2716ee34e44",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -3047,7 +3299,9 @@
         "9f533d554471312d",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -3071,7 +3325,9 @@
         "a29615b56e81fe3d",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -3095,7 +3351,9 @@
         "a6699f37502ce15f",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -3119,7 +3377,9 @@
         "a859f66fa34568e6",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -3143,7 +3403,9 @@
         "abf9c1fb25609393",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -3167,7 +3429,9 @@
         "af37c7d062f587cd",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -3191,7 +3455,9 @@
         "b66c65a093a81679",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -3215,7 +3481,9 @@
         "b7fc5c258287263b",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -3239,7 +3507,9 @@
         "bc954f270f3124ce",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -3263,7 +3533,9 @@
         "c3f54c2c0964c956",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -3287,7 +3559,9 @@
         "ca4b12146d856b3e",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -3311,7 +3585,9 @@
         "cc89f4ba61c90187",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -3335,7 +3611,9 @@
         "cd2129a4405c8d5d",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -3359,7 +3637,9 @@
         "d66759cc2c55bc97",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -3383,7 +3663,9 @@
         "dfe397a2098096cb",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -3407,7 +3689,9 @@
         "e03d41427a36caa3",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -3431,7 +3715,9 @@
         "f2a789cfae11b801",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -3455,7 +3741,9 @@
         "f95db1ce134fc04c",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -3479,7 +3767,9 @@
         "fd522e4670adc9c8",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -3503,7 +3793,9 @@
         "demo",
         "html",
         "uupm-site-pet-grooming"
-      ]
+      ],
+      "description": "AI-powered design intelligence toolkit. Searchable database of UI styles, color palettes, font pairings, chart types, and UX guidelines. Build beautiful interf…",
+      "unit": "examples/uupm-site-pet-grooming"
     },
     {
       "type": "examples-uupm-site-pet-grooming",
@@ -3527,7 +3819,9 @@
         "png",
         "uupm-site-pet-grooming",
         "ecommerce"
-      ]
+      ],
+      "description": "image file",
+      "unit": "examples/uupm-site-pet-grooming"
     }
   ]
 }
