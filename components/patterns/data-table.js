@@ -11,6 +11,7 @@
  *     bulk: [{ id, label, tone }],            // buttons shown while rows are selected
  *     onRow(row), onAction(actionId, row), onBulk(actionId, ids),
  *     actions: (row) => [{ id, label }],      // per-row menu items
+ *     initial: { status: 'new' }              // filter values to apply on first render (e.g. from the URL)
  *     searchPlaceholder, empty: { title, body }, toolbar: htmlString
  *   })
  */
@@ -72,6 +73,7 @@ export function mountDataTable(el, o) {
     o.onRow && o.onRow(row)
   })
   el.addEventListener('keydown', (e) => { if (e.key === 'Enter' && e.target.matches('tr.is-clickable')) o.onRow(rowsById.get(e.target.dataset.id)) })
+  for (const f of filters) { const v = o.initial?.[f.key]; if (v) { table.setFilter(f.key, v); const sel = el.querySelector(`[data-f="${f.key}"]`); if (sel) sel.value = v } }
   table.subscribe(render); selection && selection.subscribe(render); render()
   return { render, el }
 }

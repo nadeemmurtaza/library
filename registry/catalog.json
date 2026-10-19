@@ -2341,6 +2341,12 @@
     },
     {
       "type": "schemas",
+      "name": "bom.schema.json",
+      "path": "schemas/bom.schema.json",
+      "source": "local"
+    },
+    {
+      "type": "schemas",
       "name": "customer.schema.json",
       "path": "schemas/customer.schema.json",
       "source": "local"
@@ -2349,6 +2355,12 @@
       "type": "schemas",
       "name": "enquiry.schema.json",
       "path": "schemas/enquiry.schema.json",
+      "source": "local"
+    },
+    {
+      "type": "schemas",
+      "name": "material.schema.json",
+      "path": "schemas/material.schema.json",
       "source": "local"
     },
     {
@@ -2373,6 +2385,12 @@
       "type": "utils",
       "name": "cn.js",
       "path": "utils/cn.js",
+      "source": "local"
+    },
+    {
+      "type": "utils",
+      "name": "costing.js",
+      "path": "utils/costing.js",
       "source": "local"
     },
     {
@@ -2907,6 +2925,12 @@
       "type": "constants",
       "name": "admin-routes.js",
       "path": "constants/admin-routes.js",
+      "source": "local"
+    },
+    {
+      "type": "constants",
+      "name": "materials.js",
+      "path": "constants/materials.js",
       "source": "local"
     },
     {
@@ -5017,6 +5041,12 @@
     },
     {
       "type": "docs",
+      "name": "bom.md",
+      "path": "docs/bom.md",
+      "source": "local"
+    },
+    {
+      "type": "docs",
       "name": "ui-ux-pro-max/CLAUDE.md",
       "path": "docs/ui-ux-pro-max/CLAUDE.md",
       "source": "local"
@@ -5355,6 +5385,12 @@
       "type": "components-layout",
       "name": "admin-shell.js",
       "path": "components/layout/admin-shell.js",
+      "source": "local"
+    },
+    {
+      "type": "components-patterns",
+      "name": "bom-editor.js",
+      "path": "components/patterns/bom-editor.js",
       "source": "local"
     },
     {

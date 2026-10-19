@@ -21,3 +21,9 @@ export interface PromoCode { id: string; code: string; pct: number; active: bool
 export interface StockMove { id: string; at: number; productId: string; delta: number; reason: string; by: string }
 export interface ActivityEntry { id: string; at: number; by: string; action: string; target: string }
 export interface Session { email: string; name: string; role: 'owner' | 'manager' | 'staff' | 'viewer'; at: number }
+
+export type MaterialKind = 'yarn' | 'wire' | 'wrap' | 'ribbon' | 'filler' | 'packaging' | 'hardware' | 'other'
+export interface Material { id: string; name: string; kind: MaterialKind; unit: 'g' | 'm' | 'pc' | 'sheet' | 'ml'; cost: number; stock: number; reorder: number; pack?: number; supplier?: string; notes?: string }
+export interface BomLine { materialId: string; qty: number; scrap?: number }
+export interface Bom { id: string; lines: BomLine[]; labourMin: number; notes?: string; demo?: boolean }
+export interface MaterialMove { id: string; at: number; materialId: string; name: string; delta: number; reason: string; by: string }
