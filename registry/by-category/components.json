@@ -1,5 +1,5 @@
 {
-  "count": 318,
+  "count": 309,
   "items": [
     {
       "type": "component-daisyui",
@@ -1450,248 +1450,6 @@
       ],
       "example": "styles/components/validator/validator.example.html",
       "description": "validator stylesheet (daisyUI)"
-    },
-    {
-      "type": "component-base",
-      "category": "components",
-      "subcategory": "base",
-      "name": "properties",
-      "path": "styles/base/properties.css",
-      "language": "css",
-      "industry": "general",
-      "designSystem": "local",
-      "source": "daisyui@5.7.50",
-      "license": "MIT",
-      "tags": [
-        "properties",
-        "styles",
-        "base",
-        "css",
-        "components",
-        "general",
-        "local"
-      ],
-      "description": "properties stylesheet"
-    },
-    {
-      "type": "component-base",
-      "category": "components",
-      "subcategory": "base",
-      "name": "reset",
-      "path": "styles/base/reset.css",
-      "language": "css",
-      "industry": "general",
-      "designSystem": "local",
-      "source": "daisyui@5.7.50",
-      "license": "MIT",
-      "tags": [
-        "reset",
-        "styles",
-        "base",
-        "css",
-        "components",
-        "general",
-        "local"
-      ],
-      "description": "reset stylesheet"
-    },
-    {
-      "type": "component-base",
-      "category": "components",
-      "subcategory": "base",
-      "name": "rootcolor",
-      "path": "styles/base/rootcolor.css",
-      "language": "css",
-      "industry": "general",
-      "designSystem": "local",
-      "source": "daisyui@5.7.50",
-      "license": "MIT",
-      "tags": [
-        "rootcolor",
-        "styles",
-        "base",
-        "css",
-        "components",
-        "general",
-        "local"
-      ],
-      "description": "rootcolor stylesheet"
-    },
-    {
-      "type": "component-base",
-      "category": "components",
-      "subcategory": "base",
-      "name": "rootscrollgutter",
-      "path": "styles/base/rootscrollgutter.css",
-      "language": "css",
-      "industry": "general",
-      "designSystem": "local",
-      "source": "daisyui@5.7.50",
-      "license": "MIT",
-      "tags": [
-        "rootscrollgutter",
-        "styles",
-        "base",
-        "css",
-        "components",
-        "general",
-        "local"
-      ],
-      "description": "rootscrollgutter stylesheet"
-    },
-    {
-      "type": "component-base",
-      "category": "components",
-      "subcategory": "base",
-      "name": "rootscrolllock",
-      "path": "styles/base/rootscrolllock.css",
-      "language": "css",
-      "industry": "general",
-      "designSystem": "local",
-      "source": "daisyui@5.7.50",
-      "license": "MIT",
-      "tags": [
-        "rootscrolllock",
-        "styles",
-        "base",
-        "css",
-        "components",
-        "general",
-        "local"
-      ],
-      "description": "rootscrolllock stylesheet"
-    },
-    {
-      "type": "component-base",
-      "category": "components",
-      "subcategory": "base",
-      "name": "scrollbar",
-      "path": "styles/base/scrollbar.css",
-      "language": "css",
-      "industry": "general",
-      "designSystem": "local",
-      "source": "daisyui@5.7.50",
-      "license": "MIT",
-      "tags": [
-        "scrollbar",
-        "styles",
-        "base",
-        "css",
-        "components",
-        "general",
-        "local"
-      ],
-      "description": "scrollbar stylesheet"
-    },
-    {
-      "type": "component-base",
-      "category": "components",
-      "subcategory": "base",
-      "name": "svg",
-      "path": "styles/base/svg.css",
-      "language": "css",
-      "industry": "general",
-      "designSystem": "local",
-      "source": "daisyui@5.7.50",
-      "license": "MIT",
-      "tags": [
-        "svg",
-        "styles",
-        "base",
-        "css",
-        "components",
-        "general",
-        "local"
-      ],
-      "description": "svg stylesheet"
-    },
-    {
-      "type": "component-utilities",
-      "category": "components",
-      "subcategory": "utilities",
-      "name": "glass",
-      "path": "styles/utilities/glass.css",
-      "language": "css",
-      "industry": "general",
-      "designSystem": "local",
-      "source": "daisyui@5.7.50",
-      "license": "MIT",
-      "tags": [
-        "glass",
-        "styles",
-        "utilities",
-        "css",
-        "components",
-        "general",
-        "local"
-      ],
-      "description": "glass stylesheet"
-    },
-    {
-      "type": "component-utilities",
-      "category": "components",
-      "subcategory": "utilities",
-      "name": "join",
-      "path": "styles/utilities/join.css",
-      "language": "css",
-      "industry": "general",
-      "designSystem": "local",
-      "source": "daisyui@5.7.50",
-      "license": "MIT",
-      "tags": [
-        "join",
-        "styles",
-        "utilities",
-        "css",
-        "components",
-        "general",
-        "local"
-      ],
-      "description": "join stylesheet"
-    },
-    {
-      "type": "component-utilities",
-      "category": "components",
-      "subcategory": "utilities",
-      "name": "radius",
-      "path": "styles/utilities/radius.css",
-      "language": "css",
-      "industry": "general",
-      "designSystem": "local",
-      "source": "daisyui@5.7.50",
-      "license": "MIT",
-      "tags": [
-        "radius",
-        "styles",
-        "utilities",
-        "css",
-        "components",
-        "general",
-        "local"
-      ],
-      "description": "radius stylesheet"
-    },
-    {
-      "type": "component-utilities",
-      "category": "components",
-      "subcategory": "utilities",
-      "name": "typography",
-      "path": "styles/utilities/typography.css",
-      "language": "css",
-      "industry": "general",
-      "designSystem": "local",
-      "source": "daisyui@5.7.50",
-      "license": "MIT",
-      "tags": [
-        "typography",
-        "styles",
-        "utilities",
-        "css",
-        "components",
-        "general",
-        "local"
-      ],
-      "description": "typography stylesheet"
     },
     {
       "type": "component-banner",
@@ -7699,26 +7457,68 @@
       "description": "keys: items, total"
     },
     {
-      "type": "component-index.css",
+      "type": "component-newcom",
       "category": "components",
-      "subcategory": "index.css",
-      "name": "index",
-      "path": "styles/index.css",
-      "language": "css",
+      "subcategory": "newcom",
+      "name": "AppShell.tsx",
+      "path": "components/newcom/AppShell.tsx",
+      "language": "typescript",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "newcom",
+      "source": "newcom",
       "license": "MIT",
       "tags": [
-        "index",
-        "styles",
-        "css",
+        "appshell.tsx",
         "components",
-        "index.css",
-        "general",
-        "local"
+        "newcom",
+        "appshell",
+        "tsx",
+        "general"
       ],
-      "description": "Library entry. Consumers import this one file."
+      "description": "sm/xs: nav collapses to a bottom bar; fold+: real sidebar"
+    },
+    {
+      "type": "component-newcom",
+      "category": "components",
+      "subcategory": "newcom",
+      "name": "mail/ComposeModal.tsx",
+      "path": "components/newcom/mail/ComposeModal.tsx",
+      "language": "typescript",
+      "industry": "general",
+      "designSystem": "newcom",
+      "source": "newcom",
+      "license": "MIT",
+      "tags": [
+        "mail/composemodal.tsx",
+        "components",
+        "newcom",
+        "mail",
+        "composemodal",
+        "tsx",
+        "general"
+      ],
+      "description": "exports ComposeModal"
+    },
+    {
+      "type": "component-newcom",
+      "category": "components",
+      "subcategory": "newcom",
+      "name": "ProtectedRoute.tsx",
+      "path": "components/newcom/ProtectedRoute.tsx",
+      "language": "typescript",
+      "industry": "general",
+      "designSystem": "newcom",
+      "source": "newcom",
+      "license": "MIT",
+      "tags": [
+        "protectedroute.tsx",
+        "components",
+        "newcom",
+        "protectedroute",
+        "tsx",
+        "general"
+      ],
+      "description": "exports ProtectedRoute"
     }
   ]
 }

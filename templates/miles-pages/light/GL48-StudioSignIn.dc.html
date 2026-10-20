@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<script src="/theme-pref.js"></script>
+<title>Light · Studio · Sign in</title>
+<script src="./support.js"></script>
+<link rel="stylesheet" href="/theme.css">
+<link rel="stylesheet" href="/css/g.css">
+<link rel="stylesheet" href="/css/b-glstudio.css">
+<link rel="stylesheet" href="/css/b-glstudio-gstudio.css">
+<link rel="stylesheet" href="/css/p/GL48-StudioSignIn.css">
+<link rel="stylesheet" href="/css/g-tail.css">
+<link rel="stylesheet" href="/css/utilities.css">
+<link rel="stylesheet" href="/smooth.css">
+<link rel="stylesheet" href="/css/zebra.css">
+<link rel="stylesheet" href="/css/mobile.css">
+<link rel="stylesheet" href="/css/blush.css">
+<script src="/blush.js" defer></script>
+<link rel="stylesheet" href="/css/zebra-light.css">
+<link rel="stylesheet" href="/css/print.css">
+<script src="/smooth.js" defer></script>
+<link rel="icon" type="image/svg+xml" href="/_blob/ba8a47ecfe93acbd68bd017714519801">
+<link rel="icon" type="image/png" sizes="32x32" href="/_blob/e8c29624c47de066f3c28cb82d08b58a">
+<link rel="apple-touch-icon" href="/_blob/587541048aa85fdedd1d966f27a5d383">
+</head>
+<body>
+<x-dc>
+<helmet>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&amp;family=Manrope:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet">
+</helmet>
+<div class="u76e1ac8 gs sgn"><a class="thm thf" href="G48-StudioSignIn.dc.html" aria-label="Switch to dark theme" title="Switch to dark theme"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" aria-hidden="true"><path d="M20 14.5A8.5 8.5 0 0 1 9.5 4a8.5 8.5 0 1 0 10.5 10.5z"/></svg></a><div class="atmo" aria-hidden="true"><i class="u2268245 orb"></i><i class="u78dccfd orb"></i><i class="ub138b1f orb"></i><div class="grain"></div></div>
+<div class="u59efbf3">
+<div class="ufd41892"><svg width="40" height="40" viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="16" fill="var(--ink)"/><path d="M13 42.5c5.8-2.6 12-2.6 19 .9V24.6c-7-3.5-13.2-3.5-19-.9z" fill="var(--paper)"/><path d="M51 42.5c-5.8-2.6-12-2.6-19 .9V24.6c7-3.5 13.2-3.5 19-.9z" fill="var(--paper)"/><path d="M32 25v18.4" stroke="var(--ink)" stroke-width="1.6"/><path class="lgt" d="M14 19c6-7 14-6.5 19-2" fill="none" stroke="var(--paper)" stroke-width="2" stroke-linecap="round" stroke-dasharray="2.4 3"/><path class="lgp" d="M48 10 35.5 15.6l4.4 1.8 1.8 4.4z" fill="var(--paper)"/></svg><span class="u3b1be09 fr">MiLes</span><span class="ub461659">STUDIO</span></div>
+<div><div class="u7fe3792 fr">Good evening.<br><i class="ua5e2999">4 books</i> need you today.</div><p class="uae71505">Sign in to see the pipeline, proofs waiting for upload and today’s print batch.</p></div>
+<div class="u363bd41">Staff only · every sign-in is logged</div>
+<div class="orb" aria-hidden="true"></div>
+</div>
+<div class="u2a84248"><div class="u5dcb413">
+<sc-if value="{{isPw}}" hint-placeholder-val="{{ true }}"><div class="drawer" key="pw">
+<h1 class="uae41a86 fr">Studio sign in</h1>
+<div class="u5e029f6"><label class="uc476ac6" for="se">Email</label><input id="se" class="u49fc949 inp" value="tazmeen@milesretold.com"></div>
+<div class="u4de99d3"><label class="uc476ac6" for="sp">Password</label><input id="sp" class="u49fc949 inp" type="password" value="••••••••••"></div>
+<button class="uea4bc40 btn bp" onClick="{{next}}">Continue</button>
+<button class="u83f2059" onClick="{{forgot}}">{{forgotLabel}}</button></div></sc-if>
+<sc-if value="{{isCode}}" hint-placeholder-val="{{ false }}"><div class="drawer" key="code">
+<button onClick="{{back}}" class="ue5bc83c btn bs">← Back</button>
+<h1 class="u059c45a fr">Two-step check</h1><p class="uc4e11dd">Enter the 6-digit code sent to Tazmeen’s WhatsApp.</p>
+<div class="uca0390e"><sc-for list="{{boxes}}" as="b" hint-placeholder-count="6"><input class="ub9ff694 inp" maxlength="1" value="{{b.v}}" aria-label="Digit {{b.n}}"></sc-for></div>
+<label class="ud517de9"><button class="{{trustCls}}" onClick="{{trust}}" role="switch" aria-checked="{{trustOn}}" aria-label="Trust this device"></button>Trust this device for 30 days</label>
+<a class="u5988097 btn bp" href="GL30-Studio.dc.html">Verify &amp; open studio</a></div></sc-if>
+</div></div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1440,"height":900}}'>
+class Component extends DCLogic {
+  constructor(p){ super(p); this.state = { s: 0, trust: true }; }
+  renderVals() {
+    const st = this.state, set = (o) => this.setState(o);
+    const S = [{"n": "Awaiting deposit", "f": "GL31-Deposit", "d": "Order placed from the Book Builder, but the 50% deposit hasn’t been paid yet.", "act": "Resend payment link", "bulk": "Remind everyone to pay", "href": "GL31-Deposit.dc.html", "sla": "48 h", "auto": "Payment reminder on WhatsApp after 24 h", "ico": "M3 7h18v12H3zM3 11h18M7 15h3", "chk": ["Check the order details and size are right", "Payment link sent on WhatsApp", "Cancel and release the design slot after 7 days unpaid"]}, {"n": "Awaiting photos", "f": "GL32-Photos", "d": "Deposit is in. The customer is choosing and uploading their photos and story notes.", "act": "Send upload reminder", "bulk": "Remind everyone to upload", "href": "GL32-Photos.dc.html", "sla": "7 days", "auto": "Upload reminder on day 3 and day 6", "ico": "M4 7h3l2-3h6l2 3h3v12H4zM12 10a3.5 3.5 0 1 0 0 7a3.5 3.5 0 0 0 0-7z", "chk": ["Photo count matches the page count", "Low-resolution photos flagged to the customer", "Story notes and captions received"]}, {"n": "In design", "f": "GL33-Design", "d": "Tazmeen or Rameen is laying out the spreads and writing captions.", "act": "Upload proof round 1", "bulk": "Open design queue", "href": "GL34-ProofStage.dc.html", "sla": "5 days", "auto": "“Your proof is ready” when a proof is uploaded", "ico": "M4 20l4-1 11-11-3-3L5 16zM14 6l3 3", "chk": ["Cover and spine text checked", "Every photo placed once, in date order", "Spell-check captions in English and Arabic"]}, {"n": "Proof with customer", "f": "GL34-ProofStage", "d": "The customer is flipping through the proof and pinning changes.", "act": "Nudge on WhatsApp", "bulk": "Nudge everyone", "href": "GL34-ProofStage.dc.html", "sla": "3 days", "auto": "Gentle nudge after 48 h with no reply", "ico": "M4 5h16v11H8l-4 4zM8 9h8M8 12h5", "chk": ["Proof link opened by the customer", "Comments answered within a day", "Approve button enabled once comments are resolved"]}, {"n": "Revisions", "f": "GL35-Revisions", "d": "Fixing the customer’s comments for the next proof round. Revisions are unlimited.", "act": "Upload next round", "bulk": "Open revision list", "href": "GL34-ProofStage.dc.html", "sla": "2 days", "auto": "“Round N is ready” when the new proof is uploaded", "ico": "M20 12a8 8 0 1 1-2.3-5.6M20 4v5h-5", "chk": ["Every pinned comment marked fixed", "Changed spreads highlighted for the customer", "Round number updated"]}, {"n": "Awaiting balance", "f": "GL36-BalanceDue", "d": "Design approved and locked. Waiting for the remaining 50% before printing.", "act": "Send balance link", "bulk": "Send all balance links", "href": "GL36-BalanceDue.dc.html", "sla": "48 h", "auto": "Balance reminder after 24 h", "ico": "M12 3v18M16 7H10a3 3 0 0 0 0 6h4a3 3 0 0 1 0 6H7", "chk": ["Final PDF exported and locked", "Balance link sent", "Invoice with ZATCA QR issued (KSA)"]}, {"n": "Print & pack", "f": "GL37-PrintPack", "d": "Printing, page-by-page quality check, gold ribbon and a handwritten note.", "act": "Mark wrapped · book courier", "bulk": "Book couriers for wrapped orders", "href": "GL44-Shipping.dc.html", "sla": "4 days", "auto": "“Wrapped and ready” when marked wrapped", "ico": "M6 9V3h12v6M6 18H4v-7h16v7h-2M6 14h12v7H6z", "chk": ["Print quality checked page by page", "Extra copies and gift notes added", "Courier booked: SMSA / Aramex or TCS / Leopards"]}, {"n": "Shipped", "f": "GL38-Shipped", "d": "With the courier. The order closes automatically on delivery.", "act": "View tracking", "bulk": "Export tracking numbers", "href": "GL44-Shipping.dc.html", "sla": "—", "auto": "Review request 3 days after delivery", "ico": "M3 7h11v9H3zM14 10h4l3 3v3h-7zM7 18a2 2 0 1 0 0 .1M17 18a2 2 0 1 0 0 .1", "chk": ["Tracking number sent to the customer", "Delivery confirmed", "Review request scheduled"]}];
+    const O = [
+      ['MR-1051', 'Noor H.', 'Wedding · Square', 0, 'T', 'Created 1 day ago', 'n', '', 'KSA'],
+      ['MR-1049', 'Hamza K.', 'Travel · Turkey', 1, 'R', 'Day 6 · no photos', 'w', '', 'PK'],
+      ['MR-1050', 'Lina A.', 'Camera Roll 2025', 1, 'T', 'Day 2', 'n', 'Gift', 'KSA'],
+      ['MR-1046', 'Maha S.', 'Honeymoon · Bali', 2, 'R', 'Proof due today', 'w', 'Priority', 'KSA'],
+      ['MR-1044', 'Areeba Z.', 'Multi-City · Europe', 2, 'T', 'Overdue 1 day', 'o', '', 'PK'],
+      ['MR-1047', 'Fatima R.', 'Love Story', 2, 'T', 'Due in 3 days', 'n', '', 'KSA'],
+      ['MR-1042', 'Sara A.', 'Honeymoon · Maldives', 3, 'R', 'Round 2 sent', 'n', '', 'KSA'],
+      ['MR-1043', 'Omar F.', 'Travel · Hong Kong', 4, 'T', '5 comments to fix', 'w', '', 'KSA'],
+      ['MR-1040', 'Zara M.', 'Wedding · Portrait', 5, 'R', 'Approved yesterday', 'n', '', 'PK'],
+      ['MR-1038', 'Huda N.', 'Travel · Dubai', 6, 'T', 'Print batch Thu', 'n', '2 copies', 'KSA'],
+      ['MR-1039', 'Ayesha T.', 'Travel · Hallstatt', 6, 'R', 'Wrap today', 'n', 'Gift', 'KSA'],
+      ['MR-1035', 'Bilal Q.', 'Travel · Malaysia', 7, 'T', 'Leopards · in transit', 'n', '', 'PK']
+    ];
+    const tone = { n: ['rgb(from var(--ink) r g b / .08)', 'rgb(from var(--ink) r g b / .86)'], w: ['rgb(from var(--sand) r g b / .16)', 'var(--amber-deep)'], o: ['rgb(from var(--coral) r g b / .16)', 'var(--red)'] };
+    const avBg = (w) => w === 'T' ? 'var(--rust)' : 'var(--rust)';
+    const cur = (cc) => cc === 'PK' ? 'PKR' : 'SAR';
+    const fs = (arr, cur0, key, pick) => arr.map((x) => ({ name: x, cls: cur0 === x ? 'fl on' : 'fl', pick: () => set({ [key]: x, ...(pick || {}) }) }));
+
+    return { forgotLabel: st.fg ? 'Reset link sent to your email ✓' : 'Forgot password?', forgot: () => set({ fg: true }), isPw: st.s === 0, isCode: st.s === 1, next: () => set({ s: 1 }), back: () => set({ s: 0 }),
+      boxes: '73915'.split('').concat(['']).map((v, i) => ({ v, n: i + 1 })), trustOn: st.trust ? 'true' : 'false', trustCls: st.trust ? 'tog on' : 'tog', trust: () => set({ trust: !st.trust }) };
+  }
+}
+</script>
+</body>
+</html>

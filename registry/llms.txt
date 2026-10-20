@@ -1,5 +1,5 @@
 # Library map (agent entry point)
-8098 files, 571 folder units, 23 categories. Rules: AGENTS.md.
+8514 files, 571 folder units, 25 categories. Rules: AGENTS.md.
 
 ## Find things
 - `npm run find -- <words>`            ranked search over names, tags, descriptions (units first)
@@ -9,26 +9,28 @@
 - grep registry/llms-full.txt            one line per item with description
 
 ## Categories (files; subcategories)
-- assets (1420): fonts, icons-untitledui, illustrations, images, logos-brand, logos-integration, logos-payment, logos-social
-- components (318): daisyui-components, base, utilities, banners, sections, bi-analytics, feedback, ui
+- assets (1430): fonts, icons-untitledui, illustrations, images, logos-brand, logos-integration, logos-payment, logos-social
+- components (309): daisyui-components, banners, sections, bi-analytics, feedback, ui, inputs, avatar
 - config (1): brand.ts
 - constants (4): admin-routes.js, materials.js, roles.js, statuses.js
 - dashboards (8): admin, ecommerce, fintech, saas
 - data (74): bencium, open-design, ui-ux-pro-max
 - design-systems (4019): bencium, daisyui, open-design, ui-ux-pro-max, untitledui
 - design-trends (101): 2k1, acid-graphics, afrofuturism, american-kitsch, aqua-ui, art-deco, art-nouveau, bauhaus
-- docs (271): admin-panel.md, bom.md, open-design, ui-ux-pro-max, untitledui.md
+- docs (278): admin-panel.md, bom.md, miles, open-design, roya, ui-ux-pro-max, untitledui.md, urb
 - examples (147): open-design-mocks, ui-ux-pro-max-gallery, ui-ux-pro-max-preview, ui-ux-pro-max-projects, ui-ux-pro-max-stack, uupm-site-pet-grooming
 - hooks (6): untitledui, use-selection.js, use-table.js
 - lib (2): activity-log.js, collection-store.js
 - modules (10): analytics, auth, billing, notifications
 - providers (4): auth-provider.js, confirm-provider.js, theme-provider.js, toast-provider.js
+- rules (40): roya
 - schemas (11): bom.schema.json, customer.schema.json, enquiry.schema.json, material.schema.json, order.schema.json, product.schema.json, promo.schema.json, untitledui
-- scripts (46): build-catalog.mjs, find.mjs, scrape-daisyui-examples.py, scrape-daisyui-trends.py, ui-ux-pro-max
+- scripts (55): build-catalog.mjs, find.mjs, miles, scrape-daisyui-examples.py, scrape-daisyui-trends.py, ui-ux-pro-max, urb
 - skills (649): banner-design, bencium-marketplace, brand, design, design-system, open-design, slides, ui-styling
 - snippets (2): admin-confirm-delete.js, admin-validated-form.js
-- templates (907): auth, emails, landing, marketing, open-design-design-templates, open-design-prompts, open-design-templates, pages
-- tokens (51): daisyui-themes, daisyui-colors, untitledui-tokens, brand-tokens
+- styles (176): base, utilities, miles, roya-storefront, urb, newcom, index.css
+- templates (1086): auth, emails, landing, marketing, miles-pages, open-design-design-templates, open-design-prompts, open-design-templates
+- tokens (55): daisyui-themes, daisyui-colors, untitledui-tokens, brand-tokens
 - types (1): admin.d.ts
 - utils (13): cn.js, costing.js, csv.js, dates.js, html.js, money.js, slug.js, storage.js
 - vendor (33): bencium-marketplace, daisyui, open-design, ui-ux-pro-max-skill, untitledui

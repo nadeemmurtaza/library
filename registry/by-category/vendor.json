@@ -72,8 +72,8 @@
       "path": "vendor/open-design/LICENSE",
       "language": "other",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -82,8 +82,7 @@
         "design",
         "license",
         "open-design",
-        "general",
-        "local"
+        "general"
       ],
       "description": "other file"
     },

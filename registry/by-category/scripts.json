@@ -1,5 +1,5 @@
 {
-  "count": 46,
+  "count": 55,
   "items": [
     {
       "type": "scripts-build-catalog.mjs",
@@ -44,6 +44,155 @@
         "local"
       ],
       "description": "!/usr/bin/env node"
+    },
+    {
+      "type": "scripts-miles",
+      "category": "scripts",
+      "subcategory": "miles",
+      "name": "miles/blush.js",
+      "path": "scripts/miles/blush.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "miles",
+      "source": "miles",
+      "license": "MIT",
+      "tags": [
+        "miles/blush.js",
+        "scripts",
+        "miles",
+        "blush",
+        "js",
+        "general"
+      ],
+      "description": "Light edition: three large silk-like colour fields (rose, champagne, sage) that drift and slowly turn behind the content."
+    },
+    {
+      "type": "scripts-miles",
+      "category": "scripts",
+      "subcategory": "miles",
+      "name": "miles/core.js",
+      "path": "scripts/miles/core.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "miles",
+      "source": "miles",
+      "license": "MIT",
+      "tags": [
+        "miles/core.js",
+        "scripts",
+        "miles",
+        "core",
+        "js",
+        "general"
+      ],
+      "description": "Miles Retold · live book editor core. One book document, shared by the customer editor (G23 / GL23) and the studio editor (G70 / GL70). The document lives in l…"
+    },
+    {
+      "type": "scripts-miles",
+      "category": "scripts",
+      "subcategory": "miles",
+      "name": "miles/smooth.js",
+      "path": "scripts/miles/smooth.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "miles",
+      "source": "miles",
+      "license": "MIT",
+      "tags": [
+        "miles/smooth.js",
+        "scripts",
+        "miles",
+        "smooth",
+        "js",
+        "general"
+      ],
+      "description": "Option G · pauses looping animations while they are off screen. No effect on layout."
+    },
+    {
+      "type": "scripts-miles",
+      "category": "scripts",
+      "subcategory": "miles",
+      "name": "miles/stars.js",
+      "path": "scripts/miles/stars.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "miles",
+      "source": "miles",
+      "license": "MIT",
+      "tags": [
+        "miles/stars.js",
+        "scripts",
+        "miles",
+        "stars",
+        "js",
+        "general"
+      ],
+      "description": "Random twinkling stars for the dark edition: one star per ~60,000 px2 of page, each with its own place, size, speed, start time and brightness range. Stars sit…"
+    },
+    {
+      "type": "scripts-miles",
+      "category": "scripts",
+      "subcategory": "miles",
+      "name": "miles/support.js",
+      "path": "scripts/miles/support.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "miles",
+      "source": "miles",
+      "license": "MIT",
+      "tags": [
+        "miles/support.js",
+        "scripts",
+        "miles",
+        "support",
+        "js",
+        "general"
+      ],
+      "description": "@license React react.production.min.js Copyright (c) Facebook, Inc. and its affiliates. This source code is licensed under the MIT license found in the LICENSE…"
+    },
+    {
+      "type": "scripts-miles",
+      "category": "scripts",
+      "subcategory": "miles",
+      "name": "miles/theme-pref.js",
+      "path": "scripts/miles/theme-pref.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "miles",
+      "source": "miles",
+      "license": "MIT",
+      "tags": [
+        "miles/theme",
+        "pref.js",
+        "scripts",
+        "miles",
+        "theme",
+        "pref",
+        "js",
+        "general"
+      ],
+      "description": "Light is the default theme on every page, storefront and studio. A visitor who switches to dark keeps dark until they switch back. Runs first in : if the page …"
+    },
+    {
+      "type": "scripts-miles",
+      "category": "scripts",
+      "subcategory": "miles",
+      "name": "miles/ui.js",
+      "path": "scripts/miles/ui.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "miles",
+      "source": "miles",
+      "license": "MIT",
+      "tags": [
+        "miles/ui.js",
+        "scripts",
+        "miles",
+        "ui",
+        "js",
+        "general"
+      ],
+      "description": "Miles Retold · live book editor UI layer. Binds window.MilesEditor (core.js) to a Design Component. Usage inside the page's Component: constructor: this.ed = M…"
     },
     {
       "type": "scripts-scrape-daisyui-examples.py",
@@ -1140,6 +1289,48 @@
         "data"
       ],
       "description": ""
+    },
+    {
+      "type": "scripts-urb",
+      "category": "scripts",
+      "subcategory": "urb",
+      "name": "urb/doodles.js",
+      "path": "scripts/urb/doodles.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "urb",
+      "source": "urb",
+      "license": "MIT",
+      "tags": [
+        "urb/doodles.js",
+        "scripts",
+        "urb",
+        "doodles",
+        "js",
+        "general"
+      ],
+      "description": "Hand-drawn doodles in the style of URB's Instagram posts: arrows, sparkles, hearts, scribbles. Usage in markup: (app.js swaps it for the SVG). Every path has p…"
+    },
+    {
+      "type": "scripts-urb",
+      "category": "scripts",
+      "subcategory": "urb",
+      "name": "urb/motion.js",
+      "path": "scripts/urb/motion.js",
+      "language": "javascript",
+      "industry": "general",
+      "designSystem": "urb",
+      "source": "urb",
+      "license": "MIT",
+      "tags": [
+        "urb/motion.js",
+        "scripts",
+        "urb",
+        "motion",
+        "js",
+        "general"
+      ],
+      "description": "URB motion engine. Everything here is skipped under prefers-reduced-motion, and the page is complete without it. Nothing writes an inline style: pointer-driven…"
     }
   ]
 }

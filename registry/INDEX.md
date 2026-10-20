@@ -1,6 +1,6 @@
 # Library Catalog Map (AI Agent Guide)
 
-Total Items: **8098** | Fine-Grained Groups: **23**
+Total Items: **8514** | Fine-Grained Groups: **25**
 
 ## How to Find Any Item Fast
 Run the instant search CLI in your terminal:
@@ -18,35 +18,36 @@ When you only need a specific domain, read its lightweight partitioned index fil
 - `registry/by-category/pages.json` (16 full-page templates)
 - `registry/by-category/dashboards.json` (8 items)
 - `registry/by-category/modules.json` (10 items)
-- `registry/by-category/components.json` (318 items)
-- `registry/by-category/templates.json` (907 items)
-- `registry/by-category/tokens.json` (51 items)
+- `registry/by-category/components.json` (309 items)
+- `registry/by-category/templates.json` (1086 items)
+- `registry/by-category/tokens.json` (55 items)
 - `registry/by-category/schemas.json` (11 items)
 - `registry/by-category/design-systems.json` (4019 items)
 - `registry/by-category/assets-logos.json` (108 items)
 - `registry/by-category/assets-illustrations.json` (10 items)
-- `registry/by-category/assets-icons.json` (1174 items)
+- `registry/by-category/assets-icons.json` (1175 items)
 
 ## Partitioned Indexes by Industry
-- `registry/by-industry/saas.json` (1221 items)
-- `registry/by-industry/fintech.json` (194 items)
-- `registry/by-industry/ecommerce.json` (144 items)
-- `registry/by-industry/marketing.json` (293 items)
+- `registry/by-industry/saas.json` (1260 items)
+- `registry/by-industry/fintech.json` (210 items)
+- `registry/by-industry/ecommerce.json` (182 items)
+- `registry/by-industry/marketing.json` (303 items)
 
 ## Top Category Summary
-- **components**: 318 items (Subcategories: daisyui-components, base, utilities, banners, sections)
-- **tokens**: 51 items (Subcategories: daisyui-themes, daisyui-colors, untitledui-tokens, brand-tokens)
+- **components**: 309 items (Subcategories: daisyui-components, banners, sections, bi-analytics, feedback)
+- **styles**: 176 items (Subcategories: base, utilities, miles, roya-storefront, urb)
+- **tokens**: 55 items (Subcategories: daisyui-themes, daisyui-colors, untitledui-tokens, brand-tokens)
 - **design-trends**: 101 items (Subcategories: 2k1, acid-graphics, afrofuturism, american-kitsch, aqua-ui)
 - **dashboards**: 8 items (Subcategories: admin, ecommerce, fintech, saas)
 - **modules**: 10 items (Subcategories: analytics, auth, billing, notifications)
-- **templates**: 907 items (Subcategories: auth, emails, landing, marketing, open-design-design-templates)
+- **templates**: 1086 items (Subcategories: auth, emails, landing, marketing, miles-pages)
 - **design-systems**: 4019 items (Subcategories: bencium, daisyui, open-design, ui-ux-pro-max, untitledui)
-- **assets**: 1420 items (Subcategories: fonts, icons-untitledui, illustrations, images, logos-brand)
+- **assets**: 1430 items (Subcategories: fonts, icons-untitledui, illustrations, images, logos-brand)
 - **schemas**: 11 items (Subcategories: bom.schema.json, customer.schema.json, enquiry.schema.json, material.schema.json, order.schema.json)
 - **utils**: 13 items (Subcategories: cn.js, costing.js, csv.js, dates.js, html.js)
 - **hooks**: 6 items (Subcategories: untitledui, use-selection.js, use-table.js)
 - **lib**: 2 items (Subcategories: activity-log.js, collection-store.js)
-- **scripts**: 46 items (Subcategories: build-catalog.mjs, find.mjs, scrape-daisyui-examples.py, scrape-daisyui-trends.py, ui-ux-pro-max)
+- **scripts**: 55 items (Subcategories: build-catalog.mjs, find.mjs, miles, scrape-daisyui-examples.py, scrape-daisyui-trends.py)
 - **snippets**: 2 items (Subcategories: admin-confirm-delete.js, admin-validated-form.js)
 - **constants**: 4 items (Subcategories: admin-routes.js, materials.js, roles.js, statuses.js)
 - **types**: 1 items (Subcategories: admin.d.ts)
@@ -54,6 +55,7 @@ When you only need a specific domain, read its lightweight partitioned index fil
 - **data**: 74 items (Subcategories: bencium, open-design, ui-ux-pro-max)
 - **skills**: 649 items (Subcategories: banner-design, bencium-marketplace, brand, design, design-system)
 - **examples**: 147 items (Subcategories: open-design-mocks, ui-ux-pro-max-gallery, ui-ux-pro-max-preview, ui-ux-pro-max-projects, ui-ux-pro-max-stack)
-- **docs**: 271 items (Subcategories: admin-panel.md, bom.md, open-design, ui-ux-pro-max, untitledui.md)
+- **docs**: 278 items (Subcategories: admin-panel.md, bom.md, miles, open-design, roya)
 - **vendor**: 33 items (Subcategories: bencium-marketplace, daisyui, open-design, ui-ux-pro-max-skill, untitledui)
+- **rules**: 40 items (Subcategories: roya)
 - **config**: 1 items (Subcategories: brand.ts)

@@ -49,6 +49,11 @@ function detectDesignSystem(rel) {
   if (rel.includes('daisyui') || rel.startsWith('styles/components/')) return 'daisyui'
   if (rel.includes('ui-ux-pro-max')) return 'ui-ux-pro-max'
   if (rel.includes('bencium')) return 'bencium'
+  if (rel.includes('open-design')) return 'open-design'
+  if (rel.includes('/roya/') || rel.includes('roya-')) return 'roya'
+  if (rel.includes('/miles/') || rel.includes('miles-')) return 'miles'
+  if (rel.includes('/urb/') || rel.includes('urb-') || rel.startsWith('tokens/urb/')) return 'urb'
+  if (rel.includes('newcom')) return 'newcom'
   return 'local'
 }
 
@@ -121,6 +126,14 @@ function classifyItem(rel, name) {
     category = 'design-systems'
     subcategory = parts[1] || 'general'
     fineType = `design-system-${subcategory}`
+  } else if (top === 'rules') {
+    category = 'rules'
+    subcategory = parts[1] || 'general'
+    fineType = `rule-${subcategory}`
+  } else if (top === 'styles' && parts[1] !== 'components') {
+    category = 'styles'
+    subcategory = parts[1] || 'general'
+    fineType = `style-${subcategory}`
   } else if (top === 'components' || top === 'styles') {
     category = 'components'
     if (top === 'styles' && parts[1] === 'components') {
@@ -300,9 +313,10 @@ for (const t of fs.readdirSync('design-trends', { withFileTypes: true })) {
 const SCAN_DIRS = [
   'dashboards', 'modules', 'templates', 'design-systems',
   'components/banners', 'components/sections', 'components/bi',
-  'components/ui', 'components/common', 'components/layout', 'components/patterns',
+  'components/ui', 'components/common', 'components/layout', 'components/patterns', 'components/newcom',
   'assets', 'tokens', 'schemas', 'functions', 'utils', 'hooks', 'lib', 'scripts', 'snippets',
-  'constants', 'types', 'providers', 'data', 'design-systems', 'skills', 'examples', 'docs', 'vendor'
+  'constants', 'types', 'providers', 'data', 'design-systems', 'skills', 'examples', 'docs', 'vendor',
+  'rules', 'styles/miles', 'styles/roya-storefront', 'styles/urb', 'styles/newcom',
 ]
 
 const known = new Set(items.map((i) => i.path))

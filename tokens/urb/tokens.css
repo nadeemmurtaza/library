@@ -1,0 +1,136 @@
+/* URB design tokens. Every colour, size, space, radius and motion value lives here and nowhere else.
+   Sources: ROYA (roles, motion curves, seven widths), ZUwithCamera (duration ladder, tap rules),
+   MILES (one-file colour discipline, view transitions), yaseenecom (clear-space and one-ink logo rules). */
+:root {
+  /* Colour: measured from the URB logo and store cover (plutopakistan.com/stores/urb-394).
+     Logo mauve #AC6579, "eloved" olive #889440, cover cream #F9EFDE, cover script rose #C44058,
+     cover star burgundy #89424B, cover gingham taupe #D5CFCA / #B8A79D. Deeper steps are darkened
+     from the same hues so small text and buttons clear 4.5:1. */
+  --mauve: #AC6579;
+  --mauve-deep: #8A4A5C;
+  --mauve-wash: #E9CDD2;
+  --olive: #889440;
+  --olive-deep: #5F6B26;
+  --burgundy: #89424B;
+  --script: #C44058;
+  --cream: #F9EFDE;
+  --gingham-a: #D5CFCA;
+  --gingham-b: #B8A79D;
+  --gingham-line: rgb(184 167 157 / 0.55);
+  --wine: #5C1331; /* the berry of the urb parcel box, sampled from the Instagram "Orders" story */
+
+  --paper: var(--cream);
+  --bg-top: #FCF3E6;
+  --bg-mid: #F8E4DF;
+  --bg-low: #F6DADD;
+  --orb-mauve: #E4B3C0;
+  --orb-peach: #F7C9A8;
+  --orb-sage: #D5DDB4;
+  --orb-sky: #CFD9EE;
+  --paper-glass: rgb(249 239 222 / 0.92);
+  --paper-sunk: #EFE3CF;
+  --card: #FFFBF3;
+  --ink: #36222A;
+  --ink-2: #5C4249;
+  --ink-3: #6F555B;
+  --line-rgb: 54 34 42;
+  --line: rgb(var(--line-rgb) / 0.14);
+  --line-strong: rgb(var(--line-rgb) / 0.32);
+  --grid-line: rgb(184 167 157 / 0.28);
+  --veil: rgb(252 243 230 / 0.62);
+  --scrim: rgb(54 34 42 / 0.5);
+
+  --action: var(--mauve-deep);
+  --action-hover: #703A49;
+  --on-action: #FFFBF3;
+  --forest: var(--wine);
+  --on-forest: var(--cream);
+  --on-forest-dim: #E3CFCB;
+  --on-dark-line: rgb(249 239 222 / 0.2);
+  --error: #A3342A;
+  --ok: var(--olive-deep);
+  --on-ink: var(--cream);
+
+  /* Type: Rubik (heavy display: flat-topped, round-shouldered like the urb logo), Nunito (text), Caveat (handwritten notes, echoes the feed doodles), Yellowtail (script accent). Scale 1.25 on phones, 1.333 from 768. */
+  --font-display: 'Rubik', 'Nunito', system-ui, sans-serif;
+  --font-text: 'Nunito', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --font-note: 'Caveat', 'Segoe Print', 'Bradley Hand', cursive;
+  --font-script: 'Yellowtail', 'Brush Script MT', cursive;
+  --fs-xs: 0.75rem;
+  --fs-sm: 0.875rem;
+  --fs-md: 1rem;
+  --fs-lg: 1.25rem;
+  --fs-xl: clamp(1.5rem, 1.2rem + 1.2vw, 2rem);
+  --fs-2xl: clamp(2rem, 1.5rem + 2.2vw, 3rem);
+  --fs-mega: clamp(2.75rem, 1.4rem + 8.5vw, 6.75rem);
+  --fs-note: clamp(1.15rem, 1.05rem + 0.5vw, 1.5rem);
+  --fs-3xl: clamp(2.5rem, 1.7rem + 3.8vw, 4.5rem);
+  --lh-tight: 1.05;
+  --lh-snug: 1.25;
+  --lh-body: 1.6;
+  --track-caps: 0.14em;
+
+  /* Space: 8pt grid, half-step 4 */
+  --s-1: 4px;
+  --s-2: 8px;
+  --s-3: 16px;
+  --s-4: 24px;
+  --s-5: 32px;
+  --s-6: 48px;
+  --s-7: 64px;
+  --s-8: 96px;
+  --section: clamp(var(--s-6), 9vw, 104px);
+  --gutter: 20px;
+  --container: 1200px;
+  --phi: 1.618;
+  --col-phi: minmax(0, 1.618fr);
+  --col-1: minmax(0, 1fr);
+
+  /* Shape */
+  --r-sm: 4px;
+  --r-md: 12px;
+  --r-lg: 24px;
+  --r-pill: 999px;
+  --tap: 48px;
+  --shadow-cut: 0 10px 14px rgb(54 34 42 / 0.14);
+  --glass-ink: rgb(138 74 92 / 0.88);
+  --glass-clear: rgb(255 251 243 / 0.42);
+  --glass-line: rgb(255 251 243 / 0.7);
+  --glass-gloss: linear-gradient(180deg, rgb(255 255 255 / 0.34) 0%, rgb(255 255 255 / 0.06) 48%, rgb(255 255 255 / 0) 52%);
+  --glass-shadow: 0 10px 26px rgb(138 74 92 / 0.3), inset 0 1px 0 rgb(255 255 255 / 0.7), inset 0 -2px 6px rgb(255 255 255 / 0.12);
+  --shadow-1: 0 1px 2px rgb(54 34 42 / 0.06), 0 4px 12px rgb(54 34 42 / 0.08);
+  --shadow-2: 0 8px 32px rgb(54 34 42 / 0.16);
+
+  /* Motion: ROYA curves, ZU duration ladder. Transform and opacity only. */
+  --dur-micro: 120ms;
+  --dur-ui: 240ms;
+  --dur-content: 560ms;
+  --dur-cine: 900ms;
+  --ease-settle: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-standard: cubic-bezier(0.2, 0, 0, 1);
+  --ease-exit: cubic-bezier(0.4, 0, 1, 1);
+  --ease-panel: cubic-bezier(0.77, 0, 0.18, 1);
+  --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+  --ease-whip: cubic-bezier(0.7, 0, 0.2, 1);
+  --shine: rgb(255 251 243 / 0.42);
+  --dur-drift: 22s;
+  --dur-draw: 1100ms;
+  --lift: 4px;
+  --press: 0.98;
+  --arrive: 0.97;
+  --travel: 24px;
+
+  --doodle: 2.5px;
+  --grid-size: 24px;
+  --gingham: 16px;
+
+  /* Layers */
+  --z-header: 40;
+  --z-sticky: 30;
+  --z-toast: 90;
+}
+@media (min-width: 768px) { :root { --gutter: 40px; } }
+@media (min-width: 1024px) { :root { --gutter: 56px; } }
+@media (prefers-reduced-motion: reduce) {
+  :root { --dur-micro: 0ms; --dur-ui: 0ms; --dur-content: 0ms; --dur-cine: 0ms; --dur-draw: 0ms; --travel: 0px; --lift: 0px; }
+}

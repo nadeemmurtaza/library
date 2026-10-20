@@ -1,0 +1,137 @@
+/* URB motion, refined. Purposeful and quiet: things arrive once, a few doodles breathe slowly, nothing wobbles or follows the cursor.
+   Only transform, opacity, clip-path and stroke-dashoffset. All of it sits inside no-preference. */
+@media (prefers-reduced-motion: no-preference) {
+
+/* Doodles: drawn on once, then a slow, small movement on a handful of shapes */
+@keyframes bob-s { 0%, 100% { translate: 0 0; } 50% { translate: 0 -5px; } }
+@keyframes twinkle { 0%, 100% { scale: 0.9; opacity: 0.85; } 50% { scale: 1.1; opacity: 1; } }
+@keyframes beat { 0%, 100% { scale: 1; } 14% { scale: 1.12; } 28% { scale: 1; } }
+@keyframes spin { to { rotate: 360deg; } }
+.doodle--sparkle { animation: twinkle 3.2s ease-in-out infinite; }
+.doodle--heart { animation: beat 2.6s ease-in-out infinite; }
+.doodle--star { animation: spin 30s linear infinite; }
+.doodle--arrow-curl, .doodle--arrow-up, .doodle--arrow-down, .doodle--arrow-right, .doodle--arrow-loop { animation: bob-s 3.4s ease-in-out infinite; }
+.doodle--check { animation: pop-in 0.5s var(--ease-settle) both; }
+@keyframes pop-in { from { scale: 0; } to { scale: 1; } }
+
+/* Headlines: letters rise into place once, staggered, then stay still */
+.m .sp .wd { display: inline-block; white-space: nowrap; }
+.m .sp .ch, .m .sp .chi { display: inline-block; }
+.m .sp .ch { opacity: 0; }
+.m .sp.is-in .ch { opacity: 1; animation: letter-in 0.8s var(--ease-settle) backwards; }
+@keyframes letter-in { from { opacity: 0; translate: 0 0.35em; } }
+.m .sp .script { display: inline-block; }
+.m .sp:not(.is-in) .script { opacity: 0; }
+.m .sp.is-in .script { animation: script-wipe 0.9s var(--ease-settle) 0.4s backwards; }
+@keyframes script-wipe { from { clip-path: inset(-20% 100% -40% 0); opacity: 1; } to { clip-path: inset(-20% -10% -40% 0); opacity: 1; } }
+.sp.is-in .ch.d0 { animation-delay: 0ms; }
+.sp.is-in .ch.d1 { animation-delay: 22ms; }
+.sp.is-in .ch.d2 { animation-delay: 44ms; }
+.sp.is-in .ch.d3 { animation-delay: 66ms; }
+.sp.is-in .ch.d4 { animation-delay: 88ms; }
+.sp.is-in .ch.d5 { animation-delay: 110ms; }
+.sp.is-in .ch.d6 { animation-delay: 132ms; }
+.sp.is-in .ch.d7 { animation-delay: 154ms; }
+.sp.is-in .ch.d8 { animation-delay: 176ms; }
+.sp.is-in .ch.d9 { animation-delay: 198ms; }
+.sp.is-in .ch.d10 { animation-delay: 220ms; }
+.sp.is-in .ch.d11 { animation-delay: 242ms; }
+.sp.is-in .ch.d12 { animation-delay: 264ms; }
+.sp.is-in .ch.d13 { animation-delay: 286ms; }
+.sp.is-in .ch.d14 { animation-delay: 308ms; }
+.sp.is-in .ch.d15 { animation-delay: 330ms; }
+.sp.is-in .ch.d16 { animation-delay: 352ms; }
+.sp.is-in .ch.d17 { animation-delay: 374ms; }
+.sp.is-in .ch.d18 { animation-delay: 396ms; }
+.sp.is-in .ch.d19 { animation-delay: 418ms; }
+.sp.is-in .ch.d20 { animation-delay: 440ms; }
+.sp.is-in .ch.d21 { animation-delay: 462ms; }
+.sp.is-in .ch.d22 { animation-delay: 484ms; }
+.sp.is-in .ch.d23 { animation-delay: 506ms; }
+.sp.is-in .ch.d24 { animation-delay: 528ms; }
+.sp.is-in .ch.d25 { animation-delay: 550ms; }
+.sp.is-in .ch.d26 { animation-delay: 572ms; }
+.sp.is-in .ch.d27 { animation-delay: 594ms; }
+.sp.is-in .ch.d28 { animation-delay: 616ms; }
+.sp.is-in .ch.d29 { animation-delay: 638ms; }
+.sp.is-in .ch.d30 { animation-delay: 660ms; }
+.sp.is-in .ch.d31 { animation-delay: 682ms; }
+.sp.is-in .ch.d32 { animation-delay: 704ms; }
+.sp.is-in .ch.d33 { animation-delay: 726ms; }
+.sp.is-in .ch.d34 { animation-delay: 748ms; }
+.sp.is-in .ch.d35 { animation-delay: 770ms; }
+.sp.is-in .ch.d36 { animation-delay: 792ms; }
+.sp.is-in .ch.d37 { animation-delay: 814ms; }
+.sp.is-in .ch.d38 { animation-delay: 836ms; }
+.sp.is-in .ch.d39 { animation-delay: 858ms; }
+
+/* Notes fade in after their picture */
+.m .hand:not([data-in]) { opacity: 0; }
+.m .hand[data-in] { animation: fade-up 0.7s var(--ease-settle) 0.2s backwards; }
+@keyframes fade-up { from { opacity: 0; translate: 0 8px; } }
+
+/* Everything else arrives with a short rise */
+.m [data-reveal] { opacity: 0; translate: 0 28px; transition: opacity 0.7s var(--ease-settle), translate 0.8s var(--ease-settle); transform: none; }
+.m [data-reveal][data-in] { opacity: 1; translate: 0 0; }
+.m .index__row[data-reveal] { translate: -24px 0; }
+
+/* Cut-outs: one slow, small float on the hero and the story pieces only */
+@keyframes float { 0%, 100% { translate: 0 0; } 50% { translate: 0 -8px; } }
+.fig .cut, .lost__img { animation: float 7s ease-in-out infinite; }
+.fig:nth-child(2n) .cut { animation-delay: -3s; animation-duration: 8s; }
+
+/* Photos sway and float, craft-index pictures drift, all slowly */
+@keyframes sway { 0%, 100% { rotate: -1.2deg; translate: 0 0; } 50% { rotate: 1.2deg; translate: 0 -6px; } }
+.split2__art .art, .parcel .art, .tl__art .art--soft { animation: sway 9s ease-in-out infinite; transform-origin: 50% 70%; }
+.tl__art .art--soft, .parcel--wide .art { animation-delay: -4s; }
+.index__img { animation: float 8s ease-in-out infinite; }
+.index__row:nth-child(even) .index__img { animation-delay: -4s; animation-duration: 9s; }
+
+/* Background: the gradient drifts very slowly; nothing rises, nothing follows the cursor */
+.bg__orb--a { animation-duration: 30s; } .bg__orb--b { animation-duration: 36s; } .bg__orb--c { animation-duration: 40s; } .bg__orb--d { animation-duration: 34s; }
+
+/* One quiet ribbon of words */
+.marquee { overflow: clip; padding-block: var(--s-3); mask-image: linear-gradient(90deg, transparent, var(--ink) 8%, var(--ink) 92%, transparent); -webkit-mask-image: linear-gradient(90deg, transparent, var(--ink) 8%, var(--ink) 92%, transparent); }
+.marquee__track { display: flex; align-items: center; gap: var(--s-5); width: max-content; animation: marq 60s linear infinite; }
+.marquee:hover .marquee__track { animation-play-state: paused; }
+@keyframes marq { to { translate: -50% 0; } }
+
+
+/* Notes type themselves out when they scroll into view, then their doodle draws along its length */
+.m .typed .tc { opacity: 0; }
+.m .typed .tc.on { opacity: 1; }
+.m .typed .hand:not([data-in]), .m .typed .hand[data-in] { opacity: 1; animation: none; }
+.m .typed:not(.go) .doodle path { stroke-dashoffset: 1; }
+.m .typed .doodle path { transition-duration: var(--dur-draw); }
+.m .typed .doodle { animation: none; }
+
+/* Buttons: a slow sheen, a soft press */
+.btn--ink { background: var(--glass-gloss), linear-gradient(100deg, transparent 32%, var(--shine) 50%, transparent 68%) no-repeat 140% 0 / 240% 100%, var(--glass-ink); animation: shine 6s ease-in-out infinite; }
+.btn--ink:hover { background: var(--glass-gloss), var(--action-hover); animation: none; }
+@keyframes shine { 0%, 55% { background-position: 0 0, 140% 0, 0 0; } 100% { background-position: 0 0, -40% 0, 0 0; } }
+.btn:active { scale: 0.97; }
+.badge[data-bump] { animation: badge-pop 0.5s var(--ease-settle); }
+@keyframes badge-pop { 30% { scale: 1.5; } }
+.header { transition: translate var(--dur-content) var(--ease-settle); }
+html[data-hdr="hide"] .header { translate: 0 -105%; }
+.toast[data-show] { animation: fade-up 0.4s var(--ease-settle); }
+
+/* Add-to-bag: a small burst of hearts */
+.burst { position: fixed; inset: 0 auto auto 0; z-index: 95; pointer-events: none; translate: var(--bx, -99px) var(--by, -99px); }
+.burst i { position: absolute; inset: 0 auto auto 0; font: 700 1.1rem/1 var(--font-text); color: var(--script); opacity: 0; }
+.burst[data-go] i { animation: burst-out 0.8s var(--ease-settle) forwards; }
+.burst i:nth-child(1) { --a: 0deg; } .burst i:nth-child(2) { --a: 72deg; } .burst i:nth-child(3) { --a: 144deg; } .burst i:nth-child(4) { --a: 216deg; } .burst i:nth-child(5) { --a: 288deg; }
+@keyframes burst-out { 0% { translate: 0 0; scale: 0.3; opacity: 1; } 100% { translate: calc(cos(var(--a)) * 54px) calc(sin(var(--a)) * 54px); scale: 1; opacity: 0; } }
+
+/* Hero parallax, gentle */
+.hero__flower { translate: calc(var(--px, 0) * 10px) calc(var(--py, 0) * 8px); transition: translate 0.4s var(--ease-settle); }
+
+/* Scroll-driven: progress bar and a few slow drifts, no rotation */
+@supports (animation-timeline: view()) {
+  .progress { display: block; position: fixed; inset: 0 0 auto 0; height: 3px; z-index: 99; background: var(--script); transform-origin: 0 50%; scale: 0 1; animation: grow linear both; animation-timeline: scroll(root); pointer-events: none; }
+  @keyframes grow { to { scale: 1 1; } }
+  .tl__spine path { animation: spine linear both; animation-timeline: view(); animation-range: entry 10% exit 60%; stroke-dashoffset: 1; }
+  @keyframes spine { to { stroke-dashoffset: 0; } }
+}
+}
+@supports not (animation-timeline: view()) { .progress { display: none; } }

@@ -101,8 +101,8 @@
       "path": "data/open-design/charts/open-design/.helmignore",
       "language": "other",
       "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -114,7 +114,7 @@
         "helmignore",
         "open-design",
         "saas",
-        "local"
+        "data-viz"
       ],
       "description": "other file"
     },
@@ -126,8 +126,8 @@
       "path": "data/open-design/charts/open-design/Chart.yaml",
       "language": "other",
       "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -151,8 +151,8 @@
       "path": "data/open-design/charts/open-design/README.md",
       "language": "markdown",
       "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -176,8 +176,8 @@
       "path": "data/open-design/charts/open-design/templates/configmap.yaml",
       "language": "other",
       "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -201,8 +201,8 @@
       "path": "data/open-design/charts/open-design/templates/deployment.yaml",
       "language": "other",
       "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -226,8 +226,8 @@
       "path": "data/open-design/charts/open-design/templates/hpa.yaml",
       "language": "other",
       "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -251,8 +251,8 @@
       "path": "data/open-design/charts/open-design/templates/ingress.yaml",
       "language": "other",
       "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -276,8 +276,8 @@
       "path": "data/open-design/charts/open-design/templates/proxy-configmap.yaml",
       "language": "other",
       "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -301,8 +301,8 @@
       "path": "data/open-design/charts/open-design/templates/pvc.yaml",
       "language": "other",
       "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -326,8 +326,8 @@
       "path": "data/open-design/charts/open-design/templates/secret.yaml",
       "language": "other",
       "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -351,8 +351,8 @@
       "path": "data/open-design/charts/open-design/templates/service.yaml",
       "language": "other",
       "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -376,8 +376,8 @@
       "path": "data/open-design/charts/open-design/templates/_helpers.tpl",
       "language": "other",
       "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -401,8 +401,8 @@
       "path": "data/open-design/charts/open-design/values.yaml",
       "language": "other",
       "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -426,8 +426,8 @@
       "path": "data/open-design/craft/accessibility-baseline.md",
       "language": "markdown",
       "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -451,8 +451,8 @@
       "path": "data/open-design/craft/animation-discipline.md",
       "language": "markdown",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -476,8 +476,8 @@
       "path": "data/open-design/craft/anti-ai-slop.md",
       "language": "markdown",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -501,8 +501,8 @@
       "path": "data/open-design/craft/color.md",
       "language": "markdown",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -513,8 +513,7 @@
         "color",
         "md",
         "open-design",
-        "general",
-        "local"
+        "general"
       ],
       "description": "Color craft rules — Universal color rules applied on top of the active DESIGN.md . The"
     },
@@ -526,8 +525,8 @@
       "path": "data/open-design/craft/form-validation.md",
       "language": "markdown",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -551,8 +550,8 @@
       "path": "data/open-design/craft/FUTURE_SECTIONS.md",
       "language": "markdown",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -576,8 +575,8 @@
       "path": "data/open-design/craft/laws-of-ux.md",
       "language": "markdown",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -601,8 +600,8 @@
       "path": "data/open-design/craft/README.md",
       "language": "markdown",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -613,8 +612,7 @@
         "readme",
         "md",
         "open-design",
-        "general",
-        "local"
+        "general"
       ],
       "description": "Craft references — Brand-agnostic craft knowledge. Each file is a small, dense rulebook on one"
     },
@@ -626,8 +624,8 @@
       "path": "data/open-design/craft/rtl-and-bidi.md",
       "language": "markdown",
       "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -651,8 +649,8 @@
       "path": "data/open-design/craft/state-coverage.md",
       "language": "markdown",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -676,8 +674,8 @@
       "path": "data/open-design/craft/typography-hierarchy-editorial.md",
       "language": "markdown",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -701,8 +699,8 @@
       "path": "data/open-design/craft/typography-hierarchy.md",
       "language": "markdown",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -726,8 +724,8 @@
       "path": "data/open-design/craft/typography.md",
       "language": "markdown",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -738,8 +736,7 @@
         "typography",
         "md",
         "open-design",
-        "general",
-        "local"
+        "general"
       ],
       "description": "Typography craft rules — Universal typography rules that apply on top of any DESIGN.md . The"
     },
@@ -751,8 +748,8 @@
       "path": "data/open-design/data/cards/lefarcen-signal-1785911256163.svg",
       "language": "svg",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -776,8 +773,8 @@
       "path": "data/open-design/data/cards/zoeforfun-signal-1780483226835.svg",
       "language": "svg",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -801,8 +798,8 @@
       "path": "data/open-design/data/contributors.json",
       "language": "json",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -812,8 +809,7 @@
         "contributors",
         "json",
         "open-design",
-        "general",
-        "local"
+        "general"
       ],
       "description": "keys: generatedAt, totalContributors, contributors"
     },
@@ -825,8 +821,8 @@
       "path": "data/open-design/data/events.jsonl",
       "language": "other",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -836,8 +832,7 @@
         "events",
         "jsonl",
         "open-design",
-        "general",
-        "local"
+        "general"
       ],
       "description": "other file"
     },
@@ -849,8 +844,8 @@
       "path": "data/open-design/data/plugin-previews/manifest.json",
       "language": "json",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",

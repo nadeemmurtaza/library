@@ -9,8 +9,8 @@
       "path": "examples/open-design-mocks/bin/amp",
       "language": "other",
       "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -22,7 +22,7 @@
         "amp",
         "open-design-mocks",
         "saas",
-        "local"
+        "open-design"
       ],
       "description": "other file",
       "unit": "examples/open-design-mocks"
@@ -35,8 +35,8 @@
       "path": "examples/open-design-mocks/bin/claude",
       "language": "other",
       "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -48,7 +48,7 @@
         "claude",
         "open-design-mocks",
         "saas",
-        "local"
+        "open-design"
       ],
       "description": "other file",
       "unit": "examples/open-design-mocks"
@@ -61,8 +61,8 @@
       "path": "examples/open-design-mocks/bin/codex",
       "language": "other",
       "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -74,7 +74,7 @@
         "codex",
         "open-design-mocks",
         "saas",
-        "local"
+        "open-design"
       ],
       "description": "other file",
       "unit": "examples/open-design-mocks"
@@ -87,8 +87,8 @@
       "path": "examples/open-design-mocks/bin/cursor-agent",
       "language": "other",
       "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -113,8 +113,8 @@
       "path": "examples/open-design-mocks/bin/deepseek",
       "language": "other",
       "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -126,7 +126,7 @@
         "deepseek",
         "open-design-mocks",
         "saas",
-        "local"
+        "open-design"
       ],
       "description": "other file",
       "unit": "examples/open-design-mocks"
@@ -139,8 +139,8 @@
       "path": "examples/open-design-mocks/bin/devin",
       "language": "other",
       "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -152,7 +152,7 @@
         "devin",
         "open-design-mocks",
         "saas",
-        "local"
+        "open-design"
       ],
       "description": "other file",
       "unit": "examples/open-design-mocks"
@@ -165,8 +165,8 @@
       "path": "examples/open-design-mocks/bin/gemini",
       "language": "other",
       "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -178,7 +178,7 @@
         "gemini",
         "open-design-mocks",
         "saas",
-        "local"
+        "open-design"
       ],
       "description": "other file",
       "unit": "examples/open-design-mocks"
@@ -191,8 +191,8 @@
       "path": "examples/open-design-mocks/bin/grok",
       "language": "other",
       "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -204,7 +204,7 @@
         "grok",
         "open-design-mocks",
         "saas",
-        "local"
+        "open-design"
       ],
       "description": "other file",
       "unit": "examples/open-design-mocks"
@@ -217,8 +217,8 @@
       "path": "examples/open-design-mocks/bin/hermes",
       "language": "other",
       "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -230,7 +230,7 @@
         "hermes",
         "open-design-mocks",
         "saas",
-        "local"
+        "open-design"
       ],
       "description": "other file",
       "unit": "examples/open-design-mocks"
@@ -243,8 +243,8 @@
       "path": "examples/open-design-mocks/bin/kilo",
       "language": "other",
       "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -256,7 +256,7 @@
         "kilo",
         "open-design-mocks",
         "saas",
-        "local"
+        "open-design"
       ],
       "description": "other file",
       "unit": "examples/open-design-mocks"
@@ -269,8 +269,8 @@
       "path": "examples/open-design-mocks/bin/kimi",
       "language": "other",
       "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -282,7 +282,7 @@
         "kimi",
         "open-design-mocks",
         "saas",
-        "local"
+        "open-design"
       ],
       "description": "other file",
       "unit": "examples/open-design-mocks"
@@ -295,8 +295,8 @@
       "path": "examples/open-design-mocks/bin/kiro",
       "language": "other",
       "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -308,7 +308,7 @@
         "kiro",
         "open-design-mocks",
         "saas",
-        "local"
+        "open-design"
       ],
       "description": "other file",
       "unit": "examples/open-design-mocks"
@@ -321,8 +321,8 @@
       "path": "examples/open-design-mocks/bin/kiro-cli",
       "language": "other",
       "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -347,8 +347,8 @@
       "path": "examples/open-design-mocks/bin/opencode",
       "language": "other",
       "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -360,7 +360,7 @@
         "opencode",
         "open-design-mocks",
         "saas",
-        "local"
+        "open-design"
       ],
       "description": "other file",
       "unit": "examples/open-design-mocks"
@@ -373,8 +373,8 @@
       "path": "examples/open-design-mocks/bin/opencode-cli",
       "language": "other",
       "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -399,8 +399,8 @@
       "path": "examples/open-design-mocks/bin/qwen",
       "language": "other",
       "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -412,7 +412,7 @@
         "qwen",
         "open-design-mocks",
         "saas",
-        "local"
+        "open-design"
       ],
       "description": "other file",
       "unit": "examples/open-design-mocks"
@@ -425,8 +425,8 @@
       "path": "examples/open-design-mocks/bin/vela",
       "language": "other",
       "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -438,7 +438,7 @@
         "vela",
         "open-design-mocks",
         "saas",
-        "local"
+        "open-design"
       ],
       "description": "other file",
       "unit": "examples/open-design-mocks"
@@ -451,8 +451,8 @@
       "path": "examples/open-design-mocks/bin/vibe",
       "language": "other",
       "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -464,7 +464,7 @@
         "vibe",
         "open-design-mocks",
         "saas",
-        "local"
+        "open-design"
       ],
       "description": "other file",
       "unit": "examples/open-design-mocks"
@@ -477,8 +477,8 @@
       "path": "examples/open-design-mocks/bin/vibe-acp",
       "language": "other",
       "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -503,8 +503,8 @@
       "path": "examples/open-design-mocks/golden/314d6833-0377-4ac4-ba11-2b8d7eca5511.events.json",
       "language": "json",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -529,8 +529,8 @@
       "path": "examples/open-design-mocks/golden/9a9522ec-575f-432f-aeed-efc491e900aa.events.json",
       "language": "json",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -555,8 +555,8 @@
       "path": "examples/open-design-mocks/golden/dcdff3b3-cd39-4dcd-be83-372830a29639.events.json",
       "language": "json",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -581,8 +581,8 @@
       "path": "examples/open-design-mocks/golden/README.md",
       "language": "markdown",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -607,8 +607,8 @@
       "path": "examples/open-design-mocks/lib/format-acp.mjs",
       "language": "javascript",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -633,8 +633,8 @@
       "path": "examples/open-design-mocks/lib/format-claude.mjs",
       "language": "javascript",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -659,8 +659,8 @@
       "path": "examples/open-design-mocks/lib/format-codex.mjs",
       "language": "javascript",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -685,8 +685,8 @@
       "path": "examples/open-design-mocks/lib/format-cursor-agent.mjs",
       "language": "javascript",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -711,8 +711,8 @@
       "path": "examples/open-design-mocks/lib/format-gemini.mjs",
       "language": "javascript",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -737,8 +737,8 @@
       "path": "examples/open-design-mocks/lib/format-kimi.mjs",
       "language": "javascript",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -763,8 +763,8 @@
       "path": "examples/open-design-mocks/lib/format-opencode.mjs",
       "language": "javascript",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -789,8 +789,8 @@
       "path": "examples/open-design-mocks/lib/format-plain.mjs",
       "language": "javascript",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -815,8 +815,8 @@
       "path": "examples/open-design-mocks/lib/format-vela.mjs",
       "language": "javascript",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -841,8 +841,8 @@
       "path": "examples/open-design-mocks/lib/recording-picker.mjs",
       "language": "javascript",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -867,8 +867,8 @@
       "path": "examples/open-design-mocks/lib/vela-subcommands.mjs",
       "language": "javascript",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -893,8 +893,8 @@
       "path": "examples/open-design-mocks/manifest.json",
       "language": "json",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -906,7 +906,7 @@
         "json",
         "open-design-mocks",
         "general",
-        "local"
+        "open-design"
       ],
       "description": "keys: schema version, generated at, storage, entries, total, total bytes, histograms, sessions with multi turn",
       "unit": "examples/open-design-mocks"
@@ -919,8 +919,8 @@
       "path": "examples/open-design-mocks/mock-agent.mjs",
       "language": "javascript",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -945,8 +945,8 @@
       "path": "examples/open-design-mocks/README.md",
       "language": "markdown",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -958,7 +958,7 @@
         "md",
         "open-design-mocks",
         "general",
-        "local"
+        "open-design"
       ],
       "description": "mocks/ — replay-based mock CLIs and protocol fixtures — A PATH-overlay replay harness for selected agent CLI contracts ( amp , claude , opencode ,",
       "unit": "examples/open-design-mocks"
@@ -971,8 +971,8 @@
       "path": "examples/open-design-mocks/recordings/.gitignore",
       "language": "other",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -984,7 +984,7 @@
         "gitignore",
         "open-design-mocks",
         "general",
-        "local"
+        "open-design"
       ],
       "description": "other file",
       "unit": "examples/open-design-mocks"
@@ -997,8 +997,8 @@
       "path": "examples/open-design-mocks/scripts/contract-check.sh",
       "language": "other",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -1023,8 +1023,8 @@
       "path": "examples/open-design-mocks/scripts/fetch-recordings.sh",
       "language": "other",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -1049,8 +1049,8 @@
       "path": "examples/open-design-mocks/scripts/lib/manifest-utils.mjs",
       "language": "javascript",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -1075,8 +1075,8 @@
       "path": "examples/open-design-mocks/scripts/smoke-test.sh",
       "language": "other",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",
@@ -1101,8 +1101,8 @@
       "path": "examples/open-design-mocks/scripts/upload-recording.sh",
       "language": "other",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "open",

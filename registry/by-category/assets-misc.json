@@ -1,5 +1,5 @@
 {
-  "count": 34,
+  "count": 35,
   "items": [
     {
       "type": "asset-images",
@@ -9,8 +9,8 @@
       "path": "assets/images/open-design/community-pets/clippit/pet.json",
       "language": "json",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "images/open",
@@ -34,8 +34,8 @@
       "path": "assets/images/open-design/community-pets/clippit/spritesheet.webp",
       "language": "image",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "images/open",
@@ -59,8 +59,8 @@
       "path": "assets/images/open-design/community-pets/dario/pet.json",
       "language": "json",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "images/open",
@@ -84,8 +84,8 @@
       "path": "assets/images/open-design/community-pets/dario/spritesheet.webp",
       "language": "image",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "images/open",
@@ -109,8 +109,8 @@
       "path": "assets/images/open-design/community-pets/dentist/pet.json",
       "language": "json",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "images/open",
@@ -134,8 +134,8 @@
       "path": "assets/images/open-design/community-pets/dentist/spritesheet.webp",
       "language": "image",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "images/open",
@@ -159,8 +159,8 @@
       "path": "assets/images/open-design/community-pets/nyako-shigure/pet.json",
       "language": "json",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "images/open",
@@ -184,8 +184,8 @@
       "path": "assets/images/open-design/community-pets/nyako-shigure/spritesheet.webp",
       "language": "image",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "images/open",
@@ -209,8 +209,8 @@
       "path": "assets/images/open-design/community-pets/slavik/pet.json",
       "language": "json",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "images/open",
@@ -234,8 +234,8 @@
       "path": "assets/images/open-design/community-pets/slavik/spritesheet.webp",
       "language": "image",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "images/open",
@@ -259,8 +259,8 @@
       "path": "assets/images/open-design/community-pets/tux/pet.json",
       "language": "json",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "images/open",
@@ -284,8 +284,8 @@
       "path": "assets/images/open-design/community-pets/tux/spritesheet.webp",
       "language": "image",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "images/open",
@@ -309,8 +309,8 @@
       "path": "assets/images/open-design/community-pets/yelling-dario/pet.json",
       "language": "json",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "images/open",
@@ -334,8 +334,8 @@
       "path": "assets/images/open-design/community-pets/yelling-dario/spritesheet.webp",
       "language": "image",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "images/open",
@@ -359,8 +359,8 @@
       "path": "assets/images/open-design/community-pets/yorha-sit-2b/pet.json",
       "language": "json",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "images/open",
@@ -384,8 +384,8 @@
       "path": "assets/images/open-design/community-pets/yorha-sit-2b/spritesheet.webp",
       "language": "image",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "images/open",
@@ -409,8 +409,8 @@
       "path": "assets/images/open-design/frames/android-pixel.html",
       "language": "html",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "images/open",
@@ -434,8 +434,8 @@
       "path": "assets/images/open-design/frames/browser-chrome.html",
       "language": "html",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "images/open",
@@ -459,8 +459,8 @@
       "path": "assets/images/open-design/frames/ipad-pro.html",
       "language": "html",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "images/open",
@@ -484,8 +484,8 @@
       "path": "assets/images/open-design/frames/iphone-15-pro.html",
       "language": "html",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "images/open",
@@ -509,8 +509,8 @@
       "path": "assets/images/open-design/frames/macbook.html",
       "language": "html",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "images/open",
@@ -534,8 +534,8 @@
       "path": "assets/images/open-design/frames/README.md",
       "language": "markdown",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "images/open",
@@ -559,8 +559,8 @@
       "path": "assets/images/open-design/prompt-templates/image/game-screenshot-anime-fighting-game-captain-ryuuga-vs-kaze-renshin.jpg",
       "language": "image",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "images/open",
@@ -584,8 +584,8 @@
       "path": "assets/images/open-design/prompt-templates/image/game-screenshot-three-kingdoms-guanyu-slaying-yanliang.jpg",
       "language": "image",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "images/open",
@@ -609,8 +609,8 @@
       "path": "assets/images/open-design/prompt-templates/image/game-screenshot-three-kingdoms-lyubu-yuanmen-archery.jpg",
       "language": "image",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "images/open",
@@ -634,8 +634,8 @@
       "path": "assets/images/open-design/prompt-templates/image/game-screenshot-three-kingdoms-zhaoyun-cradle-escape.jpg",
       "language": "image",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "images/open",
@@ -659,8 +659,8 @@
       "path": "assets/images/open-design/prompt-templates/image/game-ui-ancient-china-open-world-mmo-hud.jpg",
       "language": "image",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "images/open",
@@ -684,8 +684,8 @@
       "path": "assets/images/open-design/prompt-templates/image/illustration-crayon-kid-drawing-rework.jpg",
       "language": "image",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "images/open",
@@ -709,8 +709,8 @@
       "path": "assets/images/open-design/prompt-templates/image/infographic-otaku-dance-choreography-breakdown-gokurakujodo-16-panels.jpg",
       "language": "image",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "images/open",
@@ -734,8 +734,8 @@
       "path": "assets/images/open-design/prompt-templates/image/profile-avatar-seedream-high-fashion-dreamy-portrait.jpg",
       "language": "image",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "images/open",
@@ -759,8 +759,8 @@
       "path": "assets/images/open-design/prompt-templates/image/social-media-post-seedream-squishcraft-kids-clay-ad.jpg",
       "language": "image",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "images/open",
@@ -784,8 +784,8 @@
       "path": "assets/images/open-design/prompt-templates/image/social-media-post-sensational-girl-dance-storyboard-8-shots.jpg",
       "language": "image",
       "industry": "general",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "images/open",
@@ -809,8 +809,8 @@
       "path": "assets/images/open-design/prompt-templates/image/zelda-style-forbidden-city-game-screenshot.jpg",
       "language": "image",
       "industry": "saas",
-      "designSystem": "local",
-      "source": "local",
+      "designSystem": "open-design",
+      "source": "open-design",
       "license": "MIT",
       "tags": [
         "images/open",
@@ -850,6 +850,31 @@
         "png"
       ],
       "description": "image file"
+    },
+    {
+      "type": "asset-images",
+      "category": "assets",
+      "subcategory": "images",
+      "name": "images/urb-favicon.svg",
+      "path": "assets/images/urb-favicon.svg",
+      "language": "svg",
+      "industry": "general",
+      "designSystem": "urb",
+      "source": "urb",
+      "license": "MIT",
+      "tags": [
+        "images/urb",
+        "favicon.svg",
+        "assets",
+        "images",
+        "urb",
+        "favicon",
+        "svg",
+        "general",
+        "glyph",
+        "symbol"
+      ],
+      "description": "svg graphic"
     }
   ]
 }

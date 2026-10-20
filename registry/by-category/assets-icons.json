@@ -1,6 +1,22 @@
 {
-  "count": 1174,
+  "count": 1175,
   "items": [
+    {
+      "name": "icons/newcom/icons.svg",
+      "path": "assets/icons/newcom/icons.svg",
+      "tags": [
+        "icons/newcom/icons.svg",
+        "assets",
+        "icons",
+        "newcom",
+        "svg",
+        "icons-untitledui",
+        "general",
+        "glyph",
+        "symbol",
+        "vector"
+      ]
+    },
     {
       "name": "icons/untitledui/activity-heart.svg",
       "path": "assets/icons/untitledui/activity-heart.svg",

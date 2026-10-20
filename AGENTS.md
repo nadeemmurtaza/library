@@ -39,6 +39,9 @@ Machine files: `registry/catalog.json` (every file), `registry/units.json` (fold
 | Validation schemas | `schemas/` |
 | Icons, logos, fonts, images | `assets/` |
 | Utils, hooks, providers, constants | `utils/ hooks/ providers/ constants/` |
+| Business/domain rules (pricing, discounts, risk, permissions, theme-contrast engine) | `rules/<source>/` |
+| Project-specific page styles and motion/effect CSS (not the shared design system) | `styles/<source>/` (e.g. `styles/roya-storefront`, `styles/miles`, `styles/urb`) |
+| Full static page mockups (`.dc.html`) | `templates/roya-pages/`, `templates/miles-pages/{dark,light}/` |
 
 A folder unit is one design system, skill, example, trend or template: its entry file is `DESIGN.md`, `SKILL.md`, `README.md` or the first html.
 

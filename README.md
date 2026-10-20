@@ -4,6 +4,11 @@ AI agents: start at [AGENTS.md](AGENTS.md) and `registry/llms.txt`.
 
 Single home for every reusable piece: components, CSS, scripts, schemas, functions, assets.
 
+## Sources
+
+- nadeemmurtaza/ROYA, MILES, URB, newcom (private, owner-authored): theme-rule engine and domain rules in `rules/`, page stylesheets in `styles/{roya-storefront,miles,urb,newcom}`, static page mockups in `templates/{roya-pages,miles-pages}`, fonts (OFL) in `assets/fonts/miles`, plus tokens/docs/scripts/components per source. URB's own `admin/library` and newcom's `tokens`+`config/brand.ts` were already derived copies of this library, so they were not re-imported.
+- `nadeemmurtaza/epp-1` does not exist (404). `nadeemmurtaza/Communicator` is a Python backend with no design assets; nothing imported from it. No 3D objects or models were found in any of the five repos.
+
 ## Layout
 
 | Dir | Holds |
@@ -49,6 +54,7 @@ Single home for every reusable piece: components, CSS, scripts, schemas, functio
 `npm run viewer` then open http://localhost:4173. Watches the library: any file added to a catalogued dir rebuilds `registry/catalog.json` and the preview CSS, and open pages refresh themselves. `npm run catalog` rebuilds the catalog alone.
 
 ## Sources
+- nadeemmurtaza/ROYA, MILES, URB, newcom (private, owner-authored): theme-rule engine, domain rules and business logic in `rules/`, page stylesheets in `styles/{roya-storefront,miles,urb,newcom}`, static page mockups in `templates/{roya-pages,miles-pages}`, fonts (OFL) in `assets/fonts/miles`, misc tokens/docs/scripts/components per source. Own derived copies of this library (URB/admin/library, newcom tokens+config) were not re-imported, to avoid stale duplicates.  does not exist (404).  is a Python backend with no design assets; nothing imported from it. No 3D objects/models were found in any of the five repos.
 - nexu-io/open-design via opendesigner.io (Apache-2.0, licence in `vendor/open-design/`): `skills/open-design`, `design-systems/open-design` (152 systems), `templates/open-design-*`, `data/open-design`, `examples/open-design-mocks`, `assets/images/open-design`, `docs/open-design`. Product code (apps, plugins, e2e, tools) not imported.
 - bencium/bencium-marketplace (MIT) in `skills/bencium-marketplace`; bencium.io llms/aeo data in `data/bencium`; Telegraf fonts in `assets/fonts/telegraf` (commercial font, see its NOTICE.md)
 - daisyUI 5.7.50 (MIT), trends.daisyui.com
